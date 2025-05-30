@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+import numpy as np
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
@@ -577,7 +578,7 @@ def parse_stolen_bases_per_game(cols):
             'L': losses,
             'SB': int(cols[4].text.strip()),
             'CS': int(cols[5].text.strip()),
-            'SBPG': int(cols[6].text.strip())
+            'SBPG': float(cols[6].text.strip())
         }
     )
 
@@ -785,31 +786,76 @@ def combine_team_stats(*stats_dicts):
     return combined
 
 
-def calculate_win_probability(team1_stats, team2_stats, weights=None):
-    if not weights:
-        # Default equal weights for normalized stats
-        weights = {
-            'WPCT': 1.5, 'ERA': -1.0, 'WHIP': -1.0, 'OBP': 1.2,
-            'SLG': 1.2, 'R (Batting)': 1.0, 'HR': 0.8, 'SB': 0.5,
-            'K/BB': 0.8, 'FPCT': 0.5, 'RPG': 1.0
-        }
+def calculate_win_probability(team1_stats, team2_stats, combined_stats):
+    stats = ['WPCT', 'ERA', 'OBP']
+    weights = {'WPCT': 2, 'ERA': 1, 'OBP': 1}
 
-    def score(stats):
+    # Multipliers for league strength (approximate; customize as needed)
+    league_strengths = {
+        # Tier 1: Power Conferences
+        'SEC': 1.15,
+        'ACC': 1.13,
+        'Big 12': 1.11,
+        'Pac-12': 1.09,
+        'Big Ten': 1.07,
+
+        # Tier 2: Upper-Mid Majors
+        'The American': 1.05,
+        'Sun Belt': 1.04,
+        'CAA': 1.03,
+        'Conference USA': 1.03,
+        'Big West': 1.02,
+        'ASUN': 1.02,
+        'WCC': 1.02,
+
+        # Tier 3: Mid-Majors / Upper-Low
+        'Atlantic 10': 1.00,
+        'MVC': 1.00,
+        'Mountain West': 1.00,
+        'MAC': 0.99,
+        'Southland': 0.99,
+        'SoCon': 0.99,
+        'Patriot': 0.98,
+        'DI Independent': 0.98,
+        'Big South': 0.98,
+
+        # Tier 4: Low-Majors
+        'Horizon': 0.95,
+        'America East': 0.95,
+        'OVC': 0.95,
+        'NEC': 0.94,
+        'MAAC': 0.94,
+
+        # Tier 5: Bottom Conferences
+        'Ivy League': 0.90,
+        'MEAC': 0.89,
+        'SWAC': 0.89,
+        'Summit League': 0.89,
+        'WAC': 0.89
+    }
+
+    # Calculate means and stds
+    stat_values = {stat: [stats_dict[stat] for stats_dict in combined_stats.values() if stat in stats_dict] for stat in stats}
+    stat_means = {stat: np.mean(vals) for stat, vals in stat_values.items()}
+    stat_stds = {stat: max(np.std(vals), 1e-6) for stat, vals in stat_values.items()}  # avoid zero division
+
+    def score(team_stats):
         total = 0
-        for stat, weight in weights.items():
-            val = stats.get(stat)
-            if val is not None:
-                total += val * weight
+        for stat in stats:
+            if stat not in team_stats:
+                continue
+            z = (team_stats[stat] - stat_means[stat]) / stat_stds[stat]
+            if stat == 'ERA':
+                z *= -1  # lower is better
+            total += z * weights[stat]
+        league = team_stats.get('league', '')
+        total *= league_strengths.get(league, 1.0)
         return total
 
-    team1_score = score(team1_stats)
-    team2_score = score(team2_stats)
-
-    if team1_score + team2_score == 0:
-        return 0.5  # Avoid division by zero
-
-    prob_team1_wins = team1_score / (team1_score + team2_score)
-    return round(prob_team1_wins, 4)
+    s1 = score(team1_stats)
+    s2 = score(team2_stats)
+    prob = 1 / (1 + np.exp(-(s1 - s2)))
+    return round(prob, 4)
 
 
 # Edit these to include input on academic year and division
