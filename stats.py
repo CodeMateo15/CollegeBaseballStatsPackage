@@ -15,13 +15,13 @@ headers = {
 
 def fetch_ncaa_table(url, parse_row_fn):
     session = requests.Session()
-    max_retries = 3
+    max_retries = 1
 
     for _ in range(max_retries):
         try:
             response = session.get(url, headers=headers, timeout=10)
             response.raise_for_status()
-            time.sleep(5)  # Respectful delay
+            time.sleep(1)
 
             soup = BeautifulSoup(response.text, 'html.parser')
             table = soup.find('table', {'id': 'rankings_table'})
@@ -38,14 +38,16 @@ def fetch_ncaa_table(url, parse_row_fn):
                         key, data = parsed
                         results[key] = data
                 except Exception as e:
-                    print(f"Skipping row: {str(e)}")
+                    # About 5 rows are skipped each time due to the format of the NCAA page
+                    # print(f"Skipping row: {str(e)}")
                     continue
 
+            print(f"Finished fetching {parse_row_fn.__name__}")
             return results
 
         except requests.exceptions.RequestException as e:
             print(f"Attempt failed: {e}")
-            time.sleep(10)
+            time.sleep(5)
 
     return {}
 
@@ -55,8 +57,13 @@ def parse_base_on_balls_row(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -67,18 +74,24 @@ def parse_base_on_balls_row(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'BB (Batting)': int(cols[4].text.strip())
         }
     )
 
-def parse_batting_average_row(cols):
+def parse_batting_average(cols):
     if len(cols) < 7:
         return None
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -89,6 +102,7 @@ def parse_batting_average_row(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'AB': int(cols[4].text.strip().replace(',', '')),
             'H': int(cols[5].text.strip()),
             'BA': float(cols[6].text.strip())
@@ -101,8 +115,13 @@ def parse_double_plays_per_game(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -113,6 +132,7 @@ def parse_double_plays_per_game(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'DP': int(cols[4].text.strip()),
             'DPPG': float(cols[5].text.strip())
         }
@@ -124,8 +144,13 @@ def parse_double_plays(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -136,6 +161,7 @@ def parse_double_plays(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'DP': int(cols[4].text.strip())
         }
     )
@@ -146,8 +172,13 @@ def parse_doubles(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -158,6 +189,7 @@ def parse_doubles(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             '2B': int(cols[4].text.strip())
         }
     )
@@ -168,8 +200,13 @@ def parse_doubles_per_game(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -180,6 +217,7 @@ def parse_doubles_per_game(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             '2B': int(cols[4].text.strip()),
             '2BPG': float(cols[5].text.strip())
         }
@@ -191,8 +229,13 @@ def parse_earned_run_average(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -203,6 +246,7 @@ def parse_earned_run_average(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'IP': float(cols[4].text.strip()),
             'R (Pitching)': int(cols[5].text.strip()),
             'ER': int(cols[6].text.strip()),
@@ -216,8 +260,13 @@ def parse_fielding_percentage(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -228,6 +277,7 @@ def parse_fielding_percentage(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'PO': int(cols[4].text.strip().replace(',', '')),
             'A': int(cols[5].text.strip()),
             'E': int(cols[6].text.strip()),
@@ -241,8 +291,13 @@ def parse_hit_batters(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -253,6 +308,7 @@ def parse_hit_batters(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'IP': float(cols[4].text.strip()),
             'HB': int(cols[5].text.strip())
         }
@@ -264,8 +320,13 @@ def parse_hit_by_pitch(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -276,6 +337,7 @@ def parse_hit_by_pitch(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'HBP': float(cols[4].text.strip())
         }
     )
@@ -286,8 +348,13 @@ def parse_hits(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -298,6 +365,7 @@ def parse_hits(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'AB': int(cols[4].text.strip().replace(',', '')),
             'H': int(cols[5].text.strip())
         }
@@ -309,8 +377,13 @@ def parse_hits_allowed_per_nine_innings(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -321,6 +394,7 @@ def parse_hits_allowed_per_nine_innings(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'IP': float(cols[4].text.strip()),
             'HA': int(cols[5].text.strip()),
             'HAPG': float(cols[6].text.strip())
@@ -333,8 +407,13 @@ def parse_home_runs(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -345,6 +424,7 @@ def parse_home_runs(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'HR': int(cols[4].text.strip())
         }
     )
@@ -355,8 +435,13 @@ def parse_home_runs_per_game(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -367,6 +452,7 @@ def parse_home_runs_per_game(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'HR': int(cols[4].text.strip()),
             'HRPG': float(cols[5].text.strip())
         }
@@ -378,8 +464,13 @@ def parse_on_base_percentage(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -390,6 +481,7 @@ def parse_on_base_percentage(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'AB': int(cols[4].text.strip().replace(',', '')),
             'H': int(cols[5].text.strip()),
             'BB (Batting)': int(cols[6].text.strip()),
@@ -406,8 +498,13 @@ def parse_runs(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -418,6 +515,7 @@ def parse_runs(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'R (Batting)': int(cols[4].text.strip())
         }
     )
@@ -428,8 +526,13 @@ def parse_sacrifice_bunts(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -440,6 +543,7 @@ def parse_sacrifice_bunts(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'SH': int(cols[4].text.strip())
         }
     )
@@ -450,8 +554,13 @@ def parse_sacrifice_flies(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -462,6 +571,7 @@ def parse_sacrifice_flies(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'SF': int(cols[4].text.strip())
         }
     )
@@ -472,8 +582,13 @@ def parse_scoring(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -484,6 +599,7 @@ def parse_scoring(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'R (Batting)': int(cols[4].text.strip()),
             'RPG': float(cols[5].text.strip())
         }
@@ -495,8 +611,13 @@ def parse_shutouts(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -507,6 +628,7 @@ def parse_shutouts(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'SHO': int(cols[4].text.strip())
         }
     )
@@ -517,8 +639,13 @@ def parse_slugging_percentage(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -529,6 +656,7 @@ def parse_slugging_percentage(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'AB': int(cols[4].text.strip().replace(',', '')),
             'TB': int(cols[5].text.strip().replace(',', '')),
             'SLG': float(cols[6].text.strip())
@@ -541,8 +669,13 @@ def parse_stolen_bases(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -553,6 +686,7 @@ def parse_stolen_bases(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'SB': int(cols[4].text.strip()),
             'CS': int(cols[5].text.strip())
         }
@@ -564,8 +698,13 @@ def parse_stolen_bases_per_game(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -576,6 +715,7 @@ def parse_stolen_bases_per_game(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'SB': int(cols[4].text.strip()),
             'CS': int(cols[5].text.strip()),
             'SBPG': float(cols[6].text.strip())
@@ -588,8 +728,13 @@ def parse_strikeout_to_walk_ratio(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -600,6 +745,7 @@ def parse_strikeout_to_walk_ratio(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'IP': float(cols[4].text.strip()),
             'SO': int(cols[5].text.strip()),
             'BB (Pitching)': int(cols[6].text.strip()),
@@ -613,8 +759,13 @@ def parse_strikeouts_per_nine_innings(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -625,6 +776,7 @@ def parse_strikeouts_per_nine_innings(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'IP': float(cols[4].text.strip()),
             'SO': int(cols[5].text.strip()),
             'K/9': float(cols[6].text.strip())
@@ -637,8 +789,13 @@ def parse_triple_plays(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -649,6 +806,7 @@ def parse_triple_plays(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'TP': int(cols[4].text.strip())
         }
     )
@@ -659,8 +817,13 @@ def parse_triples(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -671,6 +834,7 @@ def parse_triples(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             '3B': int(cols[4].text.strip())
         }
     )
@@ -681,8 +845,13 @@ def parse_triples_per_game(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -693,6 +862,7 @@ def parse_triples_per_game(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             '3B': int(cols[4].text.strip()),
             '3BPG': float(cols[5].text.strip())
         }
@@ -704,8 +874,13 @@ def parse_whip(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -715,6 +890,7 @@ def parse_whip(cols):
             'league': league,
             'W': wins,
             'L': losses,
+            'T': tie,
             'IP': float(cols[2].text.strip()),
             'BB (Pitching)': int(cols[4].text.strip()),
             'HA': int(cols[5].text.strip()),
@@ -747,8 +923,13 @@ def parse_walks_allowed_per_nine_innings(cols):
     team_league = cols[1].get_text(strip=True)
     team, league = extract_team_league(team_league)
 
-    win_loss = cols[3].text.strip()
-    wins, losses = map(int, win_loss.split('-'))
+    win_loss_tie = cols[3].text.strip()
+    parts = win_loss_tie.split('-')
+
+    # Convert the parts to integers, filling in 0 if tie is missing
+    wins = int(parts[0]) if len(parts) > 0 else 0
+    losses = int(parts[1]) if len(parts) > 1 else 0
+    tie = int(parts[2]) if len(parts) > 2 else 0
 
     return (
         (team, league),
@@ -759,6 +940,7 @@ def parse_walks_allowed_per_nine_innings(cols):
             'G': int(cols[2].text.strip()),
             'W': wins,
             'L': losses,
+            'T': tie,
             'IP': float(cols[4].text.strip()),
             'BB (Pitching)': int(cols[5].text.strip()),
             'BBPG (Pitching)': float(cols[6].text.strip())
@@ -787,51 +969,51 @@ def combine_team_stats(*stats_dicts):
 
 
 def calculate_win_probability(team1_stats, team2_stats, combined_stats):
-    stats = ['WPCT', 'ERA', 'OBP']
-    weights = {'WPCT': 2, 'ERA': 1, 'OBP': 1}
+    stats = ['WPCT', 'ERA', 'OBP', 'BA']
+    weights = {'WPCT': 1, 'ERA': 1, 'OBP': 1, 'BA': 1}
 
     # Multipliers for league strength (approximate; customize as needed)
     league_strengths = {
         # Tier 1: Power Conferences
-        'SEC': 1.15,
-        'ACC': 1.13,
-        'Big 12': 1.11,
-        'Pac-12': 1.09,
-        'Big Ten': 1.07,
+        'SEC': 1.25,
+        'ACC': 1.21,
+        'Big 12': 1.18,
+        'Pac-12': 1.15,
+        'Big Ten': 1.12,
 
         # Tier 2: Upper-Mid Majors
-        'The American': 1.05,
-        'Sun Belt': 1.04,
-        'CAA': 1.03,
-        'Conference USA': 1.03,
-        'Big West': 1.02,
-        'ASUN': 1.02,
-        'WCC': 1.02,
+        'The American': 1.08,
+        'Sun Belt': 1.07,
+        'CAA': 1.06,
+        'Conference USA': 1.06,
+        'Big West': 1.05,
+        'ASUN': 1.04,
+        'WCC': 1.04,
 
         # Tier 3: Mid-Majors / Upper-Low
         'Atlantic 10': 1.00,
         'MVC': 1.00,
         'Mountain West': 1.00,
-        'MAC': 0.99,
-        'Southland': 0.99,
-        'SoCon': 0.99,
-        'Patriot': 0.98,
-        'DI Independent': 0.98,
-        'Big South': 0.98,
+        'MAC': 0.97,
+        'Southland': 0.97,
+        'SoCon': 0.96,
+        'Patriot': 0.94,
+        'DI Independent': 0.94,
+        'Big South': 0.93,
 
         # Tier 4: Low-Majors
-        'Horizon': 0.95,
-        'America East': 0.95,
-        'OVC': 0.95,
-        'NEC': 0.94,
-        'MAAC': 0.94,
+        'Horizon': 0.90,
+        'America East': 0.90,
+        'OVC': 0.89,
+        'NEC': 0.88,
+        'MAAC': 0.87,
 
         # Tier 5: Bottom Conferences
-        'Ivy League': 0.90,
-        'MEAC': 0.89,
-        'SWAC': 0.89,
-        'Summit League': 0.89,
-        'WAC': 0.89
+        'Ivy League': 0.83,
+        'MEAC': 0.82,
+        'SWAC': 0.82,
+        'Summit League': 0.81,
+        'WAC': 0.80
     }
 
     # Calculate means and stds
@@ -865,7 +1047,7 @@ def base_on_balls():
 
 def batting_average():
     url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=210.0"
-    return fetch_ncaa_table(url, parse_batting_average_row)
+    return fetch_ncaa_table(url, parse_batting_average)
 
 def double_plays_per_game():
     url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=328.0"

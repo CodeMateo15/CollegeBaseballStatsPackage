@@ -1,5 +1,7 @@
 from stats import *
-
+#from saveSQL import create_stats_database, get_win_probability
+from player_stats import *
+'''
 bb = base_on_balls()
 ba = batting_average()
 dp = double_plays()
@@ -31,15 +33,15 @@ tpg = triples_per_game()
 whip = whip()
 wpct = winning_percentage()
 wapni = walks_allowed_per_nine_innings()
-'''
+
 for team in whip.values():
-    print(f"{team['rank']}. {team['team']} ({team['league']}) - {team['G']} - {team['W']} - {team['WHIP']}")
-'''
+    print(f"{team['rank']}. {team['team']} ({team['league']}) - {team['IP']} - {team['WHIP']}")
+
 combined_stats = combine_team_stats(wpct, bb, ba, dp, dppg, d, dpg, era, fpct, hb, hbp, h, hapni, hr, hrpg, obp, r, sb, sf, s, so, spct, sb, sbpg, sowr, sopni, tp, t, tpg, whip, wapni)
 
-#for key, stats in list(combined_stats.items())[:5]:
+#for key, stats in list(combined_stats.items())[:5]: 
 #    print(f"{key}: {stats}")
-'''
+
 # Search for a specific team
 search_team = "Northeastern"
 found = False
@@ -52,12 +54,12 @@ for (team, league), stats in combined_stats.items():
 
 if not found:
     print(f"No data found for team: {search_team}")
-'''
+
 
 team1_name = "Northeastern"
 team2_name = "Mississippi St."
 team3_name = "Florida St."
-team4_name = "Bethune-Cookman"
+team4_name = "North Carolina"
 
 team1_stats = None
 team2_stats = None
@@ -97,3 +99,19 @@ if team1_stats and team4_stats:
     print(f"{team4_name} chance of winning: {(1-prob)*100:.2f}%")
 else:
     print("Could not find both teams in the data.")
+'''
+if __name__ == "__main__":
+    # Example usage:
+    # create_stats_database()
+    # print(get_win_probability("Northeastern", "Mississippi St."))
+
+    batting_stats = fetch_player_stats('batting')
+    pitching_stats = fetch_player_stats('pitching')
+
+    # Example: print top 5 batting stats
+    for player in batting_stats[:5]:
+        print(player)
+
+    for player in pitching_stats[:5]:
+        print(player)
+
