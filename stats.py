@@ -1042,125 +1042,125 @@ def calculate_win_probability(team1_stats, team2_stats, combined_stats):
 
 # Edit these to include input on academic year and division
 def base_on_balls():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=496.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=496.0"
     return fetch_ncaa_table(url, parse_base_on_balls_row)
 
 def batting_average():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=210.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=210.0"
     return fetch_ncaa_table(url, parse_batting_average)
 
 def double_plays_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=328.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=328.0"
     return fetch_ncaa_table(url, parse_double_plays_per_game)
 
 def double_plays():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=501.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=501.0"
     return fetch_ncaa_table(url, parse_double_plays)
 
 def doubles():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=489.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=489.0"
     return fetch_ncaa_table(url, parse_doubles)
 
 def doubles_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=324.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=324.0"
     return fetch_ncaa_table(url, parse_doubles_per_game)
 
 def earned_run_average():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=211.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=211.0"
     return fetch_ncaa_table(url, parse_earned_run_average)
 
 def fielding_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=212.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=212.0"
     return fetch_ncaa_table(url, parse_fielding_percentage)
 
 def hit_batters():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=593.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=593.0"
     return fetch_ncaa_table(url, parse_hit_batters)
 
 def hit_by_pitch():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=500.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=500.0"
     return fetch_ncaa_table(url, parse_hit_by_pitch)
 
 def hits():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=484.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=484.0"
     return fetch_ncaa_table(url, parse_hits)
 
 def hits_allowed_per_nine_innings():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=506.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=506.0"
     return fetch_ncaa_table(url, parse_hits_allowed_per_nine_innings)
 
 def home_runs():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=513.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=513.0"
     return fetch_ncaa_table(url, parse_home_runs)
 
 def home_runs_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=323.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=323.0"
     return fetch_ncaa_table(url, parse_home_runs_per_game)
 
 def on_base_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=589.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=589.0"
     return fetch_ncaa_table(url, parse_on_base_percentage)
 
 def runs():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=486.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=499.0"
     return fetch_ncaa_table(url, parse_runs)
 
 def sacrifice_bunts():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=498.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=498.0"
     return fetch_ncaa_table(url, parse_sacrifice_bunts)
 
 def sacrifice_flies():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=503.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=503.0"
     return fetch_ncaa_table(url, parse_sacrifice_flies)
 
 def scoring():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=213.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=213.0"
     return fetch_ncaa_table(url, parse_scoring)
 
 def shutouts():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=691.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=691.0"
     return fetch_ncaa_table(url, parse_shutouts)
 
 def slugging_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=327.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=327.0"
     return fetch_ncaa_table(url, parse_slugging_percentage)
 
 def stolen_bases():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=493.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=493.0"
     return fetch_ncaa_table(url, parse_stolen_bases)
 
 def stolen_bases_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=326.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=326.0"
     return fetch_ncaa_table(url, parse_stolen_bases_per_game)
 
 def strikeout_to_walk_ratio():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=591.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=591.0"
     return fetch_ncaa_table(url, parse_strikeout_to_walk_ratio)
 
 def strikeouts_per_nine_innings():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=425.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=425.0"
     return fetch_ncaa_table(url, parse_strikeouts_per_nine_innings)
 
 def triple_plays():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=598.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=598.0"
     return fetch_ncaa_table(url, parse_triple_plays)
 
 def triples():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=491.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=491.0"
     return fetch_ncaa_table(url, parse_triples)
 
 def triples_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=325.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=325.0"
     return fetch_ncaa_table(url, parse_triples_per_game)
 
 def whip():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=597.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=597.0"
     return fetch_ncaa_table(url, parse_whip)
 
 def winning_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=319.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=319.0"
     return fetch_ncaa_table(url, parse_winning_percentage)
 
 def walks_allowed_per_nine_innings():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=86.0&sport_code=MBA&stat_seq=509.0"
+    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=509.0"
     return fetch_ncaa_table(url, parse_walks_allowed_per_nine_innings)

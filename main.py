@@ -1,5 +1,5 @@
 from stats import *
-#from saveSQL import create_stats_database, get_win_probability
+# from saveSQL import create_stats_database, get_win_probability
 from player_stats import *
 '''
 bb = base_on_balls()
@@ -105,13 +105,21 @@ if __name__ == "__main__":
     # create_stats_database()
     # print(get_win_probability("Northeastern", "Mississippi St."))
 
-    batting_stats = fetch_player_stats('batting')
-    pitching_stats = fetch_player_stats('pitching')
+    for year in range(2024, 2025):
+        url = f'https://d1baseball.com/statistics/?season={year}'
+        print(f"📅 Processing season {year}...")
+
+        batters = fetch_player_stats(stat_type='batting', url=url)
+
+
+        pitchers = fetch_player_stats(stat_type='pitching', url=url)
 
     # Example: print top 5 batting stats
-    for player in batting_stats[:5]:
+    for player in batters:
         print(player)
 
-    for player in pitching_stats[:5]:
+    print("------------")
+
+    for player in pitchers[:1]:
         print(player)
 

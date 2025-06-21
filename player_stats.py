@@ -8,34 +8,58 @@ HEADERS = {
     'DNT': '1'
 }
 
-BASE_URL = 'https://d1baseball.com/statistics/'
-
-
-def fetch_player_stats(stat_type='batting'):
+def fetch_player_stats(stat_type='batting', url=None):
     assert stat_type in ['batting', 'pitching'], "stat_type must be 'batting' or 'pitching'"
 
-    url = f'{BASE_URL}'
     session = requests.Session()
 
     try:
         response = session.get(url, headers=HEADERS, timeout=10)
         response.raise_for_status()
+        # short pause to be respectful
         time.sleep(1)
         soup = BeautifulSoup(response.text, 'html.parser')
-        table = soup.find('table')
+        tables = soup.find_all('table')
 
-        if not table:
-            print("No table found")
+        if not tables:
+            print("No tables found on the page")
             return []
 
-        headers = [th.text.strip() for th in table.find('thead').find_all('th')]
-        players = []
+        target_table = None
 
-        for row in table.find('tbody').find_all('tr'):
-            cols = [td.text.strip() for td in row.find_all('td')]
-            if len(cols) != len(headers):
+        for table in tables:
+            thead = table.find('thead')
+            if not thead:
                 continue
+            headers = [th.text.strip() for th in thead.find_all('th')]
+            if stat_type == 'pitching' and any(col in headers for col in ['ERA', 'W', 'SO']):
+                target_table = table
+                break
+            elif stat_type == 'batting' and any(col in headers for col in ['SLG', 'PA', 'HR']):
+                target_table = table
+                break
+
+        if not target_table:
+            print(f"No {stat_type} table found based on header matching")
+            return []
+
+        tbody = target_table.find('tbody')
+        if not tbody:
+            print("No table body found in target table")
+            return []
+
+        season = extract_season(url)
+        players = []
+        for row in tbody.find_all('tr'):
+            cols = [td.text.strip() for td in row.find_all('td')]
+            # Pad or truncate columns to match headers
+            if len(cols) < len(headers):
+                cols += [''] * (len(headers) - len(cols))
+            elif len(cols) > len(headers):
+                cols = cols[:len(headers)]
             player_data = dict(zip(headers, cols))
+            player_data.pop('Qual.', None)
+            player_data['Season'] = str(season)
             players.append(player_data)
 
         print(f"Fetched {len(players)} {stat_type} players.")
@@ -45,4 +69,7 @@ def fetch_player_stats(stat_type='batting'):
         print(f"Error fetching data: {e}")
         return []
 
-
+def extract_season(seasonURL):
+    import re
+    match = re.search(r'season=(\d+)', seasonURL)
+    return int(match.group(1)) if match else None
