@@ -1,6 +1,5 @@
-from stats import *
 # from saveSQL import create_stats_database, get_win_probability
-from player_stats import *
+from experimentalStuff.player_stats import *
 '''
 bb = base_on_balls()
 ba = batting_average()

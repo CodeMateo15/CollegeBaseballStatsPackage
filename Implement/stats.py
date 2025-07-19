@@ -4,7 +4,8 @@ import time
 import numpy as np
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                  'Chrome/125.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     'Accept-Language': 'en-US,en;q=0.5',
     'Accept-Encoding': 'gzip, deflate, br',
@@ -967,7 +968,7 @@ def combine_team_stats(*stats_dicts):
 
     return combined
 
-
+# Experimental Win Probability, not for use
 def calculate_win_probability(team1_stats, team2_stats, combined_stats):
     stats = ['WPCT', 'ERA', 'OBP', 'BA']
     weights = {'WPCT': 1, 'ERA': 1, 'OBP': 1, 'BA': 1}
@@ -1017,9 +1018,11 @@ def calculate_win_probability(team1_stats, team2_stats, combined_stats):
     }
 
     # Calculate means and stds
-    stat_values = {stat: [stats_dict[stat] for stats_dict in combined_stats.values() if stat in stats_dict] for stat in stats}
+    stat_values = {stat: [stats_dict[stat] for stats_dict in
+                          combined_stats.values() if stat in stats_dict] for stat in stats}
     stat_means = {stat: np.mean(vals) for stat, vals in stat_values.items()}
-    stat_stds = {stat: max(np.std(vals), 1e-6) for stat, vals in stat_values.items()}  # avoid zero division
+    stat_stds = {stat: max(np.std(vals), 1e-6) for stat, vals
+                 in stat_values.items()}  # avoid zero division
 
     def score(team_stats):
         total = 0
@@ -1039,128 +1042,110 @@ def calculate_win_probability(team1_stats, team2_stats, combined_stats):
     prob = 1 / (1 + np.exp(-(s1 - s2)))
     return round(prob, 4)
 
+# Step 1: Final season stats based on year
+RANKING_PERIODS = {
+    2002: 12.0,
+    2003: 12.0,
+    2004: 11.0,
+    2005: 13.0,
+    2006: 12.0,
+    2007: 13.0, # Fully minimized amount of rankings ^^
+    2008: 40.0,
+    2009: 43.0,
+    2010: 95.0,
+    2011: 100.0,
+    2012: 35.0, # Half minimized amount of rankings ^^
+    2013: 40.0,
+    2014: 43.0,
+    2015: 95.0,
+    2016: 100.0,
+    2017: 98.0,
+    2018: 95.0,
+    2019: 93.0,
+    2020: 23.0,
+    2021: 96.0,
+    2022: 90.0,
+    2023: 94.0,
+    2024: 108.0,
+    2025: 104.0,
+}
 
-# Edit these to include input on academic year and division
-def base_on_balls():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=496.0"
-    return fetch_ncaa_table(url, parse_base_on_balls_row)
+# Step 2: URL builder
+def build_ncaa_url(stat_seq, year=2025, division=1):
+    ranking_period = RANKING_PERIODS.get(year)
+    if ranking_period is None:
+        raise ValueError(f"Ranking period not defined for year {year}")
+    return (
+        f"https://stats.ncaa.org/rankings/national_ranking?"
+        f"academic_year={float(year)}&division={float(division)}&"
+        f"ranking_period={ranking_period}&sport_code=MBA&stat_seq={float(stat_seq)}"
+    )
 
-def batting_average():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=210.0"
-    return fetch_ncaa_table(url, parse_batting_average)
+# Step 3: Factory function to generate stat fetchers
+def make_stat_func(stat_seq, parser, valid_years=None):
+    def stat_func(year=2025, division=1):
+        if valid_years is not None and year not in valid_years:
+            raise ValueError(f"Stat not available for year {year}")
+        url = build_ncaa_url(stat_seq=stat_seq, year=year, division=division)
+        return fetch_ncaa_table(url, parser)
+    return stat_func
 
-def double_plays_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=328.0"
-    return fetch_ncaa_table(url, parse_double_plays_per_game)
 
-def double_plays():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=501.0"
-    return fetch_ncaa_table(url, parse_double_plays)
-
-def doubles():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=489.0"
-    return fetch_ncaa_table(url, parse_doubles)
-
-def doubles_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=324.0"
-    return fetch_ncaa_table(url, parse_doubles_per_game)
-
-def earned_run_average():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=211.0"
-    return fetch_ncaa_table(url, parse_earned_run_average)
-
-def fielding_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=212.0"
-    return fetch_ncaa_table(url, parse_fielding_percentage)
-
-def hit_batters():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=593.0"
-    return fetch_ncaa_table(url, parse_hit_batters)
-
-def hit_by_pitch():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=500.0"
-    return fetch_ncaa_table(url, parse_hit_by_pitch)
-
-def hits():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=484.0"
-    return fetch_ncaa_table(url, parse_hits)
-
-def hits_allowed_per_nine_innings():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=506.0"
-    return fetch_ncaa_table(url, parse_hits_allowed_per_nine_innings)
-
-def home_runs():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=513.0"
-    return fetch_ncaa_table(url, parse_home_runs)
-
-def home_runs_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=323.0"
-    return fetch_ncaa_table(url, parse_home_runs_per_game)
-
-def on_base_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=589.0"
-    return fetch_ncaa_table(url, parse_on_base_percentage)
-
-def runs():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=499.0"
-    return fetch_ncaa_table(url, parse_runs)
-
-def sacrifice_bunts():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=498.0"
-    return fetch_ncaa_table(url, parse_sacrifice_bunts)
-
-def sacrifice_flies():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=503.0"
-    return fetch_ncaa_table(url, parse_sacrifice_flies)
-
-def scoring():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=213.0"
-    return fetch_ncaa_table(url, parse_scoring)
-
-def shutouts():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=691.0"
-    return fetch_ncaa_table(url, parse_shutouts)
-
-def slugging_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=327.0"
-    return fetch_ncaa_table(url, parse_slugging_percentage)
-
-def stolen_bases():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=493.0"
-    return fetch_ncaa_table(url, parse_stolen_bases)
-
-def stolen_bases_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=326.0"
-    return fetch_ncaa_table(url, parse_stolen_bases_per_game)
-
-def strikeout_to_walk_ratio():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=591.0"
-    return fetch_ncaa_table(url, parse_strikeout_to_walk_ratio)
-
-def strikeouts_per_nine_innings():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=425.0"
-    return fetch_ncaa_table(url, parse_strikeouts_per_nine_innings)
-
-def triple_plays():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=598.0"
-    return fetch_ncaa_table(url, parse_triple_plays)
-
-def triples():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=491.0"
-    return fetch_ncaa_table(url, parse_triples)
-
-def triples_per_game():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=325.0"
-    return fetch_ncaa_table(url, parse_triples_per_game)
-
-def whip():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=597.0"
-    return fetch_ncaa_table(url, parse_whip)
-
-def winning_percentage():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=319.0"
-    return fetch_ncaa_table(url, parse_winning_percentage)
-
-def walks_allowed_per_nine_innings():
-    url = "https://stats.ncaa.org/rankings/national_ranking?academic_year=2025.0&division=1.0&ranking_period=99.0&sport_code=MBA&stat_seq=509.0"
-    return fetch_ncaa_table(url, parse_walks_allowed_per_nine_innings)
+# Step 4: Refactored functions using the factory
+base_on_balls = make_stat_func(496.0, parse_base_on_balls_row,
+                                 valid_years=list(range(2008, 2025)))
+batting_average = make_stat_func(210.0, parse_batting_average,
+                                 valid_years=list(range(2002, 2025)))
+double_plays_per_game = make_stat_func(328.0, parse_double_plays_per_game,
+                                 valid_years=list(range(2003, 2025)))
+double_plays = make_stat_func(501.0, parse_double_plays,
+                                 valid_years=list(range(2008, 2025)))
+doubles = make_stat_func(489.0, parse_doubles,
+                                 valid_years=list(range(2008, 2025)))
+doubles_per_game = make_stat_func(324.0, parse_doubles_per_game,
+                                 valid_years=list(range(2002, 2025)))
+earned_run_average = make_stat_func(211.0, parse_earned_run_average,
+                                 valid_years=list(range(2002, 2025)))
+fielding_percentage = make_stat_func(212.0, parse_fielding_percentage,
+                                 valid_years=list(range(2002, 2025)))
+hit_batters = make_stat_func(593.0, parse_hit_batters, valid_years=list(range(2013, 2025)))
+hit_by_pitch = make_stat_func(500.0, parse_hit_by_pitch,
+                                 valid_years=list(range(2008, 2025)))
+hits = make_stat_func(484.0, parse_hits,
+                                 valid_years=list(range(2008, 2025)))
+hits_allowed_per_nine_innings = make_stat_func(506.0, parse_hits_allowed_per_nine_innings,
+                                 valid_years=list(range(2008, 2025)))
+home_runs = make_stat_func(513.0, parse_home_runs,
+                                 valid_years=list(range(2008, 2025)))
+home_runs_per_game = make_stat_func(323.0, parse_home_runs_per_game,
+                                 valid_years=list(range(2002, 2025)))
+on_base_percentage = make_stat_func(589.0, parse_on_base_percentage,
+                                 valid_years=list(range(2012, 2025)))
+runs = make_stat_func(4104.0, parse_runs, valid_years=list(range(2008, 2025)))
+sacrifice_bunts = make_stat_func(498.0, parse_sacrifice_bunts,
+                                 valid_years=list(range(2008, 2025)))
+sacrifice_flies = make_stat_func(503.0, parse_sacrifice_flies,
+                                 valid_years=list(range(2008, 2025)))
+scoring = make_stat_func(213.0, parse_scoring, valid_years=list(range(2002, 2025)))
+shutouts = make_stat_func(691.0, parse_shutouts, valid_years=list(range(2013, 2025)))
+slugging_percentage = make_stat_func(327.0, parse_slugging_percentage,
+                                 valid_years=list(range(2003, 2025)))
+stolen_bases = make_stat_func(493.0, parse_stolen_bases,
+                              valid_years=list(range(2002, 2025)))
+stolen_bases_per_game = make_stat_func(326.0, parse_stolen_bases_per_game,
+                                 valid_years=list(range(2008, 2025)))
+strikeout_to_walk_ratio = make_stat_func(591.0, parse_strikeout_to_walk_ratio,
+                                 valid_years=list(range(2012, 2025)))
+strikeouts_per_nine_innings = make_stat_func(425.0, parse_strikeouts_per_nine_innings,
+                                 valid_years=list(range(2008, 2025)))
+triple_plays = make_stat_func(598.0, parse_triple_plays,
+                              valid_years=list(range(2013, 2025)))
+triples = make_stat_func(491.0, parse_triples,
+                                 valid_years=list(range(2008, 2025)))
+triples_per_game = make_stat_func(325.0, parse_triples_per_game,
+                                 valid_years=list(range(2002, 2025)))
+whip = make_stat_func(597.0, parse_whip, valid_years=list(range(2012, 2025)))
+winning_percentage = make_stat_func(319.0, parse_winning_percentage,
+                                 valid_years=list(range(2011, 2025)))
+walks_allowed_per_nine_innings = make_stat_func(509.0, parse_walks_allowed_per_nine_innings,
+                                 valid_years=list(range(2011, 2025)))

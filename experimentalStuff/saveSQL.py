@@ -1,6 +1,6 @@
 import psycopg2
 from config import DB_CONFIG
-from stats import *
+from Implement.stats import *
 
 bb = base_on_balls()
 ba = batting_average()
