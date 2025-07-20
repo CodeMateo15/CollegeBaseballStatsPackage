@@ -1,4 +1,4 @@
-from implement.stats import *
+from src.stats import *
 '''
 bb = base_on_balls()
 ba = batting_average()
@@ -98,8 +98,27 @@ if team1_stats and team4_stats:
 else:
     print("Could not find both teams in the data.")
 '''
+
+def main():
+    # Example user input (you could replace this with argparse or UI later)
+    year = 2017
+    division = 3
+
+    try:
+        # Call a stat function with the year/division
+        data = hit_batters(year=year, division=division)
+        print("Hit Batters data:")
+        print(data)
+
+        # Call another stat for same or different config
+        ba_data = batting_average(year=year, division=division)
+        print("\nBatting Average data:")
+        print(ba_data)
+
+    except ValueError as e:
+        print(f"Error: {e}")
+
 if __name__ == "__main__":
-    # Example usage:
-    d3_2017_doubles = doubles(year=2017, division=3)
+    main()
 
 
