@@ -1044,42 +1044,45 @@ def calculate_win_probability(team1_stats, team2_stats, combined_stats):
 
 # Step 1: Final season stats based on year
 RANKING_PERIODS = {
-    2002: 12.0,
-    2003: 12.0,
-    2004: 11.0,
-    2005: 13.0,
-    2006: 12.0,
-    2007: 13.0, # Fully minimized amount of rankings ^^
-    2008: 40.0,
-    2009: 43.0,
-    2010: 95.0,
-    2011: 100.0,
-    2012: 35.0, # Half minimized amount of rankings ^^
-    2013: 40.0,
-    2014: 43.0,
-    2015: 95.0,
-    2016: 100.0,
-    2017: 98.0,
-    2018: 95.0,
-    2019: 93.0,
-    2020: 23.0,
-    2021: 96.0,
-    2022: 90.0,
-    2023: 94.0,
-    2024: 108.0,
-    2025: 104.0,
+    2002: {1: 12.0, 2: 9.0, 3: 9.0},
+    2003: {1: 12.0, 2: 8.0, 3: 8.0},
+    2004: {1: 11.0, 2: 8.0, 3: 9.0},
+    2005: {1: 13.0, 2: 11.0, 3: 12.0},
+    2006: {1: 12.0, 2: 12.0, 3: 11.0},
+    2007: {1: 13.0, 2: 12.0, 3: 11.0}, # Fully minimized amount of rankings ^^
+    2008: {1: 40.0, 2: 13.0, 3: 12.0},
+    2009: {1: 43.0, 2: 13.0, 3: 12.0},
+    2010: {1: 95.0, 2: 12.0, 3: 12.0},
+    2011: {1: 100.0, 2: 13.0, 3: 12.0},
+    2012: {1: 35.0, 2: 16.0, 3: 15.0}, # Half minimized amount of rankings ^^
+    2013: {1: 40.0, 2: 14.0, 3: 13.0},
+    2014: {1: 43.0, 2: 14.0, 3: 13.0},
+    2015: {1: 95.0, 2: 24.0, 3: 30.0},
+    2016: {1: 100.0, 2: 32.0, 3: 36.0},
+    2017: {1: 98.0, 2: 30.0, 3: 44.0},
+    2018: {1: 95.0, 2: 47.0, 3: 71.0},
+    2019: {1: 93.0, 2: 57.0, 3: 67.0},
+    2020: {1: 23.0, 2: 23.0, 3: 26.0},
+    2021: {1: 96.0, 2: 73.0, 3: 98.0},
+    2022: {1: 90.0, 2: 78.0, 3: 103.0},
+    2023: {1: 94.0, 2: 76.0, 3: 104.0},
+    2024: {1: 108.0, 2: 79.0, 3: 105.0},
+    2025: {1: 104.0, 2: 79.0, 3: 101.0}
 }
 
 # Step 2: URL builder
 def build_ncaa_url(stat_seq, year=2025, division=1):
-    ranking_period = RANKING_PERIODS.get(year)
-    if ranking_period is None:
-        raise ValueError(f"Ranking period not defined for year {year}")
+    try:
+        ranking_period = RANKING_PERIODS[year][division]
+    except KeyError:
+        raise ValueError(f"Ranking period not defined for year {year} and division {division}")
+
     return (
         f"https://stats.ncaa.org/rankings/national_ranking?"
         f"academic_year={float(year)}&division={float(division)}&"
         f"ranking_period={ranking_period}&sport_code=MBA&stat_seq={float(stat_seq)}"
     )
+
 
 # Step 3: Factory function to generate stat fetchers
 def make_stat_func(stat_seq, parser, valid_years=None):
