@@ -1,5 +1,5 @@
 # NCAA Baseball Stats Python Package
-A Python package for retrieving, parsing, and analyzing NCAA Division I, II, and III college baseball statistics (2002-2025 seasons). It supports both web-scraping from the official NCAA stats website and efficient access to cached local JSON datasets for research, data analysis, and sports analytics projects.
+A Python package for retrieving, parsing, and analyzing NCAA Division I, II, and III college baseball team statistics (2002-2025 seasons). It supports both web-scraping from the official NCAA stats website and efficient access to cached local JSON datasets for research, data analysis, and sports analytics projects.
 
 ## Detailed Stat Extraction
 Extract season data for teams, some examples include:
