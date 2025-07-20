@@ -8,7 +8,7 @@ years = [2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013,
 divisions = [1, 2, 3]
 
 # Base folder for cache files
-base_cache_dir = "data/team_stats_cache"
+base_cache_dir = "../data/team_stats_cache"
 
 for year in years:
     for division in divisions:

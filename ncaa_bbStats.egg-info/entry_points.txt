@@ -1,0 +1,2 @@
+[console_scripts]
+ncaa_bb = ncaa_bbStats.main:main

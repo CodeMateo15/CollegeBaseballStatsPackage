@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+ncaa_bbStats.egg-info/PKG-INFO
+ncaa_bbStats.egg-info/SOURCES.txt
+ncaa_bbStats.egg-info/dependency_links.txt
+ncaa_bbStats.egg-info/entry_points.txt
+ncaa_bbStats.egg-info/requires.txt
+ncaa_bbStats.egg-info/top_level.txt
