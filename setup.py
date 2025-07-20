@@ -6,4 +6,12 @@ setup(
     packages=find_packages(),
     install_requires=["pandas"],
     include_package_data=True,
+    package_data={
+        "teamstats": [
+            "data/div1/*.json",
+            "data/div2/*.json",
+            "data/div3/*.json",
+        ]
+    },
+
 )

@@ -959,12 +959,17 @@ def combine_team_stats(*stats_dicts):
 
     for stat_dict in stats_dicts:
         for key, value in stat_dict.items():
-            if key not in combined:
-                combined[key] = {}
-
-            # Exclude the 'rank' key from each stat entry
+            if stat_dict is None:
+                continue
+            # Convert tuple keys to a string (ex. "Team Name (League)")
+            if isinstance(key, tuple):
+                key_str = f"{key[0]} ({key[1]})"
+            else:
+                key_str = str(key)
+            if key_str not in combined:
+                combined[key_str] = {}
             filtered_value = {k: v for k, v in value.items() if k != 'rank'}
-            combined[key].update(filtered_value)
+            combined[key_str].update(filtered_value)
 
     return combined
 
@@ -1050,10 +1055,10 @@ RANKING_PERIODS = {
     2005: {1: 13.0, 2: 11.0, 3: 12.0},
     2006: {1: 12.0, 2: 12.0, 3: 11.0},
     2007: {1: 13.0, 2: 12.0, 3: 11.0}, # Fully minimized amount of rankings ^^
-    2008: {1: 40.0, 2: 13.0, 3: 12.0},
-    2009: {1: 43.0, 2: 13.0, 3: 12.0},
-    2010: {1: 95.0, 2: 12.0, 3: 12.0},
-    2011: {1: 100.0, 2: 13.0, 3: 12.0},
+    2008: {1: 17.0, 2: 13.0, 3: 12.0},
+    2009: {1: 16.0, 2: 13.0, 3: 12.0},
+    2010: {1: 16.0, 2: 12.0, 3: 12.0},
+    2011: {1: 17.0, 2: 13.0, 3: 12.0},
     2012: {1: 35.0, 2: 16.0, 3: 15.0}, # Half minimized amount of rankings ^^
     2013: {1: 40.0, 2: 14.0, 3: 13.0},
     2014: {1: 43.0, 2: 14.0, 3: 13.0},
@@ -1088,7 +1093,8 @@ def build_ncaa_url(stat_seq, year=2025, division=1):
 def make_stat_func(stat_seq, parser, valid_years=None):
     def stat_func(year=2025, division=1):
         if valid_years is not None and year not in valid_years:
-            raise ValueError(f"Stat not available for year {year}")
+            print(f"Skipping year {year} for stat_seq {stat_seq} – not a valid year.")
+            return None
         url = build_ncaa_url(stat_seq=stat_seq, year=year, division=division)
         return fetch_ncaa_table(url, parser)
     return stat_func
@@ -1096,59 +1102,59 @@ def make_stat_func(stat_seq, parser, valid_years=None):
 
 # Step 4: Refactored functions using the factory
 base_on_balls = make_stat_func(496.0, parse_base_on_balls_row,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 batting_average = make_stat_func(210.0, parse_batting_average,
-                                 valid_years=list(range(2002, 2025)))
+                                 valid_years=list(range(2002, 2026)))
 double_plays_per_game = make_stat_func(328.0, parse_double_plays_per_game,
-                                 valid_years=list(range(2003, 2025)))
+                                 valid_years=list(range(2003, 2026)))
 double_plays = make_stat_func(501.0, parse_double_plays,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 doubles = make_stat_func(489.0, parse_doubles,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 doubles_per_game = make_stat_func(324.0, parse_doubles_per_game,
-                                 valid_years=list(range(2002, 2025)))
+                                 valid_years=list(range(2002, 2026)))
 earned_run_average = make_stat_func(211.0, parse_earned_run_average,
-                                 valid_years=list(range(2002, 2025)))
+                                 valid_years=list(range(2002, 2026)))
 fielding_percentage = make_stat_func(212.0, parse_fielding_percentage,
-                                 valid_years=list(range(2002, 2025)))
-hit_batters = make_stat_func(593.0, parse_hit_batters, valid_years=list(range(2013, 2025)))
+                                 valid_years=list(range(2002, 2026)))
+hit_batters = make_stat_func(593.0, parse_hit_batters, valid_years=list(range(2013, 2026)))
 hit_by_pitch = make_stat_func(500.0, parse_hit_by_pitch,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 hits = make_stat_func(484.0, parse_hits,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 hits_allowed_per_nine_innings = make_stat_func(506.0, parse_hits_allowed_per_nine_innings,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 home_runs = make_stat_func(513.0, parse_home_runs,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 home_runs_per_game = make_stat_func(323.0, parse_home_runs_per_game,
-                                 valid_years=list(range(2002, 2025)))
+                                 valid_years=list(range(2002, 2026)))
 on_base_percentage = make_stat_func(589.0, parse_on_base_percentage,
-                                 valid_years=list(range(2012, 2025)))
-runs = make_stat_func(4104.0, parse_runs, valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2012, 2026)))
+runs = make_stat_func(4104.0, parse_runs, valid_years=list(range(2008, 2026)))
 sacrifice_bunts = make_stat_func(498.0, parse_sacrifice_bunts,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 sacrifice_flies = make_stat_func(503.0, parse_sacrifice_flies,
-                                 valid_years=list(range(2008, 2025)))
-scoring = make_stat_func(213.0, parse_scoring, valid_years=list(range(2002, 2025)))
-shutouts = make_stat_func(691.0, parse_shutouts, valid_years=list(range(2013, 2025)))
+                                 valid_years=list(range(2008, 2026)))
+scoring = make_stat_func(213.0, parse_scoring, valid_years=list(range(2002, 2026)))
+shutouts = make_stat_func(691.0, parse_shutouts, valid_years=list(range(2013, 2026)))
 slugging_percentage = make_stat_func(327.0, parse_slugging_percentage,
-                                 valid_years=list(range(2003, 2025)))
+                                 valid_years=list(range(2003, 2026)))
 stolen_bases = make_stat_func(493.0, parse_stolen_bases,
-                              valid_years=list(range(2002, 2025)))
+                              valid_years=list(range(2002, 2026)))
 stolen_bases_per_game = make_stat_func(326.0, parse_stolen_bases_per_game,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 strikeout_to_walk_ratio = make_stat_func(591.0, parse_strikeout_to_walk_ratio,
-                                 valid_years=list(range(2012, 2025)))
+                                 valid_years=list(range(2012, 2026)))
 strikeouts_per_nine_innings = make_stat_func(425.0, parse_strikeouts_per_nine_innings,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 triple_plays = make_stat_func(598.0, parse_triple_plays,
-                              valid_years=list(range(2013, 2025)))
+                              valid_years=list(range(2013, 2026)))
 triples = make_stat_func(491.0, parse_triples,
-                                 valid_years=list(range(2008, 2025)))
+                                 valid_years=list(range(2008, 2026)))
 triples_per_game = make_stat_func(325.0, parse_triples_per_game,
-                                 valid_years=list(range(2002, 2025)))
-whip = make_stat_func(597.0, parse_whip, valid_years=list(range(2012, 2025)))
+                                 valid_years=list(range(2002, 2026)))
+whip = make_stat_func(597.0, parse_whip, valid_years=list(range(2012, 2026)))
 winning_percentage = make_stat_func(319.0, parse_winning_percentage,
-                                 valid_years=list(range(2011, 2025)))
+                                 valid_years=list(range(2011, 2026)))
 walks_allowed_per_nine_innings = make_stat_func(509.0, parse_walks_allowed_per_nine_innings,
-                                 valid_years=list(range(2011, 2025)))
+                                 valid_years=list(range(2011, 2026)))
