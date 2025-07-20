@@ -14,7 +14,7 @@ Extract season data for teams, some examples include:
 Store season stats in pre-parsed JSON files, organized by year and division, for reliable, fast offline access.
 
 ## Easy Stat Lookup and Display
-Functions to search, retrieve, and display specific stats for one or multiple teams.
+Functions to search, retrieve, and display specific stats for one team (str or int format)
 
 ## Planned Features
 
