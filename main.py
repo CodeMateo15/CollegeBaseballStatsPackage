@@ -1,60 +1,6 @@
-import json
-import os
 from src.ncaa_bbStats.stats import *
+
 '''
-bb = base_on_balls()
-ba = batting_average()
-dp = double_plays()
-dppg = double_plays_per_game()
-d = doubles()
-dpg = doubles_per_game()
-era = earned_run_average()
-fpct = fielding_percentage()
-hb = hit_batters()
-hbp = hit_by_pitch()
-h = hits()
-hapni = hits_allowed_per_nine_innings()
-hr = home_runs()
-hrpg = home_runs_per_game()
-obp = on_base_percentage()
-r = runs()
-sb = sacrifice_bunts()
-sf = sacrifice_flies()
-s = scoring()
-so = shutouts()
-spct = slugging_percentage()
-sb = stolen_bases()
-sbpg = stolen_bases_per_game()
-sowr = strikeout_to_walk_ratio()
-sopni = strikeouts_per_nine_innings()
-tp = triple_plays()
-t = triples()
-tpg = triples_per_game()
-whip = whip()
-wpct = winning_percentage()
-wapni = walks_allowed_per_nine_innings()
-
-for team in whip.values():
-    print(f"{team['rank']}. {team['team']} ({team['league']}) - {team['IP']} - {team['WHIP']}")
-
-combined_stats = combine_team_stats(wpct, bb, ba, dp, dppg, d, dpg, era, fpct, hb, hbp, h, hapni, hr, hrpg, obp, r, sb, sf, s, so, spct, sb, sbpg, sowr, sopni, tp, t, tpg, whip, wapni)
-
-#for key, stats in list(combined_stats.items())[:5]: 
-#    print(f"{key}: {stats}")
-
-# Search for a specific team
-search_team = "Northeastern"
-found = False
-for (team, league), stats in combined_stats.items():
-    if search_team.lower() in team.lower():
-        print(f"\nStats for {team} ({league}):")
-        for stat_name, value in stats.items():
-            print(f"  {stat_name}: {value}")
-        found = True
-
-if not found:
-    print(f"No data found for team: {search_team}")
-
 
 team1_name = "Northeastern"
 team2_name = "Mississippi St."
