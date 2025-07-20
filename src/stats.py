@@ -1130,7 +1130,7 @@ home_runs_per_game = make_stat_func(323.0, parse_home_runs_per_game,
                                  valid_years=list(range(2002, 2026)))
 on_base_percentage = make_stat_func(589.0, parse_on_base_percentage,
                                  valid_years=list(range(2012, 2026)))
-runs = make_stat_func(4104.0, parse_runs, valid_years=list(range(2008, 2026)))
+runs = make_stat_func(486.0, parse_runs, valid_years=list(range(2008, 2026)))
 sacrifice_bunts = make_stat_func(498.0, parse_sacrifice_bunts,
                                  valid_years=list(range(2008, 2026)))
 sacrifice_flies = make_stat_func(503.0, parse_sacrifice_flies,

@@ -47,11 +47,14 @@ for year in years:
             wpct = winning_percentage(year=year, division=division)
             wapni = walks_allowed_per_nine_innings(year=year, division=division)
 
-            combined_stats = combine_team_stats(
+            stat_dicts = [
                 wpct, bb, ba, dp, dppg, d, dpg, era, fpct, hb, hbp, h,
                 hapni, hr, hrpg, obp, r, sb, sf, s, so, spct, sb, sbpg,
                 sowr, sopni, tp, t, tpg, whip_stat, wapni
-            )
+            ]
+            filtered_stats = [d for d in stat_dicts if d is not None]
+
+            combined_stats = combine_team_stats(*filtered_stats)
             combined_stats["division"] = int(division)
 
             output_dir = os.path.join(base_cache_dir, f"div{division}")
