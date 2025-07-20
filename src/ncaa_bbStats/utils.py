@@ -66,7 +66,6 @@ def display_specific_team_stat(stat_name: str, search_team: str, year: int, divi
     for team, stats in all_teams.items():
         if search_team.lower() in team.lower():
             found = True
-            league = stats.get("league", "Unknown League")
             value = stats.get(stat_name)
             if value is not None:
                 print(f"{team} - {stat_name}: {value}")
@@ -105,7 +104,6 @@ def display_team_stats(search_team: str, year: int, division: int) -> None:
     for team, stats in all_teams.items():
         if search_team.lower() in team.lower():
             found = True
-            league = stats.get("league", "Unknown League")
             print(f"\nStats for {team}:")
             for stat_name, value in stats.items():
                 print(f"  {stat_name}: {value}")
