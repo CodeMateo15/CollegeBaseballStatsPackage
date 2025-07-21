@@ -2,7 +2,6 @@ LICENSE
 MANIFEST.in
 README.md
 pyproject.toml
-setup.py
 src/ncaa_bbStats/__init__.py
 src/ncaa_bbStats/stats.py
 src/ncaa_bbStats/store.py
