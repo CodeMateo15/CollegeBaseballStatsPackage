@@ -95,7 +95,7 @@ def average_team_stat_float(stat_name: str, year: int, division: int) -> float |
     values = [
         stats.get(stat_name)
         for stats in teams.values()
-        if isinstance(stats.get(stat_name), (int, float))
+        if isinstance(stats, dict) and isinstance(stats.get(stat_name), (int, float))
     ]
 
     if not values:
