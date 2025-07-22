@@ -16,6 +16,10 @@ Store season stats in pre-parsed JSON files, organized by year and division, for
 ## Easy Stat Lookup and Display
 Functions to search, retrieve, and display specific stats for one team (str or int format)
 
+## Examples
+
+<img src="pics/team_stats_pic.png" width="500">
+
 ## Planned Features
 
 - NCAA Player stats
