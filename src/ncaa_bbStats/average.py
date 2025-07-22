@@ -14,7 +14,6 @@ def average_all_team_stats(year: int, division: int) -> dict:
      Returns:
          dict: A dictionary mapping each statistic name to its average value.
      """
-
     file_path = os.path.abspath(
         os.path.join(
             os.path.dirname(__file__), "..", "data", "team_stats_cache",
@@ -32,13 +31,18 @@ def average_all_team_stats(year: int, division: int) -> dict:
     stat_counts = {}
 
     for stats in teams.values():
+        if not isinstance(stats, dict):
+            continue  # Skip malformed entries
+
         for key, val in stats.items():
             if isinstance(val, (int, float)):
                 stat_sums[key] = stat_sums.get(key, 0) + val
                 stat_counts[key] = stat_counts.get(key, 0) + 1
 
-    averages = {k: round(stat_sums[k] / stat_counts[k], 3) for k in stat_sums if stat_counts[k] > 0}
-    return averages
+    return {
+        k: round(stat_sums[k] / stat_counts[k], 3)
+        for k in stat_sums if stat_counts[k] > 0
+    }
 
 
 def average_team_stat_str(stat_name: str, year: int, division: int) -> str:
