@@ -145,3 +145,82 @@ def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str
         )
     except (ZeroDivisionError, ValueError, OverflowError) as e:
         return f"Could not compute Pythagenpat for '{team_name}': {str(e)}"
+
+
+MLB_DRAFT_DIR = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "data", "mlb_draft_cache"))
+
+def load_draft_data(year=None):
+    """
+    Loads MLB draft picks for a specific year or all years.
+
+    Args:
+        year (int or None): The year to load, or None for all years.
+    Returns:
+        List of draft pick dicts.
+    """
+    if year:
+        path = os.path.join(MLB_DRAFT_DIR, f"{year}.json")
+    else:
+        path = os.path.join(MLB_DRAFT_DIR, "all_drafts.json")
+    if not os.path.isfile(path):
+        raise FileNotFoundError(f"Draft data file not found: {path}")
+    with open(path, "r") as f:
+        return json.load(f)
+
+
+def get_drafted_players_mlb(team_name: str, year: int) -> list:
+    """
+    Returns a list of player names drafted by a MLB team for a given year.
+    Args:
+        team_name (str): ex. "Baltimore Orioles"
+        year (int): ex. 2019
+    Returns:
+        List of dicts for each draft pick.
+    """
+    picks = load_draft_data(year)
+    return [p for p in picks if team_name.lower() in p.get("Drafted By", "").lower()]
+
+
+def get_drafted_players_all_years_mlb(team_name: str) -> list:
+    """
+    Returns all players drafted by a MLB team across all years.
+    """
+    picks = load_draft_data()  # all_drafts.json
+    return [p for p in picks if team_name.lower() in p.get("Drafted By", "").lower()]
+
+def get_drafted_players_college(team_name: str, year: int) -> list:
+    """
+    Returns a list of player names drafted from a college team for a given year.
+    Args:
+        team_name (str): e.g. "Baltimore Orioles"
+        year (int): e.g. 2019
+    Returns:
+        List of dicts for each draft pick.
+    """
+    picks = load_draft_data(year)
+    return [p for p in picks if team_name.lower() in p.get("Drafted From", "").lower()]
+
+
+def get_drafted_players_all_years_college(team_name: str) -> list:
+    """
+    Returns all players drafted from a college team across all years.
+    """
+    picks = load_draft_data()  # all_drafts.json
+    return [p for p in picks if team_name.lower() in p.get("Drafted From", "").lower()]
+
+
+def print_draft_picks_mlb(picks: list):
+    """
+    Prints formatted draft pick info from a list of draft dicts for MLB teams.
+    """
+    for p in picks:
+        print(f"{p['Year']} Round {p['Round']} Pick {p['Pick']}: {p['Player Name']} - {p['POS']} from {p['Drafted From']}")
+
+
+def print_draft_picks_college(picks: list):
+    """
+    Prints formatted draft pick info from a list of draft dicts for college teams.
+    """
+    for p in picks:
+        print(f"{p['Year']} Round {p['Round']} Pick {p['Pick']}: {p['Player Name']} - {p['POS']} for {p['Drafted By']}")

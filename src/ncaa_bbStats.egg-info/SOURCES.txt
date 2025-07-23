@@ -5,6 +5,7 @@ pyproject.toml
 src/ncaa_bbStats/__init__.py
 src/ncaa_bbStats/average.py
 src/ncaa_bbStats/draft_stats.py
+src/ncaa_bbStats/draft_store.py
 src/ncaa_bbStats/team_stats.py
 src/ncaa_bbStats/team_store.py
 src/ncaa_bbStats/utils.py
