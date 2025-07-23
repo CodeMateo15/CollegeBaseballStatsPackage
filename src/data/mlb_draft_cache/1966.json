@@ -1,0 +1,8322 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Steve Chilcott",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Antelope Valley High School (Lancaster, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Reggie Jackson",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Wayne Twitchell",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Wilson High School (Portland, OR)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Kenneth Brett",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P-OF",
+    "Drafted From": "El Segundo High School (El Segundo, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Dean Burk",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Highland High School (Highland, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Tom Grieve",
+    "Drafted By": "Washington Senators",
+    "POS": "OF-C",
+    "Drafted From": "Pittsfield (Pittsfield, MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Leron Lee",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "iF-Of",
+    "Drafted From": "Grant High School (Sacramento, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Jim DeNeff",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Indiana University",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Michael Biko",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Samuell High School (Dallas, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Jim Lyttle",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Florida State University",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Al Santorini",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Clay High School (Union,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "John Curtis",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Smithtown (Nesconset,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Gary Nolan",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Oroville (Oroville,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Rick Konik",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B",
+    "Drafted From": "St. Andrews (Detroit, MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Richie Hebner",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Norwood High School (Norwood, MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Ted Parks",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "University of California",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Bob Reynolds",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Ingraham High School (Seattle, WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Carlos May",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "A.H. Parker High School (Birmingham, AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Larry Hutton",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Greenfield-Central (Greenfield,IN)",
+    "Year": 1966
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Bob Jones",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Byron von hoff",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Batavia (Batavia,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Roger Washington",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Ronald Cook",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Joseph McCullough",
+    "Drafted By": "Boston Red Sox",
+    "POS": "IF",
+    "Drafted From": "William L. Dickinson (Jersey City,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "C.E. Bryson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Findlay (Findlay,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "O.L. Bowers",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "John Marshall (Oklahoma City, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Dan Barrett",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "David Frost",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Lawton High School (Lawton,OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Patrick Skrable",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Bakersfield High School (Bakersfield, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Gary Timberlake",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Meade County (Brandenburg,KY)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "Fabian Mang",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P-1B",
+    "Drafted From": "Jesuit High School (New Orleans,LA)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Billy Lynch",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P-OF",
+    "Drafted From": "Blazer (Ashland,KY)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Darrell Chaney",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Morton (Hammond, IN)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Scott Fields",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Elgin High School (Marion, OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "James Minshall",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Newport Central Catholic (Newport,KY)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "James Kelly",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Ensley High School (Birmingham, AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Joseph Hebert",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Baton Rouge (Baton Rouge, LA)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Johnny Oates",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Virginia Tech",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "John Gamble",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Carson High School (Carson City, NV)",
+    "Year": 1966
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Leo Pinnick",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Billings (Billings, MT)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "Donald Lineham",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Mount Vernon (Lorton,VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "John Greene",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Brigham Young University",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "John D'Auria",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Arcadia High School (Arcadia, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Rick Hoban",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "West High School (Cleveland, OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Robert Owens",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Henderson High School (West Chester,PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Lou Camilli",
+    "Drafted By": "Washington Senators",
+    "POS": "3B",
+    "Drafted From": "Texas A&M University",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "Clay Kirby",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Washington High School (Arlington, VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Bill Gillean",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Mayfair High School (Lakewood, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Patrick Amos",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Arlington Heights High School (Fort Worth, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Dave Wolfe",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Buena Vista University",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Frank Duffy",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Stanford University",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Terry Taylor",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Soquel (Soquel,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Mike Oates",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Glenbard West (Glen Ellyn,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Robert Gilhooley",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "University of Michigan",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Richard Grimaldi",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Proctor (Utica,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Wayne Francingues",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Jesuit High School (New Orleans,LA)",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "James Carroll",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Mississippi State University",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Jim Magnuson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Wisconsin-Oshkosh",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "Richard Thompson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "2B",
+    "Drafted From": "University of North Carolina-Pembroke",
+    "Year": 1966
+  },
+  {
+    "Round": "3",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Steve Garvey",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Chamberlain High School (Tampa, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Mike Jorgensen",
+    "Drafted By": "New York Mets",
+    "POS": "1B-OF",
+    "Drafted From": "Francis Lewis (Queens,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Billy Joe Cotton",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C",
+    "Drafted From": "McCook (McCook,NE)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Elliott Maddox",
+    "Drafted By": "Houston Astros",
+    "POS": "IF",
+    "Drafted From": "Clay High School (Union,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Skip Jutze",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Central Connecticut State University",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Richard Curbow",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Springfield Central (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Wallace Smallwood",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Martinsburg High School (Martinsburg, WV)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Bob Spence",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Santa Clara University",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Jim Suskiewich",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Beaver Falls High School (Beaver Falls, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Ken Reynolds",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "New Mexico Highlands University",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Robert Starr",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Fullerton High School (Fullerton, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "John Laberrique",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "William Kyle",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "University High School (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Thomas Williams",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Mount Carmel High School (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Leslie Cain",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "El Cerrito High School (El Cerrito, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Dave Lambert",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "University of Washington",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Randolph Coon",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Dover Plains (Dover Plains,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Rich Folkers",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Ellsworth Community College",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Karl Simon",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "South Bend Central (South Bend,IN)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Jerry Bagwell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Wrens (Liberty,SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "4",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Robert Desjardins",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "La Habra High School (La Habra, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Richard Dost",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "James Madison (Vienna,VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Dave Hamilton",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Edmonds (Edmonds,WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Cliff Johnson",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Wheatley (San Antonio, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "Wayne McGhee",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Marcus Rhaney",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Middleton (Tampa, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Gerald Merlet",
+    "Drafted By": "Washington Senators",
+    "POS": "SS-3B",
+    "Drafted From": "Beloit Memorial (Beloit,WI)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Donald Cooksey",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P-OF",
+    "Drafted From": "O'Fallon Tech (St. Louis, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Buddy Lawhorn",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Whitehaven (Memphis, TN)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Charles West",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of Texas-El Paso",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Carl Black",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Central Missouri",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "George Stone",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P-1B",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "William Davis",
+    "Drafted By": "Cleveland Indians",
+    "POS": "3B",
+    "Drafted From": "University of North Carolina-Pembroke",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "Richard Washburn",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of St. Thomas",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Eugene Spatz",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Alexander Hamilton (Elmsford,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Dave Cash",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Proctor (Utica,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Jan Dukes",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Santa Clara University",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "David Lemonds",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF-P",
+    "Drafted From": "Garinger High School (Charlotte, NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Ken Frailing",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Marion High School (Marion,WI)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Gordon Allen",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Ludlow (Ludlow,MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "5",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Dale Campbell",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B-OF",
+    "Drafted From": "Pepperdine University",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Eddie Lindbald",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Piper (Piper,KS)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Warren Bogle",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "University of Miami",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "Thomas Koziol",
+    "Drafted By": "Houston Astros",
+    "POS": "IF",
+    "Drafted From": "LaSalle (Miami, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Mike Nagy",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "St. Helena (Bronx, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Edward Bruksch",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "University of Minnesota",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Kim Hillstrom",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Central Michigan University",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Edward Bauer",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Christopher Columbus (Bronx, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "John Dickson",
+    "Drafted By": "California Angels",
+    "POS": "C-OF",
+    "Drafted From": "Edison High School (Fresno, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Michael Beaver",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Worland (Worland,WY)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Alvis Hodges",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Yanceyville (Yanceyville,NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Reid Braden",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "Cerritos College",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Gary Sprague",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS-2B",
+    "Drafted From": "Florida State University",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Steve Steitz",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P-1B",
+    "Drafted From": "East Longmeadow (East Longmeadow)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "Robert Welz",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B",
+    "Drafted From": "Harvard University",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Gene Clines",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "2B-OF",
+    "Drafted From": "Ells (Richmond, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Stephen Rogers",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Bethlehem Central (Delmar,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Keith Wade",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Muir High School (Pasadena, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Gary Lewis",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Colton (Colton,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Dennis James",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Albany High School (Albany, GA)",
+    "Year": 1966
+  },
+  {
+    "Round": "6",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Richard Gouin",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Pomona Catholic (Pomona, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Wayne Ryan",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Clarence Vaughns",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "3B",
+    "Drafted From": "David Starr Jordan (Long Beach, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Richard Lynn",
+    "Drafted By": "Houston Astros",
+    "POS": "IF",
+    "Drafted From": "Edwardsville (Edwardsville,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Daniel Smith",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Red Lion Area (Red Lion, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "Pat O'Brien",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "John Fryer",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Brevard Community College",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Jerry Bartee",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Omaha Central High School (Omaha, NE)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Robert Smith",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "St. John's University",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "William Camp",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Nathan Hale (Tulsa, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "Steve Kline",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Chelan High School (Chelan, WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "Charles Koselke",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "Western Michigan University",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Harold Harris",
+    "Drafted By": "Cleveland Indians",
+    "POS": "3B-SS",
+    "Drafted From": "Hewitt-Trussville (Trussville, AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "David Grawe",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Elder (Cincinnati, OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "Hagen Anderson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "University of Massachusetts Amherst",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Bill Laxton",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Audubon (Audubon,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Ron Norris",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "John Beaton",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Murray State University",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "David Speas",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Clairemont High School (San Diego, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "James Doran",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Madison Township (Parlin,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "7",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Robert Weisenberg",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "North (Omaha, NE)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Simon Ashbrook",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Wellsburg (Wellsburg,WV)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Tom Brooks",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "St. James (Chester, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Fred Stanley",
+    "Drafted By": "Houston Astros",
+    "POS": "IF",
+    "Drafted From": "Horizon High School (Horizon,IA)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Roger McComas",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Jerry Szukala",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "University of Illinois",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "John Bowman",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Trinity University",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Samuel Stewart",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Oklahoma Baptist University",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Michael Floyd",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Fullerton College",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Marty Meagher",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Rolling Hills (Palos Verdes,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Michael Mcfarland",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Jerald Hurt",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "Stephen Reid",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "DeSales (Geneva,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "James Cartlidge",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of West Alabama",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Mike Irish",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Grand Ledge (Grand Ledge,MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Stanley Baker",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Louis Coccia",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Pasco-Hernando Community College",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Steve Barnhill",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "William C. Hinkley High School (Aurora, CO)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Randy Coley",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B",
+    "Drafted From": "Providence Catholic High School (New Lenox, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Charlie Hough",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Hialeah High School (Hialeah, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "8",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Raymond Huett",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS-P",
+    "Drafted From": "Palomar College",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "Gary Matz",
+    "Drafted By": "New York Mets",
+    "POS": "SS-3B",
+    "Drafted From": "Loyola Blakefield (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "Frank Fall",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "McClatchy High School (Sacramento, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Sli Harvey",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Aransas Pass (Aransas Pass,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Ernie Aguirre",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Bakersfield High School (Bakersfield, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "Robert Miller",
+    "Drafted By": "Washington Senators",
+    "POS": "3B",
+    "Drafted From": "Lewis University",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Gary Ford",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B-SS",
+    "Drafted From": "Ventura (Ventura,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Ken Forsch",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Sacramento City College",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Randy Moseley",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Waxahachie (Waxahachie,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Gary Laney",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Clinton High School (Clinton,SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "Samuel Narron",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "East Carolina University",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Daniel McNulty",
+    "Drafted By": "Cleveland Indians",
+    "POS": "2B-SS",
+    "Drafted From": "Waterloo (Waterloo,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "David Reeves",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Americus-Sumter (Americus, GA)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "Dan Bootcheck",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P-1B",
+    "Drafted From": "Michigan City (Michigan City,IN)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Paul Pierce",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Pittsfield (Pittsfield, MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Leon Brown",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Grant High School (Sacramento, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "177",
+    "Phase": "JR",
+    "Player Name": "Gerald Christman",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Deshler (Deshler,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "Dennis Jones",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Jetmore (Jetmore,KS)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "Bill Russell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Pittsburg (Pittsburg,KS)",
+    "Year": 1966
+  },
+  {
+    "Round": "9",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "James Needham",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P-OF",
+    "Drafted From": "Loomis Chaffee School (Windsor,CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Russell vitallo",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Berkshire Community College",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Nick Radakovic",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "University of Michigan",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "J.D. Hill",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Edison High School (Stockton, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Nicholas DeFlorio",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Carey (Franklin Square,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "Clyde Kuehne",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Belleville High School (Belleville,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Larry Herring",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Dillon High School (Dillon, SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "Cole Shumaker",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Maben (Maben,MS)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "Tim Hewes",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Bakersfield College",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "David Myers",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "Chambersburg Area (Chambersburg,PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Ken Stabler",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Alabama",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "William Cupp",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C-1B",
+    "Drafted From": "Banning High School (Wilmington,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "Ollie Coffey",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "East Technical (Cleveland, OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Pryor",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Evans High School (Orlando, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Brian Cusino",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Monroe Catholic Central (Erie,MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Robert McKee",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Etna (Pittsburgh, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "Scott Morton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Iowa State University",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "Jack Grasing",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Villanova University",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Mike Adams",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Loara High School (Anaheim, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "Dennis Thornton",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "Eisenhower High School (Decatur, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "10",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "Steve Braun",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS-2B",
+    "Drafted From": "Hopewell Valley Central (Pennington,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Nyal Leslie",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "University of Arizona",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Thomas Binkowski",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "1B",
+    "Drafted From": "Michigan State University",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "John Caruso",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Franklin K. Lane (Ozone Park,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "William Hathaway",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Palm Springs (Palm Springs,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Elby Bushong",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "California Western School of Law",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "Wayne Brescher",
+    "Drafted By": "Washington Senators",
+    "POS": "C",
+    "Drafted From": "Southeastern Louisiana University",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "Dewayne Wendt",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Deshler (Deshler,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "Jim Barr",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Lynwood (Lynwood,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "Gregg Hansen",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Wagner College",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Roger Dutton",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Northern Illinois University",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "Pat Harrison",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "University of Southern California",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Clifford Lee",
+    "Drafted By": "Cleveland Indians",
+    "POS": "2B",
+    "Drafted From": "Campbell High School (Smyrna, GA)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "Ricky Schwartz",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Texas A&M University",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "Bob Kloss",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P-3B",
+    "Drafted From": "St. Ladislaus High School (Hamtramck, MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Dave Arrington",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P-OF",
+    "Drafted From": "De Anza (El Sobrante,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "Terry Crowley",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B-OF",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "Bernie Williams",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "St. Elizabeth (Oakland, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "Robert Mewes",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Colorado State University",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "219",
+    "Phase": "JR",
+    "Player Name": "Kenneth Burrow",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "De Anza (El Sobrante,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "11",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "Mike Holbrook",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Herbert Hoover High School (Fresno, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "Mike Minster",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Fairfax (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Edward Howell",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Florida State University",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "Robert Dickman",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Rutgers University",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Thomas Stephenson",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Elvatous Peters",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Southern University",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Jack Merlet",
+    "Drafted By": "Washington Senators",
+    "POS": "2B",
+    "Drafted From": "Northern Illinois University",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Joe Atilee",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Elmore (Houston, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Larry Bishop",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Thomas Carr Howe (Indianapolis, IN)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "James Jones",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Moore High School (Waco, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "Bill Fisher",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Tahlequah High School (Tahlequah, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Chet Bergalowski",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "University of Mississippi",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Jackson Sexton",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Titusville High School (Titusville, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "Edward Robbins",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Hillsboro High School (Hillsboro,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Chandler Simonds",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B",
+    "Drafted From": "University of Michigan",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Ron Schueler",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Hays (Hays,KS)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Dan Kerns",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B-OF",
+    "Drafted From": "University of Maryland",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "Mike Sadek",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "University of Minnesota",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Gary Kirtlan",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B-OF",
+    "Drafted From": "Clarksburg (Clarksburg,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Billy Grabarkewitz",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "St. Mary's University",
+    "Year": 1966
+  },
+  {
+    "Round": "12",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Ron Chesebro",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Mayfair High School (Lakewood, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "Michael Eppier",
+    "Drafted By": "New York Mets",
+    "POS": "OF-2B",
+    "Drafted From": "University of Tulsa",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Jack Gehrke",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "University of Utah",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Douglas Hansen",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Herbert Hoover High School (Fresno, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Richard Guy",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "Jemison (Jemison,AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Robert Eyer",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Loyola (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "John Michael",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "Morrow (Morrow,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "Terrence Murphy",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Cardinal Mooney (Rochester, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Anthony Mitchell",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Lincoln High School (San Diego, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Gaston Holland",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "The Citadel",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Ken O'brien",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Hewlett (Woodmere,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "Buddy Harris",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Roxborough (Roxborough,MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "William Palmer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Rice University",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "Thomas Dryja",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF-P",
+    "Drafted From": "-",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Vic Pilar",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Thurston (Redford,MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Raymond Heller",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Wicomico (Salisbury,MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Jack Johnson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B-OF",
+    "Drafted From": "West Virginia Wesleyan College",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Gary Ryerson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Rolling Hills (Palos Verdes,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "John Posen",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B-OF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Romel Canada",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Chester (Chester, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "13",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Thomas Maurer",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of St. Thomas",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "Edward Palat",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Grainger (Kinston,NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Ronald Berta",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C",
+    "Drafted From": "Moravian College",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "Alan Pauska",
+    "Drafted By": "Houston Astros",
+    "POS": "1B-OF",
+    "Drafted From": "Phillipsburg High School (Phillipsburg, NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Harry Greenfield",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Husson College",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Richard Nye",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Dan Neumeier",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Gresham (Gresham,WI)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "Douglas Lukens",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Washington State University",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Paul Devaney",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "DeSales (Geneva,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Jack Foreman",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Shelby High School (Shelby,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "David Ross",
+    "Drafted By": "New York Yankees",
+    "POS": "C-OF",
+    "Drafted From": "Pittsburg State University",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "John Stewart",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Russ Nagelson",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "Ohio State University",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Donell Goodwin",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Edison High School (Stockton, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Herbert Doebler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Utica (Utica,MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Robert Sherry",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "IF",
+    "Drafted From": "University of Washington",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Minton White",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B-OF",
+    "Drafted From": "University of Texas",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "Gary Kollman",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "University of Wyoming",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "William Hess",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Roncalli High School (Aurora, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "James Raynor",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "East Carolina University",
+    "Year": 1966
+  },
+  {
+    "Round": "14",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Bruce Wade",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "North Torrance High School (Torrance, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "Dave Rose",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "River Local (Hannibal,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "Darrell Baker",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Holbrook (Holbrook,MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Mike Cole",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Clarke College",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Bernard Burns",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Indiana University of Pennsylvania",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "Jeff Rude",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Southern Oregon University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "Geoff Petrie",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Springfield High School (Springfield,PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Frank Patterson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Grambling State University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "John McCall",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Clemson University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Frederick Grooms",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P-OF",
+    "Drafted From": "Woodrow Wilson High School (San Francisco, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Richard Donnelly",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Xavier University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "William Toney",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "James Wingate",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Trinity University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Thomas Henderson",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Northeastern State University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Gary Krupinski",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "St. Hedwige (Detroit, MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "William Stone",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Warren Easton (New Orleans,LA)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "Richard Rhine",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Penn State University",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Robert Hoey",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Assumption High School (East St. Louis,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Michael Thompson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Ponca City (Ponca City,OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "Ted Sizemore",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "University of Michigan",
+    "Year": 1966
+  },
+  {
+    "Round": "15",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "Claude Fontenot",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "San Fernando (San Fernando,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Charles Lelas",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Springfield College",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "John Shearer",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Carlisle (Carlisle,PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "James Kobi",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "King's College",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Ed Phillips",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Colby College",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Charles Jones",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Central High School (Mobile, AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "LeRoy visor",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "Park (Racine,WI)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Monty Little",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Ayden-Grifton (Ayden,NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Glenn Pickren",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Seminole High School (Seminole, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "Barry Miller",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "2B",
+    "Drafted From": "Hempfield Area (Greensburg, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "Jerry Matney",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Northside (Vernon,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "Roger Cain",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Roosevelt High School (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Gerald Kremer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "University of Maryland",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "James Babyak",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "University of Massachusetts Amherst",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "Rodney Pryor",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "McLainsboro (McLainsboro,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "James Kovalsky",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Washington High School (Washington,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "Bill Borelli",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Junipero Serra High School (San Mateo, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "Robert DeLong",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Willow Glen (San Jose, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Charles Brinkman",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Ohio State University",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "Allen Shiflet",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "McCallum (Austin, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "16",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Joseph Proctor",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "Richard Summers",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "University of Texas",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "Joseph Tassone",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C",
+    "Drafted From": "Port Chester High School (Port Chester, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "William Green",
+    "Drafted By": "Houston Astros",
+    "POS": "3B",
+    "Drafted From": "University of Central Missouri",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "Dennis Udy",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "University of Utah",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "Ron Del Planche",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "University of Oregon",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "Nick Furlong",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Iona Prep (New Rochelle,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Dale Reed",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Glendale High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Bruce Christensen",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Chatsworth High School (Chatsworth,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "Philip MacDonald",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Crescenta Valley High School (La Crescenta, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "Richard Buff",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Rossville High School (Rossville, GA)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Charlie Brown",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Central Connecticut State University",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Ronald Hart",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Frederick (Frederick,MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Claude Passeau",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Mississippi State University",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "Randy Hooper",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Pacific High School (San Bernardino, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "James Lawrence",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Deep Creek (Chesapeake, VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "Edward Turnbull",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Virginia",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "Don Hahn",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Campbell High School (Campbell, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "Samuel Watts",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Froebel (Gary, IN)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "Kenneth Raab",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Northview High School (Covina, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "17",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Chuck Scrivener",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Polytechnic (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Rod Gaspar",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Long Beach State University",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Ed Green",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "University of San Diego",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Cyrus Lee",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Jones High School (Little Rock, AR)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "William O'Neill",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Windsor Locks High School (Windsor Locks, CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "James Silestrini",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Dwayne Kalmer",
+    "Drafted By": "Washington Senators",
+    "POS": "C",
+    "Drafted From": "Quincy University",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Jerry Paetzhold",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Sparta (Ellis Grove,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Randy Brown",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Florida State University",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Thomas Schleer",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Wayne Hills (Wayne,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "Joseph Pactwa",
+    "Drafted By": "New York Yankees",
+    "POS": "P-OF",
+    "Drafted From": "Thornton Fractional North (Calumet,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Rudolph Green",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Douglass High School (Oklahoma City, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Michael Hastings",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Ithaca (Ithaca,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Larry Housley",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B-3b",
+    "Drafted From": "Colton (Colton,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "John Mayer",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Western Michigan University",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "Jim Palm",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Carlmont (Belmont,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "Ellsworth Jones",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "p-1B",
+    "Drafted From": "James Monroe High School (Bronx, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Dale Spier",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Robert Mitchell",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Lynwood (Lynwood,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Craig Menzi",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "Islip (Islip,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "18",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "Mike Sigman",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Kearny High School (San Diego, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "Ron Cey",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Mount Tahoma (Tacoma, WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Robert Rogers",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "3B",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "William Steinkamp",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Highland High School (Albuquerque, NM)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "John Frye",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Michigan State University",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "Rick Davis",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Parkview High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Edward Cook",
+    "Drafted By": "Washington Senators",
+    "POS": "SS-OF",
+    "Drafted From": "Bridgewater College",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "Gary Ratliff",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "Alan Jackson",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "St. Clements High School (Somerville, MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Richard Corsetto",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Gannon University",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "Earl Hash",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of Richmond",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Rodney O'Brien",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "Robert Bossom",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "Columbia University",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Robert Orange",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Morgan Park (Chicago, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "Jim Blight",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Michigan State University",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "Michael Fuchs",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Parkersburg (Parkersburg,WV)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "Henry Medlin",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Robinson High School (Robinson,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Clifford Farmer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Thomas Tutko",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Hastings College",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Martin Parker",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P-OF",
+    "Drafted From": "King High School (Tampa, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "19",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Thomas Stack",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Calvert Hall (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "Ernie McAnally",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Paris Junior College",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Larry Burchart",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "Ed Goodson",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Fries (Fries,VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "Bernard Linn",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Grossmont High School (El Cajon, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Dale Ford",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "Washington State University",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "Mickey Yates",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "Texas Christian University",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Clement Nowakowski",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Washington High School (Chicago, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Dave LaRoche",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "West Torrance High School (Torrance, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "James McNeil",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "North Plainfield High School (North Plainfield, NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "Jeff Hopkins",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Wesleyan University",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Bill Hanley",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Sacred Heart (Waterbury,CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Jerry Clark",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "J.H. Rose (Greenville,NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "Rich Henninger",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Hastings (Hastings,NE)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Ronald Allen",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Scott (Toledo, OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "Robert Butkus",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Bowdoin College",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "Lawrence Pyle",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Parsippany High School (Parsippany, NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "Ted Rohde",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Sierra (Tollhouse,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "Stephen Vaughn",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-1B",
+    "Drafted From": "Southeast Missouri State University",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Loyd Colson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "p-iF",
+    "Drafted From": "Gould (Gould,OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "20",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Denny Brady",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Purdue University",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "James Gravley",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Bruce Ocken",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Turlock High School (Turlock, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "Frank Van Devender",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "San Diego Mesa College",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "Eugene Collins",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Choctawhatchee (Fort Walton Beach,FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "Thomas Whelan",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C-1B",
+    "Drafted From": "San Diego State University",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Charles Miller",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Waynesville (Waynesville,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Michael Noonan",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Foothill College",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "Irl Davis",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Bishop Montgomery High School (Torrance, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Ronald Fournier",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "Pasadena City College",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "Julian Karp",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Washington State University",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "John Guest",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B-OF",
+    "Drafted From": "Parker (Greenville, SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Richard Holliday",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Westminster College",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "David Smith",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B-SS",
+    "Drafted From": "Red Lion Area (Red Lion, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Robert Buchanan",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "East (Buffalo, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Wilbert Murphy",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "Glen Bisbing",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Rider University",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "Daniel Blood",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Arcadia High School (Arcadia, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "Jerry Florence",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Wichita East (Wichita, KS)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "John Jiles",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "North Cobb (Kennesaw, GA)",
+    "Year": 1966
+  },
+  {
+    "Round": "21",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Dan Vossler",
+    "Drafted By": "Minnesota Twins",
+    "POS": "p-1B",
+    "Drafted From": "Porterville (Porterville,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "William Bluher",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Towson University",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Clarence Cleveland",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "1B-OF",
+    "Drafted From": "Albany High School (Albany, GA)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "Robert Watkins",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Compton (Compton, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "James Chenevert",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Redemptorist (Baton Rouge, LA)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "Michael Nichols",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Bakersfield High School (Bakersfield, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "William Kelley",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Archbishop Curley High School (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "Robert Sharp",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Torrance High School (Torrance, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "Louis Mellini",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "James Sanders",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Southside High School (Florence, SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Marvin Tucker",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Truman (Independence,MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "Kenneth Smith",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Central High School (Phenix City,AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Michael Brannan",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Broughton (Raleigh, NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Isaac Fuggett",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Douglass High School (Oklahoma City, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Richard Schlesinger",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Kansas State University",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "Larry Stout",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Huntington University",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Daniel Beard",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "Frank Baker",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "Greg Garrett",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Los Angeles Pierce College",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Charles Sutton",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Tate High School (Cantonment, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "22",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Dennis Moran",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University High School (Waco, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "John Herzing",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Washington and Jefferson College",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Michael Lisetski",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "Rider University",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "William Wright",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "South Park (Beaumont, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Jack Fulmer",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "Arkansas State University",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Dana Freuderman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Central Catholic (Canton, OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "William Wright",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Montgomery College",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Jerry Meadows",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "West Virginia University",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "William Moray",
+    "Drafted By": "California Angels",
+    "POS": "3B",
+    "Drafted From": "Santa Monica High School (Santa Monica, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "Earl vickers",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Clarence Stoner",
+    "Drafted By": "New York Yankees",
+    "POS": "1B-OF",
+    "Drafted From": "Penn State University",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "Walter Peto",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B",
+    "Drafted From": "Seton Hall University",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Robert Biscan",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Morton (Hammond, IN)",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Robert Leatherwood",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B",
+    "Drafted From": "University of California",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "Thomas Lomicky",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "St. Joseph (West New York,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Calvin Bailey",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "West Virginia State University",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Larry Blixt",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Parsons College",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Charles Hopkins",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Oregon",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Andrew Thomas",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Indiana State University",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "James Frye",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Pontiac Northern High School (Pontiac, MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "23",
+    "Pick": "460",
+    "Phase": "JR",
+    "Player Name": "Ronnie Barr",
+    "Drafted By": "Minnesota Twins",
+    "POS": "IF",
+    "Drafted From": "Phoenix College",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Frank Lolich",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Brigham Young University",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "Allen Ramsey",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "3B",
+    "Drafted From": "Somerville High School (Somerville, NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "John Fletcher",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Lee High School (Columbus, MS)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "James Whinery",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "Downey High School (Modesto, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Steve Hanson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Saratoga (Saratoga,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Mike Flanagan",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "University of North Carolina",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Larry Wright",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "College Park (Pleasant Hill, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "Thomas Buchenberger",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "St. John's University",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "Richard Seminoff",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "Tom Porter",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Zephyrhills (Zephyrhills,FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Glenn Lusk",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "Mississippi State University",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "Larry Edwards",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Erskine College",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "Timothy White",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Denton (Denton, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "John Johnson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Northwest Classen High School (Oklahoma City, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "475",
+    "Phase": "JR",
+    "Player Name": "Robin Porter",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C-OF",
+    "Drafted From": "Virginia Military Institute",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "Jim Skeins",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Ranger College",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "Michale Babler",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "St. Elizabeth (Oakland, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "John Marcum",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Saint Louis University",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "William Ralston",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "2B",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1966
+  },
+  {
+    "Round": "24",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "Mike Colin",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Washington",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "Terrence Parks",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Fremont High School (Oakland, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "Rex Hein",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Rockhurst (Kansas City, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "Dan Monzon",
+    "Drafted By": "Houston Astros",
+    "POS": "2B",
+    "Drafted From": "Buena Vista University",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "Steve Egan",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Pittsburg State University",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "Adrian Kent",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Hillsborough High School (Tampa, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Jerry Schoen",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Loyola University",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "Dale Hill",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B-C",
+    "Drafted From": "Iowa City (Iowa City,IA)",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "Clarence Smith",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "St. Francis College",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "Ben Farrell",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Lipscomb University",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "Robert Dearrah",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Tulane University",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "Dana Halvorson",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B-OF",
+    "Drafted From": "Rogers High School (Spokane, WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Mike Carruthers",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "University of North Carolina-Pembroke",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "Donald Van Deusen",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Concord College",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "James Marting",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "East Brunswick (East Brunswick,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "Douglas Stanley",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "West Virginia University",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Preston Nash",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "City College (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Marc Michel",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "University of Iowa",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "Jim Limke",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Minot State University",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "Robert Perruchon",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Solano Community College",
+    "Year": 1966
+  },
+  {
+    "Round": "25",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Robert Ziegler",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Iowa State University",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Walter Lampmann",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "State College of Florida, Manatee-Sarasota",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "Steve Smith",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "2B",
+    "Drafted From": "Poly High School (Long Beach, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Robert Anderson",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Boulder (Boulder,CO)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Richard Goedert",
+    "Drafted By": "Boston Red Sox",
+    "POS": "1B",
+    "Drafted From": "Mira Costa College",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "David McKelvey",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C-3B",
+    "Drafted From": "Rider University",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "Gerald Pirtle",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Nathan Hale (Tulsa, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "Jim Panther",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Dan Stolingrosz",
+    "Drafted By": "California Angels",
+    "POS": "3B",
+    "Drafted From": "Cleveland High School (Reseda,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Jodie Beeler",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Samuell High School (Dallas, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Louie Bunch",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Springfield Central (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "Raymond Allen",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "El Camino College",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Seaton Daly",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Santa Clara University",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Mickey Smith",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "University of Illinois",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "Nathaniel Dixon",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Tuskegee Institute (Tuskegee,AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "Taylor Toomey",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Colorado",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Tommy Campbell",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Jackson State University",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Michael Wysocki",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Georgia",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "John Zotz",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Danville High School (Danville, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Kenneth Danson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C-OF",
+    "Drafted From": "Forrest (Jacksonville, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "26",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "Larry Walters",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Santiago High School (Garden Grove, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "Christopher Putnam",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Cazzie Russell",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "1B",
+    "Drafted From": "University of Michigan",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "Benny Looper",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Granite (Granite,OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Otis Griggs",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Andalusia High School (Andalusia, AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Bruce Carmichael",
+    "Drafted By": "Chicago Cubs",
+    "POS": "2B-SS",
+    "Drafted From": "Santa Clara University",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "Walter Collins",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Norview (Norfolk,VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "George Bruns",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Manhattan College",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "Richard Well",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Bakersfield High School (Bakersfield, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Lamar Davis",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "University of Maryland",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "David Wright",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Anniston (Anniston,AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "Billy Harris",
+    "Drafted By": "Cleveland Indians",
+    "POS": "2B-SS",
+    "Drafted From": "University of North Carolina at Wilmington",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "Conrad DeNeault",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Vincent Ammerata",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Ossining High School (Ossining, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Paul Mann",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Affton High School (St. Louis, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Richard Pecore",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Mount Saint Joseph (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Donald Kirkland",
+    "Drafted By": "San Francisco Giants",
+    "POS": "p-iF",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Bobby Fenwick",
+    "Drafted By": "Chicago White Sox",
+    "POS": "iF-Of",
+    "Drafted From": "University of Minnesota",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Lawrence Land",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Bamberg-Ehrhardt High School (Bamberg, SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "27",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Larry Jerrel",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Montana State University",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "Mike Martin",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Florida State University",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Norbert Beddow",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P-OF",
+    "Drafted From": "Aurora Central High School (Aurora, CO)",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Jerry Marion",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Wyoming",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "Louis Inman",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "Mississippi Valley State University",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Dean Klahr",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Albright College",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "Richard Bucholtz",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Burlington Area (Burlington,WI)",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Robert Schaffer",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "University of Connecticut",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "Kelly Gaston",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Ventura College",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Dallas Jones",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Belhaven College",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "Vincent Petrarca",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Saint Peter's College",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "Ronald Henson",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Rice University",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Ronald Kohler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Belleville High School (Belleville,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "Walter Joyner",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF-P",
+    "Drafted From": "McDaniel College",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Donald Genussa",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Loyola University",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Terrence Stofer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Key West (Key West,FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "James Daun",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P-OF",
+    "Drafted From": "Chilton (Chilton,WI)",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Thomas Alger",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Hudson (Hudson,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "28",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "Tom Moore",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "John Glenn High School (Norwalk, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "Arnold Nyulassy",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Eastern Kentucky University",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "John Sellers",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "IF",
+    "Drafted From": "Northeastern State University",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "Edmund Mantie",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Syracuse University",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "William Grogan",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Clarkston (Clarkston,WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "Richard Wicks",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "Robert Moone",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "St. Rita High School (Chicago, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Daniel Pollard",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "John Lee",
+    "Drafted By": "New York Yankees",
+    "POS": "iF-Of",
+    "Drafted From": "Linfield College",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Stanley Rand",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B-OF",
+    "Drafted From": "Wheatley (San Antonio, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "Donald DelMazzio",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Harry Gonso",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Findlay (Findlay,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "Gary McCabe",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P-OF",
+    "Drafted From": "Cripple Creek-Victor (Cripple Creek,CO)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "Frank Bon Vardo",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Roy Johnson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Marvin Galliher",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Lincoln High School (San Diego, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Michael Pierce",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Rincon (Tucson, AZ)",
+    "Year": 1966
+  },
+  {
+    "Round": "29",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Steve Sueeters",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Loyola (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "Richard Adams",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Chesterfield (Chesterfield,SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Henry Gunther",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "New London High School (New London, CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "Robert Cassady",
+    "Drafted By": "Houston Astros",
+    "POS": "IF",
+    "Drafted From": "Neshaminy High School (Langhorne, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "Patrick Hartigan",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Columbia Basin College",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Dick Snyder",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "Davidson College",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "Jerry Sabourin",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Cleveland High School (St. Louis, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Forest Hartline",
+    "Drafted By": "California Angels",
+    "POS": "2B",
+    "Drafted From": "Pasadena City College",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "Tim Marks",
+    "Drafted By": "New York Yankees",
+    "POS": "P-OF",
+    "Drafted From": "Manual (Peoria,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "Kenneth Perrin",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Texas A&M University",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "John Vance",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Glasgow High School (Glasgow,KY)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "Ron Timko",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Plains (Plains,PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Edwin Figueroa",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "George Washington High School (New York, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Bruce Taylor",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Perth Amboy High School (Perth Amboy,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Tom Burgess",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Phoenix College",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Melvin McCoy",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Magnolia High School (Anaheim, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Steven Howder",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "City College of San Francisco",
+    "Year": 1966
+  },
+  {
+    "Round": "30",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "Robert Bentley",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Notre Dame",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Willie Richardson",
+    "Drafted By": "New York Mets",
+    "POS": "p-SS",
+    "Drafted From": "Burnet (Burnet,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "Eli Lyles",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "City College (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "Boyd Van Patten",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Springville High School (Springville, UT)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Bill Stoneman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of Idaho",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Charley Baudier",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "Stephen Dean",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Mount Whitney High School (Visalia, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Bill Bonham",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Francis Poly (Sun Valley,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Tommie Iseminger",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "Jimmy Gruber",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Edgewater High School (Orlando, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "Jack Lind",
+    "Drafted By": "Cleveland Indians",
+    "POS": "3B",
+    "Drafted From": "Arizona State University",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Ron Goulet",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Mott Community College",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "James Engel",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "Larry Kleem",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Elder (Cincinnati, OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "John Harrell",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "West Valley College",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "Paul Faust",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "University of Minnesota",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Radford Mawhinney",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF-1B",
+    "Drafted From": "Santa Maria High School (Santa Maria,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "31",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Dave Hoffman",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of Minnesota",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Kurt Bevacqua",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "Miami-Dade College",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "Russell Hyder",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "Boulder (Boulder,CO)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "Steve Evans",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Northville (Northville,MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "Dale Ehler",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "University of Oregon",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Jerry Etheridge",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "Bamberg-Ehrhardt High School (Bamberg, SC)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "William Cheslock",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B-OF",
+    "Drafted From": "Hofstra University",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "615",
+    "Phase": "JR",
+    "Player Name": "Jon Lervig",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "San Fernando (San Fernando,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "616",
+    "Phase": "JR",
+    "Player Name": "Jim Smith",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Lewiston (Lewiston,ID)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "617",
+    "Phase": "JR",
+    "Player Name": "Jimmy Jackson",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Grambling State University",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "618",
+    "Phase": "JR",
+    "Player Name": "William Kollman",
+    "Drafted By": "Cleveland Indians",
+    "POS": "3B",
+    "Drafted From": "Chamberlin (Twinsburg,OH)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "619",
+    "Phase": "JR",
+    "Player Name": "Tom Lee",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Poindexter Legion (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "620",
+    "Phase": "JR",
+    "Player Name": "Gary Johnson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "IF",
+    "Drafted From": "University of Idaho",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "621",
+    "Phase": "JR",
+    "Player Name": "Hugh Hamilton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Lamar High School (Houston, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "622",
+    "Phase": "JR",
+    "Player Name": "Gerald Anding",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Cal State Northridge",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "623",
+    "Phase": "JR",
+    "Player Name": "David Smith",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Schaghticoke (Schaghticoke, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "624",
+    "Phase": "JR",
+    "Player Name": "James Arkell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Claremont College",
+    "Year": 1966
+  },
+  {
+    "Round": "32",
+    "Pick": "625",
+    "Phase": "JR",
+    "Player Name": "Robert Castiglione",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "New York University",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "626",
+    "Phase": "JR",
+    "Player Name": "Ron Pinsenchaun",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Eastern Kentucky University",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "627",
+    "Phase": "JR",
+    "Player Name": "Thomas Matakanski",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "628",
+    "Phase": "JR",
+    "Player Name": "James Moore",
+    "Drafted By": "Houston Astros",
+    "POS": "3B",
+    "Drafted From": "Halifax County High School (South Boston, VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "629",
+    "Phase": "JR",
+    "Player Name": "Ronald Pearson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Phoenix College",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "630",
+    "Phase": "JR",
+    "Player Name": "Chris Kougias",
+    "Drafted By": "Washington Senators",
+    "POS": "1B",
+    "Drafted From": "Fort Hunt (Alexandria, VA)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "631",
+    "Phase": "JR",
+    "Player Name": "Eddie Dixon",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B-p",
+    "Drafted From": "Hiwassee College",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "632",
+    "Phase": "JR",
+    "Player Name": "Richard Ganulin",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "UCLA",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "633",
+    "Phase": "JR",
+    "Player Name": "Fred Keimel",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Berkeley Heights (Berkeley Heights,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "634",
+    "Phase": "JR",
+    "Player Name": "Gary Ross",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Liberty-Portvue (Portvue,PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "635",
+    "Phase": "JR",
+    "Player Name": "Dale Dunham",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Bay city Central (Bay City,MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "636",
+    "Phase": "JR",
+    "Player Name": "Charles Haje",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Wheaton (Wheaton,MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "637",
+    "Phase": "JR",
+    "Player Name": "Michael Horn",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Boone County (Florence,KY)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "638",
+    "Phase": "JR",
+    "Player Name": "Richard Stevenson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Parkville High School (Baltimore, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "639",
+    "Phase": "JR",
+    "Player Name": "Phillip Thomas",
+    "Drafted By": "San Francisco Giants",
+    "POS": "p-iF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "640",
+    "Phase": "JR",
+    "Player Name": "John Davasko",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Saint Louis University",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "641",
+    "Phase": "JR",
+    "Player Name": "Donald Reece",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Campbell High School (Smyrna, GA)",
+    "Year": 1966
+  },
+  {
+    "Round": "33",
+    "Pick": "642",
+    "Phase": "JR",
+    "Player Name": "William Hahn",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Saint Louis University",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "643",
+    "Phase": "JR",
+    "Player Name": "James Beck",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Durham Academy (Durham, NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "644",
+    "Phase": "JR",
+    "Player Name": "Harold Werntz",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Temple University",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "645",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Bowman",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Downey High School (Modesto, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "646",
+    "Phase": "JR",
+    "Player Name": "Earl Lombardo",
+    "Drafted By": "Chicago Cubs",
+    "POS": "2B",
+    "Drafted From": "Rider University",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "647",
+    "Phase": "JR",
+    "Player Name": "Dave Cichon",
+    "Drafted By": "Washington Senators",
+    "POS": "C",
+    "Drafted From": "Bristol Eastern (Bristol,CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "648",
+    "Phase": "JR",
+    "Player Name": "Frederick Covey",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Phillipsburg High School (Phillipsburg, NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "649",
+    "Phase": "JR",
+    "Player Name": "Marvin Madruga",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Mount Whitney High School (Visalia, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "650",
+    "Phase": "JR",
+    "Player Name": "Freddie Dukes",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Central High School (Chattanooga,TN)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "651",
+    "Phase": "JR",
+    "Player Name": "Brian Bach",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Kingston (Kingston,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "652",
+    "Phase": "JR",
+    "Player Name": "Dennis Hall",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Memphis Catholic (Memphis, TN)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "653",
+    "Phase": "JR",
+    "Player Name": "Mark Kenney",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B-Of",
+    "Drafted From": "Jamaica (Jamaica,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "654",
+    "Phase": "JR",
+    "Player Name": "Richard Jaggars",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Gonzaga University",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "655",
+    "Phase": "JR",
+    "Player Name": "Charles Moore",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Poly High School (Long Beach, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "656",
+    "Phase": "JR",
+    "Player Name": "Ray Strable",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "College of the Sequoias",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "657",
+    "Phase": "JR",
+    "Player Name": "Geoff Zahn",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Michigan",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "658",
+    "Phase": "JR",
+    "Player Name": "James McCray",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "San Diego State University",
+    "Year": 1966
+  },
+  {
+    "Round": "34",
+    "Pick": "659",
+    "Phase": "JR",
+    "Player Name": "Ralph Perez",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Washington High School (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "660",
+    "Phase": "JR",
+    "Player Name": "Robert Walter",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Santa Clara University",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "661",
+    "Phase": "JR",
+    "Player Name": "Charles Lynch",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Sayreville (Parlin,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "662",
+    "Phase": "JR",
+    "Player Name": "Patrick Warren",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Miami University",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "663",
+    "Phase": "JR",
+    "Player Name": "James Nealey",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Corona High School (Corona, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "664",
+    "Phase": "JR",
+    "Player Name": "Earl Nursement",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Nevada",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "665",
+    "Phase": "JR",
+    "Player Name": "Steve Hovley",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "666",
+    "Phase": "JR",
+    "Player Name": "Robert Robbins",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Gowanda (Gowanda,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "667",
+    "Phase": "JR",
+    "Player Name": "Larry McGary",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Hillsborough High School (Tampa, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "668",
+    "Phase": "JR",
+    "Player Name": "Frank Sullivan",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Piscataway (Piscataway,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "669",
+    "Phase": "JR",
+    "Player Name": "James Skovron",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Pentucket Regional (West Newbury,MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "670",
+    "Phase": "JR",
+    "Player Name": "Fred Fagan",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "671",
+    "Phase": "JR",
+    "Player Name": "James Dew",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "672",
+    "Phase": "JR",
+    "Player Name": "Thomas Henvey",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Lincoln High School (Yonkers,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "673",
+    "Phase": "JR",
+    "Player Name": "David Nitchke",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1966
+  },
+  {
+    "Round": "35",
+    "Pick": "674",
+    "Phase": "JR",
+    "Player Name": "Steven Wood",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Kansas State University",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "675",
+    "Phase": "JR",
+    "Player Name": "John Meyer",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "University of Cincinnati",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "676",
+    "Phase": "JR",
+    "Player Name": "Tom Binder",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Ganesha (Pomona, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "677",
+    "Phase": "JR",
+    "Player Name": "Phillip Jones",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Jasper (Jasper,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "678",
+    "Phase": "JR",
+    "Player Name": "Bruce Johnson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Wilson High School (Portland, OR)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "679",
+    "Phase": "JR",
+    "Player Name": "Kenneth Kurtz",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "University of Arizona",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "680",
+    "Phase": "JR",
+    "Player Name": "Gary Washington",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Mississippi State University",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "681",
+    "Phase": "JR",
+    "Player Name": "Brantley Jones",
+    "Drafted By": "Atlanta Braves",
+    "POS": "p-1B",
+    "Drafted From": "Kingsbury High School (Memphis, TN)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "682",
+    "Phase": "JR",
+    "Player Name": "James Johnson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P-OF",
+    "Drafted From": "Western Michigan University",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "683",
+    "Phase": "JR",
+    "Player Name": "Donald Messinese",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Crossland (Tempe Hills,MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "684",
+    "Phase": "JR",
+    "Player Name": "Robert Guerrera",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Crosby High School (Waterbury,CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "685",
+    "Phase": "JR",
+    "Player Name": "Brad Dodge",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "David Starr Jordan (Long Beach, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "686",
+    "Phase": "JR",
+    "Player Name": "Robert Breitzman",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Glenbrook North (Northbrook,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "687",
+    "Phase": "JR",
+    "Player Name": "Mark Harris",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1966
+  },
+  {
+    "Round": "36",
+    "Pick": "688",
+    "Phase": "JR",
+    "Player Name": "Phil Johnson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Northern Iowa",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "689",
+    "Phase": "JR",
+    "Player Name": "Neil Rivenburg",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Southern Oregon University",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "690",
+    "Phase": "JR",
+    "Player Name": "Mark Scally",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Archbishop Curley High School (Miami, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "691",
+    "Phase": "JR",
+    "Player Name": "Fred Rodriguez",
+    "Drafted By": "Chicago Cubs",
+    "POS": "2B",
+    "Drafted From": "East Carolina University",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "692",
+    "Phase": "JR",
+    "Player Name": "William Flood",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "Of-C",
+    "Drafted From": "University of Connecticut",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "693",
+    "Phase": "JR",
+    "Player Name": "Carl Ingrim",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Glenville State College",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "694",
+    "Phase": "JR",
+    "Player Name": "Bobby Buckner",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B",
+    "Drafted From": "Napa High School (Napa, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "695",
+    "Phase": "JR",
+    "Player Name": "Joseph Johnson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Loyalsock Township (Williamsport,PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "696",
+    "Phase": "JR",
+    "Player Name": "Donald Atkins",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Housatonic Valley Regional (Falls Village,CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "697",
+    "Phase": "JR",
+    "Player Name": "Rusty York",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Phoenix College",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "698",
+    "Phase": "JR",
+    "Player Name": "Art Kusnyer",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Kent State University",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "699",
+    "Phase": "JR",
+    "Player Name": "Robert Johnson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Trenton High School (Trenton,MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "37",
+    "Pick": "700",
+    "Phase": "JR",
+    "Player Name": "Richard Barnes",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "South Dakota State University",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "701",
+    "Phase": "JR",
+    "Player Name": "John Smith",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Irondequoit (Rochester, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "702",
+    "Phase": "JR",
+    "Player Name": "Herbert Peterson",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Rosenwald (Panama City, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "703",
+    "Phase": "JR",
+    "Player Name": "Archie Reynolds",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Paris Junior College",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "704",
+    "Phase": "JR",
+    "Player Name": "John Manginelli",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Irvington (Irvington,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "705",
+    "Phase": "JR",
+    "Player Name": "Bobby Bryant",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of South Carolina",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "706",
+    "Phase": "JR",
+    "Player Name": "Jimmy O'Loughlin",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "707",
+    "Phase": "JR",
+    "Player Name": "Rich Hand",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Lincoln High School (Seattle, WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "708",
+    "Phase": "JR",
+    "Player Name": "Larry Piquet",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "North Eugene (Eugene, OR)",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "709",
+    "Phase": "JR",
+    "Player Name": "Richard Wanless",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Quincy High School (Quincy,MA)",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "710",
+    "Phase": "JR",
+    "Player Name": "Earl Kennedy",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Bakersfield College",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "711",
+    "Phase": "JR",
+    "Player Name": "Steven Hockensmith",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "Florida Southern College",
+    "Year": 1966
+  },
+  {
+    "Round": "38",
+    "Pick": "712",
+    "Phase": "JR",
+    "Player Name": "Roger Freed",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Mount San Antonio College",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "713",
+    "Phase": "JR",
+    "Player Name": "George Sutton",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Clemson University",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "714",
+    "Phase": "JR",
+    "Player Name": "Jerome Hall",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Arlington High School (Arlington, TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "715",
+    "Phase": "JR",
+    "Player Name": "Phillip Trombino",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Iona College",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "716",
+    "Phase": "JR",
+    "Player Name": "Richard Olsen",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Iowa State University",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "717",
+    "Phase": "JR",
+    "Player Name": "Peter Riffle",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "718",
+    "Phase": "JR",
+    "Player Name": "Ronald Epperson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Hudson's Bay (Vancouver, WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "719",
+    "Phase": "JR",
+    "Player Name": "Ronnie Shelton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Johnson City (Johnson City,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "720",
+    "Phase": "JR",
+    "Player Name": "Mike Ford",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Lewis University",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "721",
+    "Phase": "JR",
+    "Player Name": "Lawrence Hammer",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "722",
+    "Phase": "JR",
+    "Player Name": "William Carthel",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "Of-if",
+    "Drafted From": "Sul Ross State University",
+    "Year": 1966
+  },
+  {
+    "Round": "39",
+    "Pick": "723",
+    "Phase": "JR",
+    "Player Name": "Neil Baskin",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "724",
+    "Phase": "JR",
+    "Player Name": "Robert Willet",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Ohio University",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "725",
+    "Phase": "JR",
+    "Player Name": "Mike Pruett",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Ritenour (St. Louis, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "726",
+    "Phase": "JR",
+    "Player Name": "James Price",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Skyline High School (Salt Lake City, UT)",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "727",
+    "Phase": "JR",
+    "Player Name": "Ralph Wells",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Auburn University",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "728",
+    "Phase": "JR",
+    "Player Name": "Charles Dupuis",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "729",
+    "Phase": "JR",
+    "Player Name": "Billy Ferguson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Holy Cross High School (New Orleans,LA)",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "730",
+    "Phase": "JR",
+    "Player Name": "Bob Garcia",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "College of the Sequoias",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "731",
+    "Phase": "JR",
+    "Player Name": "Edmond Curran",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Saint Louis University",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "732",
+    "Phase": "JR",
+    "Player Name": "Ray Lamb",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1966
+  },
+  {
+    "Round": "40",
+    "Pick": "733",
+    "Phase": "JR",
+    "Player Name": "Bill Farmer",
+    "Drafted By": "Minnesota Twins",
+    "POS": "p-1B",
+    "Drafted From": "Seton Catholic (Binghamton,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "734",
+    "Phase": "JR",
+    "Player Name": "Franklin Stover",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "William Carey University",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "735",
+    "Phase": "JR",
+    "Player Name": "Bruce MacLean",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Bowdoin College",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "736",
+    "Phase": "JR",
+    "Player Name": "Louis Polisano",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Rowan University",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "737",
+    "Phase": "JR",
+    "Player Name": "Marvin Murphy",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "Southeast Lauderdale (Meridian, MS)",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "738",
+    "Phase": "JR",
+    "Player Name": "Philip Scarpellino",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "1B",
+    "Drafted From": "University of New Haven",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "739",
+    "Phase": "JR",
+    "Player Name": "Steve Corpuel",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Francis Poly (Sun Valley,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "740",
+    "Phase": "JR",
+    "Player Name": "Ken Kozil",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Glenbrook North (Northbrook,IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "741",
+    "Phase": "JR",
+    "Player Name": "Donald Spain",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Eisenhower High School (Decatur, IL)",
+    "Year": 1966
+  },
+  {
+    "Round": "41",
+    "Pick": "742",
+    "Phase": "JR",
+    "Player Name": "John Clifton",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Chapman University",
+    "Year": 1966
+  },
+  {
+    "Round": "42",
+    "Pick": "743",
+    "Phase": "JR",
+    "Player Name": "Thomas Schweitzer",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Fairmont State College",
+    "Year": 1966
+  },
+  {
+    "Round": "42",
+    "Pick": "744",
+    "Phase": "JR",
+    "Player Name": "James Smith",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Chipola College",
+    "Year": 1966
+  },
+  {
+    "Round": "42",
+    "Pick": "745",
+    "Phase": "JR",
+    "Player Name": "David Steen",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "42",
+    "Pick": "746",
+    "Phase": "JR",
+    "Player Name": "John Lee",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "Webster High School (Minden, LA)",
+    "Year": 1966
+  },
+  {
+    "Round": "42",
+    "Pick": "747",
+    "Phase": "JR",
+    "Player Name": "Ronald Soucie",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "John Baptist (Brewer,ME)",
+    "Year": 1966
+  },
+  {
+    "Round": "42",
+    "Pick": "748",
+    "Phase": "JR",
+    "Player Name": "Donny Tidwell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "New Diana (New Diana,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "42",
+    "Pick": "749",
+    "Phase": "JR",
+    "Player Name": "Henry Dennis",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Chatham High School (Chatham,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "43",
+    "Pick": "750",
+    "Phase": "JR",
+    "Player Name": "James Zerilla",
+    "Drafted By": "New York Mets",
+    "POS": "p-1B",
+    "Drafted From": "Parsons College",
+    "Year": 1966
+  },
+  {
+    "Round": "43",
+    "Pick": "751",
+    "Phase": "JR",
+    "Player Name": "Lanny Guyer",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Southern Oregon University",
+    "Year": 1966
+  },
+  {
+    "Round": "43",
+    "Pick": "752",
+    "Phase": "JR",
+    "Player Name": "Michael Karkut",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Bayonne (Bayonne,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "43",
+    "Pick": "753",
+    "Phase": "JR",
+    "Player Name": "Richard Allred",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "43",
+    "Pick": "754",
+    "Phase": "JR",
+    "Player Name": "Vaughn Kovach",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "West Virginia University",
+    "Year": 1966
+  },
+  {
+    "Round": "43",
+    "Pick": "755",
+    "Phase": "JR",
+    "Player Name": "Julio Guerrero",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "San Angelo Central (San Angelo,TX)",
+    "Year": 1966
+  },
+  {
+    "Round": "43",
+    "Pick": "756",
+    "Phase": "JR",
+    "Player Name": "Robert Vaughn",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cerritos College",
+    "Year": 1966
+  },
+  {
+    "Round": "44",
+    "Pick": "757",
+    "Phase": "JR",
+    "Player Name": "Maury Hopkins",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Florida State University",
+    "Year": 1966
+  },
+  {
+    "Round": "44",
+    "Pick": "758",
+    "Phase": "JR",
+    "Player Name": "Jan Biggs",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "44",
+    "Pick": "759",
+    "Phase": "JR",
+    "Player Name": "William Mason",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "American University",
+    "Year": 1966
+  },
+  {
+    "Round": "44",
+    "Pick": "760",
+    "Phase": "JR",
+    "Player Name": "Leroy Brown",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Emporia State University",
+    "Year": 1966
+  },
+  {
+    "Round": "44",
+    "Pick": "761",
+    "Phase": "JR",
+    "Player Name": "Jim Magnuson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "College of San Mateo",
+    "Year": 1966
+  },
+  {
+    "Round": "44",
+    "Pick": "762",
+    "Phase": "JR",
+    "Player Name": "Richard Schulock",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Vero Beach High School (Vero Beach, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "44",
+    "Pick": "763",
+    "Phase": "JR",
+    "Player Name": "Richard Erisman",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Lenape (Medford,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "45",
+    "Pick": "764",
+    "Phase": "JR",
+    "Player Name": "John Mispagel",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Santa Clara University",
+    "Year": 1966
+  },
+  {
+    "Round": "45",
+    "Pick": "765",
+    "Phase": "JR",
+    "Player Name": "Michael Steele",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "San Diego State University",
+    "Year": 1966
+  },
+  {
+    "Round": "45",
+    "Pick": "766",
+    "Phase": "JR",
+    "Player Name": "Jim Pope",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Pasco High School (Pasco,WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "45",
+    "Pick": "767",
+    "Phase": "JR",
+    "Player Name": "Ron Romaniello",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Torrington (Torrington,CT)",
+    "Year": 1966
+  },
+  {
+    "Round": "45",
+    "Pick": "768",
+    "Phase": "JR",
+    "Player Name": "Jeff Slipp",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF-P",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "45",
+    "Pick": "769",
+    "Phase": "JR",
+    "Player Name": "Dicky Shaw",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Central State University",
+    "Year": 1966
+  },
+  {
+    "Round": "45",
+    "Pick": "770",
+    "Phase": "JR",
+    "Player Name": "Steve Kadison",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Brown University",
+    "Year": 1966
+  },
+  {
+    "Round": "46",
+    "Pick": "771",
+    "Phase": "JR",
+    "Player Name": "Steve Brasher",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1966
+  },
+  {
+    "Round": "46",
+    "Pick": "772",
+    "Phase": "JR",
+    "Player Name": "Larry Azevedo",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1966
+  },
+  {
+    "Round": "46",
+    "Pick": "773",
+    "Phase": "JR",
+    "Player Name": "Robert Parker",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Duval High School (Lanham, MD)",
+    "Year": 1966
+  },
+  {
+    "Round": "46",
+    "Pick": "774",
+    "Phase": "JR",
+    "Player Name": "Terry Kirkpatrick",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Mona Shores (Muskegon,MI)",
+    "Year": 1966
+  },
+  {
+    "Round": "46",
+    "Pick": "775",
+    "Phase": "JR",
+    "Player Name": "Colby Howe",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "2B-3b",
+    "Drafted From": "Menlo-Atherton (Atherton,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "46",
+    "Pick": "776",
+    "Phase": "JR",
+    "Player Name": "Jeffrey King",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Mainland (Daytona Beach,FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "46",
+    "Pick": "777",
+    "Phase": "JR",
+    "Player Name": "Willis Lancaster",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Franklin High School (New York, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "47",
+    "Pick": "778",
+    "Phase": "JR",
+    "Player Name": "Robert Haines",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Columbia Basin College",
+    "Year": 1966
+  },
+  {
+    "Round": "47",
+    "Pick": "779",
+    "Phase": "JR",
+    "Player Name": "Robert Height",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Shaw University",
+    "Year": 1966
+  },
+  {
+    "Round": "47",
+    "Pick": "780",
+    "Phase": "JR",
+    "Player Name": "Roe Skidmore",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C-1B",
+    "Drafted From": "Millikin University",
+    "Year": 1966
+  },
+  {
+    "Round": "47",
+    "Pick": "781",
+    "Phase": "JR",
+    "Player Name": "Norm Angelini",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "College of San Mateo",
+    "Year": 1966
+  },
+  {
+    "Round": "47",
+    "Pick": "782",
+    "Phase": "JR",
+    "Player Name": "Richard LeBlanc",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Forrest (Jacksonville, FL)",
+    "Year": 1966
+  },
+  {
+    "Round": "47",
+    "Pick": "783",
+    "Phase": "JR",
+    "Player Name": "Thomas Staach",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 1966
+  },
+  {
+    "Round": "48",
+    "Pick": "784",
+    "Phase": "JR",
+    "Player Name": "Billy Haynes",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "East Rowan (Salisbury,NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "48",
+    "Pick": "785",
+    "Phase": "JR",
+    "Player Name": "Roy Waye",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Lynn view (Kingsport,TN)",
+    "Year": 1966
+  },
+  {
+    "Round": "48",
+    "Pick": "786",
+    "Phase": "JR",
+    "Player Name": "Richard Sauget",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "University of Notre Dame",
+    "Year": 1966
+  },
+  {
+    "Round": "48",
+    "Pick": "787",
+    "Phase": "JR",
+    "Player Name": "John Shafer",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Madison High School (Portland, OR)",
+    "Year": 1966
+  },
+  {
+    "Round": "48",
+    "Pick": "788",
+    "Phase": "JR",
+    "Player Name": "Lamar Haynes",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Chipola College",
+    "Year": 1966
+  },
+  {
+    "Round": "48",
+    "Pick": "789",
+    "Phase": "JR",
+    "Player Name": "Roger Zahn",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "New Ulm (New Ulm,MN)",
+    "Year": 1966
+  },
+  {
+    "Round": "49",
+    "Pick": "790",
+    "Phase": "JR",
+    "Player Name": "Gary Marion",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Pioneer (San Jose, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "49",
+    "Pick": "791",
+    "Phase": "JR",
+    "Player Name": "William Shepherd",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Rogers High School (Spokane, WA)",
+    "Year": 1966
+  },
+  {
+    "Round": "49",
+    "Pick": "792",
+    "Phase": "JR",
+    "Player Name": "Stan Evans",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Bowling Green State University",
+    "Year": 1966
+  },
+  {
+    "Round": "49",
+    "Pick": "793",
+    "Phase": "JR",
+    "Player Name": "Gary Holt",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "New Bern (New Bern,NC)",
+    "Year": 1966
+  },
+  {
+    "Round": "49",
+    "Pick": "794",
+    "Phase": "JR",
+    "Player Name": "Jody Gioffoni",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Santa Monica High School (Santa Monica, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "49",
+    "Pick": "795",
+    "Phase": "JR",
+    "Player Name": "James Koosa",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "",
+    "Year": 1966
+  },
+  {
+    "Round": "50",
+    "Pick": "796",
+    "Phase": "JR",
+    "Player Name": "Owen Toy",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "University of Nevada",
+    "Year": 1966
+  },
+  {
+    "Round": "50",
+    "Pick": "797",
+    "Phase": "JR",
+    "Player Name": "Al Simmons",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Idaho",
+    "Year": 1966
+  },
+  {
+    "Round": "50",
+    "Pick": "798",
+    "Phase": "JR",
+    "Player Name": "John Pitrulis",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Benedictine University",
+    "Year": 1966
+  },
+  {
+    "Round": "50",
+    "Pick": "799",
+    "Phase": "JR",
+    "Player Name": "Kenneth Wiedemann",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "2B",
+    "Drafted From": "West Covina (West Covina, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "51",
+    "Pick": "800",
+    "Phase": "JR",
+    "Player Name": "John Hilts",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Wyoming",
+    "Year": 1966
+  },
+  {
+    "Round": "51",
+    "Pick": "801",
+    "Phase": "JR",
+    "Player Name": "Roger Banks",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Mars Hill College",
+    "Year": 1966
+  },
+  {
+    "Round": "51",
+    "Pick": "802",
+    "Phase": "JR",
+    "Player Name": "William Matuez",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Seton Hall University",
+    "Year": 1966
+  },
+  {
+    "Round": "51",
+    "Pick": "803",
+    "Phase": "JR",
+    "Player Name": "Mark Johnson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of New Mexico",
+    "Year": 1966
+  },
+  {
+    "Round": "52",
+    "Pick": "804",
+    "Phase": "JR",
+    "Player Name": "Steve Seale",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1966
+  },
+  {
+    "Round": "52",
+    "Pick": "805",
+    "Phase": "JR",
+    "Player Name": "Steven Richman",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "Columbia University",
+    "Year": 1966
+  },
+  {
+    "Round": "52",
+    "Pick": "806",
+    "Phase": "JR",
+    "Player Name": "Thomas Tidball",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Southeast High School (Lincoln,NE)",
+    "Year": 1966
+  },
+  {
+    "Round": "52",
+    "Pick": "807",
+    "Phase": "JR",
+    "Player Name": "Walter Pierce",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "William Carey University",
+    "Year": 1966
+  },
+  {
+    "Round": "53",
+    "Pick": "808",
+    "Phase": "JR",
+    "Player Name": "Luis Flores",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Lafayette High School (Brooklyn, NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "53",
+    "Pick": "809",
+    "Phase": "JR",
+    "Player Name": "Larry Brown",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Wichita (Wichita, KS)",
+    "Year": 1966
+  },
+  {
+    "Round": "53",
+    "Pick": "810",
+    "Phase": "JR",
+    "Player Name": "Jack Butorac",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Montebello (Montebello,CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "54",
+    "Pick": "811",
+    "Phase": "JR",
+    "Player Name": "Rusty Torres",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "New York Vocational (Jamaica,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "54",
+    "Pick": "812",
+    "Phase": "JR",
+    "Player Name": "Robert Schnietz",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Christian Brothers University",
+    "Year": 1966
+  },
+  {
+    "Round": "54",
+    "Pick": "813",
+    "Phase": "JR",
+    "Player Name": "David Lindsey",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Fremont High School (Los Angeles, CA)",
+    "Year": 1966
+  },
+  {
+    "Round": "55",
+    "Pick": "814",
+    "Phase": "JR",
+    "Player Name": "Gil Scharringhausen",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Portland State University",
+    "Year": 1966
+  },
+  {
+    "Round": "55",
+    "Pick": "815",
+    "Phase": "JR",
+    "Player Name": "James Conklin",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Tuxedo (Tuxedo,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "55",
+    "Pick": "816",
+    "Phase": "JR",
+    "Player Name": "Bobby Randall",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "-",
+    "Year": 1966
+  },
+  {
+    "Round": "56",
+    "Pick": "817",
+    "Phase": "JR",
+    "Player Name": "Thomas Bongiorno",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Seton Hall University",
+    "Year": 1966
+  },
+  {
+    "Round": "56",
+    "Pick": "818",
+    "Phase": "JR",
+    "Player Name": "Ronald Schroeder",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B-OF",
+    "Drafted From": "Cleo Springs (Oklahoma City, OK)",
+    "Year": 1966
+  },
+  {
+    "Round": "56",
+    "Pick": "819",
+    "Phase": "JR",
+    "Player Name": "Frank Staab",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Hays (Hays,KS)",
+    "Year": 1966
+  },
+  {
+    "Round": "57",
+    "Pick": "820",
+    "Phase": "JR",
+    "Player Name": "Ron Lewis",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Temple University",
+    "Year": 1966
+  },
+  {
+    "Round": "57",
+    "Pick": "821",
+    "Phase": "JR",
+    "Player Name": "Patrick Colombo",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Nassau Community College",
+    "Year": 1966
+  },
+  {
+    "Round": "57",
+    "Pick": "822",
+    "Phase": "JR",
+    "Player Name": "John Thurston",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C-SS",
+    "Drafted From": "Archbishop Molloy (Jamaica,NY)",
+    "Year": 1966
+  },
+  {
+    "Round": "58",
+    "Pick": "823",
+    "Phase": "JR",
+    "Player Name": "Ernest Recob",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Kansas State University",
+    "Year": 1966
+  },
+  {
+    "Round": "58",
+    "Pick": "824",
+    "Phase": "JR",
+    "Player Name": "Adrian Zabala",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Florida",
+    "Year": 1966
+  },
+  {
+    "Round": "59",
+    "Pick": "825",
+    "Phase": "JR",
+    "Player Name": "Kelly Prior",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Florida",
+    "Year": 1966
+  },
+  {
+    "Round": "59",
+    "Pick": "826",
+    "Phase": "JR",
+    "Player Name": "William Scott",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Germantown High School (Philadelphia, PA)",
+    "Year": 1966
+  },
+  {
+    "Round": "60",
+    "Pick": "827",
+    "Phase": "JR",
+    "Player Name": "Tom Bettecher",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Buffalo State College",
+    "Year": 1966
+  },
+  {
+    "Round": "60",
+    "Pick": "828",
+    "Phase": "JR",
+    "Player Name": "Thomas Smith",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Foley (Foley,AL)",
+    "Year": 1966
+  },
+  {
+    "Round": "61",
+    "Pick": "829",
+    "Phase": "JR",
+    "Player Name": "Richard Carlson",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Buffalo State College",
+    "Year": 1966
+  },
+  {
+    "Round": "61",
+    "Pick": "830",
+    "Phase": "JR",
+    "Player Name": "Reed Raynor",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Hamilton High School (Robbinsville,NJ)",
+    "Year": 1966
+  },
+  {
+    "Round": "62",
+    "Pick": "831",
+    "Phase": "JR",
+    "Player Name": "Frank Brennan",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Fairleigh Dickinson University",
+    "Year": 1966
+  },
+  {
+    "Round": "62",
+    "Pick": "832",
+    "Phase": "JR",
+    "Player Name": "Robert Chandler",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "2B",
+    "Drafted From": "Rollins College",
+    "Year": 1966
+  },
+  {
+    "Round": "63",
+    "Pick": "833",
+    "Phase": "JR",
+    "Player Name": "Matt Galante",
+    "Drafted By": "New York Yankees",
+    "POS": "IF",
+    "Drafted From": "St. John's University",
+    "Year": 1966
+  }
+]

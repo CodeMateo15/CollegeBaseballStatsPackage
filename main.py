@@ -1,4 +1,4 @@
-from src.ncaa_bbStats.team_stats import *
+from src.ncaa_bbStats.draft_store import *
 
 '''
 
@@ -48,26 +48,9 @@ else:
 '''
 
 
-def main():
-    # Example user input
-    year = 2017
-    division = 3
-
-    try:
-        # Call a stat function with the year/division
-        data = hit_batters(year=year, division=division)
-        print("Hit Batters data:")
-        print(data)
-
-        # Call another stat for same or different config
-        ba_data = batting_average(year=year, division=division)
-        print("\nBatting Average data:")
-        print(ba_data)
-
-    except ValueError as e:
-        print(f"Error: {e}")
-
 if __name__ == "__main__":
-    main()
+    save_yearly_drafts()             # Save individual files per year
+    save_combined_draft()            # Save one full combined file
+
 
 

@@ -1,0 +1,7792 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Bob Horner",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Lloyd Moseby",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "1B",
+    "Drafted From": "Oakland High School (Oakland, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Hubie Brooks",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Mike Morgan",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Valley High School (Las Vegas, NV)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Andy Hawkins",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Midway High School (Waco, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Tito Nanni",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Chestnut Hill Academy (Philadelphia, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Bob Cummings",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Brother Rice High School (Chicago, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Nick Hernandez",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Hialeah High School (Hialeah, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Glenn Franklin",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "Chipola College",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Phil Lansford",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Wilcox High School (Santa Clara, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Rod Boxberger",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Kirk Gibson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Michigan State University",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Bill Hayes",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Indiana State University",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Tom Brunansky",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "West Covina (West Covina, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Bob Hicks",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Tate High School (Cantonment, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Lenny Faedo",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Jefferson High School (Tampa, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Nick Esasky",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Miami Carol City Senior High (Miami, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Rex Hudler",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Bullard High School (Fresno, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Brad Garnett",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "1B",
+    "Drafted From": "DeSoto High School (DeSoto, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Tim Conroy",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "Gateway High School (Monroeville, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Jerry Aubin",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Dougherty Comprehensive High School (Albany, GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Robert Boyce",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Deer Park High School (Cincinnati, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Rip Rollins",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "Allegheny High School (Sparta, NC)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Matt Winters",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Williamsville High School (Williamsville, NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Buddy Biancalana",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Redwood High School (Larkspur, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "1",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "Brian Ryder",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Shrewsbury High School (Shrewsbury, MA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Matt Sinatro",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Conard High School (West Hartford, CT)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Tim Thompson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "1B",
+    "Drafted From": "Winter Park High School (Winter Park, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Larry Sheets",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Robert E. Lee High School (Staunton, VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Keith Atherton",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Mathews High School (Mathews, VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "David White",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Valdosta High School (Valdosta, GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Dave Valle",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "Holy Cross High School (Flushing, NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Steve Raine",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "North Salinas (Salinas, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Rich Naumann",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "Bay High School (Bay Village,OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "Edwin Hook",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Point Loma High School (San Diego, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Chris Bando",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Danny Heep",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "St. Mary's University",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Craig Johnson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "UCLA",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Mel Hall",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Port Byron High School (Port Byron, NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Doug Gwosdz",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Madison High School (Houston, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "David Kable",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "West High School (Columbus, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "Mike Riley",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Agawam High School (Agawam, MA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Dave Van Gorder",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Buck Belue",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Valdosta High School (Valdosta, GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Brad Palmer",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "Escondido High School (Escondido, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Amos Lewis",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Astronaut High School (Titusville, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "Clay Smith",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Northwest Classen High School (Oklahoma City, OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Cal Ripken",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Aberdeen High School (Aberdeen, MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Anthony McGill",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Jones High School (Houston, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Cecil Whitehead",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Valdosta State University",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Darryl Motley",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Grant High School (Portland, OR)",
+    "Year": 1978
+  },
+  {
+    "Round": "2",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Steve Balboni",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Eckerd College",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Steve Bedrosian",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "University of New Haven",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Mike Cullen",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Columbus High School (Columbus,WI)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Brian Giles",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "Kearny High School (San Diego, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Bob Grandas",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Central Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "George Stablein",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Cal State Dominguez Hills",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Rob Simond",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "David Wiggins",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "Seminole High School (Sanford, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Rickey Keeton",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Steve Michael",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Michael Taylor",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Columbia State Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "John Hessier",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "University of Tulsa",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Fran Mullins",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Santa Clara University",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Bubba Kizer",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "University of Georgia",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Dave Engle",
+    "Drafted By": "California Angels",
+    "POS": "3B",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Mike Moore",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Eakly High School (Eakly,OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Dave Leeper",
+    "Drafted By": "Minnesota Twins",
+    "POS": "LHP",
+    "Drafted From": "Villa Park High School (Orange, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Esky Viltz",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Notre Dame High School (Sherman Oaks, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Britt Burns",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Huffman (Birmingham, AL)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Pat Rubino",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "San Diego State University",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "David Crutcher",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "University of Arizona",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Augie Ruiz",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "University of Miami",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Bob Bonner",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Texas A&M University",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Dean Martinez",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Pueblo East (Pueblo, CO)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Mike Maitland",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Monsignor Pace High School (Miami, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Mark Ryal",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Dewar (Dewar,OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "3",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Mark Johnston",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of South Alabama",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Rick Behenna",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "South Ridge (Cutler Ridge,FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Mike Coyne",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "McNicholas High School (Cincinnati, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Don Troyan",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "St. John's University",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Mike Woodard",
+    "Drafted By": "Oakland Athletics",
+    "POS": "2B",
+    "Drafted From": "Proviso East (Maywood, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Larry Reynolds",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "Ron McGee",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Lincoln High School (San Jose, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Rob Deer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Canyon High School (Anaheim, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Rich Olsen",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "University of Hawaii",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Dave Hostetler",
+    "Drafted By": "Montreal Expos",
+    "POS": "1B",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Dane Anthony",
+    "Drafted By": "Cleveland Indians",
+    "POS": "RHP",
+    "Drafted From": "James Buchanan (St. Thomas,PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Ron Meridith",
+    "Drafted By": "Houston Astros",
+    "POS": "LHP",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Jerry Ujdur",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "University of Minnesota",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Dave Seiler",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "Manzano (Albuquerque, NM)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Mike Witt",
+    "Drafted By": "California Angels",
+    "POS": "RHP",
+    "Drafted From": "Servite High School (Anaheim, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "George Bjorkman",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Wade Adamson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "South Dakota State University",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Mike Kripner",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Texas Lutheran University",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Mike Rubel",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Banning High School (Banning,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Thomas Siebert",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "-",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Mitch Zwolensky",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Owosso (Owosso,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Glenn Gallagher",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "Peekskill High School (Peekskill, NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Tim Norris",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Archbishop Curley High School (Baltimore, MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Ed Hearn",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Fort Pierce Central (Fort Pierce, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Edward Connors",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "North Bergen (North Bergen,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "David Mangrum",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Bells (Bells,TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "4",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Tim Lollar",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Michael Miller",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "University of Louisville",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Dave Stieb",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Jeff Gossett",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "Scott Meyer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Western Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Floyd Chiffer",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "UCLA",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Werner Lajszky",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "Mater Christi (Astoria,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Jeff Ransom",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Berkeley High School (Berkeley, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Tim Cook",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Newberry College",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Steve Morrison",
+    "Drafted By": "Montreal Expos",
+    "POS": "3B",
+    "Drafted From": "University of South Alabama",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "John Asbell",
+    "Drafted By": "Cleveland Indians",
+    "POS": "RHP",
+    "Drafted From": "Southwest Magnet High School (Macon, GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Doug Stokke",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Marty Castillo",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Chapman University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Jon Perlman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Baylor University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Rick Foley",
+    "Drafted By": "California Angels",
+    "POS": "RHP",
+    "Drafted From": "Santa Clara University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Glenn Jones",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Frankfort High School (Frankfort, KY)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Frank Vilorio",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Jeff Lahti",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Portland State University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Dennis Keating",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Marin Catholic (Kentfield,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Robert Davis",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "University of Utah",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Eric Shellenbeck",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Barrington (Barrington,IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "John Robbins",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Lockhart (Lockhart,SC)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Tony Herron",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "LHP",
+    "Drafted From": "Sanger (Sanger,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Darren Burroughs",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "LHP",
+    "Drafted From": "Vinita High School (Langley, OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Del Bender",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "David Hogg",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "Northwestern University",
+    "Year": 1978
+  },
+  {
+    "Round": "5",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "Pete Khoury",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Eckerd College",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "Ken Scanlon",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Granada Hills (Granada Hills, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Mike Cuellar",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Madison High School (Houston, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "Mike Fitzgerald",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "Kelvin Moore",
+    "Drafted By": "Oakland Athletics",
+    "POS": "1B",
+    "Drafted From": "Jackson State University",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Tim Flannery",
+    "Drafted By": "San Diego Padres",
+    "POS": "2B",
+    "Drafted From": "Chapman University",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Doug Smith",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "Ken Hall",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "McNicholas High School (Cincinnati, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "Steven Gibson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Kennedy High School (Granada Hills, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Bill Mooneyham",
+    "Drafted By": "Montreal Expos",
+    "POS": "RHP",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Tom Owens",
+    "Drafted By": "Cleveland Indians",
+    "POS": "RHP",
+    "Drafted From": "University of Michigan",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Bob Palmer",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Chapman University",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Kevin Martin",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Falconer Central (Falconer,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Robert Triplett",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Wendell Phillips Academy (Chicago, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Gary Clevenger",
+    "Drafted By": "California Angels",
+    "POS": "3B",
+    "Drafted From": "Buena High School (Ventura,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Tim Mueller",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Arroyo (San Lorenzo,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Nattie George",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Overfelt (San Jose, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Ray Townsend",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B",
+    "Drafted From": "UCLA",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Dom Fucci",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B",
+    "Drafted From": "Auburn University",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Don McCarthy",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Terry Bogener",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Mike Marshall",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "Buffalo Grove (Buffalo Grove,IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "Mike Boddicker",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Iowa",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Pete Dempsey",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Temple University",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Steve Schaefer",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Alhambra High School (Alhambra,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Jesse Lucious",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Rich East (Park Forest,IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "6",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Andy McGaffigan",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Florida Southern College",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Doyle Wilson",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Shorter College",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Brian Milner",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "Southwest Christian (Fort Worth, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Henry Janssen",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Charles Dougherty",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "Steubenville (Steubenville,OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "Steve Fireovid",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Miami University",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "Jack Hobbs",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "Lynchburg College",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Kelly Anderson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Ygnacio Valley High School (Concord, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Franklin Thomas",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "2B",
+    "Drafted From": "University of Maryland",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "165",
+    "Phase": "JR",
+    "Player Name": "Cat Whitfield",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Middle Georgia College",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "Mike Young",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Hayward High School (Hayward, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Greg Cypret",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "University of Missouri",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Bruce Fields",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Everett High School (Lansing, MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Mark Parker",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Huntington University",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Bill Springman",
+    "Drafted By": "California Angels",
+    "POS": "2B",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "Dennis Gadowski",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Central Catholic (Cleveland, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Mark Maher",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Tulane University",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "Tim Greene",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "LHP",
+    "Drafted From": "River North Academy (Macon, GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "Michael Schoeller",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Florida Southern College",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Scott Roberts",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Roosevelt High School (Seattle, WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Jerry Neufang",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Hayfield (Alexandria, VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "177",
+    "Phase": "JR",
+    "Player Name": "Mark Nipp",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "Don Welchel",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Sam Houston State University",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "Paul Kless",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "Granada Hills (Granada Hills, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "Ken Hagemann",
+    "Drafted By": "Boston Red Sox",
+    "POS": "1B",
+    "Drafted From": "Tottenville High School (Staten Island, NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Tim Rodgers",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Bixby High School (Bixby, OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "7",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Kevin Hemphill",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Catawba College.",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "Jose Alvarez",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "University of Louisiana at Lafayette",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Brad Burger",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "North Boone High School (Poplar Grove, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "James Cooperider",
+    "Drafted By": "New York Mets",
+    "POS": "LHP",
+    "Drafted From": "Central Valley (Shasta Lake,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Robert Adams",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Sherrill Central (Sherrill,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "Mike Parker",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "University of Michigan",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "Lazoro Santin",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "Rochester Adams (Rochester Hills,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "Alvin Davis",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Riverside North High School (Riverside, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Vine Pone",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "El Camino Real (Woodland Hills,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "David Perez",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "Stanford University",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "Eric Porter",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Waseca (Waseca,MN)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "Larry Ashley",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Oakland High School (Oakland, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Ted Hutson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Miami East (Fletcher,OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Dave Klipstein",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Marshall High School (Milwaukee, WI)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "Tim Wallach",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "Richard Budweg",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "Bloomsburg University of Pennsylvania",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Les Pearsey",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "University of Arizona",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "Charles McKinney",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Badin (Hamilton, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "Ivan Mesa",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Donald Cline",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Wayne Tolleson",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Western Carolina University",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "Bill Swlacki",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Amherst College",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "Scott Collins",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Plymouth-Canton (Canton, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Mike Henson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "San Mateo High School (San Mateo, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "Ken Young",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "University of New Haven",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "Jeff Cornell",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of Mississippi",
+    "Year": 1978
+  },
+  {
+    "Round": "8",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "Dan Plante",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Crespi Carmelite High School (Encino, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "Gary Friedrich",
+    "Drafted By": "Atlanta Braves",
+    "POS": "LHP",
+    "Drafted From": "Gavit (Hammond, IN)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Tom Stauffer",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "Monsignor Bonner (Drexel Hill,PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "Glen Johnson",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Michael Codiroli",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "Tim Hamm",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Soquel (Soquel,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "Richard Graser",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "Fort Vancouver (Vancouver, WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Chris Barbone",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Azusa Pacific University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "Dan Gilmartin",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Monroe High School (North Hills, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "Charlie Lea",
+    "Drafted By": "Montreal Expos",
+    "POS": "RHP",
+    "Drafted From": "University of Memphis",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "Peter Peltz",
+    "Drafted By": "Cleveland Indians",
+    "POS": "3B",
+    "Drafted From": "Clemson University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "219",
+    "Phase": "JR",
+    "Player Name": "Brad Carlson",
+    "Drafted By": "Houston Astros",
+    "POS": "3B",
+    "Drafted From": "Boone High School (Orlando, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "Mike Wright",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Vanderbilt University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "Jeff Groth",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Bowling Green State University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Preston Freeman",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Chandler High School (Chandler, AZ)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "Marty Wilkerson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Corona High School (Corona, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Tony Fossas",
+    "Drafted By": "Minnesota Twins",
+    "POS": "LHP",
+    "Drafted From": "University of South Florida",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Charlie Leibrandt",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "LHP",
+    "Drafted From": "Miami University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Preston Williams",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B",
+    "Drafted From": "Indiana State University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Frank Milozewski",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Indiana University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Tracy Cowger",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "Steve Sax",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Marshall High School (Sacramento, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "Kurt Fabrizio",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Edmonds Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Dan Prior",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "James Madison University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Russ Quetti",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "University of Maine",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "Erik Hendricks",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Chapman University",
+    "Year": 1978
+  },
+  {
+    "Round": "9",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Jeff Taylor",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "University of Delaware",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Jimmy Matthews",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Georgia Southern University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Alan Montgomery",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "3B",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "Richard Lane",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "San Jose State University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Stephen Marlowe",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "St. Petersburg High School (St. Petersburg, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Mobil Cox",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "UCLA",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Bob Stoddard",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "Dwayne Jackson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Locke High School (Los Angeles, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Lance Ediger",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Tom Wieghaus",
+    "Drafted By": "Montreal Expos",
+    "POS": "C",
+    "Drafted From": "Illinois State University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Kenneth Henderson",
+    "Drafted By": "Cleveland Indians",
+    "POS": "2B",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Frank Castro",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "James Simerly",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Chapman University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "John Stockstill",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Hurley (Hurley,MO)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Terry Marshall",
+    "Drafted By": "California Angels",
+    "POS": "LHP",
+    "Drafted From": "Riverside Christian (Mira Loma,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Marshall Cook",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Tom Morris",
+    "Drafted By": "Minnesota Twins",
+    "POS": "LHP",
+    "Drafted From": "Brigham Young University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "Chris Stropolo",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "John Curtis (New Orleans,LA)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "Brian Stemberger",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Eastern Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "David Rosenhahn",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "West Seneca (West Seneca,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Allan Ramirez",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Rice University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Rodney Kemp",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "San Jose State University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Brooks Carey",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "LHP",
+    "Drafted From": "Florida State University",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Marty Shoemaker",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Checotah (Checotah,OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "Donald Hayford",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Lakeland High School (Lakeland, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Harold Bright",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Mumford (Detroit, MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "10",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Dan Ledduke",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Florida International University",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "Gerald Perry",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "McCracken (Bluffton,SC)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Dave Baker",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "3B",
+    "Drafted From": "UCLA",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "Randy Johnson",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "San Jose State University",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Jay Greb",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Eagle Point (Eagle Point,OR)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Jack Hills",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Cal State Dominguez Hills",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Vance McHenry",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "UNLV",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "John Rabb",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Washington High School (Los Angeles, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Columbus Duncan",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "1B",
+    "Drafted From": "University of Virginia",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Dave Clements",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "East Bay (Gibsonton,FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "Gordon Glaser",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Louisiana College",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "Jack Lazorko",
+    "Drafted By": "Houston Astros",
+    "POS": "3B-P",
+    "Drafted From": "Mississippi State University",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Art Toal",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B-SS",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Mark Lohuis",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Perry Morrison",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Phoenix College",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Jeff Sollars",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Wellington (Wellington,IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Don Smith",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Istrouma High School (Baton Rouge, LA)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "John Warren",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C-OF",
+    "Drafted From": "Wayne County High School (Jesup, GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "Ramon Murillo",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "Tim Florey",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Brooklyn Park (Baltimore, MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Chris Smith",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF-if",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "John Malkin",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Cardinal Spellman (Bronx, NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "Robin Dreizler",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Redondo Union High School (Redondo Beach, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Dwight Taylor",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Fremont High School (Los Angeles, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Craig Vandersteen",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Grand Ledge (Grand Ledge,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "Ulises Infante",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "St. Patrick's High School (Elizabeth, NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "11",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "Mark Moore",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of South Florida",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Bobby Supel",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "East Carolina University",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "Vincent Williams",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Sam Houston High School (Houston, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Reggie Whittemore",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Lipscomb University",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Ron Jensen",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Coronado (Scottsdale, AZ)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "Brad Shames",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "University of California-Santa Barbara",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "Terry Mixon",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "Georgia Southern University",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Charles Everett",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Crowley (Crowley,TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Jerry DeSimone",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "Ronnie Pearce",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Stetson University",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "Casey Lindsey",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Tim Tolman",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Jack Smith",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Glen Oaks Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "Glenn Swaggerty",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Carter (Knoxville, TN)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "Jeff Schattinger",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Dennis Delany",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "UCLA",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "Scott Bradley",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "West Essex (North Caldwell,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "Mike Sulivan",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Northwestern Regional (Winsted,CT)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Mark Platel",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Dennis Jones",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Kearny High School (San Diego, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "Rick Misuraca",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Del City (Oklahoma City, OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Francis Wilczewski",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Independence High School (San Jose, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Charles Salagan",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "St. Clair County Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "Michael Culbert",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Bonanza (Las Vegas, NV)",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "James Fabiano",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "Robert Ganger",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Pepperdine University",
+    "Year": 1978
+  },
+  {
+    "Round": "12",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Randy Kwist",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Eckerd College",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "Robert Elsea",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Cleveland State Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "Thomas O'Dowd",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Lumen Christi (Jackson,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "Jeff Sunderlage",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Elgin High School (Elgin, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "Bret Cleland",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Corning (Corning,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "Greg Patton",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Lower Dauphin (Hummelstown,PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Bill Kampen",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "Dale Baldwin",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Boise State University",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Steven Norwood",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Virginia",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "Jim Deshales",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Massena Central (Massena,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "Robert Hussey",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Saint Xavier University",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "Mike Browning",
+    "Drafted By": "Houston Astros",
+    "POS": "1B-P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "David Cassetto",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Western Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "Dave Govea",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B-OF",
+    "Drafted From": "Poly High School (Long Beach, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "Peter Otero",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Yavapai College",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Roosevelt Lett",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Garey High School (Pomona, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Ron Grout",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Wingate University",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "Byron Jackson",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Rider (Wichita Falls, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "Rick Witt",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS-3B",
+    "Drafted From": "Spokane Falls Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Barry Brown",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Lake Worth High School (Fort Worth, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Albert Ortiz",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Baruch College",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Melvin Meadows",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "White Oak High School (Jacksonville, NC)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "William Purdy",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Niagara University",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "Bruce Humphrey",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "University of Tulsa",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "John Lickert",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Langley High School (Pittsburgh, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "James Davidson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Alma College",
+    "Year": 1978
+  },
+  {
+    "Round": "13",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "Claude Sammons",
+    "Drafted By": "New York Yankees",
+    "POS": "1B-OF",
+    "Drafted From": "Gonzaga University",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "Lance Gore",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Mark Stoeber",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Northern Kentucky University",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Darryl Denby",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Lincoln High School (San Diego, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Omar Minaya",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Newton High School (Elmhurst,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Al Richmond",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "St. Mary's College of California",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "Rob Pietroburgo",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "Greg Norris",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of North Carolina",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Tom McLish",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Grayling Tobias",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "University of Missouri-St. Louis",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Mark Meleski",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Tucker (Tucker,GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Arvis Harper",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "Mike Mason",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF-p",
+    "Drafted From": "Normandale Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Mark Gilbert",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Florida State University",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Dan Whitmer",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Martin Little",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "Craig Shumock",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Chestnut Hill Academy (Philadelphia, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "James Thomas",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Wichita Southeast (Wichita, KS)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "Bobby Meacham",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Mater Dei High School (Santa Ana, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Wesley Hair",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Albany State University",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Charlie O'Brien",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Bishop Kelley High School (Tulsa, OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Jeff Kopjo",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF-1B",
+    "Drafted From": "Lyons Township (LaGrange,IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "Jim Loftin",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of South Alabama",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "Robert Angius",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "p-1B",
+    "Drafted From": "Lassen (Susanville,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Lloyd Bessard",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Abbeville (Abbeville,LA)",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "Ira Turner",
+    "Drafted By": "Kansas City Royals",
+    "POS": "1B",
+    "Drafted From": "Bethune-Cookman University",
+    "Year": 1978
+  },
+  {
+    "Round": "14",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "Andy Beene",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Baylor University",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "William Aldridge",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Rob Irwin",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "John Elder",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Frostburg State University",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "Jim Scranton",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Palomar College",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Ken Harris",
+    "Drafted By": "San Diego Padres",
+    "POS": "3B-SS",
+    "Drafted From": "El Cerrito High School (El Cerrito, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "Harry Mauch",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Southern Oregon University",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Jeff Ahlert",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Aiken High School (Cincinnati, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "Carl Watson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "East Bay (Gibsonton,FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Jeff Taylor",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "James A. Garfield (Garrettsville,OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "Gerald Stutzries",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Rich Central (Olympia Fields,IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "Thad Troedson",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "San Diego State University",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "Marvin Saunders",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of South Alabama",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Mark Langston",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Buchser (Santa Clara, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Richard Rommel",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Mike Toothman",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Edgewood High School (West Covina, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Robert Jones",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Archbishop Curley High School (Baltimore, MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "Gary Redus",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Athens State University",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Andrew Dawson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Waxahachie (Waxahachie,TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "John Young",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Henry Ford II (Sterling Heights, MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "Eddie Greene",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Ed White (Jacksonville, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Stephen Maples",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Skyline High School (Dallas, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "John Mortillaro",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Smithtown East (St. James,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Charles Marshall",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Floyd County (Floyd,VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Robert Parker",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "William Carey University",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "Don Heinkel",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Horlick William (Racine,WI)",
+    "Year": 1978
+  },
+  {
+    "Round": "15",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "Dan Peterson",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Great Falls (Great Falls,MT)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Daniel Lopez",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "University of Houston",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Ronald Harper",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "El Cerrito High School (El Cerrito, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "James Beck",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Temple University",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Daniel Casey",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Edison High School (Edison,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "Curt Cannedy",
+    "Drafted By": "San Diego Padres",
+    "POS": "1B",
+    "Drafted From": "St. Mary's College of California",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "David Nowland",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "University of Tulsa",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "Ricky Kittrell",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "Tim Teufel",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "St. Petersburg College",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Jerry George",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Louisiana College",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Richard Bamhart",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "University of Puget Sound",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "Michael Buggs",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Castlemont High School (Oakland, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Dave Rucker",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of La Verne",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "James Mitchell",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "James Madison University",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "John Christensen",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Troy High School (Fullerton, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "Mike Carpenter",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "UCLA",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Michael Williams",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Wingate University",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Skeeter Barnes",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B",
+    "Drafted From": "University of Cincinnati",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "William Stroope",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B",
+    "Drafted From": "Waxahachie (Waxahachie,TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Stanton Brown",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Davidson College",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "Daniel Dixon",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of Nebraska",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "Brian Hayes",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Michael Byars",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Canyon High School (Anaheim, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "Ron Rendleman",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Bloomington (Bloomington,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Mark Mitchell",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "North Hills (Pittsburgh, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Frank Viola",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "East Meadow (East Meadow,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "16",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "Brian Dayett",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Saint Leo University",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "James Van Deventer",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Catholic University of America",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "Richard Palmer",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "West Covina (West Covina, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "Randy Pitts",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Redlands",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Donald Morris",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "Bob Volk",
+    "Drafted By": "San Diego Padres",
+    "POS": "3B",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Michae Guerra",
+    "Drafted By": "Seattle Mariners",
+    "POS": "nF-Of",
+    "Drafted From": "UNLV",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "Steve Roberts",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "University of Kentucky",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "Mark Lepson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Lansdowne (Baltimore, MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "Rick Ramos",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Lewis University",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "Jerald Hammermeister",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Ellensburg High School (Ellensburg,WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "Charles Hutchingson",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "West Memphis (West Memphis,AR)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "Todd Ervin",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "Stanford University",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "Scott Stranski",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Northwestern University",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Brian Owens",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Mesa (Mesa, AZ)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "Mark Smith",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "David Lipscomb (Nashville, TN)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Kent Hrbek",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Kennedy High School (Bloomington,MN)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Tom Lawless",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Penn State University",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Larry Doby",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Duke University",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "Mike Nedelisky",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Brian Piper",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Buena High School (Sierra Vista,AZ)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "Joe Pocoroba",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Crespi Carmelite High School (Encino, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "James Deimonico",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Michael Kreymborg",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Bishop Kelley High School (Tulsa, OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Steve Reish",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Union City (Union City,IN)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "James Canfield",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Wayne High School (Wayne, MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "17",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Don Cooper",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "New York Institute of Technology",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "Charles Shearer",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Weber High School (Chicago, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Robert Heuck",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Michael Tancredi",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Mansfield University of Pennsylvania",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "Fred DeVito",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "Pace University",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Eric Show",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "University of California-Riverside",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "Jerry Vasquez",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "Robert Taylor",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Jefferson High School (Port Arthur,TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Dean Hall",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "1B",
+    "Drafted From": "University of Hawaii",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "Razor Shines",
+    "Drafted By": "Montreal Expos",
+    "POS": "C",
+    "Drafted From": "St. Augustine College",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Howard Lakehardt",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Norwin (Huntingdon,FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Mark Jacob",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "De La Salle Collegiate (Warren,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "Matt Elser",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B-P",
+    "Drafted From": "Poly High School (Long Beach, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Walter Hagerty",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Altus (Altus,OK)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Bob Skube",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Alex Dovalis",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Long Beach City College",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Mitch Dean",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "Thomas Kokas",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-2B",
+    "Drafted From": "Northwestern University",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "460",
+    "Phase": "JR",
+    "Player Name": "John Stuper",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Point Park College",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Ron Gooch",
+    "Drafted By": "Texas Rangers",
+    "POS": "2B",
+    "Drafted From": "Southeastern Oklahoma State University",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "Eric Bullock",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "South Gate (South Gate,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "Marion Thackston",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Huntington (Huntington,WV)",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "Randy Greer",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Vanguard University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Gary Givens",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Georgia Southern University",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Bob Fiala",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Oklahoma City University",
+    "Year": 1978
+  },
+  {
+    "Round": "18",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Rich Carlucci",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "James Harris",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Thomas Jefferson (Brooklyn, NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "Terry Watkins",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "St. Mary's College of California",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "John Wells",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Charles Hollowell",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Henry B. Plant High School (Tampa, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "Anthony McGrue",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Morse (San Diego, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "Calvin Horhn",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Des Moines Area Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "Richard Doss",
+    "Drafted By": "San Francisco Giants",
+    "POS": "IF",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "475",
+    "Phase": "JR",
+    "Player Name": "Kevin McReynolds",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Sylvan Hills (Sherwood,AR)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "Kevin Mendon",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Emporia State University",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "James McBride",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Jackson State University",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "Edwin Schneider",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Indian River State College",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "Joe McClain",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Milligan College",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "John Soderman",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "Ken Malone",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Prairie View A&M University",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "Gene Ransom",
+    "Drafted By": "Minnesota Twins",
+    "POS": "IF",
+    "Drafted From": "University of California",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "David Anderson",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Western (Las Vegas, NV)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "Jeff Vlha",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "IF",
+    "Drafted From": "Fullerton High School (Fullerton, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "Howard Shapiro",
+    "Drafted By": "Texas Rangers",
+    "POS": "IF",
+    "Drafted From": "University of Miami",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Gary Weiss",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "IF",
+    "Drafted From": "University of Houston",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "William Butler",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Rossville High School (Rossville, GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "Jeff Ulrich",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Fresno City College",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "Harold Nataupsky",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Marblehead (Marblehead,MA)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "Bradley Kast",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Reading High School (Reading,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "19",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "Karl Steffen",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Ithaca College",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Kevin Balogh",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "Bill Lajoie",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "IF",
+    "Drafted From": "St. Clair County Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "Steve Till",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "Tim Byron",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Our Lady of the Valley (Florham Park,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Syd Church",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Pacific",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Rod Hudson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "Portland State University",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "Babe Laufenberg",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Crespi Carmelite High School (Encino, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "Mark Clabough",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Pat Rooney",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Bob Bonnette",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "Clemson University",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "John Crawford",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Delta State University",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Mark Vaji",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "John Marshall (Cleveland, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Steve Muccio",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "University of New Mexico",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "Jeff Young",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Trenton Central (Trenton,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "Kevin Sevcik",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "St. Olaf College",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "James Taylor",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Harding University (Charlotte, NC)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Todd Denby",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "IF",
+    "Drafted From": "Fluvanna County (Palmyra,VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Keith Shellings",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Southern University",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Chris Iwasaki",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Reedley College",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "Ryne Sandberg",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "North Central (Spokane, WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Keith Pecka",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Kankakee Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Tom Willette",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "North Carolina State University",
+    "Year": 1978
+  },
+  {
+    "Round": "20",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "Eric Snider",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Washington State University",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "Gil Ryan",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Blinn College",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Mondel Williams",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "McClatchy High School (Sacramento, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Michael Viggiano",
+    "Drafted By": "New York Mets",
+    "POS": "IF",
+    "Drafted From": "Bricktown (Bricktown,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "Wymon Smith",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "College of Southern Idaho",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Ken McLemore",
+    "Drafted By": "San Diego Padres",
+    "POS": "IF",
+    "Drafted From": "Morse (San Diego, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "Dave Edler",
+    "Drafted By": "Seattle Mariners",
+    "POS": "IF",
+    "Drafted From": "Washington State University",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "Mark Calvert",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Tulsa",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Randy Guerra",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "IF",
+    "Drafted From": "University of Miami",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "Chris Cawthon",
+    "Drafted By": "Montreal Expos",
+    "POS": "IF",
+    "Drafted From": "Avondale (Avondale Estates,GA)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Robert Pfeffer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Rowan University",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Michael Untisz",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Fairleigh Dickinson University",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "Chris Adomanis",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Bowie High School (Bowie,MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "Howard Dashefsky",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "El Camino Real (Woodland Hills,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "John Perlongo",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "IF",
+    "Drafted From": "Ridgefield Park (Ridgefield Park,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Tom Lounibos",
+    "Drafted By": "Minnesota Twins",
+    "POS": "IF",
+    "Drafted From": "University of San Francisco",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "Otis Nixon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "IF",
+    "Drafted From": "Louisburg College",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "Dave Dravecky",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Youngstown State University",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "Charles Kwolek",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Providence College",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Dave LaPoint",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Monadnock Regional (Swanzey,NH)",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Alvin White",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of Northern Colorado",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Steven Porter",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Upsala College",
+    "Year": 1978
+  },
+  {
+    "Round": "21",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Jerome Burgess",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Larry Brown",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Harvard University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Russ Dickerson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "IF",
+    "Drafted From": "Harrisonburg High School (Harrisonburg, VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Mark Davis",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Granada Hills (Granada Hills, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "John Lunden",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "College of Southern Idaho",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Gregg Sporrer",
+    "Drafted By": "San Diego Padres",
+    "POS": "IF",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Chris Flammang",
+    "Drafted By": "Seattle Mariners",
+    "POS": "iF-Of",
+    "Drafted From": "Sierra (Tollhouse,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "Darius Copley",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Lubbock Christian University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Chuckie Canady",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "White Oak High School (Jacksonville, NC)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "Steve Lovins",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Northern Kentucky University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Phillip Preliezo",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Columbus High School (Miami, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "Bob Benda",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "Florida State University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Darrel White",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Southwest High School (St. Louis, MO)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "Thomas Saatzer",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "West Brady (St. Paul, MN)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "Ray Rivas",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "IF",
+    "Drafted From": "Santa Clara University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Chris Geason",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Augsburg College",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "John Cook",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Washington State University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Thaddeus Reed",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Glass High School (Lynchburg, VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Andrew Tam",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Texas Wesleyan University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "Tom Banducci",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "William Floyd (Mastic,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Thomas Popovich",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "IF",
+    "Drafted From": "Pasco-Hernando Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "Anthony Washington",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Southeastern Oklahoma State University",
+    "Year": 1978
+  },
+  {
+    "Round": "22",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "Jeff Ledbetter",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Largo (Largo, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "Michael Smith",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Massachusetts Bay Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "John Moses",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Bellaire High School (Bellaire, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "Richard Eckleberry",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Flathead (Kalispell,MT)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "Casey Schaefer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "North Salem (Salem, OR)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "Aaron Cain",
+    "Drafted By": "San Diego Padres",
+    "POS": "2B-OF",
+    "Drafted From": "University of New Mexico",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Doug Hoppock",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P-OF",
+    "Drafted From": "Wichita Southeast (Wichita, KS)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "Alan Mayles",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Turner Ashby High School (Harrisonburg, VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Chris Barker",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "St. Catherine's Catholic (Racine,WI)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "Gary Baker",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Hazel Park (Hazel Park,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Joe Beason",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Taylor (Kokomo, IN)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "John Carter",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B-OF",
+    "Drafted From": "Bloomfield (Bloomfield,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "William Guinn",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Beaverton High School (Beaverton, OR)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Kevin Maroney",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Oakwood (Dayton,OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Arbrey Lucas",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Chaparral High School (Las Vegas, NV)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Donald Atkins",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Parkview High School (Little Rock, AR)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Chris Gandy",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "University of California-Riverside",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "John Palmieri",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Pilgrim (Warwick, RI)",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Jim McCoy",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1978
+  },
+  {
+    "Round": "23",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "Howard Johnson",
+    "Drafted By": "New York Yankees",
+    "POS": "p-3B",
+    "Drafted From": "Clearwater (Clearwater, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "Hubert Taylor",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Georgia Southwestern State University",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Michael Cunningham",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Highlands High School (Sacramento, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "Rick Anderson",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Washington",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Bud Yanus",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Eastern Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "Mark Thurmond",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Texas A&M University",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "Kem Wright",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "Randy Boyce",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Cal State Dominguez Hills",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "Louis Ganci",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "New York Institute of Technology",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Tom Grinstead",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Edgewood High School (West Covina, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Mike Godley",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Jackson State University",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Robert Russell",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "West Kentucky Community and Technical College",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Edward Castro",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Richard Jendra",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS-2B",
+    "Drafted From": "Florida International University",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "David McDonald",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Allegheny College",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Stanley Reese",
+    "Drafted By": "Texas Rangers",
+    "POS": "1B",
+    "Drafted From": "George Mason University",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "Warren Reeh",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "Rick Leach",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B-OF",
+    "Drafted From": "University of Michigan",
+    "Year": 1978
+  },
+  {
+    "Round": "24",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Ron Johnson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "1B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Mark Roush",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of Cincinnati",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "Jimmie Ranson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "1B",
+    "Drafted From": "San Diego State University",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Clint Harvey",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Gregg Mayer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF-p",
+    "Drafted From": "Brick Township (Brick,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "Paul Noce",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "Sequoia (Redwood City,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "Keith Brooks",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Martinsburg High School (Martinsburg, WV)",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Humberto Acosta",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Miami",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "Reid Cassidy",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Colby College",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "John Kelley",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Simon Kenton (Independence,KY)",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "Richard Raphael",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "Tom Sauer",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "St. Louis Community College-Meramec",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Robert Holden",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Rowan University",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Lee Hover",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Vince Pellegrini",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Father Judge (Philadelphia, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "Cameron Killebrew",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Brigham Young University",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "William Murray",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Tamalpais (Mill Valley,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "Phil Teston",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Land O'Lakes High School (Land O'Lakes, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "25",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Chris Czarka",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Central Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "Lawrence Dugger",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Eastwood High School (El Paso, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "615",
+    "Phase": "JR",
+    "Player Name": "Greg Korbe",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Kansas State University",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "616",
+    "Phase": "JR",
+    "Player Name": "Stephen Bricker",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Watkins Memorial (Pataskala,OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "617",
+    "Phase": "JR",
+    "Player Name": "Randy Kramer",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Oak Grove High School (San Jose, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "618",
+    "Phase": "JR",
+    "Player Name": "Burl Coker",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Baylor University",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "619",
+    "Phase": "JR",
+    "Player Name": "Pat Seegers",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "University of Wisconsin",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "620",
+    "Phase": "JR",
+    "Player Name": "Randy Rambis",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "621",
+    "Phase": "JR",
+    "Player Name": "James Wilfong",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "University of La Verne",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "622",
+    "Phase": "JR",
+    "Player Name": "Tim Carroll",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "University of Nebraska",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "623",
+    "Phase": "JR",
+    "Player Name": "Les Kakazu",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Waipahu (Waipahu,HI)",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "624",
+    "Phase": "JR",
+    "Player Name": "Rufus Thompson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "625",
+    "Phase": "JR",
+    "Player Name": "Alan Deratt",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of North Carolina",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "626",
+    "Phase": "JR",
+    "Player Name": "John Huey",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Mannington (Mannington,WV)",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "627",
+    "Phase": "JR",
+    "Player Name": "David Miller",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "George Mason University",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "628",
+    "Phase": "JR",
+    "Player Name": "David Albrecht",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Appleton East (Appleton,WI)",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "629",
+    "Phase": "JR",
+    "Player Name": "Michael Voltesak",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Joliet Central (Joliet, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "26",
+    "Pick": "630",
+    "Phase": "JR",
+    "Player Name": "Welby Bailey",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "Lynchburg College",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "631",
+    "Phase": "JR",
+    "Player Name": "Brad Campbell",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of West Georgia",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "632",
+    "Phase": "JR",
+    "Player Name": "Al Lachowicz",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Bishop Canevin Catholic (Pittsburgh, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "633",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Way",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "University High School (Spokane Valley,WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "634",
+    "Phase": "JR",
+    "Player Name": "Leotis Butler",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Georgia Southwestern State University",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "635",
+    "Phase": "JR",
+    "Player Name": "Mark Bonner",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Long Beach City College",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "636",
+    "Phase": "JR",
+    "Player Name": "Kenneth Gilmore",
+    "Drafted By": "Cleveland Indians",
+    "POS": "2B-3b",
+    "Drafted From": "Troy University",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "637",
+    "Phase": "JR",
+    "Player Name": "John Martin",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Eastern Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "638",
+    "Phase": "JR",
+    "Player Name": "Kevin Kirby",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Santa Clara University",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "639",
+    "Phase": "JR",
+    "Player Name": "Everett Smith",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Furman University",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "640",
+    "Phase": "JR",
+    "Player Name": "Al Mejia",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Fullerton College",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "641",
+    "Phase": "JR",
+    "Player Name": "James Mugele",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "IF",
+    "Drafted From": "High Point University",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "642",
+    "Phase": "JR",
+    "Player Name": "Jeff Zaske",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Meadowdale (Lynnwood, WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "643",
+    "Phase": "JR",
+    "Player Name": "Jeff Zitek",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Illinois State University",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "644",
+    "Phase": "JR",
+    "Player Name": "James Taylor",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "University of South Carolina",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "645",
+    "Phase": "JR",
+    "Player Name": "John DeVincenzo",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of Tampa",
+    "Year": 1978
+  },
+  {
+    "Round": "27",
+    "Pick": "646",
+    "Phase": "JR",
+    "Player Name": "Mark Terrill",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Gilroy High School (Gilroy, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "647",
+    "Phase": "JR",
+    "Player Name": "Paul Robinson",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Nolan Catholic (Fort Worth, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "648",
+    "Phase": "JR",
+    "Player Name": "Gary Hilton",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Canyon High School (Anaheim, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "649",
+    "Phase": "JR",
+    "Player Name": "Carlo Hernandez",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Tampa Catholic High School (Tampa, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "650",
+    "Phase": "JR",
+    "Player Name": "Kevin Clinton",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF-p",
+    "Drafted From": "Wichita Southeast (Wichita, KS)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "651",
+    "Phase": "JR",
+    "Player Name": "James Manship",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "652",
+    "Phase": "JR",
+    "Player Name": "Tom Van Der Meersche",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "653",
+    "Phase": "JR",
+    "Player Name": "Holden Smith",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "University of California",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "654",
+    "Phase": "JR",
+    "Player Name": "Eric Gorman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "West Morris (Chester,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "655",
+    "Phase": "JR",
+    "Player Name": "Gerald Klauser",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Whitesboro (Whitesboro,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "656",
+    "Phase": "JR",
+    "Player Name": "Randy Ramirez",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Katella High School (Anaheim, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "657",
+    "Phase": "JR",
+    "Player Name": "Bill Bakewell",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Arkansas",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "658",
+    "Phase": "JR",
+    "Player Name": "David Pascho",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Juanita (Kirkland,WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "659",
+    "Phase": "JR",
+    "Player Name": "Wesley Williams",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "New Mexico Highlands University",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "660",
+    "Phase": "JR",
+    "Player Name": "Robert White",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Lake Mills (Lake Mills,WI)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "661",
+    "Phase": "JR",
+    "Player Name": "Derek Williams",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Willingboro (Willingboro,NJ)",
+    "Year": 1978
+  },
+  {
+    "Round": "28",
+    "Pick": "662",
+    "Phase": "JR",
+    "Player Name": "John Seneca",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Seton Hall University",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "663",
+    "Phase": "JR",
+    "Player Name": "Kerry Cox",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Tarrant (Birmingham, AL)",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "664",
+    "Phase": "JR",
+    "Player Name": "Ronald Walker",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Benedictine College",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "665",
+    "Phase": "JR",
+    "Player Name": "Greg Key",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Citrus (Inverness,FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "666",
+    "Phase": "JR",
+    "Player Name": "Randy Meyer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Mount Hood Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "667",
+    "Phase": "JR",
+    "Player Name": "Rob Murphy",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Columbus High School (Miami, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "668",
+    "Phase": "JR",
+    "Player Name": "Kenneth Smith",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "University of North Carolina",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "669",
+    "Phase": "JR",
+    "Player Name": "Judson Thigpen",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Delta State University",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "670",
+    "Phase": "JR",
+    "Player Name": "Mike Weakman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "Meridian High School (Sanford, MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "671",
+    "Phase": "JR",
+    "Player Name": "Tim Gloyd",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS-2B",
+    "Drafted From": "Pepperdine University",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "672",
+    "Phase": "JR",
+    "Player Name": "Steven Houlberg",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University of Alabama",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "673",
+    "Phase": "JR",
+    "Player Name": "Alex Neely",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Phillips University",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "674",
+    "Phase": "JR",
+    "Player Name": "Michael O'Boyle",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Northport (Northport,NY)",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "675",
+    "Phase": "JR",
+    "Player Name": "Jimmy Farr",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Penn State University",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "676",
+    "Phase": "JR",
+    "Player Name": "Joe Herbert",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF-C",
+    "Drafted From": "Columbia Academy (Columbia,TN)",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "677",
+    "Phase": "JR",
+    "Player Name": "Steve Harvey",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Benjamin Franklin (Philadelphia, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "29",
+    "Pick": "678",
+    "Phase": "JR",
+    "Player Name": "Charles Curry",
+    "Drafted By": "Kansas City Royals",
+    "POS": "IF",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "679",
+    "Phase": "JR",
+    "Player Name": "David Smith",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Siena College",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "680",
+    "Phase": "JR",
+    "Player Name": "Brian Harrison",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "681",
+    "Phase": "JR",
+    "Player Name": "Richard Casillas",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Western Oregon University",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "682",
+    "Phase": "JR",
+    "Player Name": "Buster Moore",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Molalla (Molalla,OR)",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "683",
+    "Phase": "JR",
+    "Player Name": "Tim Bebler",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "University of La Verne",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "684",
+    "Phase": "JR",
+    "Player Name": "Michael Polvi",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of Detroit Mercy",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "685",
+    "Phase": "JR",
+    "Player Name": "Mike Diez",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "Terra Nova (Pacifica,CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "686",
+    "Phase": "JR",
+    "Player Name": "Steven Southerland",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Desmet Catholic (Chesterfield,MO)",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "687",
+    "Phase": "JR",
+    "Player Name": "Randy Filkins",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "West Hills College",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "688",
+    "Phase": "JR",
+    "Player Name": "Joe Stafani",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Dowling (West Des Moines,IA)",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "689",
+    "Phase": "JR",
+    "Player Name": "Mark Johnson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Kearns High School (Kearns, UT)",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "690",
+    "Phase": "JR",
+    "Player Name": "Gene Nelson",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Pasco High School (Dade City, FL)",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "691",
+    "Phase": "JR",
+    "Player Name": "Kevin Patten",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Miami University",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "692",
+    "Phase": "JR",
+    "Player Name": "Sammy Bickham",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Southern Methodist University",
+    "Year": 1978
+  },
+  {
+    "Round": "30",
+    "Pick": "693",
+    "Phase": "JR",
+    "Player Name": "Craig Pippin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "University of Florida",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "694",
+    "Phase": "JR",
+    "Player Name": "Marc Siciliano",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Iona College",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "695",
+    "Phase": "JR",
+    "Player Name": "Steven Oliver",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Cecil College",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "696",
+    "Phase": "JR",
+    "Player Name": "Ted Notos",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Grant High School (Portland, OR)",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "697",
+    "Phase": "JR",
+    "Player Name": "Steve Krueger",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Garden City Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "698",
+    "Phase": "JR",
+    "Player Name": "Warner Crumb",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Northampton (Eastville,VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "699",
+    "Phase": "JR",
+    "Player Name": "Ben Bonk",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Central Michigan University",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "700",
+    "Phase": "JR",
+    "Player Name": "Wayne Stone",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "701",
+    "Phase": "JR",
+    "Player Name": "Armand Villa",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Sunnyslope (Phoenix, AZ)",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "702",
+    "Phase": "JR",
+    "Player Name": "Robert Waldusly",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of La Verne",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "703",
+    "Phase": "JR",
+    "Player Name": "Ronald Walling",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Westmont Hilltop (Johnstown,PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "704",
+    "Phase": "JR",
+    "Player Name": "Dean Rick",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Wilson High School (Sinking Springs,PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "705",
+    "Phase": "JR",
+    "Player Name": "Steve Paine",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF-C",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "706",
+    "Phase": "JR",
+    "Player Name": "Kent Johnson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Northside (Muncie,IN)",
+    "Year": 1978
+  },
+  {
+    "Round": "31",
+    "Pick": "707",
+    "Phase": "JR",
+    "Player Name": "Gregg Baker",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Marcos de Niza (Tempe,AZ)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "708",
+    "Phase": "JR",
+    "Player Name": "Greg Booker",
+    "Drafted By": "Oakland Athletics",
+    "POS": "1B-SS",
+    "Drafted From": "Cummings High School (Burlington, NC)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "709",
+    "Phase": "JR",
+    "Player Name": "Mark Brewer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Coronado (Scottsdale, AZ)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "710",
+    "Phase": "JR",
+    "Player Name": "Kevin McKenna",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "711",
+    "Phase": "JR",
+    "Player Name": "Jay Waid",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Hewitt-Trussville (Trussville, AL)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "712",
+    "Phase": "JR",
+    "Player Name": "Buddy Siemp",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "713",
+    "Phase": "JR",
+    "Player Name": "James Dieters",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Oakland University",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "714",
+    "Phase": "JR",
+    "Player Name": "Ron Dearth",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "715",
+    "Phase": "JR",
+    "Player Name": "Cary Homaman",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Northern State University",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "716",
+    "Phase": "JR",
+    "Player Name": "James Fiori",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Carlynton (Carnegie,PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "717",
+    "Phase": "JR",
+    "Player Name": "Thomas Blackmon",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "South Florence (Florence, SC)",
+    "Year": 1978
+  },
+  {
+    "Round": "32",
+    "Pick": "718",
+    "Phase": "JR",
+    "Player Name": "Dan Forer",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Iowa Western Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "719",
+    "Phase": "JR",
+    "Player Name": "Ralph Jean",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Dover (Dover,DE)",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "720",
+    "Phase": "JR",
+    "Player Name": "John Milholland",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Louisa County (Mineral,VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "721",
+    "Phase": "JR",
+    "Player Name": "Michael Woods",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Southern Union State Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "722",
+    "Phase": "JR",
+    "Player Name": "Mike Brecht",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Hazel Park (Hazel Park,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "723",
+    "Phase": "JR",
+    "Player Name": "Scott Arigoni",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Cape Cod Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "724",
+    "Phase": "JR",
+    "Player Name": "Paul Mancuso",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Archbishop Shaw (Marrero,LA)",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "725",
+    "Phase": "JR",
+    "Player Name": "James Johnson",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Wake Forest University",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "726",
+    "Phase": "JR",
+    "Player Name": "John West",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Granite Falls (Marysville,WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "727",
+    "Phase": "JR",
+    "Player Name": "Cecil De Fla Strawn",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Southern Methodist University",
+    "Year": 1978
+  },
+  {
+    "Round": "33",
+    "Pick": "728",
+    "Phase": "JR",
+    "Player Name": "Michael Vienne",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "St. Mary's High School (Natchitoches, LA)",
+    "Year": 1978
+  },
+  {
+    "Round": "34",
+    "Pick": "729",
+    "Phase": "JR",
+    "Player Name": "John Moller",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Brookdale Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "34",
+    "Pick": "730",
+    "Phase": "JR",
+    "Player Name": "Ronald Kollmann",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Nampa High School (Nampa, ID)",
+    "Year": 1978
+  },
+  {
+    "Round": "34",
+    "Pick": "731",
+    "Phase": "JR",
+    "Player Name": "Paul Wysocki",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Sacred Heart University",
+    "Year": 1978
+  },
+  {
+    "Round": "34",
+    "Pick": "732",
+    "Phase": "JR",
+    "Player Name": "Charles Engel",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "St. Cloud State University",
+    "Year": 1978
+  },
+  {
+    "Round": "34",
+    "Pick": "733",
+    "Phase": "JR",
+    "Player Name": "Kevin Johnson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Baltimore City Community College",
+    "Year": 1978
+  },
+  {
+    "Round": "34",
+    "Pick": "734",
+    "Phase": "JR",
+    "Player Name": "James Strum",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "St. Mark's (Wilmington, DE)",
+    "Year": 1978
+  },
+  {
+    "Round": "34",
+    "Pick": "735",
+    "Phase": "JR",
+    "Player Name": "Mark Pirruccello",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Servite High School (Anaheim, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "35",
+    "Pick": "736",
+    "Phase": "JR",
+    "Player Name": "George Cecchetti",
+    "Drafted By": "Oakland Athletics",
+    "POS": "1B",
+    "Drafted From": "Tokay High School (Lodi, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "35",
+    "Pick": "737",
+    "Phase": "JR",
+    "Player Name": "Scott August",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Potomac (Oxen Hill,MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "35",
+    "Pick": "738",
+    "Phase": "JR",
+    "Player Name": "Thomas Wertz",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Brighton (Brighton,MA)",
+    "Year": 1978
+  },
+  {
+    "Round": "35",
+    "Pick": "739",
+    "Phase": "JR",
+    "Player Name": "Kurt Moody",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Herbert Hoover High School (Des Moines,IA)",
+    "Year": 1978
+  },
+  {
+    "Round": "35",
+    "Pick": "740",
+    "Phase": "JR",
+    "Player Name": "Geoff Meadows",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Southmoreland High School (Everson, PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "35",
+    "Pick": "741",
+    "Phase": "JR",
+    "Player Name": "Keith Walsh",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Kennedy High School (Suffolk, VA)",
+    "Year": 1978
+  },
+  {
+    "Round": "36",
+    "Pick": "742",
+    "Phase": "JR",
+    "Player Name": "Richard Hille",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "St. John's University",
+    "Year": 1978
+  },
+  {
+    "Round": "36",
+    "Pick": "743",
+    "Phase": "JR",
+    "Player Name": "Randy Ratcliff",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "William Carey University",
+    "Year": 1978
+  },
+  {
+    "Round": "36",
+    "Pick": "744",
+    "Phase": "JR",
+    "Player Name": "John LOCasio",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "St. Francis de Sales (Toledo, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "36",
+    "Pick": "745",
+    "Phase": "JR",
+    "Player Name": "Tim Ronan",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of San Diego",
+    "Year": 1978
+  },
+  {
+    "Round": "36",
+    "Pick": "746",
+    "Phase": "JR",
+    "Player Name": "Harry Oakley",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Rogers High School (Newport,RI)",
+    "Year": 1978
+  },
+  {
+    "Round": "37",
+    "Pick": "747",
+    "Phase": "JR",
+    "Player Name": "George White",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Ballard High School (Seattle, WA)",
+    "Year": 1978
+  },
+  {
+    "Round": "37",
+    "Pick": "748",
+    "Phase": "JR",
+    "Player Name": "Reginald Ward",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "William Beaumont (St. Louis, MO)",
+    "Year": 1978
+  },
+  {
+    "Round": "37",
+    "Pick": "749",
+    "Phase": "JR",
+    "Player Name": "Patrick Chester",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "South Dorchester (Cambridge,MD)",
+    "Year": 1978
+  },
+  {
+    "Round": "37",
+    "Pick": "750",
+    "Phase": "JR",
+    "Player Name": "Albert Brehm",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Foothill High School (Santa Ana, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "37",
+    "Pick": "751",
+    "Phase": "JR",
+    "Player Name": "David Chapman",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "University of Michigan",
+    "Year": 1978
+  },
+  {
+    "Round": "38",
+    "Pick": "752",
+    "Phase": "JR",
+    "Player Name": "John Shrewsberry",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Palm Beach State College",
+    "Year": 1978
+  },
+  {
+    "Round": "38",
+    "Pick": "753",
+    "Phase": "JR",
+    "Player Name": "Pat Patterson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Miami-Dade College",
+    "Year": 1978
+  },
+  {
+    "Round": "38",
+    "Pick": "754",
+    "Phase": "JR",
+    "Player Name": "Mike Bretz",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Florida State University",
+    "Year": 1978
+  },
+  {
+    "Round": "38",
+    "Pick": "755",
+    "Phase": "JR",
+    "Player Name": "John Zisk",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Delaware Valley College",
+    "Year": 1978
+  },
+  {
+    "Round": "39",
+    "Pick": "756",
+    "Phase": "JR",
+    "Player Name": "Lawrence Beck",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Occidental College",
+    "Year": 1978
+  },
+  {
+    "Round": "39",
+    "Pick": "757",
+    "Phase": "JR",
+    "Player Name": "Frank Horak",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1978
+  },
+  {
+    "Round": "39",
+    "Pick": "758",
+    "Phase": "JR",
+    "Player Name": "Vance Law",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Brigham Young University",
+    "Year": 1978
+  },
+  {
+    "Round": "39",
+    "Pick": "759",
+    "Phase": "JR",
+    "Player Name": "Tim Hulett",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Lanphier (Springfield, IL)",
+    "Year": 1978
+  },
+  {
+    "Round": "40",
+    "Pick": "760",
+    "Phase": "JR",
+    "Player Name": "Ron Wrobel",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Grand Canyon University",
+    "Year": 1978
+  },
+  {
+    "Round": "40",
+    "Pick": "761",
+    "Phase": "JR",
+    "Player Name": "John Harshbarger",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Illinois",
+    "Year": 1978
+  },
+  {
+    "Round": "40",
+    "Pick": "762",
+    "Phase": "JR",
+    "Player Name": "Fenton Lebon",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P-OF",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "40",
+    "Pick": "763",
+    "Phase": "JR",
+    "Player Name": "Jeff Scott",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Port Clinton High School (Port Clinton, OH)",
+    "Year": 1978
+  },
+  {
+    "Round": "41",
+    "Pick": "764",
+    "Phase": "JR",
+    "Player Name": "Michael Culbert",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Bonanza (Las Vegas, NV)",
+    "Year": 1978
+  },
+  {
+    "Round": "41",
+    "Pick": "765",
+    "Phase": "JR",
+    "Player Name": "Kerry Burchett",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "East Tennessee State University",
+    "Year": 1978
+  },
+  {
+    "Round": "41",
+    "Pick": "766",
+    "Phase": "JR",
+    "Player Name": "Alvin Williams",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Jackson State University",
+    "Year": 1978
+  },
+  {
+    "Round": "42",
+    "Pick": "767",
+    "Phase": "JR",
+    "Player Name": "George Ravanis",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Boston College",
+    "Year": 1978
+  },
+  {
+    "Round": "42",
+    "Pick": "768",
+    "Phase": "JR",
+    "Player Name": "David Pitconi",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Northern Colorado",
+    "Year": 1978
+  },
+  {
+    "Round": "42",
+    "Pick": "769",
+    "Phase": "JR",
+    "Player Name": "Moses Kyles",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Buchanan High School (Buchanan,MI)",
+    "Year": 1978
+  },
+  {
+    "Round": "43",
+    "Pick": "770",
+    "Phase": "JR",
+    "Player Name": "Michael Mowrey",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "San Gabriel High School (San Gabriel, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "43",
+    "Pick": "771",
+    "Phase": "JR",
+    "Player Name": "Kevin Pyatte",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1978
+  },
+  {
+    "Round": "44",
+    "Pick": "772",
+    "Phase": "JR",
+    "Player Name": "David Warnecke",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "McKendree University",
+    "Year": 1978
+  },
+  {
+    "Round": "44",
+    "Pick": "773",
+    "Phase": "JR",
+    "Player Name": "Peter Beattie",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Wilson High School (Hacienda Heights, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "45",
+    "Pick": "774",
+    "Phase": "JR",
+    "Player Name": "Michael Yackee",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1978
+  },
+  {
+    "Round": "45",
+    "Pick": "775",
+    "Phase": "JR",
+    "Player Name": "Curt Wardle",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Norco High School (Norco, CA)",
+    "Year": 1978
+  },
+  {
+    "Round": "46",
+    "Pick": "776",
+    "Phase": "JR",
+    "Player Name": "David Spamer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "East Allegheny (North Versailles,PA)",
+    "Year": 1978
+  },
+  {
+    "Round": "46",
+    "Pick": "777",
+    "Phase": "JR",
+    "Player Name": "Thomas Chandler",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Bryan High School (Bryan,TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "47",
+    "Pick": "778",
+    "Phase": "JR",
+    "Player Name": "Ron Reeves",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Monterey High School (Lubbock, TX)",
+    "Year": 1978
+  },
+  {
+    "Round": "48",
+    "Pick": "779",
+    "Phase": "JR",
+    "Player Name": "Delbert Stacey",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Rutland (Rutland,VT)",
+    "Year": 1978
+  }
+]
