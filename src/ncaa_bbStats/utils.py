@@ -110,3 +110,38 @@ def display_team_stats(search_team: str, year: int, division: int) -> None:
 
     if not found:
         print("No team found matching the search term.")
+
+
+def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str:
+    """
+    Computes Pythagenpat expected win percentage and compares it with the actual win percentage.
+
+    Args:
+        team_name: Team name or partial string (ex. "Northeastern").
+        year: NCAA season year.
+        division: NCAA division (1, 2, or 3).
+
+    Returns:
+        A string summary with expected and actual win percentages.
+    """
+    exponent = 1.83
+    R = get_team_stat("R (Batting)", team_name, year, division)
+    RA = get_team_stat("R (Pitching)", team_name, year, division)
+    W = get_team_stat("W", team_name, year, division)
+    L = get_team_stat("L", team_name, year, division)
+    T = get_team_stat("T", team_name, year, division)
+
+    if None in (R, RA, W, L, T):
+        return f"Insufficient data to compute Pythagenpat for '{team_name}' ({year}, Div {division})."
+
+    try:
+        expected_pct = R**exponent / (R**exponent + RA**exponent)
+        total_games = W + L + T
+        actual_pct = W / total_games if total_games > 0 else 0.0
+
+        return (
+            f"Pythagenpat Expected Win% for {team_name} ({year}, Div {division}): {expected_pct:.3f} | "
+            f"Actual Win%: {actual_pct:.3f}"
+        )
+    except (ZeroDivisionError, ValueError, OverflowError) as e:
+        return f"Could not compute Pythagenpat for '{team_name}': {str(e)}"

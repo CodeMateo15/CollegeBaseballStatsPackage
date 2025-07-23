@@ -10,8 +10,7 @@ authors = [
     { name="Mateo Biggs", email="mateojohn2024@gmail.com" }
 ]
 readme = "README.md"
-license = "MIT"
-license-files = ["LICEN[CS]E*"]
+license = { file = "LICENSE" }
 requires-python = ">=3.8"
 dependencies = [
     "pandas"
