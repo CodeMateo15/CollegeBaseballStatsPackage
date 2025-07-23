@@ -1,4 +1,4 @@
-from src.ncaa_bbStats.stats import *
+from src.ncaa_bbStats.team_stats import *
 
 '''
 
