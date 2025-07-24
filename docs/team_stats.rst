@@ -56,7 +56,7 @@ Displays all available statistics for a team for a given year and division.
     - None. Prints all stats for the team.
 
 
-Functions That Calculate
+Functions that calculate
 --------------------
 
 .. py:function:: average_all_team_stats(year: int, division: int) -> dict:
@@ -105,7 +105,7 @@ Calculates the average of a specific statistic (float type) for a team over a ra
 
 .. py:function:: get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str:
 
-Calculates the Pythagenpat expected win percentage for a team based on runs scored and allowed.
+Calculates the Pythagenpat expected win percentage (using the 1.83 exponent) for a team based on runs scored and allowed.
 
 **Parameters:**
     - `runs_scored` (int or float): Total runs scored by the team.
