@@ -152,4 +152,3 @@ See Also
 --------
 
 - :doc:`draft_stats`
-- :doc:`average`
