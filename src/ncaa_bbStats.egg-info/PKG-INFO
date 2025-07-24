@@ -28,7 +28,7 @@ License: MIT License
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: pandas
+Requires-Dist: matplotlib
 Dynamic: license-file
 
 # NCAA Baseball Stats Python Package

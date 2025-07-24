@@ -1,5 +1,6 @@
 import os
 import json
+import matplotlib.pyplot as plt
 
 def get_team_stat(stat_name: str, team_name: str, year: int, division: int) -> float | int | None:
     """
@@ -224,3 +225,49 @@ def print_draft_picks_college(picks: list):
     """
     for p in picks:
         print(f"{p['Year']} Round {p['Round']} Pick {p['Pick']}: {p['Player Name']} - {p['POS']} for {p['Drafted By']}")
+
+
+def plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int):
+    """
+    Plots the values of a specified statistic for a given team across a range of years in a specific NCAA division.
+
+    Args:
+        stat_name (str): The key of the statistic to plot (ex. "home_runs", "W", etc).
+        team_name (str): Substring to match against team names (case-insensitive).
+        division (int): NCAA division number (1, 2, or 3).
+        start_year (int): The first year in the range to include.
+        end_year (int): The last year in the range to include.
+
+    Returns:
+        None. Displays a matplotlib plot if data is found, otherwise prints a message.
+    """
+    years = []
+    stat_values = []
+    base_dir = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "..", "data", "team_stats_cache", f"div{division}")
+    )
+    for year in range(start_year, end_year + 1):
+        file_path = os.path.join(base_dir, f"{year}.json")
+        if not os.path.isfile(file_path):
+            continue
+        with open(file_path, "r") as f:
+            stats = json.load(f)
+        for team, team_stats in stats.items():
+            if team_name.lower() in team.lower():
+                value = team_stats.get(stat_name)
+                if value is not None:
+                    years.append(year)
+                    stat_values.append(value)
+                break
+    if years:
+        plt.plot(years, stat_values, marker="o")
+        plt.title(f"{team_name} - {stat_name} ({start_year}-{end_year})")
+        plt.xlabel("Year")
+        plt.ylabel(stat_name.replace("_", " ").title())
+        plt.grid(True)
+        plt.show()
+    else:
+        print(f"No data found for {team_name} and stat '{stat_name}' in Division {division} ({start_year}-{end_year})")
+
+# Example usage:
+# plot_team_stat_over_years("home_runs", "Northeastern", 1, 2010, 2024)
