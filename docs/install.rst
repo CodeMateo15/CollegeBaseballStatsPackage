@@ -1,5 +1,5 @@
 ============
-Installation
+Install
 ============
 
 To use ncaa_bbStats, first install it using pip:
