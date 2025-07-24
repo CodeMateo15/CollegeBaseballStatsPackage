@@ -6,6 +6,14 @@ The `draft` module provides functions for accessing and displaying MLB and colle
 Functions
 ---------
 
+.. py:function:: parse_mlb_draft(year: int) -> list[dict]:
+
+    Parses MLB draft results from Baseball Almanac for a given year (1965–2025).
+
+    :param year: Year of the draft.
+    :return: List of drafted player details.
+
+
 .. py:function:: get_drafted_players_mlb(team_name: str, year: int, division: int) -> list:
 
     Retrieves a list of players from the specified team drafted to MLB in a given year and division.
