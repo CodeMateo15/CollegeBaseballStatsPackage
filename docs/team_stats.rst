@@ -15,41 +15,76 @@ This module allows users to:
 Functions
 ---------
 
-.. autofunction:: get_team_stat_over_years
+get_team_stat
+~~~~~~~~~~~~~
+Retrieves a specific statistic for a given team from the cached data.
 
-    Retrieves the values of a specified statistic for a given team across a range of years and division.
+**Parameters:**
+    - `team_name` (str): Name or substring of the team.
+    - `stat_name` (str): Key of the statistic to retrieve.
+    - `division` (int): NCAA division number.
+    - `year` (int): Year of the data.
 
-    **Parameters:**
-        - `stat_name` (str): The key of the statistic to retrieve (e.g., ``home_runs``, ``W``, ``R (Batting)``).
-        - `team_name` (str): Substring to match against team names (case-insensitive).
-        - `division` (int): NCAA division number (1, 2, or 3).
-        - `start_year` (int): The first year in the range.
-        - `end_year` (int): The last year in the range.
+**Returns:**
+    - The value of the requested statistic, or None if not found.
 
-    **Returns:**
-        - `years` (list of int): Years for which data was found.
-        - `stat_values` (list): Corresponding stat values.
+display_specific_team_stat
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prints a specific statistic for a team in a readable format.
 
-.. autofunction:: plot_team_stat_over_years
+**Parameters:**
+    - `team_name` (str): Name or substring of the team.
+    - `stat_name` (str): Key of the statistic to display.
+    - `division` (int): NCAA division number.
+    - `year` (int): Year of the data.
 
-    Aggregates and plots a specified statistic for a team over a range of years and division.
+**Returns:**
+    - None. Prints the result to the console.
 
-    **Parameters:**
-        - `stat_name` (str): The key of the statistic to plot.
-        - `team_name` (str): Substring to match against team names.
-        - `division` (int): NCAA division number.
-        - `start_year` (int): The first year in the range.
-        - `end_year` (int): The last year in the range.
+display_team_stats
+~~~~~~~~~~~~~~~~~~
+Displays all available statistics for a team for a given year and division.
 
-    **Returns:**
-        - None. Displays a matplotlib plot if data is found, otherwise prints a message.
+**Parameters:**
+    - `team_name` (str): Name or substring of the team.
+    - `division` (int): NCAA division number.
+    - `year` (int): Year of the data.
+
+**Returns:**
+    - None. Prints all stats for the team.
+
+get_pythagenpat_expectation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Calculates the Pythagenpat expected win percentage for a team based on runs scored and allowed.
+
+**Parameters:**
+    - `runs_scored` (int or float): Total runs scored by the team.
+    - `runs_allowed` (int or float): Total runs allowed by the team.
+
+**Returns:**
+    - Expected win percentage (float).
+
+plot_team_stat_over_years
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Aggregates and plots a specified statistic for a team over a range of years.
+
+**Parameters:**
+    - `stat_name` (str): Key of the statistic to plot.
+    - `team_name` (str): Name or substring of the team.
+    - `division` (int): NCAA division number.
+    - `start_year` (int): First year in the range.
+    - `end_year` (int): Last year in the range.
+
+**Returns:**
+    - None. Displays a matplotlib plot if data is found.
+
 
 Usage Example
 -------------
 
 .. code-block:: python
 
-    from ncaa_bbStats.team_stats import plot_team_stat_over_years
+    from ncaa_bbStats import plot_team_stat_over_years
 
     # Plot home runs for Northeastern in Division 1 from 2010 to 2024
     plot_team_stat_over_years("home_runs", "Northeastern", 1, 2010, 2024)
