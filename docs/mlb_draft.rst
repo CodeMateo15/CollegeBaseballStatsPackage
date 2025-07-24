@@ -87,6 +87,16 @@ Usage Example
     northeastern_all = get_drafted_players_all_years_college("Northeastern University")
     print(f"\nTotal picks from Northeastern: {len(northeastern_all)}")
 
+.. code-block:: python
+
+    from ncaa_bbStats import parse_mlb_draft
+
+    draft_2025 = parse_mlb_draft(2025)
+
+    # Print the top 5 picks
+    for pick in draft_2025[:5]:
+        print(pick)
+
 Data Source
 -----------
 
