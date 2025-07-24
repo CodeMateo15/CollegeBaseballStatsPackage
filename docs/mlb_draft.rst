@@ -6,7 +6,7 @@ The `draft` module provides functions for accessing and displaying MLB and colle
 Functions
 ---------
 
-.. py:function:: get_drafted_players_mlb(team_name: str, year: int, division: int) -> list
+.. py:function:: get_drafted_players_mlb(team_name: str, year: int, division: int) -> list:
 
     Retrieves a list of players from the specified team drafted to MLB in a given year and division.
 
@@ -16,7 +16,7 @@ Functions
     :return: List of drafted player details.
 
 
-.. py:function:: get_drafted_players_all_years_mlb(team_name: str, division: int) -> dict
+.. py:function:: get_drafted_players_all_years_mlb(team_name: str, division: int) -> dict:
 
     Retrieves all MLB draft picks for a team across all available years in a division.
 
@@ -25,7 +25,7 @@ Functions
     :return: Dictionary mapping years to lists of drafted players.
 
 
-.. py:function:: get_drafted_players_college(team_name: str, year: int, division: int) -> list
+.. py:function:: get_drafted_players_college(team_name: str, year: int, division: int) -> list:
 
     Retrieves a list of players from the specified team drafted to college in a given year and division.
 
@@ -35,7 +35,7 @@ Functions
     :return: List of drafted player details.
 
 
-.. py:function:: get_drafted_players_all_years_college(team_name: str, division: int) -> dict
+.. py:function:: get_drafted_players_all_years_college(team_name: str, division: int) -> dict:
 
     Retrieves all college draft picks for a team across all available years in a division.
 
@@ -44,7 +44,7 @@ Functions
     :return: Dictionary mapping years to lists of drafted players.
 
 
-.. py:function:: print_draft_picks_mlb(team_name: str, year: int, division: int) -> None
+.. py:function:: print_draft_picks_mlb(team_name: str, year: int, division: int) -> None:
 
     Prints MLB draft picks for a team in a given year and division in a readable format.
 
@@ -54,7 +54,7 @@ Functions
     :return: None. Prints results to the console.
 
 
-.. py:function:: print_draft_picks_college(team_name: str, year: int, division: int) -> None
+.. py:function:: print_draft_picks_college(team_name: str, year: int, division: int) -> None:
 
     Prints college draft picks for a team in a given year and division in a readable format.
 
