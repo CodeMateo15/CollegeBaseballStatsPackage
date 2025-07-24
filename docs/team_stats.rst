@@ -15,8 +15,8 @@ This module allows users to:
 Functions
 ---------
 
-get_team_stat
-~~~~~~~~~~~~~
+.. py:function:: get_team_stat(stat_name: str, team_name: str, year: int, division: int) -> float | int | None:
+
 Retrieves a specific statistic for a given team from the cached data.
 
 **Parameters:**
@@ -28,8 +28,9 @@ Retrieves a specific statistic for a given team from the cached data.
 **Returns:**
     - The value of the requested statistic, or None if not found.
 
-display_specific_team_stat
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. py:function:: display_specific_team_stat(stat_name: str, search_team: str, year: int, division: int) -> None:
+
 Prints a specific statistic for a team in a readable format.
 
 **Parameters:**
@@ -41,8 +42,9 @@ Prints a specific statistic for a team in a readable format.
 **Returns:**
     - None. Prints the result to the console.
 
-display_team_stats
-~~~~~~~~~~~~~~~~~~
+
+.. py:function:: display_team_stats(search_team: str, year: int, division: int) -> None:
+
 Displays all available statistics for a team for a given year and division.
 
 **Parameters:**
@@ -53,8 +55,56 @@ Displays all available statistics for a team for a given year and division.
 **Returns:**
     - None. Prints all stats for the team.
 
-get_pythagenpat_expectation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Functions That Calculate
+--------------------
+
+.. py:function:: average_all_team_stats(year: int, division: int) -> dict:
+
+Calculates the average of all available statistics for a team over a range of years.
+
+**Parameters:**
+    - `team_name` (str): Name or substring of the team.
+    - `division` (int): NCAA division number.
+    - `start_year` (int): First year in the range.
+    - `end_year` (int): Last year in the range.
+
+**Returns:**
+    - Dictionary mapping stat names to their average values.
+
+
+.. py:function:: average_team_stat_str(stat_name: str, year: int, division: int) -> str:
+
+Calculates the average of a specific statistic (string type) for a team over a range of years.
+
+**Parameters:**
+    - `team_name` (str): Name or substring of the team.
+    - `stat_name` (str): Key of the statistic to average.
+    - `division` (int): NCAA division number.
+    - `start_year` (int): First year in the range.
+    - `end_year` (int): Last year in the range.
+
+**Returns:**
+    - Average value (str) of the specified statistic.
+
+
+.. py:function:: average_team_stat_float(stat_name: str, year: int, division: int) -> float | None:
+
+Calculates the average of a specific statistic (float type) for a team over a range of years.
+
+**Parameters:**
+    - `team_name` (str): Name or substring of the team.
+    - `stat_name` (str): Key of the statistic to average.
+    - `division` (int): NCAA division number.
+    - `start_year` (int): First year in the range.
+    - `end_year` (int): Last year in the range.
+
+**Returns:**
+    - Average value (float) of the specified statistic.
+
+
+.. py:function:: get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str:
+
 Calculates the Pythagenpat expected win percentage for a team based on runs scored and allowed.
 
 **Parameters:**
@@ -64,8 +114,9 @@ Calculates the Pythagenpat expected win percentage for a team based on runs scor
 **Returns:**
     - Expected win percentage (float).
 
-plot_team_stat_over_years
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. py:function:: plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year:
+
 Aggregates and plots a specified statistic for a team over a range of years.
 
 **Parameters:**
@@ -77,7 +128,6 @@ Aggregates and plots a specified statistic for a team over a range of years.
 
 **Returns:**
     - None. Displays a matplotlib plot if data is found.
-
 
 Usage Example
 -------------
