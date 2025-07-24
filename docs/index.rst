@@ -1,5 +1,5 @@
 ===========================================
-Welcome to ncaa_bbStats documentation!
+ncaa_bbStats documentation
 ===========================================
 
 **ncaa_bbStats** is an open-source NCAA baseball analysis package for Python.
