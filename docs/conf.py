@@ -25,7 +25,6 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-csv_table_file_include_path = ['_static']
 
 html_theme_options = {
     'display_version': True,
