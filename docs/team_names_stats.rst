@@ -1,4 +1,4 @@
-Team Names and Divisions
+Team Names and Divisions for team_stats
 ========================
 
 This file lists all unique team names from NCAA Division I, II, and III baseball stats,
