@@ -27,7 +27,7 @@ Example "By Teams" Preview
    :header-rows: 1
    :widths: auto
    :stub-columns: 1
-   :lines: 50
+   :lines: 5
 
 Example "From Teams" Preview
 ---------------
@@ -37,7 +37,7 @@ Example "From Teams" Preview
    :header-rows: 1
    :widths: auto
    :stub-columns: 1
-   :lines: 50
+   :lines: 5
 
 See Also
 --------
