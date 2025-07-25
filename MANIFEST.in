@@ -1,1 +1,2 @@
 recursive-include nfca_stats/data *.csv
+recursive-include docs/_static *
