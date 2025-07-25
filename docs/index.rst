@@ -15,6 +15,7 @@ It includes mutiple statistical functions for parsing and returning team stats a
    team_stats
    mlb_draft
    season_stats
-   schools
-   :maxdepth: 4
+   team_names_stats
+   team_names_mlb
+   :maxdepth: 100
    :caption: Contents:

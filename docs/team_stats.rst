@@ -120,4 +120,5 @@ where `X` is the division number and `YYYY` is the year.
 See Also
 --------
 
-- :doc:`draft_stats`
+- :doc:`mlb_draft`
+- :doc:`team_names_stats`
