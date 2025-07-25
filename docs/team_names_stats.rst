@@ -15,13 +15,13 @@ Download
 
 You can download the CSV file here:
 
-:download:`all_div_teams.csv <CollegeBaseballStatsPackage/src/data/team_names_stats/all_div_teams.csv>`
+:download:`all_div_teams.csv <_static/data/team_names_stats/all_div_teams.csv>`
 
 Example Preview
 ---------------
 
 .. csv-table:: Sample Team Entries
-   :file: CollegeBaseballStatsPackage/src/data/team_names_stats/all_div_teams.csv
+   :file: _static/data/team_names_stats/all_div_teams.csv
    :header-rows: 1
    :widths: auto
    :stub-columns: 1
