@@ -26,3 +26,8 @@ Example Preview
    :widths: auto
    :stub-columns: 1
    :lines: 100
+
+See Also
+--------
+
+- :doc:`team_stats`
