@@ -38,3 +38,8 @@ Example "From Teams" Preview
    :widths: auto
    :stub-columns: 1
    :lines: 50
+
+See Also
+--------
+
+- :doc:`mlb_draft`
