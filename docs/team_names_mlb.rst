@@ -14,10 +14,10 @@ Download
 
 You can download the CSV file here:
 
-:download:`mlb_draft_name_schools.csv <docs/_static/data/mlb_team_names/drafted_by_teams.csv>`
+:download:`drafted_by_teams.csv <docs/_static/data/mlb_team_names/drafted_by_teams.csv>`
 
 
-:download:`mlb_draft_name_schools.csv <docs/_static/data/mlb_team_names/drafted_from_schools.csv>`
+:download:`drafted_from_schools.csv <docs/_static/data/mlb_team_names/drafted_from_schools.csv>`
 
 Example "By Teams" Preview
 ---------------
