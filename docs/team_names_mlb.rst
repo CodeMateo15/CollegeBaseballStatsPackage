@@ -14,16 +14,16 @@ Download
 
 You can download the CSV file here:
 
-:download:`drafted_by_teams.csv <docs/_static/data/mlb_team_names/drafted_by_teams.csv>`
+:download:`drafted_by_teams.csv <_static/data/mlb_team_names/drafted_by_teams.csv>`
 
 
-:download:`drafted_from_schools.csv <docs/_static/data/mlb_team_names/drafted_from_schools.csv>`
+:download:`drafted_from_schools.csv <_static/drafted_from_schools.csv>`
 
 Example "By Teams" Preview
 ---------------
 
 .. csv-table:: Sample School Entries
-   :file: docs/_static/data/mlb_team_names/drafted_by_teams.csv
+   :file: _static/data/mlb_team_names/drafted_by_teams.csv
    :header-rows: 1
    :widths: auto
    :stub-columns: 1
@@ -33,7 +33,7 @@ Example "From Teams" Preview
 ---------------
 
 .. csv-table:: Sample School Entries
-   :file: docs/_static/data/mlb_team_names/drafted_from_schools.csv
+   :file: _static/drafted_from_schools.csv
    :header-rows: 1
    :widths: auto
    :stub-columns: 1
