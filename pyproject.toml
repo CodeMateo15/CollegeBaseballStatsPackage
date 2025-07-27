@@ -14,13 +14,7 @@ license = { file = "LICENSE" }
 requires-python = ">=3.8"
 dependencies = [
     "matplotlib",
-    "numpy",
-    "time",
-    "requests",
-    "os",
-    "json",
-    "re",
-    "csv"
+    "numpy"
 ]
 
 [project.scripts]
