@@ -2,10 +2,17 @@ LICENSE
 MANIFEST.in
 README.md
 pyproject.toml
+docs/_static/.DS_Store
+docs/_static/data/.DS_Store
+docs/_static/data/mlb_team_names/.DS_Store
+docs/_static/data/mlb_team_names/drafted_by_teams.csv
+docs/_static/data/mlb_team_names/drafted_from_schools.csv
+docs/_static/data/team_names_stats/all_div_teams.csv
 src/ncaa_bbStats/__init__.py
 src/ncaa_bbStats/average.py
 src/ncaa_bbStats/draft_stats.py
 src/ncaa_bbStats/draft_store.py
+src/ncaa_bbStats/scrape_teamNames.py
 src/ncaa_bbStats/team_stats.py
 src/ncaa_bbStats/team_store.py
 src/ncaa_bbStats/utils.py

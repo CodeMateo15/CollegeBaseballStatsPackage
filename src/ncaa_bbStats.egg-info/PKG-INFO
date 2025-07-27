@@ -35,7 +35,7 @@ Dynamic: license-file
 A Python package for retrieving, parsing, and analyzing NCAA Division I, II, and III college baseball team statistics (2002-2025 seasons). It supports both web-scraping from the official NCAA stats website and efficient access to cached local JSON datasets for research, data analysis, and sports analytics projects.
 
 ## Documentation
-Documentation is available at: [<a href='https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html'>readthedocs</a>](https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html)
+Documentation is available at: [<a href='https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html'>ncaa_bbstats's readthedocs</a>](https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html)
 
 ## Detailed Stat Extraction
 Extract season data for teams, some examples include:
