@@ -174,6 +174,10 @@ Stats List
 
   Strikeouts per nine innings pitched.
 
+- **TP**: Triple Plays  
+
+  The defending team records three outs on a single defensive play.
+
 - **3B**: Triples  
 
   Hits where the batter reaches third base.
