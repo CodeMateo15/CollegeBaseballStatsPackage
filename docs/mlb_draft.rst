@@ -52,24 +52,20 @@ Functions
     :return: Dictionary mapping years to lists of drafted players.
 
 
-.. py:function:: print_draft_picks_mlb(team_name: str, year: int, division: int) -> None:
+.. py:function:: print_draft_picks_mlb(picks: list) -> None
 
-    Prints MLB draft picks for a team in a given year and division in a readable format.
+   Prints formatted draft pick info from a list of draft dicts for MLB teams.
 
-    :param team_name: Name or substring of the team.
-    :param year: Year of the draft.
-    :param division: NCAA division number.
-    :return: None. Prints results to the console.
+   :param picks: List of dictionaries, each representing an MLB draft pick with fields like "Year", "Round", "Pick", "Player Name", "POS", and "Drafted From".
+   :return: None. Prints draft picks to the console.
 
 
-.. py:function:: print_draft_picks_college(team_name: str, year: int, division: int) -> None:
+.. py:function:: print_draft_picks_college(picks: list) -> None
 
-    Prints college draft picks for a team in a given year and division in a readable format.
+   Prints formatted draft pick info from a list of draft dicts for college teams.
 
-    :param team_name: Name or substring of the team.
-    :param year: Year of the draft.
-    :param division: NCAA division number.
-    :return: None. Prints results to the console.
+   :param picks: List of dictionaries, each representing a college draft pick with fields like "Year", "Round", "Pick", "Player Name", "POS", and "Drafted By".
+   :return: None. Prints draft picks to the console.
 
 
 Usage Example
