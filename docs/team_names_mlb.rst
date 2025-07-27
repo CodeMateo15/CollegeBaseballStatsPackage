@@ -6,7 +6,7 @@ These schools have been cleaned by removing any conference or league information
 
 Each entry includes:
 
-- A unique `school_id`
+- A unique `school_id` and 'team_id'
 - The cleaned `school_name` and 'team_name'
 
 Download
@@ -19,25 +19,14 @@ You can download the CSV file here:
 
 :download:`drafted_from_schools.csv <_static/data/mlb_team_names/drafted_from_schools.csv>`
 
-Example "By Teams" Preview
----------------
 
-.. csv-table:: Sample School Entries
-   :file: _static/data/mlb_team_names/drafted_by_teams.csv
-   :header-rows: 1
-   :widths: auto
-   :stub-columns: 1
-   :lines: 5
+.. note::
 
-Example "From Teams" Preview
----------------
+   For By Teams, you must use the team_name (ex. Atlanta Braves or Boston Red Sox). team_id has not been implemented yet.
 
-.. csv-table:: Sample School Entries
-   :file: _static/data/mlb_team_names/drafted_from_schools.csv
-   :header-rows: 1
-   :widths: auto
-   :stub-columns: 1
-   :lines: 5
+.. note::
+
+   For From Schools, you must use the school_name (ex. Northeastern University or Ohio State). school_id has not been implemented yet.
 
 See Also
 --------
