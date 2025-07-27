@@ -22,7 +22,7 @@ You can download the CSV file here:
 
 .. note::
 
-   For By Teams, you must use the team_name (ex. Atlanta Braves or Boston Red Sox). team_id has not been implemented yet.
+   For By Teams, you must use the team_name (ex. Atlanta Braves or Boston Red Sox). You can also just use Braves or Red Sox, without the location the team is based on. team_id has not been implemented yet.
 
 .. note::
 
