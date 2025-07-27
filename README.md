@@ -78,10 +78,10 @@ get_drafted_players_college(team_name: str, year: int, division: int): Retrieves
 get_drafted_players_all_years_college(team_name: str, division: int): Retrieves all college draft picks for a team across all available years in a division
 ```
 ```
-print_draft_picks_mlb(team_name: str, year: int, division: int): Prints MLB draft picks for a team in a given year and division in a readable format
+print_draft_picks_mlb(picks: list): Prints MLB draft picks for a team in a given year and division in a readable format
 ```
 ```
-print_draft_picks_college(team_name: str, year: int, division: int): Prints college draft picks for a team in a given year and division in a readable format
+print_draft_picks_college(picks: list): Prints college draft picks for a team in a given year and division in a readable format
 ```
 
 ## Reference
