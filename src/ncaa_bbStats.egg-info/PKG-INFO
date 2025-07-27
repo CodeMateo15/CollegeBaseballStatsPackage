@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: ncaa_bbStats
-Version: 0.1.0
+Version: 1.0.0
 Summary: A package to analyze college baseball stats by year and division
 Author-email: Mateo Biggs <mateojohn2024@gmail.com>
 License: MIT License
@@ -29,38 +29,111 @@ Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: matplotlib
+Requires-Dist: numpy
 Dynamic: license-file
 
-# NCAA Baseball Stats Python Package
-A Python package for retrieving, parsing, and analyzing NCAA Division I, II, and III college baseball team statistics (2002-2025 seasons). It supports both web-scraping from the official NCAA stats website and efficient access to cached local JSON datasets for research, data analysis, and sports analytics projects.
+# ncaa_bbStats (AKA CollegeBaseballStatsPackage)
 
-## Documentation
-Documentation is available at: [<a href='https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html'>ncaa_bbstats's readthedocs</a>](https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html)
+**ncaa_bbStats** is an open-source Python package for retrieving, parsing, and analyzing Division I, II, and III college baseball team statistics (2002–2025). It also includes tools to retrieve and analyze MLB draft results of NCAA players. Built for sports analysts, developers, and fans, the package supports both live scraping from the NCAA stats site and cached JSON access for faster use.
 
-## Detailed Stat Extraction
-Extract season data for teams, some examples include:
+> **Note**  
+> This project is under active development.
 
-- Batting stats: Batting average (BA), home runs (HR), doubles, triples
+---
 
-- Pitching stats: ERA, WHIP, K/BB, K/9, hits allowed, walks, shutouts
+## Documentation  
+Documentation is available at: <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html" target="_blank">ncaa_bbStats's ReadTheDocs</a>
 
-- Fielding stats: Fielding % (FPCT), double plays, triple plays
+---
 
-## JSON Caching for Speed
-Store season stats in pre-parsed JSON files, organized by year and division, for reliable, fast offline access.
+## Install
+> **Still needs testing**
+```bash
+pip install ncaa_bbStats
+```
+## Team Stats Module
+### Overview
+This module enables you to extract season statistics for college baseball teams across all NCAA divisions. Some examples you can retrieve include:
 
-## Easy Stat Lookup and Display
-Functions to search, retrieve, and display specific stats for one team (str or int format)
+Batting Stats: BA, HR, 2B, 3B, OBP, SLG
 
-## Examples
+Pitching Stats: ERA, WHIP, K/9, SHO
 
-<img src="pics/team_stats_pic.png" width="500">
+Fielding Stats: FPCT, E, DP, TP
+
+### Retrieval Functions
+```
+get_team_stat(stat_name: str, team_name: str, year: int, division: int): Retrieves a specific statistic for a given team from the cached data
+```
+```
+display_specific_team_stat(stat_name: str, search_team: str, year: int, division: int): Prints a specific statistic for a team in a readable format
+```
+```
+display_team_stats(search_team: str, year: int, division: int): Displays all available statistics for a team for a given year and division
+```
+### Statistical Analysis Functions
+```
+average_all_team_stats(team_name: str, division: int, start_year: int, end_year: int): Calculates the average of all available statistics for a team over a range of years
+```
+```
+average_team_stat_str(team_name: str, stat_name: str, division: int, start_year: int, end_year: int): Calculates the average of a specific statistic (string type) for a team over a range of years
+```
+```
+average_team_stat_float(team_name: str, stat_name: str, division: int, start_year: int, end_year: int): Calculates the average of a specific statistic (float type) for a team over a range of years
+```
+```
+get_pythagenpat_expectation(runs_scored: int | float, runs_allowed: int | float): Calculates the Pythagenpat expected win percentage (using the 1.83 exponent) for a team based on runs scored and allowed
+```
+```
+plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int): Aggregates and plots a specified statistic for a team over a range of years
+```
+### JSON Caching
+Stats are stored in local JSON files (/data/team_stats_cache/) to enable fast offline access.
+
+## Draft Module
+### Overview
+This module pulls MLB draft data for college baseball players and formats it for analysis.
+
+### Functions
+```
+parse_mlb_draft(year: int): Parses MLB draft results from Baseball Almanac for a given year (1965–2025)
+```
+```
+get_drafted_players_mlb(team_name: str, year: int, division: int): Retrieves a list of players from the specified team drafted to MLB in a given year and division
+```
+```
+get_drafted_players_all_years_mlb(team_name: str, division: int): Retrieves all MLB draft picks for a team across all available years in a division
+```
+```
+get_drafted_players_college(team_name: str, year: int, division: int): Retrieves a list of players from the specified team drafted to college in a given year and division
+```
+```
+get_drafted_players_all_years_college(team_name: str, division: int): Retrieves all college draft picks for a team across all available years in a division
+```
+```
+print_draft_picks_mlb(team_name: str, year: int, division: int): Prints MLB draft picks for a team in a given year and division in a readable format
+```
+```
+print_draft_picks_college(team_name: str, year: int, division: int): Prints college draft picks for a team in a given year and division in a readable format
+```
+
+## Reference
+### Season Stats Reference
+See full list of supported team statistics and their abbreviations in the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/season_stats.html" target="_blank">Stats List</a>.
+
+### Team Names
+Refer to <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_stats.html" target="_blank">Team Name Reference</a> for formatting options when passing team names.
+
+### Draft Team/School Names
+Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_mlb.html" target="_blank">MLB Draft Name Reference</a> for consistent naming of schools when using draft-related functions.
 
 ## Planned Features
+- NCAA individual player stats
 
-- NCAA Player stats
-  
-- Team Game results
+- Team game results with win-loss tracking
+
+- Win probability models using in-game data
 
 ## Contact
-To contact to collaborate or feedback, email me at mateojohn2024@gmail.com
+Feel free to reach out for collaboration or feedback:
+Mateo Biggs, mateojohn2024@gmail.com
