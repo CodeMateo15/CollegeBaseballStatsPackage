@@ -10,10 +10,11 @@
 ## Documentation  
 Documentation is available at: <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html" target="_blank">ncaa_bbStats's ReadTheDocs</a>
 
+Pypi site: <a href="https://pypi.org/project/ncaa-bbStats/" target="_blank">Link</a>
+
 ---
 
 ## Install
-> **Still needs testing**
 ```bash
 pip install ncaa_bbStats
 ```
