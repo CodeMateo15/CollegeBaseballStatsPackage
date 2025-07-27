@@ -17,15 +17,9 @@ You can download the CSV file here:
 
 :download:`all_div_teams.csv <_static/data/team_names_stats/all_div_teams.csv>`
 
-Example Preview
----------------
+.. note::
 
-.. csv-table:: Sample Team Entries
-   :file: _static/data/team_names_stats/all_div_teams.csv
-   :header-rows: 1
-   :widths: auto
-   :stub-columns: 1
-   :lines: 100
+   For All Division Teams, you must use the team_name (ex. Northeastern or LSU). team_id has not been implemented yet, and division is just for reference.
 
 See Also
 --------
