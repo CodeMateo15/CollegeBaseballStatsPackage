@@ -268,6 +268,3 @@ def plot_team_stat_over_years(stat_name: str, team_name: str, division: int, sta
         plt.show()
     else:
         print(f"No data found for {team_name} and stat '{stat_name}' in Division {division} ({start_year}-{end_year})")
-
-# Example usage:
-# plot_team_stat_over_years("home_runs", "Northeastern", 1, 2010, 2024)
