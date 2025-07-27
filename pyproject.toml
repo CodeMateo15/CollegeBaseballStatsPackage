@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ncaa_bbStats"
-version = "1.0.0"
+version = "1.0.1"
 description = "A package to analyze college baseball stats by year and division"
 authors = [
     { name="Mateo Biggs", email="mateojohn2024@gmail.com" }
