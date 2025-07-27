@@ -10,7 +10,7 @@ authors = [
     { name="Mateo Biggs", email="mateojohn2024@gmail.com" }
 ]
 readme = "README.md"
-license = { file = "LICENSE" }
+license = {text = "MIT"}
 requires-python = ">=3.8"
 dependencies = [
     "matplotlib",
