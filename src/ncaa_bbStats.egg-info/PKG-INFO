@@ -1,30 +1,11 @@
 Metadata-Version: 2.4
 Name: ncaa_bbStats
-Version: 1.0.0
+Version: 1.0.2
 Summary: A package to analyze college baseball stats by year and division
 Author-email: Mateo Biggs <mateojohn2024@gmail.com>
-License: MIT License
-        
-        Copyright (c) 2025 Mateo Biggs
-        
-        Permission is hereby granted, free of charge, to any person obtaining a copy
-        of this software and associated documentation files (the "Software"), to deal
-        in the Software without restriction, including without limitation the rights
-        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-        copies of the Software, and to permit persons to whom the Software is
-        furnished to do so, subject to the following conditions:
-        
-        The above copyright notice and this permission notice shall be included in all
-        copies or substantial portions of the Software.
-        
-        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-        SOFTWARE.
-        
+License: MIT
+Project-URL: GitHub, https://github.com/CodeMateo15/CollegeBaseballStatsPackage
+Project-URL: Documentation, https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
@@ -44,10 +25,11 @@ Dynamic: license-file
 ## Documentation  
 Documentation is available at: <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html" target="_blank">ncaa_bbStats's ReadTheDocs</a>
 
+PyPI site: <a href="https://pypi.org/project/ncaa-bbStats/" target="_blank">Link</a>
+
 ---
 
 ## Install
-> **Still needs testing**
 ```bash
 pip install ncaa_bbStats
 ```
@@ -73,16 +55,16 @@ display_team_stats(search_team: str, year: int, division: int): Displays all ava
 ```
 ### Statistical Analysis Functions
 ```
-average_all_team_stats(team_name: str, division: int, start_year: int, end_year: int): Calculates the average of all available statistics for a team over a range of years
+average_all_team_stats(year: int, division: int): Computes the average of all numeric values for each statistic across all teams
 ```
 ```
-average_team_stat_str(team_name: str, stat_name: str, division: int, start_year: int, end_year: int): Calculates the average of a specific statistic (string type) for a team over a range of years
+average_team_stat_str(stat_name: str, year: int, division: int): Returns a string representing the average value of a given statistic across all teams for the specified year and division
 ```
 ```
-average_team_stat_float(team_name: str, stat_name: str, division: int, start_year: int, end_year: int): Calculates the average of a specific statistic (float type) for a team over a range of years
+average_team_stat_float(stat_name: str, year: int, division: int): Returns a float representing the average value of a given statistic across all teams for the specified year and division
 ```
 ```
-get_pythagenpat_expectation(runs_scored: int | float, runs_allowed: int | float): Calculates the Pythagenpat expected win percentage (using the 1.83 exponent) for a team based on runs scored and allowed
+get_pythagenpat_expectation(team_name: str, year: int, division: int): Computes Pythagenpat expected win percentage and compares it with the actual win percentage
 ```
 ```
 plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int): Aggregates and plots a specified statistic for a team over a range of years
@@ -99,22 +81,22 @@ This module pulls MLB draft data for college baseball players and formats it for
 parse_mlb_draft(year: int): Parses MLB draft results from Baseball Almanac for a given year (1965–2025)
 ```
 ```
-get_drafted_players_mlb(team_name: str, year: int, division: int): Retrieves a list of players from the specified team drafted to MLB in a given year and division
+get_drafted_players_mlb(team_name: str, year: int): Retrieves a list of players from the specified team drafted to MLB in a given year
 ```
 ```
-get_drafted_players_all_years_mlb(team_name: str, division: int): Retrieves all MLB draft picks for a team across all available years in a division
+get_drafted_players_all_years_mlb(team_name: str): Retrieves all MLB draft picks for a team across all available years
 ```
 ```
-get_drafted_players_college(team_name: str, year: int, division: int): Retrieves a list of players from the specified team drafted to college in a given year and division
+get_drafted_players_college(team_name: str, year: int): Retrieves a list of players from the specified team drafted to college in a given year
 ```
 ```
-get_drafted_players_all_years_college(team_name: str, division: int): Retrieves all college draft picks for a team across all available years in a division
+get_drafted_players_all_years_college(team_name: str): Retrieves all college draft picks for a team across all available years
 ```
 ```
-print_draft_picks_mlb(team_name: str, year: int, division: int): Prints MLB draft picks for a team in a given year and division in a readable format
+print_draft_picks_mlb(picks: list): Prints MLB draft picks for a team in a given year in a readable format
 ```
 ```
-print_draft_picks_college(team_name: str, year: int, division: int): Prints college draft picks for a team in a given year and division in a readable format
+print_draft_picks_college(picks: list): Prints college draft picks for a team in a given year in a readable format
 ```
 
 ## Reference
