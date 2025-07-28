@@ -6,8 +6,8 @@ To use ncaa_bbStats, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install git+https://github.com/CodeMateo15/CollegeBaseballStatsPackage
+   pip install ncaa_bbStats
 
 .. note::
 
-   This project is under active development. Not sure if this works.
+   This project is under active development. Check `PyPI <https://pypi.org/project/ncaa-bbStats/>`_ for more details.
