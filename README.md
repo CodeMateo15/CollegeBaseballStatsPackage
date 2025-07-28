@@ -10,7 +10,7 @@
 ## Documentation  
 Documentation is available at: <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html" target="_blank">ncaa_bbStats's ReadTheDocs</a>
 
-Pypi site: <a href="https://pypi.org/project/ncaa-bbStats/" target="_blank">Link</a>
+PyPI site: <a href="https://pypi.org/project/ncaa-bbStats/" target="_blank">Link</a>
 
 ---
 
@@ -40,16 +40,16 @@ display_team_stats(search_team: str, year: int, division: int): Displays all ava
 ```
 ### Statistical Analysis Functions
 ```
-average_all_team_stats(team_name: str, division: int, start_year: int, end_year: int): Calculates the average of all available statistics for a team over a range of years
+average_all_team_stats(year: int, division: int): Computes the average of all numeric values for each statistic across all teams
 ```
 ```
-average_team_stat_str(team_name: str, stat_name: str, division: int, start_year: int, end_year: int): Calculates the average of a specific statistic (string type) for a team over a range of years
+average_team_stat_str(stat_name: str, year: int, division: int): Returns a string representing the average value of a given statistic across all teams for the specified year and division
 ```
 ```
-average_team_stat_float(team_name: str, stat_name: str, division: int, start_year: int, end_year: int): Calculates the average of a specific statistic (float type) for a team over a range of years
+average_team_stat_float(stat_name: str, year: int, division: int): Returns a float representing the average value of a given statistic across all teams for the specified year and division
 ```
 ```
-get_pythagenpat_expectation(runs_scored: int | float, runs_allowed: int | float): Calculates the Pythagenpat expected win percentage (using the 1.83 exponent) for a team based on runs scored and allowed
+get_pythagenpat_expectation(team_name: str, year: int, division: int): Computes Pythagenpat expected win percentage and compares it with the actual win percentage
 ```
 ```
 plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int): Aggregates and plots a specified statistic for a team over a range of years
@@ -66,22 +66,22 @@ This module pulls MLB draft data for college baseball players and formats it for
 parse_mlb_draft(year: int): Parses MLB draft results from Baseball Almanac for a given year (1965–2025)
 ```
 ```
-get_drafted_players_mlb(team_name: str, year: int, division: int): Retrieves a list of players from the specified team drafted to MLB in a given year and division
+get_drafted_players_mlb(team_name: str, year: int): Retrieves a list of players from the specified team drafted to MLB in a given year
 ```
 ```
-get_drafted_players_all_years_mlb(team_name: str, division: int): Retrieves all MLB draft picks for a team across all available years in a division
+get_drafted_players_all_years_mlb(team_name: str): Retrieves all MLB draft picks for a team across all available years
 ```
 ```
-get_drafted_players_college(team_name: str, year: int, division: int): Retrieves a list of players from the specified team drafted to college in a given year and division
+get_drafted_players_college(team_name: str, year: int): Retrieves a list of players from the specified team drafted to college in a given year
 ```
 ```
-get_drafted_players_all_years_college(team_name: str, division: int): Retrieves all college draft picks for a team across all available years in a division
+get_drafted_players_all_years_college(team_name: str): Retrieves all college draft picks for a team across all available years
 ```
 ```
-print_draft_picks_mlb(picks: list): Prints MLB draft picks for a team in a given year and division in a readable format
+print_draft_picks_mlb(picks: list): Prints MLB draft picks for a team in a given year in a readable format
 ```
 ```
-print_draft_picks_college(picks: list): Prints college draft picks for a team in a given year and division in a readable format
+print_draft_picks_college(picks: list): Prints college draft picks for a team in a given year in a readable format
 ```
 
 ## Reference
