@@ -14,42 +14,38 @@ Functions
     :return: List of drafted player details.
 
 
-.. py:function:: get_drafted_players_mlb(team_name: str, year: int, division: int) -> list:
+.. py:function:: get_drafted_players_mlb(team_name: str, year: int) -> list:
 
-    Retrieves a list of players from the specified team drafted to MLB in a given year and division.
-
-    :param team_name: Name or substring of the team.
-    :param year: Year of the draft.
-    :param division: NCAA division number.
-    :return: List of drafted player details.
-
-
-.. py:function:: get_drafted_players_all_years_mlb(team_name: str, division: int) -> dict:
-
-    Retrieves all MLB draft picks for a team across all available years in a division.
-
-    :param team_name: Name or substring of the team.
-    :param division: NCAA division number.
-    :return: Dictionary mapping years to lists of drafted players.
-
-
-.. py:function:: get_drafted_players_college(team_name: str, year: int, division: int) -> list:
-
-    Retrieves a list of players from the specified team drafted to college in a given year and division.
+    Retrieves a list of players from the specified team drafted to MLB in a given year.
 
     :param team_name: Name or substring of the team.
     :param year: Year of the draft.
-    :param division: NCAA division number.
     :return: List of drafted player details.
 
 
-.. py:function:: get_drafted_players_all_years_college(team_name: str, division: int) -> dict:
+.. py:function:: get_drafted_players_all_years_mlb(team_name: str) -> list:
 
-    Retrieves all college draft picks for a team across all available years in a division.
+    Retrieves all MLB draft picks for a team across all available years.
 
     :param team_name: Name or substring of the team.
-    :param division: NCAA division number.
-    :return: Dictionary mapping years to lists of drafted players.
+    :return: List of drafted player details.
+
+
+.. py:function:: get_drafted_players_college(team_name: str, year: int) -> list:
+
+    Retrieves a list of players from the specified team drafted to college in a given year.
+
+    :param team_name: Name or substring of the team.
+    :param year: Year of the draft.
+    :return: List of drafted player details.
+
+
+.. py:function:: get_drafted_players_all_years_college(team_name: str) -> list:
+
+    Retrieves all college draft picks for a team across all available years.
+
+    :param team_name: Name or substring of the team.
+    :return: List of drafted player details.
 
 
 .. py:function:: print_draft_picks_mlb(picks: list) -> None
