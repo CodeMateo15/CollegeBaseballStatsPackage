@@ -20,7 +20,7 @@ Functions
     Retrieves a specific statistic for a given team from the cached data.
 
     :param stat_name: Key of the statistic to retrieve.
-    :param team_name: Name or substring of the team.
+    :param team_name: Name of the team.
     :param year: Year of the data.
     :param division: NCAA division number.
     :return: The value of the requested statistic, or None if not found.
@@ -30,7 +30,7 @@ Functions
     Prints a specific statistic for a team in a readable format.
 
     :param stat_name: Key of the statistic to display.
-    :param search_team: Name or substring of the team.
+    :param search_team: Name of the team.
     :param year: Year of the data.
     :param division: NCAA division number.
     :return: None. Prints the result to the console.
@@ -39,7 +39,7 @@ Functions
 
     Displays all available statistics for a team for a given year and division.
 
-    :param search_team: Name or substring of the team.
+    :param search_team: Name of the team.
     :param year: Year of the data.
     :param division: NCAA division number.
     :return: None. Prints all stats for the team.
@@ -47,52 +47,47 @@ Functions
 Functions that calculate
 ------------------------
 
-.. py:function:: average_all_team_stats(team_name: str, division: int, start_year: int, end_year: int) -> dict
+.. py:function:: average_all_team_stats(year: int, division: int) -> dict
 
-    Calculates the average of all available statistics for a team over a range of years.
+    Computes the average of all numeric values for each statistic across all teams.
 
-    :param team_name: Name or substring of the team.
+    :param year: Year of the data.
     :param division: NCAA division number.
-    :param start_year: First year in the range.
-    :param end_year: Last year in the range.
     :return: Dictionary mapping stat names to their average values.
 
-.. py:function:: average_team_stat_str(team_name: str, stat_name: str, division: int, start_year: int, end_year: int) -> str
+.. py:function:: average_team_stat_str(stat_name: str, year: int, division: int) -> str
 
-    Calculates the average of a specific statistic (string type) for a team over a range of years.
+    Returns a string representing the average value of a given statistic across all teams for the specified year and division.
 
-    :param team_name: Name or substring of the team.
     :param stat_name: Key of the statistic to average.
+    :param year: Year of the data.
     :param division: NCAA division number.
-    :param start_year: First year in the range.
-    :param end_year: Last year in the range.
     :return: Average value (str) of the specified statistic.
 
-.. py:function:: average_team_stat_float(team_name: str, stat_name: str, division: int, start_year: int, end_year: int) -> float | None
+.. py:function:: average_team_stat_float(stat_name: str, year: int, division: int) -> float | None
 
-    Calculates the average of a specific statistic (float type) for a team over a range of years.
+    Computes the mean of the specified statistic, if available
 
-    :param team_name: Name or substring of the team.
     :param stat_name: Key of the statistic to average.
+    :param year: Year of the data.
     :param division: NCAA division number.
-    :param start_year: First year in the range.
-    :param end_year: Last year in the range.
     :return: Average value (float) of the specified statistic.
 
-.. py:function:: get_pythagenpat_expectation(runs_scored: int | float, runs_allowed: int | float) -> float
+.. py:function:: get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str
 
-    Calculates the Pythagenpat expected win percentage (using the 1.83 exponent) for a team based on runs scored and allowed.
+    Computes Pythagenpat expected win percentage and compares it with the actual win percentage.
 
-    :param runs_scored: Total runs scored by the team.
-    :param runs_allowed: Total runs allowed by the team.
-    :return: Expected win percentage (float).
+    :param team_name: Name of the team.
+    :param year: Year of data.
+    :param division: NCAA division number.
+    :return: A string summary with expected and actual win percentages.
 
-.. py:function:: plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int) -> None
+.. py:function:: plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int)
 
-    Aggregates and plots a specified statistic for a team over a range of years.
+    Plots the values of a specified statistic for a given team across a range of years in a specific NCAA division.
 
     :param stat_name: Key of the statistic to plot.
-    :param team_name: Name or substring of the team.
+    :param team_name: Name of the team.
     :param division: NCAA division number.
     :param start_year: First year in the range.
     :param end_year: Last year in the range.
