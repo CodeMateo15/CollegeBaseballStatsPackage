@@ -1,0 +1,10 @@
+cff-version: 1.0.2
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Biggs"
+  given-names: "Mateo"
+  orcid: "https://orcid.org/0009-0004-2895-5738"
+title: "ncaa_bbStats"
+version: 1.0.2
+date-released: 2025-07-27
+url: "https://github.com/CodeMateo15/CollegeBaseballStatsPackage"
