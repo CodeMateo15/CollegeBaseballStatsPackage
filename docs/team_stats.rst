@@ -73,7 +73,16 @@ Functions that calculate
     :param division: NCAA division number.
     :return: Average value (float) of the specified statistic.
 
-.. py:function:: get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str
+.. py:function:: get_pythagenpat_expectation(team_name: str, year: int, division: int) -> float | str
+
+    Computes Pythagenpat expected win percentage.
+
+    :param team_name: Name of the team.
+    :param year: Year of data.
+    :param division: NCAA division number.
+    :return: A float that represents expected win percentage.
+
+.. py:function:: compare_pythagenpat_expectation(team_name: str, year: int, division: int) -> str
 
     Computes Pythagenpat expected win percentage and compares it with the actual win percentage.
 

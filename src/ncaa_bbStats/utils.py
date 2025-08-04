@@ -43,9 +43,9 @@ def display_specific_team_stat(stat_name: str, search_team: str, year: int, divi
     Displays a specific stat for all teams matching a name substring in a given division and year.
 
     Args:
-        stat_name: The name of the stat to display (e.g., "home_runs").
-        search_team: Substring to match against team names (e.g., "Northeastern").
-        year: The year of the stats file (e.g., 2015).
+        stat_name: The name of the stat to display (ex. "home_runs").
+        search_team: Substring to match against team names (ex. "Northeastern").
+        year: The year of the stats file (ex. 2015).
         division: NCAA division number (1, 2, or 3).
 
     Returns:
@@ -113,7 +113,7 @@ def display_team_stats(search_team: str, year: int, division: int) -> None:
         print("No team found matching the search term.")
 
 
-def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str:
+def compare_pythagenpat_expectation(team_name: str, year: int, division: int) -> str:
     """
     Computes Pythagenpat expected win percentage and compares it with the actual win percentage.
 
@@ -143,6 +143,34 @@ def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> str
         return (
             f"Pythagenpat Expected Win% for {team_name} ({year}, Div {division}): {expected_pct:.3f} | "
             f"Actual Win%: {actual_pct:.3f}"
+        )
+    except (ZeroDivisionError, ValueError, OverflowError) as e:
+        return f"Could not compute Pythagenpat for '{team_name}': {str(e)}"
+
+
+def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> float | str:
+    """
+    Computes Pythagenpat expected win percentage.
+
+    Args:
+        team_name: Team name or partial string (ex. "Northeastern").
+        year: NCAA season year.
+        division: NCAA division (1, 2, or 3).
+
+    Returns:
+        A float that represents expected win percentage.
+    """
+    exponent = 1.83
+    R = get_team_stat("R (Batting)", team_name, year, division)
+    RA = get_team_stat("R (Pitching)", team_name, year, division)
+
+    if None in (R, RA):
+        return f"Insufficient data to compute Pythagenpat for '{team_name}' ({year}, Div {division})."
+
+    try:
+        expected_pct = R**exponent / (R**exponent + RA**exponent)
+        return round(
+            expected_pct, 3
         )
     except (ZeroDivisionError, ValueError, OverflowError) as e:
         return f"Could not compute Pythagenpat for '{team_name}': {str(e)}"
@@ -194,8 +222,8 @@ def get_drafted_players_college(team_name: str, year: int) -> list:
     """
     Returns a list of player names drafted from a college team for a given year.
     Args:
-        team_name (str): e.g. "Baltimore Orioles"
-        year (int): e.g. 2019
+        team_name (str): ex. "Baltimore Orioles"
+        year (int): ex. 2019
     Returns:
         List of dicts for each draft pick.
     """
