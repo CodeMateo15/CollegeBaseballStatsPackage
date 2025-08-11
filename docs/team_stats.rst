@@ -44,6 +44,14 @@ Functions
     :param division: NCAA division number.
     :return: None. Prints all stats for the team.
 
+.. py:function:: list_all_teams(year: int, division: int) -> list[str]
+
+    Returns a list of all team names for a given year and division.
+
+    :param year: Year of the data.
+    :param division: NCAA division number.
+    :return: List of team names (str).
+
 Functions that calculate
 ------------------------
 

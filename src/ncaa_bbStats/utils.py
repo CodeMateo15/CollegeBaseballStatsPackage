@@ -296,3 +296,28 @@ def plot_team_stat_over_years(stat_name: str, team_name: str, division: int, sta
         plt.show()
     else:
         print(f"No data found for {team_name} and stat '{stat_name}' in Division {division} ({start_year}-{end_year})")
+
+def list_all_teams(year: int, division: int) -> list[str]:
+    """
+    Returns a list of all team names for a given year and division.
+
+    Args:
+        year (int): The year of the stats file (ex. 2015).
+        division (int): NCAA division number (1, 2, or 3).
+
+    Returns:
+        List of team names (str).
+    """
+    file_path = os.path.join(
+        os.path.dirname(__file__),
+        "..", "data", "team_stats_cache", f"div{division}", f"{year}.json"
+    )
+    file_path = os.path.abspath(file_path)
+
+    if not os.path.isfile(file_path):
+        raise FileNotFoundError(f"Stats for Division {division} in {year} not found.")
+
+    with open(file_path, "r") as f:
+        stats = json.load(f)
+
+    return list(stats.keys())
