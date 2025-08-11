@@ -1,0 +1,8 @@
+recursive-include src/data/mlb_draft_cache *.json
+recursive-include src/data/mlb_team_names *.csv
+recursive-include src/data/team_names_stats *.csv
+recursive-include src/data/team_stats_cache/div1 *.json
+recursive-include src/data/team_stats_cache/div2*.json
+recursive-include src/data/team_stats_cache/div3 *.json
+recursive-include docs/_static *
+include LICENSE

@@ -1,0 +1,6162 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Jackson Holliday",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Stillwater High School (Stillwater, OK)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Druw Jones",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "Wesleyan High School (Wesleyan, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Kumar Rocker",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Termarr Johnson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Benjamin E. Mays High School (Atlanta, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Elijah Green",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Jacob Berry",
+    "Drafted By": "Miami Marlins",
+    "POS": "3B/OF",
+    "Drafted From": "Louisiana State University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Cade Horton",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Brooks Lee",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Cal Poly",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Gavin Cross",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Virginia Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Gabriel Hughes",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Gonzaga",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Kevin Parada",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Georgia Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Jace Jung",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "Texas Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Zach Neto",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "SS",
+    "Drafted From": "Campbell University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Jett Williams",
+    "Drafted By": "New York Mets",
+    "POS": "SS/OF",
+    "Drafted From": "Rockwall-Heath High School (Rockwall, TX)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Dylan Lesko",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Buford High School (GA) (Buford, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Chase DeLauter",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "James Madison University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Justin Crawford",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Bishop Gorman High School (Las Vegas, NV)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Cam Collier",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B",
+    "Drafted From": "Chipola College",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Daniel Susac",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "University of Arizona",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Owen Murphy",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Riverside-Brookfield High School (Riverside, IL)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Cole Young",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "North Allegheny High School (Wexford, PA)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Cooper Hjerpe",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Brandon Barriera",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "American Heritage High School (Plantation, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Mikey Romero",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Orange Lutheran High School (Orange, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Spencer Jones",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Noah Schultz",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Oswego East High School (Oswego, IL)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Eric Brown Jr.",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Drew Gilbert",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Xavier Isaac",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "1B",
+    "Drafted From": "East Forsyth High School (Kernersville, NC )",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Reggie Crawford",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP/1B",
+    "Drafted From": "University of Connecticut",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "Sterlin Thompson",
+    "Drafted By": "Colorado Rockies",
+    "POS": "OF",
+    "Drafted From": "University of Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Sal Stewart",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B",
+    "Drafted From": "Westminster Christian School (Palmetto Bay, FL )",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Dylan Beavers",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of California, Berkeley",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Landon Sims",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "JR Ritchie",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Bainbridge High School (Bainbridge, WA)",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Thomas Harrington",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Campbell University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Justin Campbell",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Jordan Beck",
+    "Drafted By": "Colorado Rockies",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "1",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Robby Snelling",
+    "Drafted By": "San Diego Padres",
+    "POS": "LHP",
+    "Drafted From": "Robert McQueen High School (Reno, NV)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Dalton Rushing",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "University of Louisville",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "Cutter Coffey",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Liberty High School (Bakersfield, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "Max Wagner",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Clemson University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Ivan Melendez",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "1B",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Hunter Barco",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "University of Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Jake Bennett",
+    "Drafted By": "Washington Nationals",
+    "POS": "LHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Jacob Miller",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Liberty Union High School (Baltimore, OH)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "Jackson Ferris",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Connor Prielipp",
+    "Drafted By": "Minnesota Twins",
+    "POS": "LHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Cayden Wallace",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Jackson Cox",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Toutle Lake High School (Toutle, WA)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Peyton Graham",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Blade Tidwell",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Adam Mazur",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "University of Iowa",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Parker Messick",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Florida State University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Logan Tanner",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Mississippi State University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Henry Bolte",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Palo Alto High School (Palo Alto, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "Cole Phillips",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Boerne High School (Boerne, TX)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Tyler Locklear",
+    "Drafted By": "Seattle Mariners",
+    "POS": "1B",
+    "Drafted From": "VCU",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "Brycen Mautz",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "University of San Diego",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Josh Kasevich",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "University of Oregon",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Drew Thorpe",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "California Polytechnic State University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Peyton Pallette",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Jacob Misiorowski",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Crowder College",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Jacob Melton",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Brock Jones",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Carson Whisenhunt",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "East Carolina University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Jud Fabian",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Tanner Schobel",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Virginia Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Clark Elliott",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "University of Michigan",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Chandler Simpson",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Ryan Cermak",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "OF",
+    "Drafted From": "Illinois State University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "Robert Moore",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Justin Boyd",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Walter Ford",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Pace High School (Pace, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Nick Morabito",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Gonzaga High School (Washington, D.C.)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Blake Burkhalter",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Tucker Toman",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Hammond School (Columbia, SC)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Cade Doughty",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "2B",
+    "Drafted From": "Louisiana State University",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Roman Anthony",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Marjory Stoneman Douglas High School (Parkland, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "2",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Andrew Taylor",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Central Michigan University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Nolan McLean",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Nate Savino",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "University of Virginia",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Jack Brannigan",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP/3B",
+    "Drafted From": "University of Notre Dame",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "Trey Lipscomb",
+    "Drafted By": "Washington Nationals",
+    "POS": "3B",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Christopher Paciolla",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Temecula Valley High School (Temecula, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Mason Barnett",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Carson Palmquist",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "University of Miami",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Ben Joyce",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Karson Milbrandt",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Liberty High School (Liberty, MO)",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Brandon Sproat",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Henry Williams",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Joe Lampe",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "Gabriel Rincones Jr.",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Florida Atlantic University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Bryce Hubbart",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "LHP",
+    "Drafted From": "Florida State University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Colby Thomas",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Mercer University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Drake Baldwin",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Missouri State University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Pete Hansen",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "University of Texas",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Alan Roden",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Creighton University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Dalton Rogers",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Trystan Vrieling",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Gonzaga University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Jonathan Cannon",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Georgia",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Dylan O'Rae",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Northern Collegiate Institute",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "Michael Knorr",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Trevor Martin",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Alex Freeland",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "University of Central Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "3",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "William Kempner",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Gonzaga University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Silas Ardoin",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "University of Texas",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "Dylan Ray",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Brock Porter",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "St. Marys Prep",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Michael Kennedy",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "Troy High School (Troy, NY)",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Brenner Cox",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "Rock Hill High School (Rock Hill, TX)",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Marcus Johnson",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Nazier Mule",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Passaic County Technical Institute",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "Andrew Morris",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Texas Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Steven Zobac",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of California",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Ryan Ritter",
+    "Drafted By": "Colorado Rockies",
+    "POS": "SS",
+    "Drafted From": "University of Kentucky",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Troy Melton",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "San Diego State University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Jake Madden",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Northwest Florida State University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Jacob Reimer",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Yucaipa High School (Yucaipa, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Lamar King Jr.",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Calvert Hall College High School (Baltimore, MD)",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Nate Furman",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "2B",
+    "Drafted From": "University of North Carolina at Charlotte",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Alex McFarlane",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Kenya Huggins",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Chipola College",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Jacob Watters",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "West Virginia University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "David McCabe",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "University of North Carolina at Charlotte",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Ashton Izzi",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Oswego East High School (Oswego, IL)",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Jimmy Crooks III",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Ryan Jennings",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "Chase Meidroth",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "University of San Diego",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "Anthony Hall",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of Oregon",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "Jordan Sprinkle",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Matthew Wood",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Pennsylvania State University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "Trey Dombroski",
+    "Drafted By": "Houston Astros",
+    "POS": "LHP",
+    "Drafted From": "Monmouth University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "Dominic Keegan",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "C",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Nick Biddison",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Virginia Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "4",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Spencer Miles",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "Trace Bright",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "Andrew Pintar",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "Brigham Young University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Chandler Pollard",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Woodward Academy (College Park, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Tres Gonzalez",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Jared McKenzie",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "Baylor University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Josh White",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of California, Berkeley",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Brandon Birdsell",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Texas Tech University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Ben Ross",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Notre Dame College",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Hunter Patteson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "University of Central Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Connor Staine",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Central Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Luke Gold",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Boston College",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Sonny DiChiara",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "1B",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "D'Andre Smith",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "University of Southern California",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Nathan Martorella",
+    "Drafted By": "San Diego Padres",
+    "POS": "1B",
+    "Drafted From": "University of California, Berkeley",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Guy Lipscomb Jr.",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "Belmont University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "Orion Kerkering",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of South Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Cade Hunter",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Virginia Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Jack Perkins",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Indiana University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Nacho Alvarez Jr.",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Riverside Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Reid VanScoter",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Victor Scott II",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "West Virginia University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Mason Fluharty",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "Liberty University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Noah Dean",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "Old Dominion University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Eric Reyzelman",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "Tyler Schweitzer",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Ball State University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "Will Rudy",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "California State Polytechnic University-Pomona",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Nolan DeVos",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Davidson College",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Jalen Battles",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "165",
+    "Phase": "JR",
+    "Player Name": "Sean McLain",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Arizona State University",
+    "Year": 2022
+  },
+  {
+    "Round": "5",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "Liam Simon",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "University of Notre Dame",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Douglas Hodo III",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Will Mabrey",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Tommy Specht",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Wahlert Catholic High School (Dubuque, IA)",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Derek Diamond",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "University of Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "Nathaniel Ochoa Leyva",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Notre Dame Catholic High (Ajax, Ontario)",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Poland Jared",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of Louisville",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "Will Frisch",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "Jorel Ortega",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Hayden Dunhurst",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "University of Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Michael Prosecky",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "University of Louisville",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "177",
+    "Phase": "JR",
+    "Player Name": "Danny Serretti",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "University of North Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "Victor Mederos",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "Tyler Stuart",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "Jakob Marsee",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Central Michigan University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Dylan DeLucia",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "University of Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Mavis Graves",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "LHP",
+    "Drafted From": "Eastside High School (Taylors, SC)",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "Zach Maxwell",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Brennan Milone",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "University of South Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "Seth Keller",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Hanover High School (Hanover, VA)",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Josh Hood",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "North Carolina State University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "Max Rajcic",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "UCLA",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "T.J. Brock",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Ohio State University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "Alex Hoppe",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "University of North Carolina Greensboro",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Chase Hampton",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Texas Tech University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "Eric Adler",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "Tyler Woessner",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Central Arizona College",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "Collin Price",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Mercer University",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Gary Gill Hill",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "John F. Kennedy Catholic School (Somers, NY)",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Logan Wagner",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "P27 Academy (Lexington, SC)",
+    "Year": 2022
+  },
+  {
+    "Round": "6",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "Hayden Birdsong",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "Preston Johnson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Demetrio Crisantes",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "Nogales High School (Nogales, AZ)",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "Luis Ramirez",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "California State University, Long Beach",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "J.P. Massey",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "University of Minnesota",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Riley Cornelio",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Kyle Crigger",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "Nick Hull",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "Kyle Jones",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of Toledo",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Mack Anglin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Clemson University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "Kody Huff",
+    "Drafted By": "Colorado Rockies",
+    "POS": "C",
+    "Drafted From": "Stanford University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "Seth Stephenson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "Roman Phansalkar",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "Jonah Tong",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Bill Crothers Secondary School (Ontario, Canada)",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Nick Vogt",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "Javier Santos",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Georgia Premier Academy (Statesboro, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Caleb Ricketts",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "University of San Diego",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "Trey Faltine",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "Yeniel Laboy",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "Carlos Beltran Baseball Academy (Florida, PR)",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Adam Maier",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "University of Oregon",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "Hogan Windish",
+    "Drafted By": "Seattle Mariners",
+    "POS": "2B",
+    "Drafted From": "University of North Carolina Greensboro",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "Alex Iadisernia",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Elon University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "Peyton Williams",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "1B",
+    "Drafted From": "University of Iowa",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "219",
+    "Phase": "JR",
+    "Player Name": "Caleb Bolden",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "Cam Schlittler",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Northeastern University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "Mark McLaughlin",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Ben Metzinger",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "University of Louisville",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "A.J. Blubaugh",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "University of Wisconsin-Milwaukee",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Blake Robertson",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "1B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Christopher Campos",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Saint Mary's College of California",
+    "Year": 2022
+  },
+  {
+    "Round": "7",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Zach Morgan",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "California State University, Fresno",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Cameron Weston",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Michigan",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Adrian Rodriguez",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "International Baseball Academy (Fajardo, PR)",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "Matt Brosky",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Youngstown State University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "Cy Nielson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "Brigham Young University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Chance Huff",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Dale Stanavich",
+    "Drafted By": "Miami Marlins",
+    "POS": "LHP",
+    "Drafted From": "Rutgers, the State University of New Jersey",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "Mason McGwire",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Capistrano Valley High School (Mission Viejo, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Zebby Matthews",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Western Carolina University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Wesley Scott",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Walters State Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Davis Palermo",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of North Carolina at Chapel Hill",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "Jake Miller",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "Valparaiso University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Dylan Phillips",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "LHP",
+    "Drafted From": "Kansas State University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Dylan Tebrake",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Creighton University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Griffin Doersching",
+    "Drafted By": "San Diego Padres",
+    "POS": "1B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "Jackson Humphries",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Fuquay-Varina High School (Fuquay-Varina, NC)",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Alex Rao",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Notre Dame",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Chris McElvain",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Micah Dallas",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Jason Franks",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Cal Poly San Luis Obispo",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "Tatem Levins",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "University of Pittsburgh",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "Cade Winquest",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "University of Texas at Arlington",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Dylan Rock",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Texas A&M University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Jonathan Brand",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Miami University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Brett Barrera",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Stanford University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "Mario Camilletti",
+    "Drafted By": "Chicago White Sox",
+    "POS": "2B",
+    "Drafted From": "Central Michigan University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "Nate Peterson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "LHP",
+    "Drafted From": "University of Illinois Chicago",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "Tyler Guilfoil",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Sean Harney",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Taylor Young",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "2B",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 2022
+  },
+  {
+    "Round": "8",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Wade Meckler",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Adam Crampton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Stanford University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "Gavin Logan",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "C",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Griffin Cheney",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Georgia State University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Matt Walsh",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Yale University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "Maxwell Romero, Jr.",
+    "Drafted By": "Washington Nationals",
+    "POS": "C",
+    "Drafted From": "University of Miami",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Evan Taylor",
+    "Drafted By": "Miami Marlins",
+    "POS": "LHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "Connor Noland",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Cory Lewis",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Brandon Johnson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Brad Cumbest",
+    "Drafted By": "Colorado Rockies",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "Andrew Jenkins",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Joe Stewart",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "University of Michigan",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Chase Estep",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "University of Kentucky",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "Dylan Nedved",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "University of Iowa",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "Austin Peterson",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "University of Connecticut",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Chad Castillo",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "California Baptist University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Rob Hensey",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "LHP",
+    "Drafted From": "Monmouth College",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Caeden Trenkle",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Cory Acton",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B",
+    "Drafted From": "University of Georgia",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Tyler Gough",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "JSerra Catholic High School (Capistrano, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "Joseph King",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "University of California, Berkeley",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "Devereaux Harrison",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "California State University Long Beach",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "Brooks Brannon",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Randleman High School (Randleman, NC)",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Matt Keating",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "University of Southern California",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "Michael Turner",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "Tayden Hall",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "State College of Florida Manatee-Sarasota",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Brett Gillis",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "University of Portland",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Chris Villaman",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "LHP",
+    "Drafted From": "North Carolina State University",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "Brandon Neeck",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "University of Virginia",
+    "Year": 2022
+  },
+  {
+    "Round": "9",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "Jack Choate",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "Assumption College",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Wyatt Cheney",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "McLennan Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "Brett Johnson",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University Edwardsville",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Josh Hatcher",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Kennesaw State University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Tanner Tredaway",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "Murphy Stehly",
+    "Drafted By": "Washington Nationals",
+    "POS": "3B",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "Cade Gibson",
+    "Drafted By": "Miami Marlins",
+    "POS": "LHP",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Brody McCullough",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Wingate University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Dalton Shuffield",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Texas State University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "Levi Usher",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "University of Louisville",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "Zach Agnos",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "East Carolina University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Trevin Michael",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Matt Coutney",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "1B",
+    "Drafted From": "Old Dominion University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "Zebulon Vermillion",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "Jackson Smeltz",
+    "Drafted By": "San Diego Padres",
+    "POS": "LHP",
+    "Drafted From": "Purdue University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Jacob Zibin",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "TNXL Academy (Ocoee, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "Gustavo Sosa",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "South Mountain Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "Brody Jessee",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Gonzaga University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Brock Rodden",
+    "Drafted By": "Oakland Athletics",
+    "POS": "2B",
+    "Drafted From": "Wichita State University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Andrew Keck",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Southeast Missouri State University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "Bill Knight",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Mercer University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Tanner Jacobson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Queens University of Charlotte",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Ian Churchill",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "University of San Diego",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "Isaac Coffey",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "Will Brian",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "Eastern Kentucky University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "Tim Elko",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B",
+    "Drafted From": "University of Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Brian Fitzpatrick",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "LHP",
+    "Drafted From": "Rutgers, the State University of New Jersey",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "Zach Cole, Jr.",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Ball State University",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "Cade Halemanu",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Hawaii at Manoa",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "Simon Reid",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Westmont College",
+    "Year": 2022
+  },
+  {
+    "Round": "10",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "John Bertrand",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "University of Notre Dame",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "Zack Showalter",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Wesley Chapel High School (Wesley Chapel, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Spencer Giesting",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "University of North Carolina at Charlotte",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "Kohl Drake",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "Walters State Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Dominic Perachi",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "Salve Regina University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "Luke Young",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Midland College",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "Alex Williams",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Stanford University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "Branden Noriega",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "Somerset Academy Charter (Miramar, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "Andrew Cossetti",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Saint Joseph's University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "David Sandlin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "Carson Skipper",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Joe Miller",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "University of Pennsylvania",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Caden Dana",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Don Bosco Preparatory High School (Ramsey, NJ)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "Rhylan Thomas",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "Isaiah Lowe",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Combine Academy (Lincolnton, NC)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Magnus Ellerts",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Florida SouthWestern State College",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Emaarion Boyd",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "South Panola High School (Batesville, MS)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Ben Brutti",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "South Kingstown High School (Kingstown, RI)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "Christian Oppor",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "Columbus High School (Columbus, WI)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "Ian Mejia",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "New Mexico State University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "Marcelo Perez",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "Nathan Church",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of California Irvine",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "Pat Gallagher",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "University of Connecticut",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "Marques Johnson",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Long Beach State University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Ryan Harvey",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Jacob Burke",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "University of Miami",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Cameron Wagoner",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Eastern Michigan University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Ryan Clifford",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Crossroads FLEX High School (Cary, NC)",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "Drew Sommers",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "LHP",
+    "Drafted From": "Central Arizona College",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "Kyle Nevin",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Baylor University",
+    "Year": 2022
+  },
+  {
+    "Round": "11",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Sam Bower",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "St. Mary's College",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Bradley Brehmer",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Indiana",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Malachi Witherspoon",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Fletcher High School (Neptune Beach, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Jackson Kelley",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Mercer University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "K.C. Hunt",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Nick Peoples",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "Northview High School (Covina, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Cole Kirschsieper",
+    "Drafted By": "Miami Marlins",
+    "POS": "LHP",
+    "Drafted From": "University of Illinois at Urbana-Champaign",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Mathew Peters",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Indiana Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "Nate Baez",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Arizona State University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "Jack Pineda",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Baylor University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "Caleb Franzen",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "University of Portland",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Cole Stupp",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Jared Southard",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Paul Gervase",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "Austin Krob",
+    "Drafted By": "San Diego Padres",
+    "POS": "LHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "Jack Jasiak",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "University of South Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Jordan Dissin",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Saddleback College",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "Mason Pelio",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Boston College",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "T.J. Czyz",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Cosumnes River College",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "Justin Janas",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "University of Illinois at Urbana-Champaign",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Troy Taylor",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of California Irvine",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "Michael Curialle",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "UCLA",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "Nolan Perry",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Carlsbad High School (Carlsbad, NM)",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Hayden Mullins",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "Jackson Fristoe",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Brooks Baldwin",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "University of North Carolina Wilmington",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "Luke Adams",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "Hinsdale Central High School (Hinsdale, IL)",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Zach Dezenzo",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Ohio State University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "Alex Cook",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Colby Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "Jacob Meador",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2022
+  },
+  {
+    "Round": "12",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "Tyler Vogel",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Jacksonville University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Jared Beck",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "LHP",
+    "Drafted From": "Saint Leo University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Eli Saul",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "California State University, Sacramento",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Caden Marcum",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Paola High School (Paola, KS)",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Miguel Fulgencio",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "Cowley County Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "Marquis Grissom, Jr.",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Chase Luttrell",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "California State University, Long Beach",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "Luis Rujano",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Sunshine State Elite Academy (Kissimmee, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "C.J. Culpepper",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "California Baptist University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Ryan Ramsey",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "University of Maryland",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "Blake Adams",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Kansas State University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Dom Johnson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Kansas State University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Tucker Flint",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "1B",
+    "Drafted From": "Chipola College",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "Dylan Ross",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Georgia",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "Graham Pauley",
+    "Drafted By": "San Diego Padres",
+    "POS": "3B",
+    "Drafted From": "Duke University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Tyresse Turner",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "SS",
+    "Drafted From": "University of Southern California",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Cade Fergus",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "George Washington University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "Johnathan Harmon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Northwestern State University of Louisiana",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Jake Pfennigs",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "Cedric  De Grandpre",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Chipola College",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "Darren Bowen",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of North Carolina at Pembroke",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "Chandler Arnold",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "Bo Bonds",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "University of Louisiana at Lafayette",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Gavin Kilen",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Milton High School (Milton, WI)",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Geoffrey Gilbert",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "Clemson University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "Mason Adams",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Jacksonville University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Zane Petty",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Corsicana High School (Corsicana,TX)",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "Jackson Loftin",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "Nate Dahle",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Brigham Young University",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "Chris Newell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of Virginia",
+    "Year": 2022
+  },
+  {
+    "Round": "13",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Thomas Gavello",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Pacific University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Adam Retzbach",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Lehigh University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "Kevin Graham",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "University of Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Andrew Owen",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Grossmont College",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "Julian Bosnic",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "Cortland Lawson",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "University of Tennessee",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Torin Montgomery",
+    "Drafted By": "Miami Marlins",
+    "POS": "1B",
+    "Drafted From": "University of Missouri",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "Shane Marshall",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "University of Georgia",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Omari Daniel",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "The Walker School (Marietta, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Ben Sears",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of Houston",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "Braxton Hyde",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Butler County Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "Joe Adametz",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "Liberty University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "Sabin Ceballos",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "C",
+    "Drafted From": "San Jacinto College North",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "Cameron Foster",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "McNeese State University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Tyler Robertson",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "University of Louisiana at Lafayette",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "Pres Cavenaugh",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina at Greensboro",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Bryan Rincon",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Shaler Area High School (Pittsburgh, PA)",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "Jared Lyons",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "George Mason University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "Jamaliel Rosado Jr.",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Leadership Christian Academy (Guaynabo, PR)",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "Landon Harper",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "The University of Southern Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "Tyler Cleveland",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Central Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "D.J. Carpenter",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "Sammy Hernandez",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "Lakeland High School (Lakeland, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "Travis Sanders",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Copperas Cove High School (Copperas Cove, TX)",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Kris Bow",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "College of Southern Nevada",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "Shane Murphy",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Chandler-Gilbert Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Aidan Maldonado",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "University of Minnesota",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Tommy Sacco Jr.",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Texas Christian University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Roel Garcia III",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Rice University",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "Jose Izarra",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Florida Southwestern State",
+    "Year": 2022
+  },
+  {
+    "Round": "14",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Nomar Diaz",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Carlos Beltran Baseball Academy (Florida, PR)",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "James Hicks Jr.",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "Joshua Day",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "University of Missouri",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Jack Goodman",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Medfield High School (Medfield, MA)",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Josiah Sightler",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "1B",
+    "Drafted From": "University of South Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "Kyle Luckham",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Arizona State University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Ike Buxton",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Lipscomb University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "Haydn McGeary",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Colorado Mesa University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Ben Ethridge",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Javier Vaz",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "Brady Hill",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "San Jose State University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Patrick Pridgen",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Florida International University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "Bryce Osmond",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "Jackson Jaha",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Clackamas High School (Clackamas, OR)",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Thomas Balboni Jr.",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Northeastern University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Tayler Aguilar",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "Adam Tulloch",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Arizona State University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Troy Schreffler",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of Maryland",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Adam Serwinowski",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "LHP",
+    "Drafted From": "Eastside High School (Taylors, SC)",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "Mark Adamiak",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Williams Silva",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Miami Dade College",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Blake Rambusch",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Matt Hickey",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Tarleton State University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Michael Turconi",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Wake Forest University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "Nathan Landry",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Billy Seidl",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "Satchell Norman",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Florida Southwestern State College",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "Joey Mancini",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Boston College",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "Jake Christianson",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Feather River College",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Nicolas Perez",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "B-You Prospects Academy (Caguas, PR)",
+    "Year": 2022
+  },
+  {
+    "Round": "15",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Tanner O'Tremba",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "University of Arizona",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Graham Firoved",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Virginia Tech",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "David Martin",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "C",
+    "Drafted From": "California Baptist University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "Nick Bautista III",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Cypress College",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "Nick Cimillo",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Rutgers, the State University of New Jersey",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Cooper Everett III",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Pro5 Baseball Academy (Fredericksburg, VA)",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "Brett Roberts",
+    "Drafted By": "Miami Marlins",
+    "POS": "SS",
+    "Drafted From": "Florida State University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "JP Wheat",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Next Level Academy (Arrowhead, CT)",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "Jankel Ortiz",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Academia Presbiteriana High School (Carolina, PR)",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "475",
+    "Phase": "JR",
+    "Player Name": "Cooper McKeehan",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Brigham Young University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "Austin Becker",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Texas Tech University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "Quinn Gudaitis",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "University of Illinois Springfield",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "Casey Dana",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "University of Connecticut",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "Jimmy Loper",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "Henry Martinez",
+    "Drafted By": "San Diego Padres",
+    "POS": "PRHP",
+    "Drafted From": "Miami Christian School (Miami, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "Logun Clark",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "C",
+    "Drafted From": "Taft High School (Chicago, IL)",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "Josh Bortka",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Central Missouri",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "Trey Braithwaite",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "West Virginia University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "Blaze Pontes",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "University of Hawaii at Manoa",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "E.J. Exposito",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Long Island University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Jacob McNairy",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "Hunter Hayes",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Pacific University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "Kale Davis",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "Garrett Ramsey",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "Shane Gray",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "University of Evansville",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "Tristan Stivors",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Texas State University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Ethan Lege",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "Delgado College",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "Tim Borden II",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "Kamren James",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "Mississippi State University",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "Jared Karros",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "UCLA",
+    "Year": 2022
+  },
+  {
+    "Round": "16",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Andrew Kachel",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Carter Young",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "Logan Clayton",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "University of Houston",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "Carson Dorsey",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "Gulf Coast Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Jaycob Deese",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "University of Houston",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Blake Klassen",
+    "Drafted By": "Washington Nationals",
+    "POS": "1B",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "Evan Chrest",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Wharton High School (Tampa, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Andy Garriola",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Old Dominion University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Alec Sayre",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Wright State University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "Chazz Martinez",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "Tyler Hoffman",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "Tulane University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "Cole Patten",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Villanova University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Sammy Natera Jr.",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "LHP",
+    "Drafted From": "New Mexico State University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Connor Brandon",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Toledo",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Hugh Pinkney",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Silverthorn Collegiate Institute",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "Angel Zarate",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina at Wilmington",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Daniel Harper",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Easton Sikorski",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Western Michigan University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "Jake Garland",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "Kevin Kilpatrick Jr",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "University of Central Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Stefan Raeth",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Washington",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Brody Moore",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Auburn University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "Ryan Chasse",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "Campbell University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Deundre Jones",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Lutheran South Academy (Houston, TX)",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "Hayden Merda",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Azusa Pacific University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "Nick Altermatt",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Minnesota State University, Mankato",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Brady Neal",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "Garrett McGowan",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Pittsburg State University",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Levi Huesman",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "LHP",
+    "Drafted From": "Hanover High School (Mechanicsville, VA)",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Payton Martin",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "West Forsyth High School (Cumming, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "17",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "Justin Bench",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "University of Mississippi",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "Andrew Walters",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "Aiva Arquette",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "Saint Louis School (Honolulu, HI)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Justin Sanchez",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "Monsignor McClancy Memorial High School (Queens, NY)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "Elijah Birdsong",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "University of the Pacific",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "Brad Lord",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "University of South Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "Spencer Bramwell",
+    "Drafted By": "Miami Marlins",
+    "POS": "C",
+    "Drafted From": "Colorado Mesa University",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Garrett Brown",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "University of Georgia",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Zachary Veen",
+    "Drafted By": "Minnesota Twins",
+    "POS": "LHP",
+    "Drafted From": "Point Loma Nazarene University",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Milo Rushford",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Walden Grove High School (Sahuarita, AZ)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Javier Ramos",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Chris Williams Jr.",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "William Carey University",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Max Greg",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Boston College",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Chris Santiago",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "St. Mary's College",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "Rome Sanabria",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Indian River State College",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Zach Jacobs",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "University of California, Riverside",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Braylen Wimmer",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "2B",
+    "Drafted From": "University of South Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "Mason Neville",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Basic High School (Henderson, NV)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Vince Reilly",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "Noah Williams",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Redondo Union High School (Redondo Beach, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Brandon Schaeffer",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "University of North Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "John Lynch",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "Xavier University",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Jeremy Pilon",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "Ecole Secondaire De Montagne (Quebec, Canada)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "Austin Ehrlicher",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Santa Rosa Junior College",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "Sebastian Keane",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Northeastern University",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Bryce Willits",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "Jurrangelo Cijntje",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP/LHP",
+    "Drafted From": "Champagnat Catholic School (Hialeah, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Isaiah Jackson",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Cienega High School (Vail, AZ)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Duncan Davitt",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Iowa",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "Cameron Decker",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Evansville North High School (Evansville, IN)",
+    "Year": 2022
+  },
+  {
+    "Round": "18",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Tanner Thach",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B",
+    "Drafted From": "Perquimans High School (Hertford, NC)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "Alden Mathes",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Richmond",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "Gavin Turley",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "Hamilton High School (Chandler, AZ)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "Grayson Saunier",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Collierville High School (Collierville, TN)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "Yoel Tejeda",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "North Broward Preparatory School (Coconut Creek, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "Johnathon Thomas",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "Texas Southern University",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "Carmine Lane",
+    "Drafted By": "Miami Marlins",
+    "POS": "C",
+    "Drafted From": "University of South Florida",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "Brock Blatter",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Billings Central Catholic High School (Billings, MT)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Garrett McMillan",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "Tommy Szczepanski",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Garber High School (Essexville, MI)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Skyler Messinger",
+    "Drafted By": "Colorado Rockies",
+    "POS": "3B",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "Albert Olivia",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "New Mexico Military Institute",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Luke Franzoni",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "Xavier University",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "Jackson Lovich",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Blue Valley West High School (Overland Park, KS)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "Spence Coffman",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "Tishomingo County High School (Iuka, MS)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Geo Rivera",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Walters State Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Drew Garrett",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Tyler Chadwick",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Iowa Western Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Tommy Stevenson",
+    "Drafted By": "Oakland Athletics",
+    "POS": "1B",
+    "Drafted From": "Missouri Southern State College",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "Christian Jackson",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Dutchtown High School (Hampton, GA)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Curtis Washington Jr.",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Purdue University",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "Chris Rotondo Jr.",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Villanova University",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "Gage Stanifer",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Westfield High School (Chantilly, VA)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Jaret Godman",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "Beau Brewer",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Paris Junior College",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Drake Logan",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Shelton State Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "Jaden Noot",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Sierra Canyon School (Chatsworth, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "John Garcia",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Grambling State University",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "Quinn Matthews",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "LHP",
+    "Drafted From": "Stanford University",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "Chris Alleyne",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of Maryland",
+    "Year": 2022
+  },
+  {
+    "Round": "19",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Cade Perkins",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "Manhattan High School (Manhattan, NY)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Reese Sharp",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Indiana",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Riley Kelly",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Tustin High School (Tustin, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Matt Scott",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Joel Barlow High School (Redding, CT)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Joshua Loeschorn",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Long Island University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "Jean Pierre Ortiz",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Jack Gowen",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of Georgia",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "Ke'Shun Collier",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Meridian Community College",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "Korbyn Dickerson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Trinity High School (Euless, TX)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Charles Austin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Stockdale High School (Bakersfield, CA)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Carlos Torres",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Lehigh University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "Drew Conover",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Seton Hall University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Brendan Tinsman",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "C",
+    "Drafted From": "Wake Forest University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Eli Ankeney",
+    "Drafted By": "New York Mets",
+    "POS": "LHP",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "Andrew Vail",
+    "Drafted By": "San Diego Padres",
+    "POS": "LHP",
+    "Drafted From": "Rowan University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "Shawn Rapp",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "University of North Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Nathan Karaffa",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Ohio State University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "Joseph Menefee",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "LHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "Derek True",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "California Polytechnic State University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "Keshawn Ogans",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "University of California, Berkeley",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "Nick Zona",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "James Madison University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Gavin Van Kempen",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Maple Hill High School (Castleton-On-Hudson, NY)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Gregory Pace Jr.",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Detroit Edison Academy (Detroit, MI)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Connor Butler",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "Biola University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "Trevor Kirk",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Elon University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "Ethan Hammerberg",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Ohio State University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "Noah Hall",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Ryan Wrobleski",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "Matt Wyatt",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Virginia",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "615",
+    "Phase": "JR",
+    "Player Name": "Carter McCulley",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Pensacola Catholic High School (Pensacola, FL)",
+    "Year": 2022
+  },
+  {
+    "Round": "20",
+    "Pick": "616",
+    "Phase": "JR",
+    "Player Name": "Ethan Long",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B",
+    "Drafted From": "Arizona State University",
+    "Year": 2022
+  }
+]

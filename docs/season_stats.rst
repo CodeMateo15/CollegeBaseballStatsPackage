@@ -6,191 +6,191 @@ This page lists all available season statistics, their abbreviations (as used in
 Stats List
 ----------
 
-- **W**: Wins
+- **W**: Wins (2002 - 2025)
 
   Number of games won by the team.
 
-- **L**: Losses  
+- **L**: Losses (2002 - 2025)
 
   Number of games lost.
 
-- **T**: Ties  
+- **T**: Ties (2002 - 2025)
 
   Number of games ending in a tie.
 
-- **WPCT**: Winning Percentage  
+- **WPCT**: Winning Percentage (2011 - 2025)
 
   Ratio of wins to total games played.
 
-- **G**: Games Played  
+- **G**: Games Played (2002 - 2025)
 
   Total number of games participated in.
 
-- **BB (Batting)**: Walks (Batting)  
+- **BB (Batting)**: Walks Batting (2008 - 2025)
 
   Times a batter reaches base via balls.
 
-- **AB**: At Bats  
+- **AB**: At Bats (2002 - 2025)
 
   Number of official batting attempts.
 
-- **H**: Hits  
+- **H**: Hits (2002 - 2025)
 
   Times a batter safely reaches base via a hit.
 
-- **BA**: Batting Average  
+- **BA**: Batting Average (2002 - 2025)
 
   Hits divided by at bats.
 
-- **DP**: Double Plays Turned  
+- **DP**: Double Plays Turned (2008 - 2025)
 
   Number of double plays completed by defense.
 
-- **DPPG**: Double Plays Per Game  
+- **DPPG**: Double Plays Per Game (2003 - 2025)
   
   Average double plays per game.
 
-- **2B**: Doubles  
+- **2B**: Doubles (2008 - 2025)
 
   Hits where the batter reaches second base.
 
-- **2BPG**: Doubles Per Game  
+- **2BPG**: Doubles Per Game (2002 - 2025)
 
   Average doubles per game.
 
-- **IP**: Innings Pitched  
+- **IP**: Innings Pitched (2002 - 2025)
 
   Total innings thrown by a pitcher.
 
-- **R (Pitching)**: Runs Allowed (Pitching)  
+- **R (Pitching)**: Runs Allowed Pitched (2002 - 2025)
 
   Runs given up by a pitcher.
 
-- **ER**: Earned Runs  
+- **ER**: Earned Runs (2002 - 2025)
 
   Runs scored without defensive errors.
 
-- **ERA**: Earned Run Average  
+- **ERA**: Earned Run Average (2002 - 2025)
 
   Earned runs per nine innings pitched.
 
-- **PO**: Putouts  
+- **PO**: Putouts (2002 - 2025)
 
   Defensive outs recorded by a player.
 
-- **A**: Assists  
+- **A**: Assists (2002 - 2025)
 
   Defensive plays leading to an out.
 
-- **E**: Errors  
+- **E**: Errors (2002 - 2025)
   
   Defensive mistakes allowing runners to advance.
 
-- **FPCT**: Fielding Percentage  
+- **FPCT**: Fielding Percentage (2002 - 2025)
 
   Ratio of successful plays to total chances.
 
-- **HB**: Hit Batters (Pitching)  
+- **HB**: Hit Batters Pitched (2013 - 2025)
 
   Batters hit by a pitch thrown.
 
-- **HBP**: Hit By Pitch (Batting)  
+- **HBP**: Hit By Pitch Batting (2008 - 2025)
 
   Times a batter is hit by a pitch.
 
-- **HA**: Hits Allowed (Pitching)  
+- **HA**: Hits Allowed Pitched (2008 - 2025) 
 
   Hits given up by a pitcher.
 
-- **HAPG**: Hits Allowed Per Game  
+- **HAPG**: Hits Allowed Per Game (2008 - 2025)
 
   Average hits allowed per game.
 
-- **HR**: Home Runs  
+- **HR**: Home Runs (2008 - 2025)
 
   Hits resulting in the batter scoring without error.
 
-- **HRPG**: Home Runs Per Game  
+- **HRPG**: Home Runs Per Game (2002 - 2025) 
 
   Average home runs per game.
 
-- **SF**: Sacrifice Flies  
+- **SF**: Sacrifice Flies (2008 - 2025) 
 
   Fly balls allowing a runner to score.
 
-- **SH**: Sacrifice Hits  
+- **SH**: Sacrifice Hits (2008 - 2025)
 
   Bunts advancing runners at the cost of an out.
 
-- **OBP**: On-Base Percentage  
+- **OBP**: On-Base Percentage (2012 - 2025)
 
   Times reached base divided by plate appearances.
 
-- **SB**: Stolen Bases  
+- **SB**: Stolen Bases (2002 - 2025)
 
   Bases advanced without a hit or error.
 
-- **CS**: Caught Stealing  
-
-  Times a runner is thrown out attempting to steal.
-
-- **R (Batting)**: Runs Scored (Batting)  
-
-  Runs scored by a batter.
-
-- **RPG**: Runs Per Game  
-
-  Average runs scored per game.
-
-- **SHO**: Shutouts  
-
-  Games with no runs allowed.
-
-- **TB**: Total Bases  
-
-  Sum of all bases gained from hits.
-
-- **SLG**: Slugging Percentage  
-
-  Total bases divided by at bats.
-
-- **SBPG**: Stolen Bases Per Game  
+- **SBPG**: Stolen Bases Per Game (2008 - 2025)
 
   Average stolen bases per game.
 
-- **SO**: Strikeouts (Batting)  
+- **CS**: Caught Stealing (2002 - 2025)
+
+  Times a runner is thrown out attempting to steal.
+
+- **R (Batting)**: Runs Scored Batting (2008 - 2025)
+
+  Runs scored by a batter.
+
+- **RPG**: Runs Per Game (2002 - 2025)
+
+  Average runs scored per game.
+
+- **SHO**: Shutouts (2013 - 2025)
+
+  Games with no runs allowed.
+
+- **TB**: Total Bases (2003 - 2025)
+
+  Sum of all bases gained from hits.
+
+- **SLG**: Slugging Percentage (2003 - 2025)
+
+  Total bases divided by at bats.
+
+- **SO**: Strikeouts (Batting) (2012 - 2025)
 
   Times a batter is retired via strikes.
 
-- **BB (Pitching)**: Walks Allowed (Pitching)  
+- **BB (Pitching)**: Walks Allowed Pitched (2012 - 2025)
 
   Walks issued by a pitcher.
 
-- **K/BB**: Strikeout-to-Walk Ratio (Pitching)  
+- **K/BB**: Strikeout-to-Walk Ratio Pitched (2012 - 2025)
 
   Strikeouts divided by walks allowed.
 
-- **K/9**: Strikeouts Per 9 Innings (Pitching)  
+- **K/9**: Strikeouts Per 9 Innings Pitched (2008 - 2025)
 
   Strikeouts per nine innings pitched.
 
-- **TP**: Triple Plays  
+- **TP**: Triple Plays (2013 - 2025)
 
   The defending team records three outs on a single defensive play.
 
-- **3B**: Triples  
+- **3B**: Triples (2008 - 2025)
 
   Hits where the batter reaches third base.
 
-- **3BPG**: Triples Per Game  
+- **3BPG**: Triples Per Game (2002 - 2025)
 
   Average triples per game.
 
-- **WHIP**: Walks and Hits Per Inning Pitched  
+- **WHIP**: Walks and Hits Per Inning Pitched (2012 - 2025)
 
   Walks plus hits divided by innings pitched.
 
-- **BBPG (Pitching)**: Walks Per Game (Pitching)  
+- **BBPG (Pitching)**: Walks Per Game Pitched (2011 - 2025)
 
   Average walks allowed per game.
 

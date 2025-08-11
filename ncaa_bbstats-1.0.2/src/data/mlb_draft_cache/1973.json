@@ -1,0 +1,7452 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "David Clyde",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Westchester High School (Houston, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "John Stearns",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of Colorado",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Robin Yount",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Taft High School (Woodland Hills,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Dave Winfield",
+    "Drafted By": "San Diego Padres",
+    "POS": "P-OF",
+    "Drafted From": "University of Minnesota",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Glenn Tufts",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "Raynham High School (Bridgewater, MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Johnnie LeMaster",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Paintsville High School (Paintsville, KY)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Billy Taylor",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Windsor Forest High School (Savannah, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Gary Roenicke",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "Edgewood High School (West Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Lew Olsen",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "San Ramon Valley (Danville, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Pat Rockett",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B-SS",
+    "Drafted From": "Lee High School (San Antonio, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Eddie Bane",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Joe Edefen",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Gracemont (Gracemont, OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Doug Heinold",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Stroman High School (Victoria, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Lee Mazzilli",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Lincoln High School (Brooklyn, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Mike Parrott",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Jerry Tabb",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "University of Tulsa",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Ted Cox",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Midwest City High School (Midwest City, OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Ted Farr",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Shadle Park High School (Spokane, WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Charles Bates",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Calvin Portley",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Longview High School (Longview, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Steve Swisher",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Ohio University",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Charles Kessler",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Claremont High School (Claremont, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Randy Scarbery",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1973
+  },
+  {
+    "Round": "1",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Steve Nicosia",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "North Miami Beach (North Miami Beach,FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Richard Shubert",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Bryant High School (Long Island City, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "Todd Cruz",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Western International (Detroit, MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Joe Slaymaker",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Newport High School (Bellevue, WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Mike Champion",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS-3B",
+    "Drafted From": "Foothill High School (Santa Ana, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Tommy McMillan",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "Jacksonville University",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Ernest Young",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Denby (Detroit, MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "Bruce Tonascia",
+    "Drafted By": "California Angels",
+    "POS": "OF-C",
+    "Drafted From": "Napa High School (Napa, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Pat Creech",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "Mercer University",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Brian Trifiolis",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "West Orange High School (West Orange,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Steve Stone",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Doherty (Worcester, MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "Eddie McMahon",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University of Massachusetts Amherst",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Ron Selak",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "El Cerrito High School (El Cerrito, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Mike Heath",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Hillsborough High School (Tampa, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Jackson Todd",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Jerry Guinn",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Maud (Maud,OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Darrel Turner",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Ocoee (Ocoee,FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "Fred Lynn",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "Mike Paciorek",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Kevin Slattery",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Oceanside High School (Oceanside,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Scott Gregory",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Palos Verdes (Palos Verdes Estates,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Jim Otten",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Richard Jensen",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Tooele (Tooele,UT)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "James Tuttle",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Roger Bacon High School (Cincinnati, OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "2",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Jim Nelson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "State College of Florida, Manatee-Sarasota",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Len Barker",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Neshaminy High School (Langhorne, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Ronald Jackson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "3B",
+    "Drafted From": "Central High School (St. Joseph,MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Gary Conn",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Bentley (Burton,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Steve Day",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "Lufkin High School (Lufkin, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Dave Oliver",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "Cal Poly",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Jeff Little",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Woodmore (Elmore,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Pat Kelly",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Santa Maria High School (Santa Maria,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Rickey Hughes",
+    "Drafted By": "Montreal Expos",
+    "POS": "1B-OF",
+    "Drafted From": "Gaston (Gadsden,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "Ruppert Jones",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Berkeley High School (Berkeley, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Jim Gaudet",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Jesuit High School (New Orleans,LA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "Russ Noah",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Paul Husband",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Mississippi",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Howard Shoff",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "William Penn (York, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Gary Nevinger",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Georgia",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Eddie Murray",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C-1B",
+    "Drafted From": "Locke High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Earl Chew",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Temple University",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Charles Meyers",
+    "Drafted By": "Boston Red Sox",
+    "POS": "2B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Joe Simpson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Bob Adams",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "UCLA",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "David Aloi",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Edgewood High School (West Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Ken Kravec",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Ashland University",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Wallace Williams",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Merritt Island (Merritt Island,FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Floyd Bannister",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "John F. Kennedy Memorial (Burien, WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "3",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "Mitchell Page",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Lynn Garrett",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Berkeley High School (Berkeley, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "John Hughes",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Nathan Hale (Tulsa, OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Mark Plunkett",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Edmonds (Edmonds,WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Jerry Stone",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Thomas McGouch",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Greater Johnstown (Johnstown,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Terry Coomer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Noblesville (Noblesville,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Doug Slettvet",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Daniel Smith",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF-3B",
+    "Drafted From": "Westchester High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Ron Sutler",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Buckingham County (Buckingham,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Bill Downing",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "University of San Francisco",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Michael Beck",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Oakton (Vienna,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "Clint Myers",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Arizona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Kerry Dineen",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of San Diego",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Tom Kinkelaar",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Mundelein High School (Mundelein, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Don Whiting",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Lincoln High School (San Diego, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "William Burleson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P-1B",
+    "Drafted From": "Dollarway High School (Pine Bluff,AR)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Curran Percival",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Chapman University",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Mark Hance",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Robert Trudo",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Brookfield (Brookfield,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Michael Jones",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Fremont High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "William Kautzer",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "McKoosa (McKoosa,WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Pat Garvey",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Ashtabula (Ashtabula,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Ransom Voelkel",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Dekalb (Waterloo,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "4",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Randy Sealy",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Brazoswood High School (Clute, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Ken Pape",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "University of Texas",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Jim Wright",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Benton High School (St. Joseph,MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Michael Gilbert",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "2B",
+    "Drafted From": "Hartsville (Hartsville,SC)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Nathaniel Hermon",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Taft High School (Cincinnati, OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Vassie Gardner",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Dorsey High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Bobby Mitchell",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Chatsworth High School (Chatsworth,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "Robert Johnson",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Richard Shannon",
+    "Drafted By": "Montreal Expos",
+    "POS": "3B",
+    "Drafted From": "Jacksonville University",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Mike Colbern",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "Hawthorne High School (Hawthorne, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Paul Wagner",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Dickinson College",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Richard Tintor",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Hibbing (Hibbing,MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "Randy Wiles",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "LaMarr Hoyt",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Keenan (Columbia, SC)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "John Williams",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Robinson High School (Tampa, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Michael Hile",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Venice High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Dave Geisel",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P-1B",
+    "Drafted From": "Tonawanda High School (Tonawanda, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Rick Jones",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Forrest (Jacksonville, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "Tom Steinmetz",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Bishop Canevin Catholic (Pittsburgh, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Michael Elders",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Clay High School (Oregon,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Mike Mendoza",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "McClintock (Tempe,AZ)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Curt M1nges",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Concord (Concord, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Marlyn Styles",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Aiken High School (Cincinnati, OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Charles Staniland",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Santa Clara University",
+    "Year": 1973
+  },
+  {
+    "Round": "5",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Randy Brandt",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OP-1B",
+    "Drafted From": "Frazier (Perryopolis,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Andrew Mason",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Charter Oak (Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Manny Secane",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Tampa Catholic High School (Tampa, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "John Buffamoyer",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Berea (Greenville, SC)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Steven Hogan",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF-if",
+    "Drafted From": "Grant High School (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "Norman Werd",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Indiana University",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Tommy Toms",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "East Carolina University",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Steve Brisbin",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Lakewood High School (Lakewood, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Pat Kelleher",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Servite High School (Anaheim, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "Bob Kellison",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "San Diego State University",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "James Arline",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Wilby (Waterbury,CT)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "Darrell Jackson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Locke High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "John Tamargo",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Georgia Southern University",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "Sheldon Gill",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "David Starr Jordan (Long Beach, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "Richard Miller",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "West Chester University of Pennsylvania",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Ricky Ryser",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Texas Wesleyan University",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Joe Wallis",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "Glenn Bannister",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "Mike Dimmel",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Logansport (Logansport,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Greg Shippy",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Garrett (Garrett,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Stephen Williams",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Milton High School (Milton, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Robert Palmer",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Corona del Mar (Newport Beach,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Reed Schielke",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Boulder (Boulder,CO)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Mack Harrison",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS-2B",
+    "Drafted From": "Laurel (Laurel,MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "6",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Dennis Davis",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Martin County (Stuart, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Drew Nickerson",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Reseda (Reseda,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Steve Kesses",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "North Haven (North Haven,CT)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Cary Scarborough",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS-2B",
+    "Drafted From": "Bishopville (Bishopville,SC)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Butch Stinson",
+    "Drafted By": "San Diego Padres",
+    "POS": "P-OF",
+    "Drafted From": "Lipscomb University",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Rock Weeks",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Western (Anaheim, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Steve Grimes",
+    "Drafted By": "San Francisco Giants",
+    "POS": "IF",
+    "Drafted From": "Point Loma High School (San Diego, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Carl Gardner",
+    "Drafted By": "California Angels",
+    "POS": "3B",
+    "Drafted From": "Miami-Dade College",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "Dennis Doss",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Memorial (Joplin, MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Danny Link",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "North Davidson High School (Lexington, NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Alvin Jones",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Seguin (Seguin,TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Luis Gomez",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "UCLA",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Richard Hand",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Clay High School (Union,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Steve Coulson",
+    "Drafted By": "New York Yankees",
+    "POS": "3B-OF",
+    "Drafted From": "Murray State University",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Michael Papa",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Lafayette High School (Brooklyn, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Mike Flanagan",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Massachusetts Amherst",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "August Juricic",
+    "Drafted By": "Chicago Cubs",
+    "POS": "2B",
+    "Drafted From": "Joliet Central (Joliet, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "William St. Claire",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Springfield Tech (Springfield,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "David Richards",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Proviso East (Maywood, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Robert Stadnika",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Eisenhower High School (Shelby Township,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Eric Brown",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Tennessee Technological University",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "165",
+    "Phase": "JR",
+    "Player Name": "Philip Nerone",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Baldwin (Pittsburgh, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "James Kulina",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Lower Dauphin (Hummelstown,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Matt Keough",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B-P",
+    "Drafted From": "Corona del Mar (Newport Beach,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "7",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Henry Welty",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Whitesboro (Whitesboro,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Wayne Steele",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Randy Lerch",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Cordova High School (Rancho Cordova, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "Jerry Costain",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "1B-OF",
+    "Drafted From": "Toms River South (Toms River,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Jay Smith",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Florida Southern College",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "Earl Moran",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Gulf Coast Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "Tony Cabrera",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Hialeah High School (Hialeah, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Steven Burke",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Tokay High School (Lodi, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Michael Marvelle",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Quincy High School (Quincy,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "177",
+    "Phase": "JR",
+    "Player Name": "Bob Falcon",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Texas A&M University",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "Randy Quintrell",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Newton High School (Covington, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "Sam Donabedian",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "McLane (Fresno, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "James Bradford",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Pine Bluff High School (Pine Bluff,AR)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Garth Iorg",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Thomas Baxter",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Bayonne (Bayonne,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "Ed Bowman",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B-C",
+    "Drafted From": "University of Southern California",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Mike Krukow",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Cal Poly",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "Butch Hobson",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "University of Alabama",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Brad Drysdale",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Brawley Union (Brawley,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "Elliott Moore",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Michigan State University",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "Ken Landreaux",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Dominguez High School (Compton, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "Manny Estrada",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS-3B",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Stephan Jackson",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B",
+    "Drafted From": "-",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "Derek Bryant",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "University of Kentucky",
+    "Year": 1973
+  },
+  {
+    "Round": "8",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "Robert Hall",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Concord (Wilmington, DE)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "Don Thomas",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "University of California",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Dan Rtzgerald",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of New Mexico",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Barker",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Claremont High School (Claremont, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "John McAllen",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "Gary Ezell",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS-P",
+    "Drafted From": "Elgin High School (Elgin,OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Bobby McClelian",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Emma Sansom (Gadsden,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "Lee Overton",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Sacramento High School (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "David Heffner",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Gardner-Webb University",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Ron Miles",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Marion High School (Marion,SC)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Greg Kastner",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Missouri Western State University",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "Larry Wolfe",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Sacramento City College",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "Steve Whitehead",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Ramona High School (Riverside, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Marion Harvey",
+    "Drafted By": "New York Yankees",
+    "POS": "P-C",
+    "Drafted From": "Laverne High School (Laverne, OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "John Coutney",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Corrigan-Camden (Corrigan,TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "David Obal",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "St. John's College (Washington, D.C.)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "Greg Collins",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Vanderbilt University",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "Rick Berg",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Bob Stanley",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Kearny High School (Kearny,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "Joseph Simbolick",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Seymour (Seymour,CT)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Michael Holland",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Charter Oak (Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "Julio Alonso",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Power Memorial Academy (New York, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "George Meier",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Mercy High School (University City,MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Wayne Gross",
+    "Drafted By": "Oakland Athletics",
+    "POS": "1B",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1973
+  },
+  {
+    "Round": "9",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "Thomas Frizzi",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Mira Loma (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "Steven Strickland",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Fort Myers High School (Fort Myers, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "Lawrence Hicks",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of Texas-Arlington",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "Peter Cusick",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Monmouth College",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "Les Hemby",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Blinn College",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Ed Plank",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "University of Nevada",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "Clinton Sander",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Nathan Hale (Seattle, WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Mark Carpenter",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Los Alamitos (Los Alamitos,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Jim Peterson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "St. Mary Cathedral (Gaylord,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Roger Cador",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Southern University",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Ken Schrom",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Grangeville (Grangeville,ID)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Steve Pasternak",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "Jack Shupe",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Wayne State College (Nebraska)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "John Brauss",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "West High School (Bakersfield, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Steven Ramsey",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Westchester High School (Houston, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Emeel Salem",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Mountain Brook (Mountain Brook,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "Roswell Brayton",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Harvard University",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Mark Wilson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF-3B",
+    "Drafted From": "Ashland High School (Ashland, OR)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Joseph Carroll",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Will Rogers High School (Tulsa, OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Steven Oberweather",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Lee's Summit High School (Lee's Summit, MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "James Barrett",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Joseph Nichols",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Central Catholic (Pittsburgh, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Scott Freebairn",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Detroit Country Day (Beverly Hills,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "10",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Ken Bames",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Gulf Coast Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "John Weber",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS-OF",
+    "Drafted From": "LaSalle (Niagara Falls,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Jeff Malinoff",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "University of California-Irvine",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Terry Ervin",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Wilson High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Aldrich Adams",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Los Angeles (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Don Flanagan",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "San Jacinto College",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "Tommy Jarmon",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Edison High School (Stockton, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "Lawrence Rush",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Venice High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Earl Thornton",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Holtville High School (Deatsville, AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Willie Clark",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Jackson State University",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Mark Knose",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Harrison High School (Harrison,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "Jerry Reed",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Enka High School (Candler, NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "David Martin",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B-OF",
+    "Drafted From": "Kennedy-King College",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "Barry Barritt",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Thomas Jefferson (Council Bluffs,IA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Gary Blaylock",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Union University",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Mike Hilderbrandt",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Woodland (Woodland,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Byron Wilkerson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Harrison High School (Evansville,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Chris DiLorenzo",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "West Rome (Rome, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "Charles Barrett",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Rancho High School (Las Vegas, NV)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Ken Gregory",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "North Plainfield High School (North Plainfield, NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Ron Roznovsky",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "Douglas Fortune",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-1B",
+    "Drafted From": "University of New Haven",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Richard Barrett",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Goochland High School (Goochland, VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "Richard Zoss",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "East Detroit (Eastpointe,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "11",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Larry Kinn",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Eastern Michigan University",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Ray Rainboldt",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Cleveland High School (Cleveland,OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Glen Halverson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Edmonds (Edmonds,WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "Jack Chilton",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Maryvale (Phoenix, AZ)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Dale Torcato",
+    "Drafted By": "San Diego Padres",
+    "POS": "3B",
+    "Drafted From": "Woodland (Woodland,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Joseph Bodine",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Emma Sansom (Gadsden,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "Gerald Anderson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Edgewood High School (West Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "Brian Kingman",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Greg Biagini",
+    "Drafted By": "Montreal Expos",
+    "POS": "1B-OF",
+    "Drafted From": "Iowa State University",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Chris Evers",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Wayzata (Plymouth,MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Gary Atwell",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Archie Amerson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Morse (San Diego, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Thomas Cook",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Lenoir City (Lenoir City,TN)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "Craig White",
+    "Drafted By": "New York Yankees",
+    "POS": "OF-1B",
+    "Drafted From": "Clemson University",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "David Lozano",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "San Joaquin Delta College",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "Kenny Alderman",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Radford (Radford,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Stephen Pearsall",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Assumption College",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "Barrett Jackson",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF-1B",
+    "Drafted From": "Piscataway (Piscataway,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "William Collins",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of South Alabama",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Michael Ray",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Cairo (Cairo,GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Nathan Stewart",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "LeTourneau University",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "William Lehman",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Edison High School (Edison,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "Jay Howel",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Fairview (Boulder,CO)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Danny Hall",
+    "Drafted By": "Oakland Athletics",
+    "POS": "2B",
+    "Drafted From": "Federal Hocking (Coolville,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "12",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "Nicholas Bredy",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Johnson High School (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Eugene Norman",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "San Gorgonio High School (San Bernardino, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Mark Crane",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "University of Michigan",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "James Bendick",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Shenendehowa (Clifton Park,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "Joe Mcintosh",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Washington State University",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Tim Holden",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Cleveland State University",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Jack Clark",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P-OF",
+    "Drafted From": "Gladstone (Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "Glenn Prichard",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Verdugo Hills High School (Tujunga, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "Greg Chandler",
+    "Drafted By": "Montreal Expos",
+    "POS": "C",
+    "Drafted From": "Everett High School (Everett, WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Sandy Wihtol",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Homestead (Cupertino, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Charles Phillips",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "La Quinta High School (Westminster, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "James Worth",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Edgewood High School (West Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "John Stosz",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Amherst Regional (Amherst,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Jim Sullivan",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Colorado State University",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "James Matthews",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Luling (Luling,TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "Eric Ridley",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Venice High School (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Byron Loomans",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Central College",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Jack Medick",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "University of Nebraska",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "Daniel Smith",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Covina High School (Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Charlie Puleo",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Bloomfield (Bloomfield,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Kelly Cordes",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Prescott High School (Prescott, AZ)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "Robert Klein",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Beloit Memorial (Beloit,WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "Richard Kuin",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Swissvale (Swissvale,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "David Moore",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Marshall High School (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "13",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Randy Hopkins",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of West Alabama",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "Gerald Erb",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Wahconah Regional (Dalton,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "Darrell Flowers",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Cairo (Cairo,IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "Paul Ausman",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Regis (Eau Claire,WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "Bob Polock",
+    "Drafted By": "San Diego Padres",
+    "POS": "2B",
+    "Drafted From": "University of Illinois",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "John Conover",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Humboldt State University",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Karl Gordon",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Montclair State University",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "Bob Makoski",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Ohio University",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Eugene Frey",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Redwood High School (Larkspur, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "John Yandle",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Lake Oswego (Lake Oswego,OR)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "George Ban",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "Rob Klebba",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Crescenta Valley High School (La Crescenta, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "Jim Peterson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Sonora High School (La Habra, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "Don Lenhof",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Lloyd Memorial (Erlanger,KY)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "Gary Albert",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Elco (Myerstown,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Greg Davis",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Steve Haglund",
+    "Drafted By": "Chicago Cubs",
+    "POS": "",
+    "Drafted From": "Cleveland High School (Reseda,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "James Lease",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "William Carey University",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "James Mitchell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Cardinal Mooney (Rochester, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Ronald Jones",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Highland Park (Highland Park,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Bob Clark",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Perris (Perris,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Michael Cross",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS-2B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "Jeff Lang",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "McNicholas High School (Cincinnati, OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "Stan Skidgel",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Oakmont (Roseville,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "14",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "Wesley Edwards",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Berea (Greenville, SC)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "Gary Wright",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF1B",
+    "Drafted From": "Albert Einstein (Kensington,MD)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "Bruce Hodges",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Sarasota High School (Sarasota, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "Terry Unruh",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Enid (Enid,OK)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Gregory Zail",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "UCLA",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Joseph Cork",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Fordham University",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Robert Simons",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Logansport (Logansport,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Dan Boone",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Cerritos College",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "Greg Ballard",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "Jeff White",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Wakefield (Arlington, VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Adam Smith",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Southland Academy (Americus, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Mike Seberger",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Donald Boyd",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Meridian High School (Meridian, MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Lee Boettchner",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Winona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "Ronald Reynolds",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Savannah Central (Savannah,TN)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Russ Peach",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Murray State University",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Richard Meek",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Ponderosa High School (Shingle Springs, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Carmen Coppoi",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Claymont (Claymont,DE)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "Kelly Snider",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "Thomas Butler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Texas Christian University",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "Steve Woitock",
+    "Drafted By": "Houston Astros",
+    "POS": "2B",
+    "Drafted From": "Dana College",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Bobby Tucker",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Alfred Henkel",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Churchland (Portsmouth,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Dwayne Murphy",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Antelope Valley High School (Lancaster, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "15",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "Richard Rhodes",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "Mark Peters",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Morton (Hammond, IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Stephen Thornton",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Pearl Cohn Comprehensive (Nashville, TN)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "Terry Frawley",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "G. Ray Bodley (Fulton,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "Samuel Nicholson",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "Steve Baumiller",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Florida Southern College",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Arturo Marin",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Pasadena City College",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "Bob DiPietro",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "David Koza",
+    "Drafted By": "Montreal Expos",
+    "POS": "P-OF",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Ruben Garcia",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Texas Tech University",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "Terry Harper",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P-OF",
+    "Drafted From": "Douglas County High School (Douglasville, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Michael Dodd",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Golden West College",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "Gene Laguna",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Clay High School (Union,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Tim Grice",
+    "Drafted By": "New York Yankees",
+    "POS": "3B-C",
+    "Drafted From": "University of Minnesota",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "Dennis Jackson",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Tottenville High School (Staten Island, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "Robert George",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Poly High School (Long Beach, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "Kevin Markert",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Albany High School (Albany, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Lanny Phillips",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B-OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Edward Davis",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B-OF",
+    "Drafted From": "West Jefferson (Harvey,LA)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Curtis Morgan",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B",
+    "Drafted From": "Western International (Detroit, MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Richard Neslaney",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Tuloso-Midway (Corpus Christi, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "Monte Kruse",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Little Rock (Little Rock,IA)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Donald Hawkins",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Buffalo Gap (Swoope,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "Monty Hannah",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Eastmoor (Columbus, OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "16",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "Joe Turnbull",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "High Point University",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Gary Hubka",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Beloit Memorial (Beloit,WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "Oliver Bell",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Encina Prep (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Perry Danforth",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS-2B",
+    "Drafted From": "University of New Mexico",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Glen Johnson",
+    "Drafted By": "San Diego Padres",
+    "POS": "C-OF",
+    "Drafted From": "Stanford University",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "Stephen Lee",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Hattiesburg (Hattiesburg,MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "Stephen Williams",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Swanton (Swanton,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Roger Smith",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Florida State University",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Terry Kieffer",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Indian Hills Community College-Centerville",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "Tom Ricks",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Valencia (Placentia, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Steve Barlow",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Morehouse College",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "Gary Bishop",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Baltimore Polytechnic Institute",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "Ronald Aront",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Clay High School (Union,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "James Roach",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "West High School (Bakersfield, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "Chris Ryba",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Stony Brook University",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Jerry Garvin",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Merced (Merced,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Richard Ware",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "James Bodinski",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "North Attleboro (North Attleboro,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Robert Arceneaux",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Manual Arts (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "Thomas Walko",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Cardinal Mooney (Youngstown,OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "Joe Sambito",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Adelphi University",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "William Tucker",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Bloom Township (Chicago Heights,IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Robert Ferber",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Sahuaro High School (Tucson, AZ)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Gary Rump",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Lahser (Bloomfield,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "17",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "Vincent Frye",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P-OF",
+    "Drafted From": "Monessen (Monessen,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Walt Kaczmarak",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Santa Clara University",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "Mark Ammons",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B-OF",
+    "Drafted From": "Bowling Green State University",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "Raymond Rudolph",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS-C",
+    "Drafted From": "Tottenville High School (Staten Island, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Tim Pettorini",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Bowling Green State University",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "Tom Hinrichs",
+    "Drafted By": "Cleveland Indians",
+    "POS": "3B",
+    "Drafted From": "Yuba City High School (Yuba City, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Rosseau",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Cubberley (Palo Alto, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Michael Delmonico",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Napa High School (Napa, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "Bill Harris",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "St. Francis High School (Mountain View, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "Gary Williams",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "David Whitehurst",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF-p",
+    "Drafted From": "Walker School (Decatur,GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "Ricky Peters",
+    "Drafted By": "Minnesota Twins",
+    "POS": "IF",
+    "Drafted From": "Dominguez High School (Compton, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Frank Nuzzo",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Everett High School (Everett,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "Ron Pederson",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Rock Valley Community (Rock Valley,IA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Ron King",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Redmond (Redmond,WA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "Martin Parrill",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "University of Findlay",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "George Sullivan",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Hueytown (Hueytown,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "Mike Cunico",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Pueblo Central (Pueblo, CO)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "Tom Dixon",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "p-3B",
+    "Drafted From": "Boone High School (Orlando, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "Michael St Louis",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Ithaca College",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "Mike Davey",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Gonzaga University",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "Mike Squires",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-1B",
+    "Drafted From": "Western Michigan University",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Curtis Runyon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF-if",
+    "Drafted From": "Temple College",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "James Biehl",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P-OF",
+    "Drafted From": "Garden Grove High School (Garden Grove, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "18",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Joseph Corrado",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P-OF",
+    "Drafted From": "Deer Lakes (Russelton,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Roland Keys",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Morristown (Morristown,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Mark Klein",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Broward College",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "Richard Baker",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Monte Vista High School (Spring Valley, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Gregory Kruciak",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "St. Gerards (San Antonio, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "Dan Walker",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Malone College",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "Frank Zawatski",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Lehigh University",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Rhordick Wallace",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "South San Francisco (South San Francisco,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Mike Henderson",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "Lincoln High School (Stockton, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "Richard Rich",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Loara High School (Anaheim, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Larry Bradford",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Michele Clark (Chicago, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "Dan Grimm",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Jimmy Wise",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Bob Majczan",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Villanova University",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "Ronnie Hildreth",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Vigor High School (Prichard, AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Dennis McMillan",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Hermitage (Richmond, VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "Vernon Temple",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Rice University",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "Michael Bennett",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Western Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Charles James",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Manual Arts (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "Anthony Jonas",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Jerry Halstead",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "St. Petersburg College",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Andrew Gallo",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Magnolia High School (Anaheim, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "James McNeil",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Bacone College",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Marty Stajduhar",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "University of La Verne",
+    "Year": 1973
+  },
+  {
+    "Round": "19",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Joseph Neal",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Saint Joseph's University",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Mike Merritt",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "University of North Carolina",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Ken Bourque",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Enrico Fermi High School (Enfield, CT)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "William Smith",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Dominican (Milwaukee, WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "460",
+    "Phase": "JR",
+    "Player Name": "Ray Crawford",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS-OF",
+    "Drafted From": "Santa Ana High School (Santa Ana, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Robert Daub",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Hicksville (Hicksville,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "Carroll Palmer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Treasure Valley Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "Brian Rhode",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Wichita East (Wichita, KS)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "Jerry Keller",
+    "Drafted By": "Montreal Expos",
+    "POS": "C-1B",
+    "Drafted From": "Seaholm High School (Birmingham, MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Xavier Dixson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "St. Mary's College of California",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Rick Hays",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Charter Oak (Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Richard Douglass",
+    "Drafted By": "Minnesota Twins",
+    "POS": "p-1B",
+    "Drafted From": "San Clemente (San Clemente,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "Ricky Steen",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Big Spring High School (Big Spring, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "David Hasbach",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Miami University",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "Richard Harris",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Brett Terrill",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Bowie High School (Bowie,MD)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "John Barnfield",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Niles North (Skokie, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "Collin Youtz",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Lebanon High School (Lebanon, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "Marty Kunkler",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Lindbergh High School (St. Louis, MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "Jeff Sovern",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B-C",
+    "Drafted From": "Central Michigan University",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "Ronald Reagan",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Southeastern Oklahoma State University",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "Scott Gilchrist",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Granada Hills (Granada Hills, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "20",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "Dennis Blomberg",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Hibbing (Hibbing,MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "Walter Gawaluch",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Texas Wesleyan University",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "James Cullen",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Farmingdale (Farmingdale,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "Michael Schisler",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "Scott Brown",
+    "Drafted By": "San Diego Padres",
+    "POS": "1B",
+    "Drafted From": "University of California-Santa Barbara",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "Donald Carr",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P-OF",
+    "Drafted From": "Lufkin High School (Lufkin, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "Dan Graham",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Mesa Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Jim Dorsey",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Cleveland High School (Reseda,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "Larry Brown",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Morningside High School (Inglewood, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "Greg Kuhnke",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Nekoosa (Nekoosa,WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "Craig Hillard",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Salisbury (Salisbury,NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "Michael Messman",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Marshall High School (Portland, OR)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "David Sandlin",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P-OF",
+    "Drafted From": "University of North Carolina at Wilmington",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Gary Blevins",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Princeton University",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "Mardie Cornejo",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Tulsa",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "Michael Perez",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "Stephen Clancy",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "University of Texas",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Greg Eastin",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Ridge (Basking Ridge,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Russell Holland",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Parksley (Parksley,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "William Madden",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "St. Joseph Central High School (Pittsfield, MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "Chris Nyman",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Cordova High School (Rancho Cordova, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Joseph Waugh",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF-1B",
+    "Drafted From": "Barboursville (Huntington,WV)",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Bill Hobbs",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF-1B",
+    "Drafted From": "UCLA",
+    "Year": 1973
+  },
+  {
+    "Round": "21",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "Stephen Dorsch",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Concordia College",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Greg Keen",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Miami-Dade College",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Joseph O'Brien",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "Cliff Mays",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Central Catholic (Portland, OR)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "James Schak",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "New Jersey Institute of Technology",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "Raymond Smith",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Lincoln High School (San Diego, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Matt Dinkle",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Nicholls State University",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Charles Stevens",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Princeton High School (Princeton,NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Steve Barrett",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B",
+    "Drafted From": "Murray State University",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "Frank Meyers",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "De La Salle (Minneapolis, MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Joe Ford",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B-C",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Donald Moore",
+    "Drafted By": "New York Yankees",
+    "POS": "C-3B",
+    "Drafted From": "-",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "Garnett Houghton",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Ohlone College",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "David Highmark",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Dartmouth College",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Mack Parker",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "South Leake (Walnut Grove,MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Larry Morello",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Lafayette High School (Brooklyn, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "Michael Hughes",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Lamar University",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Michael Wolf",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "William S. Hart High School (Newhall, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "John Underwood",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Royal Oak High School (Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "William Zedalis",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Eisenhower High School (Rialto, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "22",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Robert Cecil",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "High Point University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "Jonathan Astroth",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Southern Methodist University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Danny Miller",
+    "Drafted By": "Cleveland Indians",
+    "POS": "p-iF",
+    "Drafted From": "Los Angeles Pierce College",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Kevin Tennant",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Seton Hall University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "William Berger",
+    "Drafted By": "California Angels",
+    "POS": "2B",
+    "Drafted From": "Arizona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "Jeff Reardon",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Wahconah Regional (Dalton,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "Robert MacHale",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Villa Park High School (Orange, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Michael Yates",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Fairfield University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "Dave Garcia",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Stevens Institute of Technology",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "William Starr",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "University of Mississippi",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "Mark Erickson",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Robert Salinger",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Saint Leo University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Dan Beitey",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Ralph Chafin",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Northeast High School (Macon, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Roy Marks",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Parsons College",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Nicholas Medrano",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Cal State Dominguez Hills",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Jeff Scheumack",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Spring Woods (Houston, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Jeff Rineer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Penn Manor (Millersville,PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "23",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "Michael Kavanagh",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Villanova University",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Barry Mollencupp",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Harlem (Loves Park,IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Curtis Zimmerman",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "Tulane University",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "James Bertram",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "La Jolla High School (La Jolla, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Tim Bril",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Olney (Philadelphia, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "Elgin Battles",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Clyde Athman",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "Healy (Pierz,MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "Bobby Malone",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Sullivan East (Bluff City,TN)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Robert Daniels",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "James Beal",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of La Verne",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "James Hill",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Belleville High School (Belleville,IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Randy Trapp",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "Vernon Snyder",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Northern Garrett (Accident,MD)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Robert Lehtola",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Rio Americano (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Jeff Bouton",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Monmouth College",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "Nicholas Bandow",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Jacobs (Stevens Point,WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Phil Bittle",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "1B-OF",
+    "Drafted From": "Douglas (Douglas,AZ)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "William Dwyer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Arlington High School (Arlington,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "24",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "David Chappell",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF-1B",
+    "Drafted From": "West Allegheny High School (Imperial, PA)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "Gene Delyon",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Santa Clara University",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "Billy Sorrell",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Andrew High School (High Point,NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "Darnell Waters",
+    "Drafted By": "San Francisco Giants",
+    "POS": "IF",
+    "Drafted From": "Fremont High School (Oakland, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "Keith McVicker",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Leigh (San Jose, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "Tim Ireland",
+    "Drafted By": "Montreal Expos",
+    "POS": "2B",
+    "Drafted From": "Chabot College",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Dan Burns",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "St. Bernard (Playa del Ray,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "Leland Byrd",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Bishop Kenny High School (Jacksonville, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Brad Duncan",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "Dick Jauron",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Yale University",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Collin Morrison",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Livermore High School (Livermore,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "Brian Canfield",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Lafayette College",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "Timothy Smith",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Bishop Montgomery High School (Torrance, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Michael Giobbi",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Deering (Portland, ME)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Richard Flynn",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Keyport (Keyport,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Don Davis",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Portage Northern (Portage,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Paul Downey",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Columbia State Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "William Undegaff",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "High Point University",
+    "Year": 1973
+  },
+  {
+    "Round": "25",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Joseph Piscotty",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "University at Buffalo",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "Lindsey Graham",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Clemson University",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "Mark Wezet",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Memorial (Evansville,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Robert Sparks",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Castlemont High School (Oakland, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "Dean Jetmini",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Scott Moffitt",
+    "Drafted By": "Montreal Expos",
+    "POS": "3B",
+    "Drafted From": "Cottonwood High School (Salt Lake City, UT)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "Chuck Baker",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Santa Ana College",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "William King",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Southwest DeKalb (Decator,GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "Paul Franco",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "Don Walker",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B-OF",
+    "Drafted From": "Centralia High School (Centralia, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Richard Melts",
+    "Drafted By": "New York Yankees",
+    "POS": "C-p",
+    "Drafted From": "Yonkers (Yonkers,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Harry Tabler",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Elder (Cincinnati, OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Robert Ehrig",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Los Angeles Valley College",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Richard Poythress",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "South Georgia College",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Richard Sherkel",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Penn State University",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "David Rende",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Eisenhower High School (Blue Island,IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Michael Knight",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Mainland (Daytona Beach,FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "James Dobens",
+    "Drafted By": "Oakland Athletics",
+    "POS": "p-SS",
+    "Drafted From": "Bishop Guertin (Nashua,NH)",
+    "Year": 1973
+  },
+  {
+    "Round": "26",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "Stanley Schroer",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Nicholas Peterson",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Danny Rollin",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Petal (Petal,MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "George Hahn",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Campbell High School (Campbell, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Willie McIntyre",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Hueneme High School (Oxnard, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Robin Robinson",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "Manny Chavez",
+    "Drafted By": "Kansas City Royals",
+    "POS": "2B",
+    "Drafted From": "Whittier (Whittier, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "John McLean",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Gary Woods",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Santa Barbara City College",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "Dana Pearson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Cobden (Cobden,IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "Robert Wasilak",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Kearny High School (Kearny,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "Colin Leisher",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Summit (Summit,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "Robert Davis",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "College of the Albemarle",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Ken Kral",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Frederick Petersen",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Commack South (Commack,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Greg Klette",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Washburn High School (Minneapolis, MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "Sammy Heasley",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Lamar Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "Robert Mollenhauer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "2B",
+    "Drafted From": "Lafayette College",
+    "Year": 1973
+  },
+  {
+    "Round": "27",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "Michael Williams",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Brazoswood High School (Clute, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Billy Sample",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "Steve Scott",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "East Ridge High School (St. Ann, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "615",
+    "Phase": "JR",
+    "Player Name": "Lee Cook",
+    "Drafted By": "San Francisco Giants",
+    "POS": "Ep",
+    "Drafted From": "Treasure Valley Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "616",
+    "Phase": "JR",
+    "Player Name": "Robert Verbeck",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Missouri Western State University",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "617",
+    "Phase": "JR",
+    "Player Name": "Paul Joyce",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "618",
+    "Phase": "JR",
+    "Player Name": "Robert Bechtelheimer",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Herndon (Herndon,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "619",
+    "Phase": "JR",
+    "Player Name": "Mark Hamilton",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "North Springs High School (Atlanta, GA)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "620",
+    "Phase": "JR",
+    "Player Name": "Robbie Henderson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Clairemont High School (San Diego, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "621",
+    "Phase": "JR",
+    "Player Name": "Carmen Caldwell",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B-OF",
+    "Drafted From": "John Jay High School (San Antonio, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "622",
+    "Phase": "JR",
+    "Player Name": "Jack Patchin",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Crowder College",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "623",
+    "Phase": "JR",
+    "Player Name": "Larry Calufetti",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "624",
+    "Phase": "JR",
+    "Player Name": "Chuck Porter",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Perry Hall (Baltimore, MD)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "625",
+    "Phase": "JR",
+    "Player Name": "Robbie Hatfield",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Mount Pleasant High School (Mount Pleasant, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "626",
+    "Phase": "JR",
+    "Player Name": "Fred Swanson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Pine River High School (Tustin, MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "627",
+    "Phase": "JR",
+    "Player Name": "Barry Smith",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Cummings High School (Burlington, NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "628",
+    "Phase": "JR",
+    "Player Name": "Pierre Lyons",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Riverdale High School (Murfreesboro,TN)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "629",
+    "Phase": "JR",
+    "Player Name": "Gary Williams",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Los Alamitos (Los Alamitos,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "28",
+    "Pick": "630",
+    "Phase": "JR",
+    "Player Name": "Lawrence Jones",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Seminole High School (Seminole, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "631",
+    "Phase": "JR",
+    "Player Name": "Rudy Jaramillo",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of Texas",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "632",
+    "Phase": "JR",
+    "Player Name": "James Boulter",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "King Philip Regional (Wrentham,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "633",
+    "Phase": "JR",
+    "Player Name": "Stewart Bringhurst",
+    "Drafted By": "San Francisco Giants",
+    "POS": "p-C",
+    "Drafted From": "Crestmoor (San Bruno,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "634",
+    "Phase": "JR",
+    "Player Name": "David Farley",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Yucaipa High School (Yucaipa, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "635",
+    "Phase": "JR",
+    "Player Name": "Bruce Freeberg",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Edgewood High School (West Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "636",
+    "Phase": "JR",
+    "Player Name": "Dwight Favors",
+    "Drafted By": "Kansas City Royals",
+    "POS": "1B",
+    "Drafted From": "Manual Arts (Los Angeles, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "637",
+    "Phase": "JR",
+    "Player Name": "Jim Busby",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P-OF",
+    "Drafted From": "Leesburg High School (Leesburg, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "638",
+    "Phase": "JR",
+    "Player Name": "Jerry Matejka",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Breckenridge (Breckenridge,MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "639",
+    "Phase": "JR",
+    "Player Name": "Robert Corcoran",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Yale University",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "640",
+    "Phase": "JR",
+    "Player Name": "Paul Dyer",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "641",
+    "Phase": "JR",
+    "Player Name": "Marvin Wooten",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "Rocky Mount High School (Rocky Mount, NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "642",
+    "Phase": "JR",
+    "Player Name": "Elbert Coutter",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Creiger (Chicago, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "643",
+    "Phase": "JR",
+    "Player Name": "Jerry Rodgers",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Gonzaga University",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "644",
+    "Phase": "JR",
+    "Player Name": "John Boggan",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Manhattan (Jackson, MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "29",
+    "Pick": "645",
+    "Phase": "JR",
+    "Player Name": "Paul Anthony",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Lancaster High School (Lancaster,NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "646",
+    "Phase": "JR",
+    "Player Name": "Dan Duran",
+    "Drafted By": "Texas Rangers",
+    "POS": "1B",
+    "Drafted From": "Foothill College",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "647",
+    "Phase": "JR",
+    "Player Name": "Richard Chappell",
+    "Drafted By": "Cleveland Indians",
+    "POS": "3B",
+    "Drafted From": "Griffith (Griffith,IN)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "648",
+    "Phase": "JR",
+    "Player Name": "Gavin Long",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Westmoor (Daly City,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "649",
+    "Phase": "JR",
+    "Player Name": "Zackary Butter",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Robert E. Lee High School (Huntsville,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "650",
+    "Phase": "JR",
+    "Player Name": "David Steck",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Patrick Henry High School (San Diego, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "651",
+    "Phase": "JR",
+    "Player Name": "Alex Gorgie",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Rancho Alamitos (Garden Grove, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "652",
+    "Phase": "JR",
+    "Player Name": "Anthony Taylor",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "653",
+    "Phase": "JR",
+    "Player Name": "Bill Sanford",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Washington State University",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "654",
+    "Phase": "JR",
+    "Player Name": "Don Cardoza",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "College of the Sequoias",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "655",
+    "Phase": "JR",
+    "Player Name": "Alan Osmundson",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Tottenville High School (Staten Island, NY)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "656",
+    "Phase": "JR",
+    "Player Name": "Rocky Thompson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Jefferson High School (San Antonio, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "657",
+    "Phase": "JR",
+    "Player Name": "David Vanderloop",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Kaukauna (Kaukauna,WI)",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "658",
+    "Phase": "JR",
+    "Player Name": "George Knowles",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Rider University",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "659",
+    "Phase": "JR",
+    "Player Name": "David Sparks",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Ohio University",
+    "Year": 1973
+  },
+  {
+    "Round": "30",
+    "Pick": "660",
+    "Phase": "JR",
+    "Player Name": "Tom Kettinger",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "University of Michigan",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "661",
+    "Phase": "JR",
+    "Player Name": "Don Bodenhamer",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Texas Christian University",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "662",
+    "Phase": "JR",
+    "Player Name": "Edward Wright",
+    "Drafted By": "Cleveland Indians",
+    "POS": "2B",
+    "Drafted From": "Churchland (Portsmouth,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "663",
+    "Phase": "JR",
+    "Player Name": "Wilson Plunkett",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "664",
+    "Phase": "JR",
+    "Player Name": "Steve Viefhaus",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "665",
+    "Phase": "JR",
+    "Player Name": "Robert Sellers",
+    "Drafted By": "Kansas City Royals",
+    "POS": "1B",
+    "Drafted From": "Wilbert Tucker Woodson (Fairfax,VA)",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "666",
+    "Phase": "JR",
+    "Player Name": "Dana McManus",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Palomar College",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "667",
+    "Phase": "JR",
+    "Player Name": "Matt Gondak",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Redwood High School (Larkspur, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "668",
+    "Phase": "JR",
+    "Player Name": "Vincent Hillyer",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Thayer Academy (Braintree,MA)",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "669",
+    "Phase": "JR",
+    "Player Name": "Don Bridges",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Hoggard High School (Wilmington, NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "670",
+    "Phase": "JR",
+    "Player Name": "Chester Czaplicki",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Rider University",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "671",
+    "Phase": "JR",
+    "Player Name": "Rick Ingalls",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF-2B",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1973
+  },
+  {
+    "Round": "31",
+    "Pick": "672",
+    "Phase": "JR",
+    "Player Name": "Craig Cordt",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Marshalltown (Marshalltown,IA)",
+    "Year": 1973
+  },
+  {
+    "Round": "32",
+    "Pick": "673",
+    "Phase": "JR",
+    "Player Name": "Mark Hance",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1973
+  },
+  {
+    "Round": "32",
+    "Pick": "674",
+    "Phase": "JR",
+    "Player Name": "Stephen Proniewych",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "Idaho State University",
+    "Year": 1973
+  },
+  {
+    "Round": "32",
+    "Pick": "675",
+    "Phase": "JR",
+    "Player Name": "Dwayne Taggart",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Los Angeles Southwest College",
+    "Year": 1973
+  },
+  {
+    "Round": "32",
+    "Pick": "676",
+    "Phase": "JR",
+    "Player Name": "Eric Rasmussen",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 1973
+  },
+  {
+    "Round": "32",
+    "Pick": "677",
+    "Phase": "JR",
+    "Player Name": "Charles Fore",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Flomaton (Flomaton,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "32",
+    "Pick": "678",
+    "Phase": "JR",
+    "Player Name": "Glenn Bright",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Western Carolina University",
+    "Year": 1973
+  },
+  {
+    "Round": "32",
+    "Pick": "679",
+    "Phase": "JR",
+    "Player Name": "Mark Unsoeid",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Charter Oak (Covina, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "33",
+    "Pick": "680",
+    "Phase": "JR",
+    "Player Name": "Michael Mehaffie",
+    "Drafted By": "Texas Rangers",
+    "POS": "P-OF",
+    "Drafted From": "Justin F. Kimball High School (Dallas, TX)",
+    "Year": 1973
+  },
+  {
+    "Round": "33",
+    "Pick": "681",
+    "Phase": "JR",
+    "Player Name": "Robert Wilmot",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Clintondale (Mount Clemons,MI)",
+    "Year": 1973
+  },
+  {
+    "Round": "33",
+    "Pick": "682",
+    "Phase": "JR",
+    "Player Name": "Brian Slagle",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Huntington Beach High School (Huntington Beach, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "33",
+    "Pick": "683",
+    "Phase": "JR",
+    "Player Name": "Keith Cochran",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "University of Arkansas",
+    "Year": 1973
+  },
+  {
+    "Round": "33",
+    "Pick": "684",
+    "Phase": "JR",
+    "Player Name": "Warren Brusstar",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1973
+  },
+  {
+    "Round": "33",
+    "Pick": "685",
+    "Phase": "JR",
+    "Player Name": "Michael DIugach",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "University of Memphis",
+    "Year": 1973
+  },
+  {
+    "Round": "33",
+    "Pick": "686",
+    "Phase": "JR",
+    "Player Name": "Rick Colzie",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Florida State University",
+    "Year": 1973
+  },
+  {
+    "Round": "34",
+    "Pick": "687",
+    "Phase": "JR",
+    "Player Name": "Frederic Wade",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Columbus High School (Miami, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "34",
+    "Pick": "688",
+    "Phase": "JR",
+    "Player Name": "Bradford Hoch",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS-3B",
+    "Drafted From": "North Florida Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "34",
+    "Pick": "689",
+    "Phase": "JR",
+    "Player Name": "Marvell McKinney",
+    "Drafted By": "Kansas City Royals",
+    "POS": "IF",
+    "Drafted From": "Memphis East (Memphis, TN)",
+    "Year": 1973
+  },
+  {
+    "Round": "34",
+    "Pick": "690",
+    "Phase": "JR",
+    "Player Name": "Ernie Rosseau",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of South Alabama",
+    "Year": 1973
+  },
+  {
+    "Round": "34",
+    "Pick": "691",
+    "Phase": "JR",
+    "Player Name": "Kevin Meistickle",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Thiel College",
+    "Year": 1973
+  },
+  {
+    "Round": "34",
+    "Pick": "692",
+    "Phase": "JR",
+    "Player Name": "Randy Davidson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "2B",
+    "Drafted From": "Columbia State Community College",
+    "Year": 1973
+  },
+  {
+    "Round": "34",
+    "Pick": "693",
+    "Phase": "JR",
+    "Player Name": "William Martin",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "John S. Shaw (Mobile, AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "35",
+    "Pick": "694",
+    "Phase": "JR",
+    "Player Name": "Steve Polan",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "El Camino High School (Sacramento, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "35",
+    "Pick": "695",
+    "Phase": "JR",
+    "Player Name": "Ron Harrington",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Petal (Petal,MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "35",
+    "Pick": "696",
+    "Phase": "JR",
+    "Player Name": "Darrell Parker",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Woodside High School (Woodside, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "35",
+    "Pick": "697",
+    "Phase": "JR",
+    "Player Name": "Gerald Ako",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Aiea High School (Honolulu, HI)",
+    "Year": 1973
+  },
+  {
+    "Round": "35",
+    "Pick": "698",
+    "Phase": "JR",
+    "Player Name": "Ed Wallace",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Southern Technical Institute",
+    "Year": 1973
+  },
+  {
+    "Round": "35",
+    "Pick": "699",
+    "Phase": "JR",
+    "Player Name": "Donald Miller",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Thornwood (South Holland,IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "36",
+    "Pick": "700",
+    "Phase": "JR",
+    "Player Name": "Gary Wiencek",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Citrus College",
+    "Year": 1973
+  },
+  {
+    "Round": "36",
+    "Pick": "701",
+    "Phase": "JR",
+    "Player Name": "Gary Smith",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Deering (Portland, ME)",
+    "Year": 1973
+  },
+  {
+    "Round": "36",
+    "Pick": "702",
+    "Phase": "JR",
+    "Player Name": "Mark Gesquiere",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Aviation (Redondo Beach, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "36",
+    "Pick": "703",
+    "Phase": "JR",
+    "Player Name": "Kris Sorenson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1973
+  },
+  {
+    "Round": "36",
+    "Pick": "704",
+    "Phase": "JR",
+    "Player Name": "Michael Neumann",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Kennedy High School (Chicago, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "36",
+    "Pick": "705",
+    "Phase": "JR",
+    "Player Name": "Terry Hough",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Glendale High School (Springfield, MO)",
+    "Year": 1973
+  },
+  {
+    "Round": "37",
+    "Pick": "706",
+    "Phase": "JR",
+    "Player Name": "Vincent Degrouttoia",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1973
+  },
+  {
+    "Round": "37",
+    "Pick": "707",
+    "Phase": "JR",
+    "Player Name": "David Bewley",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "University of La Verne",
+    "Year": 1973
+  },
+  {
+    "Round": "37",
+    "Pick": "708",
+    "Phase": "JR",
+    "Player Name": "Jeff Peeples",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 1973
+  },
+  {
+    "Round": "37",
+    "Pick": "709",
+    "Phase": "JR",
+    "Player Name": "Phimp Muilen",
+    "Drafted By": "Chicago White Sox",
+    "POS": "fp",
+    "Drafted From": "Methodist University",
+    "Year": 1973
+  },
+  {
+    "Round": "38",
+    "Pick": "710",
+    "Phase": "JR",
+    "Player Name": "Frank Toups",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "Brother Martin (New Orleans,LA)",
+    "Year": 1973
+  },
+  {
+    "Round": "38",
+    "Pick": "711",
+    "Phase": "JR",
+    "Player Name": "Bob Goodyear",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "South Bay Lutheran (Inglewood, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "38",
+    "Pick": "712",
+    "Phase": "JR",
+    "Player Name": "Gary Walker",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Nebraska-Omaha",
+    "Year": 1973
+  },
+  {
+    "Round": "38",
+    "Pick": "713",
+    "Phase": "JR",
+    "Player Name": "Tony Johnson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Vallejo (Vallejo, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "39",
+    "Pick": "714",
+    "Phase": "JR",
+    "Player Name": "Danny White",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "Arizona State University",
+    "Year": 1973
+  },
+  {
+    "Round": "39",
+    "Pick": "715",
+    "Phase": "JR",
+    "Player Name": "Jim Lemon",
+    "Drafted By": "Kansas City Royals",
+    "POS": "2B",
+    "Drafted From": "Creighton University",
+    "Year": 1973
+  },
+  {
+    "Round": "39",
+    "Pick": "716",
+    "Phase": "JR",
+    "Player Name": "George Chisolm",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Callaway (Jackson, MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "39",
+    "Pick": "717",
+    "Phase": "JR",
+    "Player Name": "Phil Kilmas",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Hubbard (Chicago, IL)",
+    "Year": 1973
+  },
+  {
+    "Round": "40",
+    "Pick": "718",
+    "Phase": "JR",
+    "Player Name": "Douglas Dye",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "College of Wooster",
+    "Year": 1973
+  },
+  {
+    "Round": "40",
+    "Pick": "719",
+    "Phase": "JR",
+    "Player Name": "Mike Ongarato",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Rolling Hills (Palos Verdes,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "40",
+    "Pick": "720",
+    "Phase": "JR",
+    "Player Name": "Steve Sherrill",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Pacific",
+    "Year": 1973
+  },
+  {
+    "Round": "40",
+    "Pick": "721",
+    "Phase": "JR",
+    "Player Name": "Tom Mee",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS-p",
+    "Drafted From": "Prior Lake (Prior Lake,MN)",
+    "Year": 1973
+  },
+  {
+    "Round": "41",
+    "Pick": "722",
+    "Phase": "JR",
+    "Player Name": "Wilbert Avery",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Baldwin-Wallace College",
+    "Year": 1973
+  },
+  {
+    "Round": "41",
+    "Pick": "723",
+    "Phase": "JR",
+    "Player Name": "Robert Price",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Eastern Wayne (Goldsboro,NC)",
+    "Year": 1973
+  },
+  {
+    "Round": "41",
+    "Pick": "724",
+    "Phase": "JR",
+    "Player Name": "Tim Hotop",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Mexico (Mexico,MS)",
+    "Year": 1973
+  },
+  {
+    "Round": "42",
+    "Pick": "725",
+    "Phase": "JR",
+    "Player Name": "Michael Rachuba",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Start High School (Toledo, OH)",
+    "Year": 1973
+  },
+  {
+    "Round": "42",
+    "Pick": "726",
+    "Phase": "JR",
+    "Player Name": "Elvin Lowe",
+    "Drafted By": "Kansas City Royals",
+    "POS": "2B",
+    "Drafted From": "Parkview High School (Little Rock, AR)",
+    "Year": 1973
+  },
+  {
+    "Round": "42",
+    "Pick": "727",
+    "Phase": "JR",
+    "Player Name": "Gil Patterson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "of-p",
+    "Drafted From": "Norland High School (Miami, FL)",
+    "Year": 1973
+  },
+  {
+    "Round": "43",
+    "Pick": "728",
+    "Phase": "JR",
+    "Player Name": "Ellis Clayton",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Springfield High School (Springfield,OR)",
+    "Year": 1973
+  },
+  {
+    "Round": "43",
+    "Pick": "729",
+    "Phase": "JR",
+    "Player Name": "James Burress",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Valley High School (Las Vegas, NV)",
+    "Year": 1973
+  },
+  {
+    "Round": "44",
+    "Pick": "730",
+    "Phase": "JR",
+    "Player Name": "Kenneth Wright",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Kailua High School (Kailua, HI)",
+    "Year": 1973
+  },
+  {
+    "Round": "44",
+    "Pick": "731",
+    "Phase": "JR",
+    "Player Name": "Rickey Scarbery",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Roosevelt High School (Fresno, CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "45",
+    "Pick": "732",
+    "Phase": "JR",
+    "Player Name": "Dale Cline",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Bridgeton (Bridgeton,NJ)",
+    "Year": 1973
+  },
+  {
+    "Round": "45",
+    "Pick": "733",
+    "Phase": "JR",
+    "Player Name": "Thurman Smith",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 1973
+  },
+  {
+    "Round": "46",
+    "Pick": "734",
+    "Phase": "JR",
+    "Player Name": "Steven Barnes",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Willamette (Eugene, OR)",
+    "Year": 1973
+  },
+  {
+    "Round": "46",
+    "Pick": "735",
+    "Phase": "JR",
+    "Player Name": "Russell Hamilton",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "of-p",
+    "Drafted From": "Reedley College",
+    "Year": 1973
+  },
+  {
+    "Round": "47",
+    "Pick": "736",
+    "Phase": "JR",
+    "Player Name": "Mike Gatlin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Chaffey College",
+    "Year": 1973
+  },
+  {
+    "Round": "47",
+    "Pick": "737",
+    "Phase": "JR",
+    "Player Name": "Tommy Neal",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 1973
+  },
+  {
+    "Round": "48",
+    "Pick": "738",
+    "Phase": "JR",
+    "Player Name": "William Heigel",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "San Jose State University",
+    "Year": 1973
+  },
+  {
+    "Round": "48",
+    "Pick": "739",
+    "Phase": "JR",
+    "Player Name": "Stephen Ballard",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "University of Arkansas",
+    "Year": 1973
+  },
+  {
+    "Round": "49",
+    "Pick": "740",
+    "Phase": "JR",
+    "Player Name": "Jimmy Kelley",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "University of Texas",
+    "Year": 1973
+  },
+  {
+    "Round": "49",
+    "Pick": "741",
+    "Phase": "JR",
+    "Player Name": "Bryn Smith",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Santa Maria High School (Santa Maria,CA)",
+    "Year": 1973
+  },
+  {
+    "Round": "50",
+    "Pick": "742",
+    "Phase": "JR",
+    "Player Name": "Michael Larkin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "University of Wyoming",
+    "Year": 1973
+  },
+  {
+    "Round": "50",
+    "Pick": "743",
+    "Phase": "JR",
+    "Player Name": "Richard Shaw",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Tuskegee Institute (Tuskegee,AL)",
+    "Year": 1973
+  },
+  {
+    "Round": "51",
+    "Pick": "744",
+    "Phase": "JR",
+    "Player Name": "Dave Klungreseter",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1973
+  },
+  {
+    "Round": "51",
+    "Pick": "745",
+    "Phase": "JR",
+    "Player Name": "John Dominianni",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Upsala College",
+    "Year": 1973
+  },
+  {
+    "Round": "52",
+    "Pick": "746",
+    "Phase": "JR",
+    "Player Name": "Robert Allen",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "University of Arizona",
+    "Year": 1973
+  },
+  {
+    "Round": "52",
+    "Pick": "747",
+    "Phase": "JR",
+    "Player Name": "Bert Francks",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "County College of Morris",
+    "Year": 1973
+  }
+]

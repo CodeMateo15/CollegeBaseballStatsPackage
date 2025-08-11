@@ -1,0 +1,8262 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Tim Belcher",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Mount Vernon Nazarene University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Kurt Stillwell",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Thousand Oaks High School (Thousand Oaks, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Jeff Kunkel",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Rider University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Eddie Williams",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Stan Hilton",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Baylor University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Jackie Davidson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Everman (Fort Worth, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Darrel Akerfelds",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Mesa State College",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Robbie Wine",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Matt Stark",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "Los Altos High School (Hacienda Heights, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Ray Hayward",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Dave Clark",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Jackson State University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Ron DeLucchi",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Campolindo High School (Moraga, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Joel Davis",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Sandalwood High School (Jacksonville, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Rich Stoll",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "University of Michigan",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Wayne Dotson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Estacado (Lubbock, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Brian Holman",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Wichita North High School (Wichita, KS)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Terry Bell",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "Old Dominion University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Erik Sonberg",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Wichita State University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Roger Clemens",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Stan Jefferson",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Bethune-Cookman University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Gary Thurman",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "North Central (Indianapolis, IN)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Ricky Jordan",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "Grant High School (Sacramento, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Mark Doran",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "University of Wisconsin",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Jim Lindeman",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Bradley University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Wayne Wilson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Redondo Union High School (Redondo Beach, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "Dan Plesac",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "North Carolina State University",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Calvin Schiraldi",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "1",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Russ Morman",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-1B",
+    "Drafted From": "Wichita State University",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Billy Swift",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Maine",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Chris Sabo",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B",
+    "Drafted From": "University of Michigan",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "George Threadgill",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Whiteville High School (Whiteville, NC)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Dave Magadan",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "University of Alabama",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Mike Brumley",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Rich Amaral",
+    "Drafted By": "Chicago Cubs",
+    "POS": "2B",
+    "Drafted From": "UCLA",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "Mickey Brantley",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Stan Fansler",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Elkins High School (Elkins,WV)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Webster Garrison",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Ehrat (Marrero,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Andy Allanson",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "University of Richmond",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Paul Oates",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Bishop Alemany High School (Mission Hills, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "Joe Oliver",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Boone High School (Orlando, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "Jim Jefferson",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Rodney Poissant",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Irvine (Irvine, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Jeff D Robinson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Roger Jensen",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Sonoma State University",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Bob Hamilton",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Northeast High School (St. Petersburg, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "John Toale",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "Taravella High School (Coral Springs, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Luis Lopez",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Lafayette High School (Brooklyn, NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Todd Mabe",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Edison High School (Huntington Beach, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Mike Colpitt",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Okmulgee (Okmulgee,OK)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Bill Merrifield",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Wake Forest University",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Gary Green",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Mike Coniey",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Hamilton High School (Hamilton, OH)",
+    "Year": 1983
+  },
+  {
+    "Round": "2",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Glenn Braggs",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "University of Hawaii",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Chris Forgione",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Salesianum (Wilmington, DE)",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Peter Grimm",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University at Buffalo",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "Randy Asadoor",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Rick Aguilera",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Brigham Young University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "John Marquardt",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "University of Missouri",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "David Kopf",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of Michigan",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Dave Hengel",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "University of California",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Mike Friedrich",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Jeff DeWillis",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Pearland (Pearland,TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Ed Vosberg",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Cal Santarelli",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Andy Hall",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Wally Joyner",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Brigham Young University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Randy Ray",
+    "Drafted By": "Montreal Expos",
+    "POS": "C",
+    "Drafted From": "Minden (Minden, LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Jeff Robinson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Azusa Pacific University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Don Long",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Washington State University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Mike Soper",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Palmetto High School (Miami, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "Mitchell Moran",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of Texas-Pan American",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Paul Thoutsis",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Holy Name (Worcester, MA)",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Marty Clary",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Northwestern University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Joe Jarrell",
+    "Drafted By": "Kansas City Royals",
+    "POS": "IF",
+    "Drafted From": "Ramapo College of New Jersey",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Wayne Dannenburg",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "East Tennessee State University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Steve Bast",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Damien (La Verne, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "John Rigos",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Mike Paveika",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Hopkins (Minnetonka,MN)",
+    "Year": 1983
+  },
+  {
+    "Round": "3",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Jeff Reece",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Oregon State University",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Tim Wiseman",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of California-Riverside",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Mike Goedde",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Evansville",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Todd Jackson",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Indio High School (Indio, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "David West",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Craigmont (Memphis, TN)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Steve Chasteen",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Patrick Henry High School (San Diego, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Terry Edwards",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Central State University",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Bill Wilkinson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Cherry Creek High School (Englewood, CO)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Greg Dube",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of Portland",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Jeff Hearron",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Todd Crosby",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "El Camino Real (Woodland Hills,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Glenn Edwards",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Tom Powers",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Mount Carmel High School (Chicago, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "Mitch Lyden",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Beaverton High School (Beaverton, OR)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Cas Soma",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "University of California-Irvine",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Alan Dunn",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of Alabama",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Charles Hayes",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Forrest County Agricultural (Brooklyn,MS)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Bruce Tanner",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Florida State University",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Bert Flores",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Mount Whitney High School (Visalia, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Tony Latham",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "University of Virginia",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Ronnie Gant",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Victoria High School (Victoria, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Geoff Peterson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Clovis West High School (Fresno, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "David Lynch",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "11P",
+    "Drafted From": "Sehome (Bellingham,WA)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "Pat Clements",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "UCLA",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Kevin Whitaker",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Millikan High School (Long Beach, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Rick Lockwood",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 1983
+  },
+  {
+    "Round": "4",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Mike Birkbeck",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Akron",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Jeff Trout",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "University of Delaware",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "Lenny Harris",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B",
+    "Drafted From": "Jackson High School (Miami, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Bob Sebra",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Steve Browning",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Cook High School (Adel, GA)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Brian Guinn",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "University of California",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Steve Engel",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Eastern Kentucky University",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Bob Hinson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Lubbock Christian University",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "Rayner Noble",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of Houston",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Alan McKay",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Baylor University",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Henry Hubbard",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Wofford College",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Mike Greer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Valley High School (Las Vegas, NV)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Randy Strijek",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Draper (Schenectady,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Todd Stottlemyre",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "A.C. Davis (Yakima, WA)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Cliff Young",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Willis (Willis,TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Bruce Hinz",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Steve Smith",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Baylor University",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Tim Gourlay",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Western Michigan University",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Rick Thurman",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Pepperdine University",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "Tim Corder",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "University of Memphis",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Dera Clark",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Artesia High School (Artesia,NM)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Scott Hemond",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Kenneth Lewis",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS-2B",
+    "Drafted From": "Forestbrook High School (Houston, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "Mark Lynds",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Los Medanos College",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "Mike Robinson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "David Dahse",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Texas Lutheran University",
+    "Year": 1983
+  },
+  {
+    "Round": "5",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Joey Meyer",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "1B",
+    "Drafted From": "University of Hawaii",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "Steve Wiley",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Myers Park High School (Charlotte, NC)",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "James Petties",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Tennessee State University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Bill Hance",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of Missouri",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Marcus Lawton",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Harrison Central High School (Gulfport, MS)",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "John Leister",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Michigan State University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "John Cox",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Scott Nielsen",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Brigham Young University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Jim O'Dell",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Tom Linkmeyer",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Marian College",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Eric Hardgrave",
+    "Drafted By": "San Diego Padres",
+    "POS": "1B",
+    "Drafted From": "Stanford University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Stephen Whitmyer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "University of Notre Dame",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Boris King",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "1B",
+    "Drafted From": "Palm Springs (Palm Springs,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "John Savage",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Reno (Reno, NV)",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Bill Moore",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF-1B",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Rob Baker",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Indiana State University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "John Burkett",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Beaver Area (Beaver,PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Rex Blackwell",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Colton (Colton,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Scott May",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Wisconsin-Oshkosh",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Gary Tremblay",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "Chuck Oertli",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Travis (Austin, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Mike Miller",
+    "Drafted By": "Kansas City Royals",
+    "POS": "2B",
+    "Drafted From": "Washington State University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Kevin Ward",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of Arizona",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Steve Heatherly",
+    "Drafted By": "California Angels",
+    "POS": "2B",
+    "Drafted From": "Morehead State University",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Mark Dougherty",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Florida Southern College",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Jim Howard",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Siena College",
+    "Year": 1983
+  },
+  {
+    "Round": "6",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Kerry Everett",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "Point Loma Nazarene University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Tim Thompson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Ron Henika",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "Kirk Killingsworth",
+    "Drafted By": "Texas Rangers",
+    "POS": "P-OF",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "Eric Stampfl",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "St. John's University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Jose Tolentino",
+    "Drafted By": "Oakland Athletics",
+    "POS": "1B",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Jacob Brumfield",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Hammond (Hammond,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "165",
+    "Phase": "JR",
+    "Player Name": "John Wallace",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "Curt Parham",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Thornridge (Dolton,IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Drex Roberts",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "dh",
+    "Drafted From": "University of North Carolina",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Mike Mills",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Birmingham-Southern College",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Paul Perry",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Jacksonville University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Thad Steele",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Western Hills High School (Cincinnati, OH)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "Elanis Westbrooks",
+    "Drafted By": "New York Yankees",
+    "POS": "2B-SS",
+    "Drafted From": "Bellaire High School (Bellaire, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Erik Hanson",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Peddie School (Highstown,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "Anthony Cunningham",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Denton (Denton, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "Mike Aldrete",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B-OF",
+    "Drafted From": "Stanford University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Eric Schmidt",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Tim Zapoiski",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Boulder City (Boulder City,NV)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "177",
+    "Phase": "JR",
+    "Player Name": "John Mitchell",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Overton (Nashville, TN)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "Joe Scime",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "University of Wisconsin",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "David Koller",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Peabody (Pittsburgh, PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "Prince Cousinard",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Texas Southern University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Tom Alfredson",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Coral Springs (Coral Springs, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Ted Milner",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Biola University",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "Bryan Price",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1983
+  },
+  {
+    "Round": "7",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Mike Gobbo",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Midwestern State University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "Mike Verkullen",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of Wisconsin",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Dan Boever",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "John Harrington",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Alcorn State University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "William Page",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "DeKalb County (Smithville,TN)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "Jeff Peterson",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "St. Mary's College of California",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Robert Glendening",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "St. Lawrence University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "Mark Hamann",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "McNary (Keizer,OR)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "David Carley",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Campolindo High School (Moraga, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "Ken Whitfield",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS-OF",
+    "Drafted From": "Mindon (Mindon,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Parks",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Yakima Valley Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Richard Browne",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "University of Alabama",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "Jeff Satzinger",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Coon Rapids (Coon Rapids,MN)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "David Smalley",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Florida State University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Don Montgomery",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Creighton University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "Rob Mailicoat",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Hillsboro High School (Hillsboro, OR)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "Michael Fay",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Bishop Montgomery High School (Torrance, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Charlie Moore",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Valdosta State University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Dave Eichborn",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Miami",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "Dana Kiecker",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "St. Cloud State University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "Steve Ziem",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Carey Ross",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Central Michigan University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "Jeff Bronkey",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "FP",
+    "Drafted From": "Klamath Union High School (Klamath Falls, OR)",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "Brian Migliore",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Tulane University",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "Tom Pagnozzi",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "University of Arkansas",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "Mike Lopez",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Eckerd College",
+    "Year": 1983
+  },
+  {
+    "Round": "8",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Derek Diaz",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Hawaii-Hilo",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "David Vetsch",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "St. Cloud State University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Jeff Montgomery",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Marshall University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "Steve Kordish",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Princeton University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "Gar Millay",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "University of San Diego (San Diego, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Terry Steinbach",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "University of Minnesota",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "David Lenderman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Southern Utah University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "Bob Gunnarsson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "David Hensel",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Powers Catholic (Flint,MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "219",
+    "Phase": "JR",
+    "Player Name": "Glenallen Hill",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Santa Cruz (Santa Cruz,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "Jay Porter",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Mississippi State University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "Joe Kramer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Cleveland State University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Matt Siuda",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Muskegon (Muskegon,MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "Reggie Farmer",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Madison High School (San Diego, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Tim Meacham",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "University of Alabama",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Jim Walewander",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "Iowa State University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Eric Lane",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Tulane University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Paul Fuller",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "St. Lee (Chicago, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Curtis Campbell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Gardena High School (Gardena, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "Chris Cannizzaro",
+    "Drafted By": "Boston Red Sox",
+    "POS": "2B",
+    "Drafted From": "San Diego State University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "Jay Buhner",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "McLennan Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Montie Phillips",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "A.C. Davis (Yakima, WA)",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Steve Moses",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "Charles Smith",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Midwestern State University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Kurt Kaull",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "George Washington University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Marc Heyison",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "George Washington University",
+    "Year": 1983
+  },
+  {
+    "Round": "9",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Jeff Parrett",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Kentucky",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "Dwayne Dahl",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Rush City High School (Rush City, MN)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Danny Smith",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Miami",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Bruce Kipper",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Grand Canyon University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Eric Ricketts",
+    "Drafted By": "New York Mets",
+    "POS": "OF-C",
+    "Drafted From": "Soddy-Daisy (Soddy-Daisy,TN)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "Brian Dorsett",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Indiana State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Jeff Brewer",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Eastern Connecticut State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Billy Wrona",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "University of Miami",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Roger Samuels",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Santa Clara University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Durrell Schoenly",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Boyertown Area High School (Boyertown, PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "Ken Crawson",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "Johnson High School (Sacramento, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "Michael Street",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Rochester Institute of Technology",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Scott Walker",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "1B",
+    "Drafted From": "Pleasant Grove High School (Pleasant Grove, UT)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Ken Rebiejo",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Robbie Cobb",
+    "Drafted By": "Montreal Expos",
+    "POS": "2B",
+    "Drafted From": "Ohio State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "David McClure",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Wichita State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "A.J. Jones",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "San Francisco State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "Paul Imig",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Florida Southern College",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Chuck Bartlett",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Alvin Hamilton",
+    "Drafted By": "Boston Red Sox",
+    "POS": "2B",
+    "Drafted From": "Missouri State University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Todd Lamb",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Duke University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Jeff Hull",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "South Hills High School (Covina, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "Brian Householder",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Kofa (Yuma, AZ)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Kenny Grant",
+    "Drafted By": "California Angels",
+    "POS": "SS-3B",
+    "Drafted From": "Eastside (Paterson,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Scott Madden",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Arkansas-Little Rock",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "Tim Smith",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Mercer University",
+    "Year": 1983
+  },
+  {
+    "Round": "10",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Jeff Gilbert",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Clemson University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "Jim Weiss",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "New York Institute of Technology",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Scott Loseke",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Tim Raley",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Potomac (Dumfries,VA)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Jeff Ciszkowski",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Brandywine (Wilmington, DE)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "Greg Cadaret",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Grand Valley State University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Marty Tyson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Ontario High School (Ontario, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Mickey Meister",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "Charles Mathews",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Texas Wesleyan University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "Mike Raczka",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "University of New Haven",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Darrin Cloninger",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Campbell University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Steve Smith",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Oregon State University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Jack Welch",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Thornton Township (Harvey, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Paul DeJaynes",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Galesburg High School (Galesburg, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Tom Traen",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Creighton University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "Scott Sadler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Radford (Honolulu, HI)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "Dan Yokubaitis",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of California-Santa Barbara",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "Doug Drabek",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Houston",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Joe Karmeris",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Reavis (Burbank,IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "Steve Beer",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Loara High School (Anaheim, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "Kevin Coffman",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF-P",
+    "Drafted From": "Victoria High School (Victoria, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Kevin Seitzer",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Sherman Collins",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Paden High School (Paden, OK)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "Bobby Buchanon",
+    "Drafted By": "California Angels",
+    "POS": "1B-3b",
+    "Drafted From": "Jackson State University",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "James O'Connor",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Penney (East Hartford,CT)",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Jeff Jacobson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "2B",
+    "Drafted From": "University of Michigan",
+    "Year": 1983
+  },
+  {
+    "Round": "11",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "John Thompson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Willamette University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Doug Palmer",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF-p",
+    "Drafted From": "Creighton University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Darren Riley",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Patrick Henry High School (San Diego, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "Thomas Kelley",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Marist High School (Chicago, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "Ryan Virgo",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Madera High School (Madera, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Jim Jones",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Pepperdine University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Harold Walck",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Old Dominion University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "Frank Tunnell",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "Grand Canyon University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "Randy Hammond",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Mesa State College",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Rob Emerson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Richard Mcintyre",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "La Junta South High School (La Junta, CO)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "Tom Reynolds",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Chicago State University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "John Smiley",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Upper Perkiomen (Pennsburg,PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Anthony Sarno",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "County College of Morris",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "Gary Mahler",
+    "Drafted By": "Montreal Expos",
+    "POS": "1B",
+    "Drafted From": "Rider University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "Don Cohoon",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Braintree (Braintree,MA)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Deron McCue",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Hutchinson Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Jeff O'Dell",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "University of Central Florida",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "Kevin Dotson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of Memphis",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Kirt Manwaring",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Horseheads (Horseheads,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Walter Shirley",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Texas Tech University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "Dave Landrith",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "University of Arizona",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "Butch Baccala",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "San Francisco State University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "Don Tinkey",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Youngstown State University",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Charles Kinard",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Newberry (Newberry, SC)",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "Mike Skinner",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "County College of Morris",
+    "Year": 1983
+  },
+  {
+    "Round": "12",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "Darryl Stephens",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "Greg Cottrell",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "Hugh Kemp",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Georgia",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "Kerry Burns",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Oklahoma City University",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Jeff Innis",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Illinois",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "Doug Scherer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Mike Capel",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "Jay Hunt",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Washington State University",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "Nelson Rood",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Florida Southern College",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "Bruce Carter",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "East St. John (Reserve,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "Steve Wolff",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "Kelly Robinette",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "East Carolina University",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "Steve Hecht",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "2B",
+    "Drafted From": "Tulsa Union (Tulsa, OK)",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Richard Mattocks",
+    "Drafted By": "New York Yankees",
+    "POS": "2B",
+    "Drafted From": "North Carolina Wesleyan College",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Bob Latmore",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "DeLand High School (DeLand, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "Alejandro Garcia",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of Houston",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "Steve Miller",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Jim Hickey",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Texas-Pan American",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Ken Harvey",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "2B",
+    "Drafted From": "University of Richmond",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Ray Revak",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Key West (Key West,FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "James Bates",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Kelley (Wise,VA)",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "Tim Richardson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "1B",
+    "Drafted From": "University of Illinois",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "Kevin Campbell",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Des Arc (Des Arc,AR)",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "Scott Cannon",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "University of Texas-Pan American",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "E.L. Ittner",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "James Colmer",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Mississippi",
+    "Year": 1983
+  },
+  {
+    "Round": "13",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Bobby Fingers",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Scottsdale Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Matt Butcher",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Mark Calvert",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of South Carolina",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Greg Bailey",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Washington State University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "Bob Caffrey",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "Winford Harris",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Poly High School (Long Beach, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Donnie Richardson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Campbellsville University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Reggie Hammonds",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Northwestern University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Rodney Martin",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Azusa Pacific University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Ronnie Robbins",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "Jeff Childers",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Marshall High School (Portland, OR)",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Bruce Crabbe",
+    "Drafted By": "Cleveland Indians",
+    "POS": "IF",
+    "Drafted From": "University of Florida",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Aaron Carlie",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Jackson State University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Steve O'Donnell",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "Jeff DePiano",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Jacksonville University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "Tim Bailey",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "East Tennessee State University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "John Reilley",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Westlake High School (Westlake Village, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Bob D'Agostino",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Louisiana at Lafayette",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Barry Wohler",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Minnesota",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Billy Sheeks",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Christian Brothers (Memphis, TN)",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "David Lebeau",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "University of California-Davis",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "Tom Edens",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Max Royd",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "University of Texas-El Paso",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "Steve Sciacca",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "University of San Diego",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "Justin Gannon",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "James Madison University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "Keith Mucha",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1983
+  },
+  {
+    "Round": "14",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Kyle Selden",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Cerritos High School (Cerritos, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "Matt Bergeron",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Nicholls State University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "Greg Monda",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "1B",
+    "Drafted From": "Washington State University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Eloy Gil",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "Barry Dacus",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of California-Santa Barbara",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Scott Whaley",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Jacksonville State University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "Dean Holmes",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Bob Bruz]k",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "Quinnipiac University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "Steve Lipinski",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Montclair State University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "Jeff Thompson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Mercer University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "Marlon Hubbard",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Vin Martelli",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Harvard University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Eric Opron",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "St. John's High School (Geneva,OH)",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Steve Frey",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Bucks County Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Gary Page",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Point Loma Nazarene University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "Richard Rumbold",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Norland High School (Miami, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Dave Atten",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "Joe Sickles",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Florida Southern College",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "Richard Ross",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "North Park University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Michael Dalton",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "De Anza College",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "Kyle Reese",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "North Cobb (Kennesaw, GA)",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Vince Shinholster",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Loara High School (Anaheim, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Bruce Long",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Southwest Baptist University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "Doug Relbel",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Saint Xavier University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "Mike Ullian",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Stetson University",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Randy King",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Will Rogers High School (Tulsa, OK)",
+    "Year": 1983
+  },
+  {
+    "Round": "15",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Mark Ciardi",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "Ken Galloway",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Ken Houp",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "Anthony Cariucci",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of Rhode Island",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "Jeff Dinkel",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Grand Canyon University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "Orlando Artilles",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "University of Miami",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "John Turner",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Xavier University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Ed Salazar",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Shane Fairbanks",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Missouri",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "Robert Murray",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Florida International University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Tim McLoughlin",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Davis and Elkins College",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "John Farrell",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "Larry Johnson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "University of Alabama-Birmingham",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "Fernando Davis",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Chicago Vocational Career Academy (Chicago, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Alan DeVall",
+    "Drafted By": "Montreal Expos",
+    "POS": "2B",
+    "Drafted From": "University of La Verne",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Joey Millis",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Old Dominion University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "Kurt Lee",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Brigham Young University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Richard Johnson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "2B",
+    "Drafted From": "Harper College",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "Steve Shields",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "Jim Hines",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Mike Nipper",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B",
+    "Drafted From": "East Tennessee State University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "Gary Klein",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Cal State Northridge",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Greg Brinkman",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of Houston",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Ray Chadwick",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Winston-Salem State University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "Mike Behrend",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "p-3B",
+    "Drafted From": "Tennessee Technological University",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "Rich Medina",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 1983
+  },
+  {
+    "Round": "16",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "Terry Derby",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "University of Hawaii",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "Jim Pancake",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "St. Cloud State University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Gary Denbo",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Oakland University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "David Linton",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Musselman (Inwood,WV)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Mark Gabriel",
+    "Drafted By": "New York Mets",
+    "POS": "SS-OF",
+    "Drafted From": "Niagara University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "Robert Ryley",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "St. Francis de Sales (Chicago, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "Billy Plante",
+    "Drafted By": "Chicago Cubs",
+    "POS": "iF-Of",
+    "Drafted From": "Virginia Tech",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "Oriol Perez",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Florida International University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "Scott Houp",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Long Beach State University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "Chris Miller",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Sheldon High School (Eugene, OR)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "David Dillard",
+    "Drafted By": "San Diego Padres",
+    "POS": "1B",
+    "Drafted From": "University of Washington",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "Jeffery Killings",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Haworth (Kokomo, IN)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Ivan Hyso",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Palm Springs (Palm Springs,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "Brad Brink",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Downey High School (Modesto, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Mike Rupp",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "University of California-Irvine",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Peter Mancini",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "Seton Hall University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Bobby Ralston",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B-SS",
+    "Drafted From": "University of Arizona",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "Ken Henricks",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-3B",
+    "Drafted From": "Garey High School (Pomona, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Michael Blair",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Jacksonville State University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "DeMarlo Hale",
+    "Drafted By": "Boston Red Sox",
+    "POS": "1B",
+    "Drafted From": "Southern University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "Troy Tomsick",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Ranum (Denver, CO)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Ed Bass",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Phillip Whitten",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Justin F. Kimball High School (Dallas, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "Matt Sexton",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Newman University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Chuck McGrath",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Brown University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "Ben Bianchi",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Portland State University",
+    "Year": 1983
+  },
+  {
+    "Round": "17",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Alan Sadler",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Jeff Schugel",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Minnesota State University-Mankato",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "Ronnie Giddens",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B",
+    "Drafted From": "Union University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Reggie Mosiey",
+    "Drafted By": "Texas Rangers",
+    "POS": "1B",
+    "Drafted From": "Arizona State University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "John Martin",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Morro Bay (Morro Bay,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "David Karasinski",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Utica (Utica,MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Eric Bauer",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Clackamas Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "James Bryant",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "William Carey University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Anthony Kelley",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Jim Van Houten",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "American International College",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "David James",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Northern Kentucky University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Mike Murphy",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Manhattan College",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Oscar Tailey",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Douglas Freeman (Richmond, VA)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Turner Gill",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Ralph Antone",
+    "Drafted By": "Montreal Expos",
+    "POS": "1B",
+    "Drafted From": "Western Kentucky University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "D.J. Dozier",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS-OF",
+    "Drafted From": "Kempsville (Virginia Beach, VA)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "460",
+    "Phase": "JR",
+    "Player Name": "Robert Fannin",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B",
+    "Drafted From": "Lubbock Christian University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Pat Pomeranz",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "University of Mississippi",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "Fred LaGroue",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Holy Cross High School (New Orleans,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "Blane Lockley",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Franklin High School (Baldwin,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "Brian Aviles",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Kevin Tuck",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Todd Adkins",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Elmwood (Bloomdale,OH)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Marty Cain",
+    "Drafted By": "California Angels",
+    "POS": "3B",
+    "Drafted From": "Anadarko High School (Anadarko, OK)",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "Mark Angelo",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Florida Southern College",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "Gerald Adams",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Howard University",
+    "Year": 1983
+  },
+  {
+    "Round": "18",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "Chris Kahler",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of North Carolina",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Kent McBride",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of California-Santa Barbara",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "Scott Middleton",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Missouri State University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "Dan Simpson",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Colorado State University-Pueblo",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "Bob Colescott",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Deerfield Beach (Deerfield Beach,FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "475",
+    "Phase": "JR",
+    "Player Name": "Roger Lewis",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Oral Roberts University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "James Dickerson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina-Charlotte",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "Tom Steinbach",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "University of Minnesota",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "Doug Snyder",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Los Medanos College",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "Mark Clemons",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "Kenneth Connerty",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "University of Massachusetts-Lowell",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "David Cross",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF-1B",
+    "Drafted From": "Perth Amboy High School (Perth Amboy,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "Mark Ambrose",
+    "Drafted By": "New York Yankees",
+    "POS": "SS-p",
+    "Drafted From": "Wyoming Area (Wyoming,PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "Fred Blair",
+    "Drafted By": "Montreal Expos",
+    "POS": "1B",
+    "Drafted From": "Wright State University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "Michael Patterson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Michigan State University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "Mike Pitz",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Colfax (Colfax,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Kirk Gilmore",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Washington High School (Los Angeles, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "Chris Chapman",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Southern University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "John Sanderski",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "St. John's High School (Shrewsbury, MA)",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "Huck Hibberd",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "David Velez",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "St. Mary's College of California",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "Tony Evetts",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Iowa State University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Don Stanfield",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Northview High School (Covina, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "George Vogel",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University-Edwardsville",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "Louis Dichiaro",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "2B",
+    "Drafted From": "Seton Hall University",
+    "Year": 1983
+  },
+  {
+    "Round": "19",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "Lindsay Meggs",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "UCLA",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Doug Emery",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "East Mecklenburg (Charlotte, NC)",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Robert Balaguer",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Dartmouth College",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "Vince Sakowski",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Stanford University",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "William Stiles",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Comsewogue (Port Jefferson,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Jeff Anderson",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Jim Phillips",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of Kansas",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "Brad Colton",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "University of Maine",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Frank Talotta",
+    "Drafted By": "Houston Astros",
+    "POS": "2B",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Mark Dickman",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "University of Houston",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "John Boling",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Saint Xavier University",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "Howard Manzon",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "County College of Morris",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "John Hoover",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Ed Delzer",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Jim Scudero",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "New York Institute of Technology",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Todd Oakes",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "Michael Taylor",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Wagner College",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Mark Stevens",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF-1B",
+    "Drafted From": "Citrus College",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Robert Huffman",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Hamilton High School (Hamilton, OH)",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "John Yowler",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Baltimore City Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "John McLamon",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Fred Wilburn",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "University of Texas-Arlington",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Jim Reboulet",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Southern Illinois University",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "Chuck Baldwin",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Whiteville High School (Whiteville, NC)",
+    "Year": 1983
+  },
+  {
+    "Round": "20",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Phil Lane",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "University of Miami",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "Mike Cloninger",
+    "Drafted By": "Minnesota Twins",
+    "POS": "p-1B",
+    "Drafted From": "East Lincoln (Lincolnton,NC)",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "Steve Oliverio",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of South Alabama",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Dennis Knight",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "James Madison University",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "Scott Bardwell",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Central Washington University",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Mike Fulmer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of California-Santa Barbara",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Darrell Clifton",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Calallen High School (Corpus Christi, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "Jeff Lawson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "1B",
+    "Drafted From": "Phillips University",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "Glenn Sherlock",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Rollins College",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "Mike Werner",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "University of South Carolina",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Steve Arbogast",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "American University",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "Steve Carter",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Albemarle (Charlottesville, VA)",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "Isaac Washington",
+    "Drafted By": "New York Yankees",
+    "POS": "2B",
+    "Drafted From": "Albany High School (Albany, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "Norland Claxton",
+    "Drafted By": "Montreal Expos",
+    "POS": "3B",
+    "Drafted From": "Jackson State University",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Thomas Held",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Defiance College",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Charlie Corbell",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Arkansas",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Jim Trevathan",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Baylor University",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Shawn Gilbert",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Agua Fria High School (Avondale, AZ)",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Ross Kingsley",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "University of Wisconsin-Oshkosh",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Charles Green",
+    "Drafted By": "Kansas City Royals",
+    "POS": "2B",
+    "Drafted From": "Wiley College",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Lawrence Grubb",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of South Florida",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "Mike O'Hara",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Cal State Northridge",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Glenn Harris",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "University of Virginia",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Jonathan Black",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Widener University",
+    "Year": 1983
+  },
+  {
+    "Round": "21",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "Kendall Carter",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Craig Coppola",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Nicholls State University",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "David Salmen",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Geneva College",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Mark Gile",
+    "Drafted By": "Texas Rangers",
+    "POS": "2B",
+    "Drafted From": "University of Kansas",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "Charles Huggins",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Johnson High School (Huntsville,AL)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Lawrence Smith",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "California Baptist University",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "Robert Auth",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Westminster Christian School (Miami, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "Duane Akerfelds",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Columbine High School (Littleton, CO)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Jeff Hirsch",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Broward College",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "Tim Becker",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Manheim Central High School (Lititz,PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Vic Madden",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "Pacific",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Ted Williams",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Caldwell (Columbus, MS)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "Scott Raziano",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "University of New Orleans",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Loren Hibbs",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "Wichita State University",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "Brad Wheeler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "Jim Spring",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Wichita State University",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "Robert O'Hearn",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Canada College",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "Mike Fetters",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Iolani High School (Honolulu, HI)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "David Camara",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "San Diego Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "John Lutz",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Saint Thomas More (Milwaukee, WI)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "David Cram",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Belmont University",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Dirk Tidwell",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Westlake High School (Austin, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "Sal Agostinelli",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Slippery Rock University of Pennsylvania",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Chris Bengel",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Calvert Hall (Baltimore, MD)",
+    "Year": 1983
+  },
+  {
+    "Round": "22",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "Jeff Glover",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Farragut High School (Knoxville, TN)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Robert Calley",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Chino High School (Chino, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "Tony Walker",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Henry Ford II (Sterling Heights, MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "Mike Yastrzemski",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Florida State University",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Ed West",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Denver",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Gary Wayne",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of Michigan",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Jeff King",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Rampart (Colorado Springs, CO)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Doug Swearingen",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Ohio State University",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "Doug Shaab",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of Delaware",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Don Enoch",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Delran (Delran,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "John Ramos",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Henry B. Plant High School (Tampa, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "Kevin Gordon",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Greg Funk",
+    "Drafted By": "New York Yankees",
+    "POS": "2B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "Craig Howard",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Iowa State University",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Carl Willis",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of North Carolina at Wilmington",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "George Ferran",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Granada Hills (Granada Hills, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "Kevin Kristan",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Creighton University",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "Rob Rowen",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Lassen Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "Jim Hunter",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Brookdale Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Jeff Schulz",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "University of Southern Indiana",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Steven Monson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Chesapeake (Pasadena,MD)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Michael Cutola",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Secaucus (Secaucus,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Tim Kavanaugh",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "University of Missouri",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Jeff LeRiger",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "University of Georgia",
+    "Year": 1983
+  },
+  {
+    "Round": "23",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "Pete Beall",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "UCLA",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Seratin Diaz",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Garden Grove High School (Garden Grove, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "Bill Blount",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "1B",
+    "Drafted From": "Proctor (Utica,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "David Hartman",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "University of New Orleans",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Mike Shambaugh",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Jay High School (Jay,OK)",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Steve Chumas",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "Western Michigan University",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "Anthony Smith",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "East Ascension (Gonzales,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Paul Smith",
+    "Drafted By": "Seattle Mariners",
+    "POS": "1B",
+    "Drafted From": "University of California-Santa Barbara",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Seth Richmond",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Trevecca Nazarene University",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "David Zapien",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "Nooksack Valley (Everson,WA)",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "Curtis Thurston",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Henderson State University",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Smith",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Central State University",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "Gary Brabs",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "University of California-Irvine",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "Warren Dickey",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Westmont College",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "Phillip Arp",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B",
+    "Drafted From": "Georgia Perimeter College",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "Kurt Walker",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Vince Beringhele",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "UCLA",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Chris Baird",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "North Carolina State University",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Dennis Boatright",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "William Jewell College",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "Tom Newel",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Lassen Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "Greg Steen",
+    "Drafted By": "California Angels",
+    "POS": "2B",
+    "Drafted From": "Arizona State University",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "John Costello",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Mercyhurst College",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Ty Nichois",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Dodge City (Dodge City,KS)",
+    "Year": 1983
+  },
+  {
+    "Round": "24",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "Joe Mitchell",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Morehead State University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "615",
+    "Phase": "JR",
+    "Player Name": "Jay Johnson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of St. Thomas",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "616",
+    "Phase": "JR",
+    "Player Name": "Michael Mattern",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of New Haven",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "617",
+    "Phase": "JR",
+    "Player Name": "Ricky Hester",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS-OF",
+    "Drafted From": "Clemson University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "618",
+    "Phase": "JR",
+    "Player Name": "Charles Friedel",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Rowan University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "619",
+    "Phase": "JR",
+    "Player Name": "Larry Beardman",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "620",
+    "Phase": "JR",
+    "Player Name": "Calvin James",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B-OF",
+    "Drafted From": "University of Miami",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "621",
+    "Phase": "JR",
+    "Player Name": "Jeff Kambak",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "622",
+    "Phase": "JR",
+    "Player Name": "Peter Mueller",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Upsala College",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "623",
+    "Phase": "JR",
+    "Player Name": "James Rockey",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Fremont High School (Oakland, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "624",
+    "Phase": "JR",
+    "Player Name": "Perry Franklin",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "Junction City (Junction City,AR)",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "625",
+    "Phase": "JR",
+    "Player Name": "Arnold Issac",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Huntsville (Huntsville,TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "626",
+    "Phase": "JR",
+    "Player Name": "Michael Fisher",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Wright State University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "627",
+    "Phase": "JR",
+    "Player Name": "John Bauldry",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Spring Arbor University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "628",
+    "Phase": "JR",
+    "Player Name": "Kirk Raithel",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Cal State Stanislaus",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "629",
+    "Phase": "JR",
+    "Player Name": "Lawrence Samuel",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Eastern Hills High School (Fort Worth, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "630",
+    "Phase": "JR",
+    "Player Name": "John Rexrode",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "631",
+    "Phase": "JR",
+    "Player Name": "Phil Nagle",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Garrett College",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "632",
+    "Phase": "JR",
+    "Player Name": "John Zelenka",
+    "Drafted By": "Kansas City Royals",
+    "POS": "2B",
+    "Drafted From": "Tulane University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "633",
+    "Phase": "JR",
+    "Player Name": "Danny Griffen",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Hill College",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "634",
+    "Phase": "JR",
+    "Player Name": "Reggie Montgomery",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "635",
+    "Phase": "JR",
+    "Player Name": "Jeffrey Gass",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Murray State University",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "636",
+    "Phase": "JR",
+    "Player Name": "Keith Felden",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Clearwater (Clearwater, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "25",
+    "Pick": "637",
+    "Phase": "JR",
+    "Player Name": "John Beuerlein",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "University of Arizona",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "638",
+    "Phase": "JR",
+    "Player Name": "Ron Johnson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Fruita Monument (Grand Junction, CO)",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "639",
+    "Phase": "JR",
+    "Player Name": "Tim Fernandez",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B",
+    "Drafted From": "Pima Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "640",
+    "Phase": "JR",
+    "Player Name": "Ron Hansen",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Santa Clara University",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "641",
+    "Phase": "JR",
+    "Player Name": "Frank Veileggia",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "University of Alabama",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "642",
+    "Phase": "JR",
+    "Player Name": "Matt Held",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "University of California-Riverside",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "643",
+    "Phase": "JR",
+    "Player Name": "Wade Tobin",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Mineral County (Hawthorne,NV)",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "644",
+    "Phase": "JR",
+    "Player Name": "George Priftis",
+    "Drafted By": "Seattle Mariners",
+    "POS": "2B",
+    "Drafted From": "University of Virginia",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "645",
+    "Phase": "JR",
+    "Player Name": "Brian Brooks",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "El Cerrito High School (El Cerrito, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "646",
+    "Phase": "JR",
+    "Player Name": "Andy Leonard",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Canada College",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "647",
+    "Phase": "JR",
+    "Player Name": "Brian Kopetsky",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Muhlenberg High School (Reading, PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "648",
+    "Phase": "JR",
+    "Player Name": "Tommy Gross",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Lannier (Jackson, MS)",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "649",
+    "Phase": "JR",
+    "Player Name": "Steven Graf",
+    "Drafted By": "Montreal Expos",
+    "POS": "OF",
+    "Drafted From": "New Mexico State University",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "650",
+    "Phase": "JR",
+    "Player Name": "Paul Embry",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "651",
+    "Phase": "JR",
+    "Player Name": "Brian Fabun",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Mission College",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "652",
+    "Phase": "JR",
+    "Player Name": "Terry Brown",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "El Cerrito High School (El Cerrito, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "653",
+    "Phase": "JR",
+    "Player Name": "Scott Parrish",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Clemson University",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "654",
+    "Phase": "JR",
+    "Player Name": "Arned Hernandez",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Sunnyside High School (Tucson, AZ)",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "655",
+    "Phase": "JR",
+    "Player Name": "Jere Longenecker",
+    "Drafted By": "Kansas City Royals",
+    "POS": "1B",
+    "Drafted From": "Pepperdine University",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "656",
+    "Phase": "JR",
+    "Player Name": "Randy Collier",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Wabash Valley College",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "657",
+    "Phase": "JR",
+    "Player Name": "Shawn Hillegas",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Middle Georgia College",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "658",
+    "Phase": "JR",
+    "Player Name": "Allen Sigler",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Memphis",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "659",
+    "Phase": "JR",
+    "Player Name": "Danny Fitzpatrick",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Baltimore City Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "26",
+    "Pick": "660",
+    "Phase": "JR",
+    "Player Name": "David Page",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B-1b",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "661",
+    "Phase": "JR",
+    "Player Name": "Shaun Smith",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University of California-Riverside",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "662",
+    "Phase": "JR",
+    "Player Name": "Jordan Berge",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of Northern Colorado",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "663",
+    "Phase": "JR",
+    "Player Name": "John Andrade",
+    "Drafted By": "Texas Rangers",
+    "POS": "2B",
+    "Drafted From": "Towson University",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "664",
+    "Phase": "JR",
+    "Player Name": "Matt Williams",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Carson High School (Carson City, NV)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "665",
+    "Phase": "JR",
+    "Player Name": "Brian Leighton",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "666",
+    "Phase": "JR",
+    "Player Name": "Thad Slowik",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Rollins College",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "667",
+    "Phase": "JR",
+    "Player Name": "Rick Luecken",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Texas A&M University",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "668",
+    "Phase": "JR",
+    "Player Name": "Jason Johnson",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Altoona (Altoona,WI)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "669",
+    "Phase": "JR",
+    "Player Name": "Erick Rapp",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Aberdeen High School (Aberdeen,WA)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "670",
+    "Phase": "JR",
+    "Player Name": "Kendal Echols",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "671",
+    "Phase": "JR",
+    "Player Name": "Doug Torborg",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Jonathan Dayton Regional (Springfield,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "672",
+    "Phase": "JR",
+    "Player Name": "H.J. Lopes",
+    "Drafted By": "Montreal Expos",
+    "POS": "2B",
+    "Drafted From": "Temple University",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "673",
+    "Phase": "JR",
+    "Player Name": "Doug Duke",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Central High School (Tuscaloosa, AL)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "674",
+    "Phase": "JR",
+    "Player Name": "Michael Rooney",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "St. Viator (Arlington Heights,IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "675",
+    "Phase": "JR",
+    "Player Name": "Derrel Rector",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Compton (Compton, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "676",
+    "Phase": "JR",
+    "Player Name": "Dale Hamrick",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B-C",
+    "Drafted From": "Spartanburg Methodist College",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "677",
+    "Phase": "JR",
+    "Player Name": "Mark Lemke",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B",
+    "Drafted From": "Notre Dame High School (Utica,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "678",
+    "Phase": "JR",
+    "Player Name": "Floyd Smith",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Dowagiac (Dowagiac,MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "679",
+    "Phase": "JR",
+    "Player Name": "Timothy Meert",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Garces Memorial (Bakersfield, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "680",
+    "Phase": "JR",
+    "Player Name": "Chris Beasley",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "681",
+    "Phase": "JR",
+    "Player Name": "Phil Burwell",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "682",
+    "Phase": "JR",
+    "Player Name": "Bert Pascual",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Miami-Dade College",
+    "Year": 1983
+  },
+  {
+    "Round": "27",
+    "Pick": "683",
+    "Phase": "JR",
+    "Player Name": "Tom Steinbach",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Valley Stream South (Valley Stream,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "684",
+    "Phase": "JR",
+    "Player Name": "Mark Brown",
+    "Drafted By": "Minnesota Twins",
+    "POS": "Fp",
+    "Drafted From": "Garden Grove High School (Garden Grove, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "685",
+    "Phase": "JR",
+    "Player Name": "Larry Huggins",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Mesa State College",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "686",
+    "Phase": "JR",
+    "Player Name": "Mark Cipres",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Pacific",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "687",
+    "Phase": "JR",
+    "Player Name": "Chris Hayes",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Davis High School (Modesto, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "688",
+    "Phase": "JR",
+    "Player Name": "Camilo Pascual",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of Miami",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "689",
+    "Phase": "JR",
+    "Player Name": "Mark McMorris",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "Delgado Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "690",
+    "Phase": "JR",
+    "Player Name": "Gary Balmer",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "691",
+    "Phase": "JR",
+    "Player Name": "Tom Funk",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Northwest Missouri State University",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "692",
+    "Phase": "JR",
+    "Player Name": "Kevin Letwin",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "693",
+    "Phase": "JR",
+    "Player Name": "Terry Gammage",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "694",
+    "Phase": "JR",
+    "Player Name": "Randy Riley",
+    "Drafted By": "Montreal Expos",
+    "POS": "1B",
+    "Drafted From": "Jacksonville University",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "695",
+    "Phase": "JR",
+    "Player Name": "Mike Reitzel",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Handy (Bay City,MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "696",
+    "Phase": "JR",
+    "Player Name": "Wayne Bonham",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "University of Arizona",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "697",
+    "Phase": "JR",
+    "Player Name": "Tom Ard",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Seton Hall Prep (West Orange,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "698",
+    "Phase": "JR",
+    "Player Name": "Fernando Fernandez",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Lennox (Lennox,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "699",
+    "Phase": "JR",
+    "Player Name": "David Jones",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "King High School (Tampa, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "700",
+    "Phase": "JR",
+    "Player Name": "Michael Van Mill",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Bishop McNamara (Kankakee,IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "701",
+    "Phase": "JR",
+    "Player Name": "Randy Maples",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Bakersfield College",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "702",
+    "Phase": "JR",
+    "Player Name": "Marvin Smith",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Archbishop Shaw (Marrero,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "703",
+    "Phase": "JR",
+    "Player Name": "Ken Wilp",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of New Mexico",
+    "Year": 1983
+  },
+  {
+    "Round": "28",
+    "Pick": "704",
+    "Phase": "JR",
+    "Player Name": "Michael Smith",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Southern Connecticut State University",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "705",
+    "Phase": "JR",
+    "Player Name": "Scott Klingbell",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Chico State",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "706",
+    "Phase": "JR",
+    "Player Name": "Anthony Blackmon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "West Side (Gary, IN)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "707",
+    "Phase": "JR",
+    "Player Name": "Roger Lawrence",
+    "Drafted By": "Texas Rangers",
+    "POS": "1B",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "708",
+    "Phase": "JR",
+    "Player Name": "Desmond Brooks",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Far Rockaway (Far Rockaway,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "709",
+    "Phase": "JR",
+    "Player Name": "Bob Vantrease",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of Delaware",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "710",
+    "Phase": "JR",
+    "Player Name": "William King",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "Proviso East (Maywood, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "711",
+    "Phase": "JR",
+    "Player Name": "David Lawson",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Missouri",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "712",
+    "Phase": "JR",
+    "Player Name": "Lyle Swepson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "South Alamance (Graham,NC)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "713",
+    "Phase": "JR",
+    "Player Name": "Louis Monte",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Bishop Turner (Buffalo, NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "714",
+    "Phase": "JR",
+    "Player Name": "David Pascho",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "University of Washington",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "715",
+    "Phase": "JR",
+    "Player Name": "Kevin Gilles",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Clio (Clio,MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "716",
+    "Phase": "JR",
+    "Player Name": "Joey Zeliner",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Yakima Valley Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "717",
+    "Phase": "JR",
+    "Player Name": "Terry Winkelhake",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Harper College",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "718",
+    "Phase": "JR",
+    "Player Name": "Kevin Monk",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "Fremont High School (Los Angeles, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "719",
+    "Phase": "JR",
+    "Player Name": "Paul Daddario",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B-SS",
+    "Drafted From": "University at Buffalo",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "720",
+    "Phase": "JR",
+    "Player Name": "Darwin Freeman",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Birmingham High School (Van Nuys, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "721",
+    "Phase": "JR",
+    "Player Name": "Mike Jackson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Forest Brook High School (Houston, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "722",
+    "Phase": "JR",
+    "Player Name": "Dennis Hummel",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Oak Park (Kansas City, MO)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "723",
+    "Phase": "JR",
+    "Player Name": "Robert Squires",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Dekalb (Waterloo,IN)",
+    "Year": 1983
+  },
+  {
+    "Round": "29",
+    "Pick": "724",
+    "Phase": "JR",
+    "Player Name": "Bo Shipp",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "Morehead State University",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "725",
+    "Phase": "JR",
+    "Player Name": "Angel Garcia",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Bell High School (Bell,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "726",
+    "Phase": "JR",
+    "Player Name": "Ron Marigny",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "St. Augustine High School (New Orleans,LA)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "727",
+    "Phase": "JR",
+    "Player Name": "Nick Esposito",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "728",
+    "Phase": "JR",
+    "Player Name": "Mike Santiago",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Oklahoma",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "729",
+    "Phase": "JR",
+    "Player Name": "Steve Gomez",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "730",
+    "Phase": "JR",
+    "Player Name": "Orlando Martinez",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF-3B",
+    "Drafted From": "Rockhurst (Kansas City, MO)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "731",
+    "Phase": "JR",
+    "Player Name": "Michael Allen",
+    "Drafted By": "Houston Astros",
+    "POS": "2B-OF",
+    "Drafted From": "Lincoln High School (San Diego, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "732",
+    "Phase": "JR",
+    "Player Name": "Carlos Calderon",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Narbonne High School (Harbor City, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "733",
+    "Phase": "JR",
+    "Player Name": "Mike Dotterer",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "734",
+    "Phase": "JR",
+    "Player Name": "J.C. Batista",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "735",
+    "Phase": "JR",
+    "Player Name": "Gary Peters",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "Royal Oak High School (Royal Oak,MI)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "736",
+    "Phase": "JR",
+    "Player Name": "David Webb",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Chatsworth High School (Chatsworth,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "737",
+    "Phase": "JR",
+    "Player Name": "Danny Kapea",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P-OF",
+    "Drafted From": "Waipahu (Waipahu,HI)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "738",
+    "Phase": "JR",
+    "Player Name": "Louis Newsome",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Cherokee (Cherokee,AL)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "739",
+    "Phase": "JR",
+    "Player Name": "Todd Zeile",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "William S. Hart High School (Newhall, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "740",
+    "Phase": "JR",
+    "Player Name": "Stanley Strutz",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Triton College",
+    "Year": 1983
+  },
+  {
+    "Round": "30",
+    "Pick": "741",
+    "Phase": "JR",
+    "Player Name": "Todd Azar",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Cherry Hill East (Cherry Hill,NJ)",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "742",
+    "Phase": "JR",
+    "Player Name": "Joe Giordanella",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Lindenhurst (Lindenhurst,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "743",
+    "Phase": "JR",
+    "Player Name": "William Humes",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS-OF",
+    "Drafted From": "Erwin (Asheville, NC)",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "744",
+    "Phase": "JR",
+    "Player Name": "Bret Elbin",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "University of Alabama",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "745",
+    "Phase": "JR",
+    "Player Name": "Jeff Kantnor",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Reading High School (Reading, PA)",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "746",
+    "Phase": "JR",
+    "Player Name": "Scott Schultz",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "Mira Costa College",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "747",
+    "Phase": "JR",
+    "Player Name": "Mike Mcilvaine",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "University of Delaware",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "748",
+    "Phase": "JR",
+    "Player Name": "Daraka Shaheed",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Contra Costa College",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "749",
+    "Phase": "JR",
+    "Player Name": "David Heliman",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Covington Catholic High School (Park Hills, KY)",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "750",
+    "Phase": "JR",
+    "Player Name": "Rick Molnar",
+    "Drafted By": "New York Yankees",
+    "POS": "3B-SS",
+    "Drafted From": "Pasco-Hernando Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "751",
+    "Phase": "JR",
+    "Player Name": "John Dodd",
+    "Drafted By": "Montreal Expos",
+    "POS": "P",
+    "Drafted From": "Canyon High School (Canyon Country,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "752",
+    "Phase": "JR",
+    "Player Name": "Tyrone Barnes",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Mississippi Valley State University",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "753",
+    "Phase": "JR",
+    "Player Name": "Todd Thomas",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Oregon State University",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "754",
+    "Phase": "JR",
+    "Player Name": "Mac Rodgers",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Texas Wesleyan University",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "755",
+    "Phase": "JR",
+    "Player Name": "Mike Conte",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Cal State Los Angeles",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "756",
+    "Phase": "JR",
+    "Player Name": "Daniel Siblerud",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Kalispell (Kalispell,MT)",
+    "Year": 1983
+  },
+  {
+    "Round": "31",
+    "Pick": "757",
+    "Phase": "JR",
+    "Player Name": "Dan Gakeler",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "1B",
+    "Drafted From": "Mercer County Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "758",
+    "Phase": "JR",
+    "Player Name": "Manuel Correa",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Fairleigh Dickinson University",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "759",
+    "Phase": "JR",
+    "Player Name": "Stu Rogers",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "760",
+    "Phase": "JR",
+    "Player Name": "Corky Swindell",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "University of Houston",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "761",
+    "Phase": "JR",
+    "Player Name": "Mike Rantz",
+    "Drafted By": "Oakland Athletics",
+    "POS": "2B-SS",
+    "Drafted From": "University of St. Thomas",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "762",
+    "Phase": "JR",
+    "Player Name": "Randy Luciani",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Windham (Willimantic,CT)",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "763",
+    "Phase": "JR",
+    "Player Name": "Ronald Russell",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "764",
+    "Phase": "JR",
+    "Player Name": "Johnny Cortez",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "2B",
+    "Drafted From": "Oklahoma City University",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "765",
+    "Phase": "JR",
+    "Player Name": "Doug Carpenter",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Florida International University",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "766",
+    "Phase": "JR",
+    "Player Name": "David Lucas",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "Wichita State University",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "767",
+    "Phase": "JR",
+    "Player Name": "Michael Ward",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B",
+    "Drafted From": "Central Michigan University",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "768",
+    "Phase": "JR",
+    "Player Name": "Steve Gehrke",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "769",
+    "Phase": "JR",
+    "Player Name": "Warren Bachmann",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "Armstrong Atlantic State University",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "770",
+    "Phase": "JR",
+    "Player Name": "Mark Dudenake",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Clark (Las Vegas, NV)",
+    "Year": 1983
+  },
+  {
+    "Round": "32",
+    "Pick": "771",
+    "Phase": "JR",
+    "Player Name": "Jeff Pequignot",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Stetson University",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "772",
+    "Phase": "JR",
+    "Player Name": "Jeff Mons",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "The Bolles School (Jacksonville, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "773",
+    "Phase": "JR",
+    "Player Name": "Regan Bass",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Washington State University",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "774",
+    "Phase": "JR",
+    "Player Name": "Scott Seliner",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Cordova High School (Rancho Cordova, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "775",
+    "Phase": "JR",
+    "Player Name": "Steven Maunakea",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P-OF",
+    "Drafted From": "Balboa (San Francisco, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "776",
+    "Phase": "JR",
+    "Player Name": "Ben Amaya",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "University of Nebraska",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "777",
+    "Phase": "JR",
+    "Player Name": "Robert Retz",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "778",
+    "Phase": "JR",
+    "Player Name": "Bryan Burrows",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "University of Texas",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "779",
+    "Phase": "JR",
+    "Player Name": "Stanley Johnson",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Texas Southern University",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "780",
+    "Phase": "JR",
+    "Player Name": "Shane Reilly",
+    "Drafted By": "Montreal Expos",
+    "POS": "SS",
+    "Drafted From": "Plantation (Plantation, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "781",
+    "Phase": "JR",
+    "Player Name": "Jack Pool",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B-1b",
+    "Drafted From": "Mercer University",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "782",
+    "Phase": "JR",
+    "Player Name": "Wayne Harrison",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Lynchburg College",
+    "Year": 1983
+  },
+  {
+    "Round": "33",
+    "Pick": "783",
+    "Phase": "JR",
+    "Player Name": "John Devich",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Long Beach City College",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "784",
+    "Phase": "JR",
+    "Player Name": "Jim Cesario",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of New Orleans",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "785",
+    "Phase": "JR",
+    "Player Name": "Everton Johnson",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Samuel Gompers (Bronx, NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "786",
+    "Phase": "JR",
+    "Player Name": "Ralph Sheffield",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Pepperdine University",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "787",
+    "Phase": "JR",
+    "Player Name": "Dan Ducusin",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Chaparral High School (Scottsdale, AZ)",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "788",
+    "Phase": "JR",
+    "Player Name": "Charles Carr",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "1B",
+    "Drafted From": "West Virginia State University",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "789",
+    "Phase": "JR",
+    "Player Name": "Derrick Cunningham",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Danville High School (Danville, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "790",
+    "Phase": "JR",
+    "Player Name": "Ken Ritter",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Kennedy High School (Granada Hills, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "791",
+    "Phase": "JR",
+    "Player Name": "Gerald Wright",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS-Of",
+    "Drafted From": "John H. Reagan (Austin, TX)",
+    "Year": 1983
+  },
+  {
+    "Round": "34",
+    "Pick": "792",
+    "Phase": "JR",
+    "Player Name": "Chris Morgan",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 1983
+  },
+  {
+    "Round": "35",
+    "Pick": "793",
+    "Phase": "JR",
+    "Player Name": "Mark Novak",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Middle Tennessee State University",
+    "Year": 1983
+  },
+  {
+    "Round": "35",
+    "Pick": "794",
+    "Phase": "JR",
+    "Player Name": "Roy Caso",
+    "Drafted By": "New York Mets",
+    "POS": "SS-2B",
+    "Drafted From": "Portland (Portland,CT)",
+    "Year": 1983
+  },
+  {
+    "Round": "35",
+    "Pick": "795",
+    "Phase": "JR",
+    "Player Name": "Scott Wanzer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of California-Riverside",
+    "Year": 1983
+  },
+  {
+    "Round": "35",
+    "Pick": "796",
+    "Phase": "JR",
+    "Player Name": "Wayne Webb",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Mansfield University of Pennsylvania",
+    "Year": 1983
+  },
+  {
+    "Round": "35",
+    "Pick": "797",
+    "Phase": "JR",
+    "Player Name": "Rob Livchak",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Ohio University",
+    "Year": 1983
+  },
+  {
+    "Round": "35",
+    "Pick": "798",
+    "Phase": "JR",
+    "Player Name": "John Paye",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Menlo-Atherton (Atherton,CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "35",
+    "Pick": "799",
+    "Phase": "JR",
+    "Player Name": "Wayne Stephens",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Texas Southern University",
+    "Year": 1983
+  },
+  {
+    "Round": "36",
+    "Pick": "800",
+    "Phase": "JR",
+    "Player Name": "William Warren",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Connors State College",
+    "Year": 1983
+  },
+  {
+    "Round": "36",
+    "Pick": "801",
+    "Phase": "JR",
+    "Player Name": "Joe Klink",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Saint Thomas University",
+    "Year": 1983
+  },
+  {
+    "Round": "36",
+    "Pick": "802",
+    "Phase": "JR",
+    "Player Name": "Craig Amerkhanian",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1983
+  },
+  {
+    "Round": "36",
+    "Pick": "803",
+    "Phase": "JR",
+    "Player Name": "Jesse Long",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "East Lyme (East Lyme,CT)",
+    "Year": 1983
+  },
+  {
+    "Round": "36",
+    "Pick": "804",
+    "Phase": "JR",
+    "Player Name": "Bob Berry",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Auburn University",
+    "Year": 1983
+  },
+  {
+    "Round": "37",
+    "Pick": "805",
+    "Phase": "JR",
+    "Player Name": "Joe Heeney",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "University of Kansas",
+    "Year": 1983
+  },
+  {
+    "Round": "37",
+    "Pick": "806",
+    "Phase": "JR",
+    "Player Name": "Mike Young",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "UCLA",
+    "Year": 1983
+  },
+  {
+    "Round": "37",
+    "Pick": "807",
+    "Phase": "JR",
+    "Player Name": "Francis Corbin",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Susquehanna Valley (Kirkwood,NY)",
+    "Year": 1983
+  },
+  {
+    "Round": "37",
+    "Pick": "808",
+    "Phase": "JR",
+    "Player Name": "Ron Bunnell",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "University of Georgia",
+    "Year": 1983
+  },
+  {
+    "Round": "38",
+    "Pick": "809",
+    "Phase": "JR",
+    "Player Name": "James Mart",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Texas Wesleyan University",
+    "Year": 1983
+  },
+  {
+    "Round": "38",
+    "Pick": "810",
+    "Phase": "JR",
+    "Player Name": "Gus Torres",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Temple Heights Christian (Tampa, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "39",
+    "Pick": "811",
+    "Phase": "JR",
+    "Player Name": "Les Lancaster",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "University of Arkansas",
+    "Year": 1983
+  },
+  {
+    "Round": "39",
+    "Pick": "812",
+    "Phase": "JR",
+    "Player Name": "Leonard Nichols",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Temple Heights Christian (Tampa, FL)",
+    "Year": 1983
+  },
+  {
+    "Round": "40",
+    "Pick": "813",
+    "Phase": "JR",
+    "Player Name": "Wayne King",
+    "Drafted By": "Texas Rangers",
+    "POS": "1B",
+    "Drafted From": "Virginia Tech",
+    "Year": 1983
+  },
+  {
+    "Round": "40",
+    "Pick": "814",
+    "Phase": "JR",
+    "Player Name": "Scott Arnold",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Miami University",
+    "Year": 1983
+  },
+  {
+    "Round": "41",
+    "Pick": "815",
+    "Phase": "JR",
+    "Player Name": "Rick Knapp",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Virginia Tech",
+    "Year": 1983
+  },
+  {
+    "Round": "41",
+    "Pick": "816",
+    "Phase": "JR",
+    "Player Name": "Frank Thomas",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1983
+  },
+  {
+    "Round": "42",
+    "Pick": "817",
+    "Phase": "JR",
+    "Player Name": "Glen Davis",
+    "Drafted By": "Texas Rangers",
+    "POS": "1B",
+    "Drafted From": "University of Georgia",
+    "Year": 1983
+  },
+  {
+    "Round": "42",
+    "Pick": "818",
+    "Phase": "JR",
+    "Player Name": "Donald Lewis",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Balboa (San Francisco, CA)",
+    "Year": 1983
+  },
+  {
+    "Round": "43",
+    "Pick": "819",
+    "Phase": "JR",
+    "Player Name": "John Munley",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "James Madison University",
+    "Year": 1983
+  },
+  {
+    "Round": "43",
+    "Pick": "820",
+    "Phase": "JR",
+    "Player Name": "Michael Dowdy",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Marshall High School (Chicago, IL)",
+    "Year": 1983
+  },
+  {
+    "Round": "44",
+    "Pick": "821",
+    "Phase": "JR",
+    "Player Name": "Marty Blair",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "The Citadel",
+    "Year": 1983
+  },
+  {
+    "Round": "45",
+    "Pick": "822",
+    "Phase": "JR",
+    "Player Name": "Clay Damon",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Lewis & Clark (Spokane, WA)",
+    "Year": 1983
+  },
+  {
+    "Round": "46",
+    "Pick": "823",
+    "Phase": "JR",
+    "Player Name": "Mike Keein",
+    "Drafted By": "Texas Rangers",
+    "POS": "2B",
+    "Drafted From": "University of Nebraska-Kearney",
+    "Year": 1983
+  },
+  {
+    "Round": "47",
+    "Pick": "824",
+    "Phase": "JR",
+    "Player Name": "Fred Lovely",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Central Florida Community College",
+    "Year": 1983
+  },
+  {
+    "Round": "48",
+    "Pick": "825",
+    "Phase": "JR",
+    "Player Name": "Kevin Penner",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Wichita State University",
+    "Year": 1983
+  },
+  {
+    "Round": "49",
+    "Pick": "826",
+    "Phase": "JR",
+    "Player Name": "Michael Reeves",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "James Madison University",
+    "Year": 1983
+  },
+  {
+    "Round": "50",
+    "Pick": "827",
+    "Phase": "JR",
+    "Player Name": "Brad Hill",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Emporia State University",
+    "Year": 1983
+  }
+]

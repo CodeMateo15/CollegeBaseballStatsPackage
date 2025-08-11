@@ -1,0 +1,8232 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Rick Monday",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Les Rohr",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Billings West High School (Billings, MT)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Joe Coleman",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Natick High School (Natick, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Alex Barrett",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Atwater High School (Atwater, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Billy Conigliaro",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Swampscott High School (Swampscott, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Rick James",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Coffee High School (Florence, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Ray Fosse",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Marion High School (Marion, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "John Wyatt",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Bakersfield High School (Bakersfield, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Eddie Leon",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University of Arizona",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Doug Dickerson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Ensley High School (Birmingham, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Jim Spencer",
+    "Drafted By": "California Angels",
+    "POS": "1B",
+    "Drafted From": "Andover High School (Linthicum, MD)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Dick Grant",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "1B",
+    "Drafted From": "Watertown High School (Watertown, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Gene Lamont",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Hiawatha High School (Kirkland, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Alan Gallagher",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Santa Clara University",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Scott McDonald",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Marquette High School (Yakima, WA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Bernie Carbo",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B",
+    "Drafted From": "Livonia High School (Livonia, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Ken Plesha",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "University of Notre Dame",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Mike Adamson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Point Loma High School (San Diego, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Bill Burbach",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Wahlert High School (Dubuque, IA)",
+    "Year": 1965
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Joe DiFabio",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Delta State University",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Joe Keough",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "1B",
+    "Drafted From": "Mount San Antonio College",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Randy Kohn",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Greenville High School (Greenville, SC)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Stanley Bell",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Headland High School (East Point, GA)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Keith Lampard",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Oregon",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "John Hetrick",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Hershey High School (Hershey, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "Ken Rudolph",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Los Angeles Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "John Sandknop",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS-2B",
+    "Drafted From": "Knox County High School (Edina, MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Alan Foster",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Los Altos High School (Hacienda Heights, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Del Unser",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Roger Hayward",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Pontiac Northern High School (Pontiac, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "Sandy Vance",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Pasadena High School (Pasadena, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Don Johnson",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "C",
+    "Drafted From": "University of Southern California",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Doug Carson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Bishop Armstrong High School (Sacramento, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Glen Smith",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "Richard Horton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Dartmouth College",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Johnny Bench",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Anadarko High School (Anadarko, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Fred Kovner",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Old Dominion University",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Larry Hisle",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Portsmouth High School (Portsmouth, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Danny Thompson",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1965
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Terry Milani",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Lewis University",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "Bob Stinson",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Miami Senior High School (Miami, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "Joe Moock",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Louisiana State University",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Gene Martin",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "Dougherty Comprehensive High School (Albany, GA)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Jim Monin",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "University of Kentucky",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Ken Poulsen",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B-OF",
+    "Drafted From": "Birmingham High School (Van Nuys, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Greg Werdick",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Crawford High School (San Diego, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "Ronald Constantino",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Monson High School (Monson, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Mike Criscione",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Syracuse University",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "John Dow",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Bemidji High School (Bemidji, MN)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Richard Hendrix",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Princeton High School (Cincinnati, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Dick Baney",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Herbert H. Lehman (Bronx, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Douglas King",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "OF",
+    "Drafted From": "Northeastern High School (Manchester, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Andy Messersmith",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Ken Fila",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Archbishop Ryan Memorial (Omaha, NE)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Frank Tepedino",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "George Wingate (Brooklyn, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "John Olagues",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Tulane University",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "Mickey Abarbanel",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Monmouth College",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Billy Champion",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Shelby High School (Shelby, NC)",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "Dennis Baldridge",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of Oregon",
+    "Year": 1965
+  },
+  {
+    "Round": "3",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Billy Wolff",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Cincinnati",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Ken Holtzman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of Illinois",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Edward Berube",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "Colby College",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Richard Zank",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Neillsville High School (Neillsville, WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Charles Vaughn",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Brownsville High School (Brownsville, TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "John Parker",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Davie County (Mocksville,NC)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Ken Boswell",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "Sam Houston State University",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "John Olerud",
+    "Drafted By": "California Angels",
+    "POS": "C",
+    "Drafted From": "Washington State University",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Stan Bahnsen",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Nebraska",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "William Perry",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Palatka (Palatka, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "George Mercado",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Bishop Dubois High School (New York, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Bob Reed",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of Michigan",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "Hal Jeffcoat",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P-OF",
+    "Drafted From": "Robinson High School (Tampa, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Harry Parker",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Collinsville School (Collinsville, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Graig Nettles",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "San Diego State University",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Fred Marden",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Brandeis University",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Pat Jacquez",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Stagg High School (Stockton, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Carl Richardson",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Taft High School (Cincinnati, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Ken Purvis",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Nelson County (Lovingston,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Peter Koegel",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF-1B",
+    "Drafted From": "Seaford High School (Seaford, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "4",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Fred Rath",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Baylor University",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Ronald Webb",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Hillcrest High School (Springfield, MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Robert Settle",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Woodrow Wilson High School (Portsmouth,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Arthur Pauls",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "St. Rita High School (Chicago, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "William Bates",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Washington and Jefferson College",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Terry Harmon",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Ohio University",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Doug Britelle",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Massapequa (Massapequa, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Joe Henderson",
+    "Drafted By": "California Angels",
+    "POS": "3B-P",
+    "Drafted From": "Edison High School (Fresno, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Louis Howell",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Kentucky Wesleyan College",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Fred Kampf",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Shore Regional (West Long Branch,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "John Radosevich",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "West Virginia University",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Thomas White",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Dorman High School (Spartanburg, SC)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Rich Robertson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Santa Clara University",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "Jerome Pruett",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF-P",
+    "Drafted From": "Lehman (Canton, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Neil McPhee",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Northeastern University",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Amos Otis",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Williamson High School (Mobile, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Billy Martin",
+    "Drafted By": "Houston Astros",
+    "POS": "OF-if",
+    "Drafted From": "Colonial Heights (Colonial Heights,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Louis Keller",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Oconomowoc High School (Oconomowoc, WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "James Taylor",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B-OF",
+    "Drafted From": "Southern Methodist University",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Richard Suggs",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "William S. Hart High School (Newhall, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "5",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Bill Dobbs",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "John Marshall (Oklahoma City, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Ron Drake",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Long Beach City College",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Ronald Young",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Canton South (Canton, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "John Taylor",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "Alleghany County (Covington,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Wayne Garrett",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "SS",
+    "Drafted From": "Sarasota High School (Sarasota, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Bob Chlupsa",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Manhattan College",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Harold Roberson",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Central Michigan University",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Clyde Wright",
+    "Drafted By": "California Angels",
+    "POS": "OF-P",
+    "Drafted From": "Carson-Newman College",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "John Hurley",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Port Richmond (Staten Island, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Phillip O'Neil",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P-1B",
+    "Drafted From": "Saint Peter-Marian High School (Worcester, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Peter Barnes",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Southern University",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Dennis Grossini",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Lompoc High School (Lompoc, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "John Marsden",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B-OF",
+    "Drafted From": "West Torrance High School (Torrance, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Frank Portera",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Mississippi State University",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "Terry Graham",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Carson High School (Carson City, NV)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Jim L. Thomas",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Sacramento State",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "David Fyle",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Hillsborough High School (Tampa, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Hal McRae",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Florida A&M University",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Bill Dillman",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Wake Forest University",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Sal Bando",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "3B",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "6",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Emmett Molisee",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Western (Las Vegas, NV)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Garry Jestadt",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Fremont High School (Oakland, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Stephen Schneider",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "University of Minnesota",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Fred Jacobs",
+    "Drafted By": "Washington Senators",
+    "POS": "2B",
+    "Drafted From": "Carleton College",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Steve Godfrey",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "Stephen Sharp",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Washington High School (Kansas City, KS)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Mike McClure",
+    "Drafted By": "New York Mets",
+    "POS": "3B-SS",
+    "Drafted From": "Texas A&M University",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Marty Pattin",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Darcy Fast",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "North Thurston (Olympia,WA)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "John Fouse",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF-P",
+    "Drafted From": "University of Arizona",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "Gary Griffith",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Anadarko High School (Anadarko, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "William Bradley",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Palestine (Palestine,TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Douglas McMillan",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Santa Monica High School (Santa Monica, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "Dave Renkiewicz",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Mount Carmel High School (Wyandotte,MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "Mickey Johnston",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Drewry Mason (Ridgeway,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Jim Hutto",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B-P",
+    "Drafted From": "Pensacola (Pensacola, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Ken Chelini",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Galileo (San Francisco, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "Lester Fulleylove",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Edgewood Regional (Atco,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "Frank Chambers",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Mississippi State University",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Scott Reid",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Cerritos College",
+    "Year": 1965
+  },
+  {
+    "Round": "7",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Allan Smith",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Manual (Peoria,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Richard Johnson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Mount San Antonio College",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Terry Thompson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "1B",
+    "Drafted From": "Sunset (Portland, OR)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Edward Lupton",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "University of Notre Dame",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Jeff Albies",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "2B",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Del Wilber",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Purdue University",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Roger Harrington",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Fremont High School (Oakland, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Tom Soderstrom",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Lexington High School (Lexington, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Scott Lund",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Davenport West (Davenport,IA)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Ron Arnold",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "New Mexico State University",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "James Johnson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Las Vegas High School (Las Vegas, NV)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "David Bike",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Notre Dame High School (Fairfield,CT)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "John Matthews",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Reading High School (Reading, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Mike Hensley",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Del City (Oklahoma City, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Ron Keller",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Indiana University",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Doug Shores",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "Northeast High School (Greensboro, NC)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Dan Rudanovich",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Missouri",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "John Morlan",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "West High School (Columbus, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Don Roth",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Spring Arbor University",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Frank Riggins",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF-P",
+    "Drafted From": "Centralia High School (Centralia,KS)",
+    "Year": 1965
+  },
+  {
+    "Round": "8",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Ron Markowski",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-SS",
+    "Drafted From": "Central Catholic (Pittsburgh, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "Joe Decker",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Petaluma High School (Petaluma, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "Larry Killingsworth",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "David Starr Jordan (Long Beach, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Garry Hill",
+    "Drafted By": "Washington Senators",
+    "POS": "RHP",
+    "Drafted From": "Garinger High School (Charlotte, NC)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Albert Thompson",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "OF",
+    "Drafted From": "Narbonne High School (Harbor City, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "165",
+    "Phase": "JR",
+    "Player Name": "Orville Hollrah",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "Louis Williams",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Patterson High School (Baltimore, MD)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Craig Schell",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Monterey High School (Monterey, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Gary Girouard",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Nebraska-Omaha",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Vic Albury",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B-P",
+    "Drafted From": "Key West (Key West,FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Paul Dennenbaum",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "Syracuse University",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "James Young",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Cherry Hill (Inkster,MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Richard Hardiman",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Mortimer Jordan (Morris,AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "Theodore Friel",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Dartmouth College",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "William Drummond",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Buena Vista University",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Ron Shotts",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "Chaffey (Ontario, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Larry Hall",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Centreville (Church Hill,MD)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "Dave Halford",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Plainfield (Plainfield,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "Don Lando",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Ithaca College",
+    "Year": 1965
+  },
+  {
+    "Round": "9",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "Richard Newhart",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "San Clemente (San Clemente,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Duane Rossman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Washington State University",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Kerry Dean",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Mansfield (Mansfield,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "Dennis McKernan",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "Kutztown University",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Thomas Randecker",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "Ken Szotkiewicz",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "2B",
+    "Drafted From": "Salesianum (Wilmington, DE)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Roger Stevens",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Pasadena City College",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "Bob Crosby",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "James Monroe High School (Bronx, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "Fred Dawson",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Henderson State University",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "Greg Washburn",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Coal City (Coal City,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Tom Seaver",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "Gary Taylor",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Central Michigan University",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "Dick White",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B-OF",
+    "Drafted From": "South Torrance (Torrance, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "Fred Brigham",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "University of Wyoming",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Johnnie Johnson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Americus-Sumter (Americus, GA)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Tony Ciarpelli",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "West Genesee (Camillus,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "Danny Walton",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Bishop Amat Memorial High School (La Puente, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "Mike Tyler",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "El Camino High School (South San Francisco,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Gordon Weir",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Brigham Young University",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "George Lauzerique",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "George Washington High School (New York, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "10",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "Ron Lolich",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B-OF",
+    "Drafted From": "Central Catholic (Pittsburgh, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Tom House",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Nogales (La Puente, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Zelman Jack",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Pittsburg (Pittsburg,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "Richard Hense",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "University of Wisconsin",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "Nick Van Lue",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "1B",
+    "Drafted From": "Carson High School (Carson,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Thomas Capowski",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Fordham University",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "Jim McAndrew",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "Gus Gregory",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "University of Illinois",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "James Alvey",
+    "Drafted By": "New York Yankees",
+    "POS": "OF-1B",
+    "Drafted From": "Leitchfield (Leitchfield,KY)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "Lou Pieserb",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Brother Rice High School (Chicago, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Joe Austin",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B",
+    "Drafted From": "University of Southern California",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "Ronald Kirk",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF-if",
+    "Drafted From": "Bloomsburg University of Pennsylvania",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Chris Arnold",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Arcadia High School (Arcadia, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "William Close",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "St. Mary's High School (Lynn,MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "John Healy",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Lane Tech High School (Chicago, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Dennis Best",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Gillespie High School (Gillespie, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "Gary Gentry",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Phoenix College",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "James Scheschuk",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "University of Texas",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "Tom Chiles",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Texas A&M University",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "219",
+    "Phase": "JR",
+    "Player Name": "John Dunn",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Bryant High School (Long Island City, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "11",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "John Sluka",
+    "Drafted By": "Chicago White Sox",
+    "POS": "2B",
+    "Drafted From": "Western Michigan University",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "David Amman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Cocoa Beach High School (Cocoa Beach, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Douglas Watkins",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Bloomsburg Area (Bloomsburg,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "Richard Koslick",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "Conwell Egan Catholic (Fairless Hills,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Craig Scoggins",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "OF",
+    "Drafted From": "Cerritos College",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Donald Cook",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Nolan Ryan",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Alvin High School (Alvin, TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Gary Wormelduff",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Royal Sunset (Hayward, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Donald Alley",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Adams State College",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "Ronnie Matney",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Duncan High School (Duncan, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "Richard Binder",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Waterloo (Waterloo,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Kris Krebs",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Dykes High School (Atlanta, GA)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Michael Smith",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Whitehaven (Memphis, TN)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "C.A. McGowan",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Memphis",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Tom Burgess",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Phoenix College",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Manuel Washington",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Paragould High School (Paragould, AR)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Carl Ergenzinger",
+    "Drafted By": "Houston Astros",
+    "POS": "C-3B",
+    "Drafted From": "Dover (Dover,DE)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "Arthur Boyd",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Escambia High School (Pensacola, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Tom Lawton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Connecticut",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Donald Weeks",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Minor High School (Adamsville, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "12",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Robert Bladek",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Rich East (Park Forest,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "Darrell Evans",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "Muir High School (Pasadena, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Jack Clark",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "St. Charles High School (St. Charles, MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Gil Torres",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "Morris (New York, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Bobby Christensen",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "SS",
+    "Drafted From": "Cal State Northridge",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Dick Mills",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Parsons College",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "Dave Hayes",
+    "Drafted By": "New York Mets",
+    "POS": "2B-OF",
+    "Drafted From": "Balboa (San Francisco, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "Jack Glover",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Banks (Birmingham, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Robert Hall",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Villanova University",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Dave Flettrich",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Tulane University",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Terrance Derringer",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "Dennis Deptula",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "University of Detroit Mercy",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "Seth Marty",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Sierra Vista High School (Baldwin Park, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "Michael Davis",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Galesburg High School (Galesburg, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Jack Palmer",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cretin-Derham Hall (St. Paul, MN)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Michael Weber",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Greenville High School (Greenville,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Jerry Causey",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "University of Denver",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Patrick Brown",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Permian (Odessa,TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "Bob Schaefer",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "University of Connecticut",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Terry L'Ange",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1965
+  },
+  {
+    "Round": "13",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Greg Howell",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Austin Catholic Prep (Detroit, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "John Thomas",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Morehouse (Bastrop,LA)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Terry Sparks",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Minford (Minford,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "John Cashman",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Saint Joseph's University",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Earl Lombardo",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "iF-Of",
+    "Drafted From": "Rider University",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Richard Trolliet",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of Wisconsin",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Gary Burnett",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "East Central Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "John Enos",
+    "Drafted By": "California Angels",
+    "POS": "SS",
+    "Drafted From": "Millikan High School (Long Beach, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Dwain Davidson",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Mountain Home (Mountain Home,AR)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Frank Favia",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C-OF",
+    "Drafted From": "West Leyden (Franklin Park,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "Stephen McGreevy",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "1B-OF",
+    "Drafted From": "University of Kansas",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "Vince Bigone",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B-OF",
+    "Drafted From": "St. Ignatius High School (San Francisco, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Howard Martin",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Santa Clara University",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Ray Henningsen",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Santa Clara University",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Kenneth Holt",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Campbell High School (Brookneal,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Wayne Fuzzard",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "McCarthy (Fort Pierce, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Richard Perini",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "Jerry Baker",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "",
+    "Drafted From": "Elgin Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "Ronnie Paul",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Texas Christian University",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "Craig Gambs",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "1B",
+    "Drafted From": "Richmond High School (Richmond, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "14",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Richard Noffke",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Boylan Catholic (Rockford, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "Henry Knittel",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "College of the Holy Cross",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "Irvin Melton",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Aulander (Ahoskie,NC)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Tom Ragland",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "North (Detroit, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Ted Bashore",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "1B",
+    "Drafted From": "UCLA",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "Thomas Chapman",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Clemson University",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "Jack Stroud",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Sam Gafford",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "South (Bakersfield, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "Steve Mezich",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Seattle University",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Harold Joyce",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Kaimuki (Honolulu, HI)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Leon Everitt",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Pemberton (Marshall,TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "Nick Ross",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Divine Child High School (Dearborn, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "Albert Strane",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "St. Elizabeth (Oakland, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Louis Fiore",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Glendale High School (Glendale,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Paul Coleman",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "Bill Farmer",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Choctaw High School (Choctaw, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "Bill Seinsoth",
+    "Drafted By": "Houston Astros",
+    "POS": "1B-P",
+    "Drafted From": "Arcadia High School (Arcadia, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Joseph Barnes",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Pfeiffer University",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Quash Thompson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Jones High School (Orlando, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "Bob Brooks",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Los Angeles Harbor College",
+    "Year": 1965
+  },
+  {
+    "Round": "15",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "John Montague",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Newport News (Newport News,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Johnny Hairston",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Southern University",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "Paul Giglio",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Flushing (Flushing, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "Gary Dameron",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "Battle Creek (Battle Creek,MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Kenneth Lohnes",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "C",
+    "Drafted From": "Mayfair High School (Lakewood, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Gordon Knutson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "Wayne Drier",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Billings (Billings, MT)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Jarvis Tatum",
+    "Drafted By": "California Angels",
+    "POS": "OF",
+    "Drafted From": "Edison High School (Fresno, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Morton Zenor",
+    "Drafted By": "New York Yankees",
+    "POS": "1B-OF",
+    "Drafted From": "Lawton-Bronson (Lawton,IA)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "James Baker",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Linden-McKinley (Columbus, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "Mike McCall",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Greenville High School (Greenville, SC)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "Kenneth Hall",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Nassau Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Jon Baker",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Sunset (Portland, OR)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "Edward Tivis",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "John Herbst",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Southern California",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "Reid Braden",
+    "Drafted By": "Boston Red Sox",
+    "POS": "1B",
+    "Drafted From": "Cerritos College",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "Bill Tsoukalas",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Lincoln High School (Seattle, WA)",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "Norman Singleton",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Grand View College",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Jimmy Carter",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS-3B",
+    "Drafted From": "Trinity University",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "John Thomas",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Westmont College",
+    "Year": 1965
+  },
+  {
+    "Round": "16",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Richard Slicker",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Tulsa Edison (Tulsa, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "Craig Glassco",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Glendora High School (Glendora, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "Sam Angott",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "iF-p",
+    "Drafted From": "Ohio University",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "Dick Tidrow",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Mount Eden High School (Hayward, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "David Lobb",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Pacelli (Austin,MN)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "Gilbert Barnett",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "2B",
+    "Drafted From": "California University of Pennsylvania",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "John Ferguson",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Clay High School (DeSoto,GA)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Bob Smithson",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Everett Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Mickey Scott",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Newburgh Free Academy (Newburgh, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "James Goodwin",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "Johnny Alexander",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "IF",
+    "Drafted From": "Whitmire Community (Whitmire,SC)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Shelburn Morton",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Oak Grove High School (North Little Rock, AR)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Jay Reed",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Washington Union High School (Fresno, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Bruce Hinkel",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Mar-Mack (McGregor,IA)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "Alan Nordberg",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P-OF",
+    "Drafted From": "University of Massachusetts Amherst",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "Brian Edgerly",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Colgate University",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "Jay Armstrong",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "Tom Ford",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Fair Park High School (Shreveport, LA)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "Dick Hicks",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Fair Park High School (Shreveport, LA)",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "Donald Arp",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Berry College",
+    "Year": 1965
+  },
+  {
+    "Round": "17",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Clifford Foster",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B",
+    "Drafted From": "Sexton (Lansing, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Robert Rossi",
+    "Drafted By": "Chicago Cubs",
+    "POS": "2B-3b",
+    "Drafted From": "Loyola College",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Bob Moose",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Franklin Area (Franklin,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Bill Gogolewski",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Oshkosh Christian (Oshkosh,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "John Respondek",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "Edward Cott",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Nichols High School (Buffalo, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Carl Nicholsen",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "Columbia Basin College",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Terry Thompson",
+    "Drafted By": "California Angels",
+    "POS": "3B-p",
+    "Drafted From": "Newport Harbor (Newport Beach,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Kerby Compton",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Pittsburg State University",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Frank Borgia",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS-3B",
+    "Drafted From": "Scranton Central (Scranton,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "Rod Austin",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Santa Clara University",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Neil Branch",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "Thomas Jefferson (Elizabeth, NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Gary Ford",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Jay Schloemer",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Lincoln Land Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "James Vopicka",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University of Illinois",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "Ray Jarvis",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Hope (Providence,RI)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "Tom Murphy",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Ohio University",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Oscar Brown",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Poly High School (Long Beach, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Will Beauchemin",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Holy Spirit (Point Pleasant,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Larry Vlasin",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "2B-SS",
+    "Drafted From": "Madrid (Madrid,NE)",
+    "Year": 1965
+  },
+  {
+    "Round": "18",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "Jimmie Carroll",
+    "Drafted By": "Chicago White Sox",
+    "POS": "2B",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "John Burnett",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "Skyline High School (Oakland, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Bob Shannon",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "Richard Drew",
+    "Drafted By": "Washington Senators",
+    "POS": "C",
+    "Drafted From": "North (Detroit, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "Daniel Hootstein",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "OF",
+    "Drafted From": "Harvard University",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "Dan Crothers",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Jackson High School (Jackson,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Kenneth Brownell",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Watsonville High School (Watsonville, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "George Dugan",
+    "Drafted By": "California Angels",
+    "POS": "P",
+    "Drafted From": "Murray State University",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "Larry Shawn",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Owensboro High School (Owensboro, KY)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Fred Kos",
+    "Drafted By": "Cleveland Indians",
+    "POS": "1B",
+    "Drafted From": "Northeastern University",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "George Lewark",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "University of Colorado",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Thomas Kelly",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "College of the Holy Cross",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "John Guthrie",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF-if",
+    "Drafted From": "Alhambra High School (Phoenix, AZ)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Jack Singer",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Princeton University",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "Fred Mazurek",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of Pittsburgh",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "John Iannelli",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "East Boston (East Boston,MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "John Hurst",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Charles Kline",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Western Michigan University",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Dave Grangaard",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B-OF",
+    "Drafted From": "Camelback (Phoenix, AZ)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Jerry Burgess",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C",
+    "Drafted From": "North Tonawanda (North Tonawanda,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "19",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Dave Barton",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Ithaca College",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "Jim Williams",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Ells (Richmond, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Gene Garber",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Elizabethtown Area High School (Elizabethtown, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "Kenneth Jones",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Forrest (Jacksonville, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "John Noriega",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "University of Utah",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Terry Craven",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Cal State Northridge",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "Herbert Hofvendahl",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Miramonte High School (Orinda, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Richard Totten",
+    "Drafted By": "California Angels",
+    "POS": "2B",
+    "Drafted From": "Coachella Valley High School (Coachella, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Richard Ruggles",
+    "Drafted By": "New York Yankees",
+    "POS": "2B",
+    "Drafted From": "University of Kansas",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "James Renfro",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Red Bank High School (Chattanooga,TN)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "William Maxwell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Central High School (Tulsa, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Thomas Hamm",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Georgetown University",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Larry Tolliver",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Bakersfield College",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "Eugene Breinig",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Merced (Merced,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Ronald Van Dyke",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Hilltop (Chula Vista, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "William Barkley",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Sam Houston State University",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "J.B. Jackson",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Roxton (Honey Grove,TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "Bill Frost",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "Harry Brown",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "City (Baltimore, MD)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Gene Tenace",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "Valley High School (Lucasville,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "20",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Ronald Davini",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Herbert H. Lehman (Bronx, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "Joseph Doerr",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "West Liberty State College",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Jophrey Brown",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Grambling State University",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "Ronald Rosenow",
+    "Drafted By": "Washington Senators",
+    "POS": "SS",
+    "Drafted From": "Bonduel (Bonduel,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "Ken Tatum",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Mississippi State University",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "James Cain",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "3B",
+    "Drafted From": "Madison Central (Richmond,KY)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Kenneth Williamson",
+    "Drafted By": "New York Mets",
+    "POS": "OF-1B",
+    "Drafted From": "Orange County (Orange,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Doug Griffin",
+    "Drafted By": "California Angels",
+    "POS": "2B",
+    "Drafted From": "El Monte High School (El Monte, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "Clifton Sisco",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "College (Bartlesville,OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Kenneth Suzawa",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Baldwin High School (Wailuku, HI)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "Daro Quiring",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "Darrell Hollar",
+    "Drafted By": "Detroit Tigers",
+    "POS": "iF-Of",
+    "Drafted From": "Lima Senior (Lima, OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Noel Finley",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Roosevelt High School (Fresno, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "Dan McGinn",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Notre Dame",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Louis Smith",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Dave Anderson",
+    "Drafted By": "Houston Astros",
+    "POS": "3B",
+    "Drafted From": "Western Michigan University",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "George Nichols",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "A.H. Parker High School (Birmingham, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "Charlie Sands",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Newport News (Newport News,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "James Buker",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Weymouth (Weymouth, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "21",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "Paul Edmondson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Cal State Northridge",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Robert Beran",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "Fred Patek",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Thomas Cook",
+    "Drafted By": "Washington Senators",
+    "POS": "p-C",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "Monte Sharp",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Auburn University",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "Charles Brown",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Brown (Atlanta, GA)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "John Sauerbier",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Chrisman (Independence,MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "James Bidwell",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "College of the Holy Cross",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "Tom Lundgren",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Forest View (Mount Prospect,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "Eric Krumlauf",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Shaker Heights (Shaker Heights,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "Rick Austin",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Lakes (Lakewood, WA)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Ron Bryant",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Davis High School (Davis, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "James Townsend",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Shasta High School (Redding, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Gary Finch",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Memorial (Eau Claire,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Joseph Vari",
+    "Drafted By": "Houston Astros",
+    "POS": "3B-C",
+    "Drafted From": "William Penn (New Castle,DE)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Alan Baur",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Christian Brothers (Memphis, TN)",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "John Rawls",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "East Carolina University",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Mike Strode",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "2B",
+    "Drafted From": "University of Missouri",
+    "Year": 1965
+  },
+  {
+    "Round": "22",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "Dewey Weaver",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Pasco High School (Dade City, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "Lamar LaBauve",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "Southeastern Louisiana University",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Ralph Custer",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "James Madison (Vienna,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Richard Jones",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Valparaiso University",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "Douglas King",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "OF",
+    "Drafted From": "University of Connecticut",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Jan Fait",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "New Philadelphia (New Philadelphia,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "Al Thomas",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Narbonne High School (Harbor City, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Bert Gramly",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Angelo State University",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Charles Bottom",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Lincoln Land Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "Rich Hinton",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Marana (Marana,AZ)",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Steve Arlin",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Ohio State University",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "Val Bush",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "Robert Bender",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Stump Merrill",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "University of Maine",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "John Francis",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Bakersfield College",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Ron Rowell",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Central High School (Tulsa, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Lowell Palmer",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Norte del Rio (Sacramento, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "Troy Garey",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "23",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Thomas Cottrell",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-3B",
+    "Drafted From": "Cal State Northridge",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Thomas Finnegan",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Washington and Jefferson College",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Virgil Bentley",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Worthing High School (Houston, TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Larry Price",
+    "Drafted By": "Washington Senators",
+    "POS": "P",
+    "Drafted From": "Racine (Portland,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "George Girard",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Marblehead (Marblehead,MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "460",
+    "Phase": "JR",
+    "Player Name": "Lloyd Ennis",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "Wicomico (Salisbury,MD)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Steve Renko",
+    "Drafted By": "New York Mets",
+    "POS": "1B-P",
+    "Drafted From": "University of Kansas",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "James Eubanks",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Arkansas-Pine Bluff",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "Tom Schweitzer",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Fairmont State College",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "Fred Moulder",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Oklahoma State University",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Arnie Chonko",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B",
+    "Drafted From": "Ohio State University",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Alan Diamond",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "University of California",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Mike Kistner",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Jackson High School (Jackson,MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "Joseph Racer",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Madison County High School (Madison,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "Joseph Borowy",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "Larry Holly",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Northeast High School (St. Petersburg, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Brent Vines",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Mound City (Mound City,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "Hugh Britton",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "3B",
+    "Drafted From": "University of Virginia",
+    "Year": 1965
+  },
+  {
+    "Round": "24",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "Bob Hergenrader",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Nebraska",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "Lawrence Lobb",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Bangor (Bangor,ME)",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "475",
+    "Phase": "JR",
+    "Player Name": "Roger Banze",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Francis Hall (St. Louis, MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "Dick Billings",
+    "Drafted By": "Washington Senators",
+    "POS": "OF",
+    "Drafted From": "Michigan State University",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "Peter Lentine",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "1B-P",
+    "Drafted From": "Birmingham High School (Van Nuys, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "Michael Mathias",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Hunter College",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "Gerald Bark",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "James Rees",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "Howard Arndt",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "Republic (Republic,MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "John Keirns",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Edmond Memorial High School (Edmond, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "Robert Felber",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "Baltimore City Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "John Biedenbach",
+    "Drafted By": "San Francisco Giants",
+    "POS": "iF-Of",
+    "Drafted From": "Michigan State University",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "Robert Carlson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "American International College",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Steven Waters",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Whittier College",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "Buzz Stephen",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "Glen Flake",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Assumption High School (East St. Louis,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "John McCall",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Clemson University",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "Brandt Jackson",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C",
+    "Drafted From": "Buena High School (Ventura,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "25",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "Robert Karlblom",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Augustana College",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Steve Wright",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Andrew Hill (San Jose, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "Tom Dettore",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "McMillan (Canonsburg,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "Darryl Wilkins",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "2B-SS",
+    "Drafted From": "University of Southern California",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "George Fowlkes",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Cal Poly Pomona",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Jim Hibbs",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Stanford University",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Steve Rudanovich",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of Utah",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "Harold Burke",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P-OF",
+    "Drafted From": "Parsippany High School (Parsippany, NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "Robert Harvey",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "John Marshall (Oklahoma City, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Danny Talbott",
+    "Drafted By": "Detroit Tigers",
+    "POS": "1B-OF",
+    "Drafted From": "University of North Carolina",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Joe Pollack",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Minnesota",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "Ron Jancek",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Weber State University",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Jimmy Mack",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cicero (Cicero,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Rusty Adkins",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Clemson University",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "Paul Reuschel",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Camp Point Central (Camp Point,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "Dennis Lamb",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B-OF",
+    "Drafted From": "Brigham Young University",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "James Blakeney",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C",
+    "Drafted From": "William Carey University",
+    "Year": 1965
+  },
+  {
+    "Round": "26",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Lawrence Lembo",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF-1B",
+    "Drafted From": "Manhattan College",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Nathaniel Perkins",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Benedict College",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Alan Putz",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "Rockville High School (Rockville,CT)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "William Ferguson",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "C",
+    "Drafted From": "W.B. Ray (Corpus Christi, TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Len Zandy",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "p-1B",
+    "Drafted From": "Fordham University",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Wayne Burdette",
+    "Drafted By": "New York Mets",
+    "POS": "IF",
+    "Drafted From": "Bowling Green State University",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "Harry Wright",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Cheshire Academy (Great Neck,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "Ray DeRiggi",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P-OF",
+    "Drafted From": "Vailsburg High School (Newark, NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Rhett Thompson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Del Mar (San Jose, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Joe Hauptman",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Granite City (Granite City,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "Mike Perkins",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Dorsey High School (Los Angeles, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Jerry Robinson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Washburn University",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "Randy Humphrey",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Carson High School (Carson,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "Michael Willis",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Alameda High School (Lakewood,CO)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Ken Williams",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "East Lansing (Lansing, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "Ron Lanza",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Maine",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Stephen Nelson",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Natick High School (Natick, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "27",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Elvatous Peters",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Southern University",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "John Hermanek",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Bradley University",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "David Tolley",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B-C",
+    "Drafted From": "Grove City College",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "Jerry Foglia",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Woodbridge High School (Woodbridge,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Charles Shreve",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Cathedral Prep (Erie,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "Jim Nichols",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "George Blaum",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "Bellport High School (Brookhaven, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "Thomas Lomack",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Lincoln High School (Tallahassee, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Gary Moore",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of Texas",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Ray Peters",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Nichols High School (Buffalo, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Gene Vidoni",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Duane Freemon",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "University of Utah",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Bill Ferrell",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Steve Barrett",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Artesia High School (Artesia,NM)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Lynn Coleman",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Potosi (Potosi,MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "Frank Antone",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Lawton High School (Lawton,OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Greg Garrett",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "William S. Hart High School (Newhall, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "28",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Jim Hogan",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Redlands",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "John Bacot",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Alabama A&M University",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Gregory Chlan",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Westfield High School (Westfield,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "Richard Small",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "OF",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Don Novick",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "New York University",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "John Green",
+    "Drafted By": "New York Mets",
+    "POS": "p-1B",
+    "Drafted From": "Jones Valley (Birmingham, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Lewis Lawson",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Tech (Terre Haute, IN)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "Dennis Malseed",
+    "Drafted By": "Cleveland Indians",
+    "POS": "p-3B",
+    "Drafted From": "St. James (Chester, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "Kyle Carlin",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Sulphur High School (Sulphur, LA)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Milton Bender",
+    "Drafted By": "Detroit Tigers",
+    "POS": "IF",
+    "Drafted From": "Northern High School (Detroit, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "James Jordan",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "Ouachita Baptist University",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Bobby Smith",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Bacone College",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Steve Kokor",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P-OF",
+    "Drafted From": "Alta Loma (Alta Loma,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "Gary Hughes",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Monterey High School (Lubbock, TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Carlton Barnes",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "East Carolina University",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "Cliff Matthew",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "North Carolina A&T State University",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "Darryl Hester",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Byng (Ada, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "29",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "Robert Chandler",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P-OF",
+    "Drafted From": "Wilson High School (Easton, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "Ronald Renner",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "West Virginia University",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "Lou Marone",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "San Diego Mesa College",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "Steve Wrenn",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "1B",
+    "Drafted From": "Wake Forest University",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "Terry Ricketts",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Hillsdale (Hillsdale,MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Tom Garrett",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Lincoln High School (San Diego, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "Jim Fink",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Richmond High School (Richmond, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Mark Devitt",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Dartmouth High School (South Dartmouth, MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "Dennis Jensen",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Jacksonville University",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Terry Ley",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Madison High School (Portland, OR)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "Richard Kwasny",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "La Canada (La Canada,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "William Carino",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Revere Immaculate (Revere,MA)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Alvin Hazewinkle",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Eau Claire (Columbia, SC)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Paul Suchow",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "York (Elmhurst,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Vic Prather",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Will Rogers High School (Tulsa, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Dave Coleman",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Northeastern University",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "James Gibney",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Susquehanna University",
+    "Year": 1965
+  },
+  {
+    "Round": "30",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Jim Ackley",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Hayward High School (Hayward,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "Jim Nelson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Burbank High School (Sacramento, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "William Craig",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Williamson High School (Williamson,WV)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Ken Huebner",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Florida Southern College",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "James Moore",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Tommy Porter",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "The Citadel",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "Harry McCarthy",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Huntington (Huntington,WV)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "Neil Pittman",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Parkview High School (Springfield, MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "Mike Hutson",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Reedley College",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "John Frye",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF-3B",
+    "Drafted From": "State College of Florida, Manatee-Sarasota",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Paul Mankowski",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "-",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Berry Cohen",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Senn (Chicago, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Harlan Hinds",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Odessa College",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Steve Garman",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Caldwell (Caldwell,ID)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Roger Jackson",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "North Kansas City (Kansas City, MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "31",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "Danny Lazar",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Indiana State University",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Benny Grove",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "IF",
+    "Drafted From": "Frederick (Frederick,MD)",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "John Reynolds",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "C",
+    "Drafted From": "Grosse Pointe South High School (Grosse Pointe, MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "Dale Blazure",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "North Hunterdon High School (Pottersville, NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Frank Pickens",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Washburn University",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Jeff Burns",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Plattsburgh (Plattsburgh,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "Eugene Sidor",
+    "Drafted By": "Cleveland Indians",
+    "POS": "C",
+    "Drafted From": "Nassau Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Edward Staron",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Western Michigan University",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Ralph Durgin",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Rancho High School (Las Vegas, NV)",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "Joe Gegg",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Saint Louis University",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "Joe Romary",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B-SS",
+    "Drafted From": "University of Wisconsin",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Pascal Renn",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Wake Forest University",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "Larry McWherter",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "El Camino College",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "Leroy McDonald",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Las Cruces (Las Cruces,NM)",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "Jackie Creel",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Phillips (Birmingham, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "32",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "John Miklos",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Valparaiso University",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Robert Roadarmel",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Florida Southern College",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Bill Zepp",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "University of Michigan",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Lavis York",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "University of West Georgia",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "Rudolph Luehs",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "Lincoln High School (San Francisco, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "Paul Bruinsma",
+    "Drafted By": "New York Yankees",
+    "POS": "2B",
+    "Drafted From": "Sioux Center (Sioux Center,IA)",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "Frank Spaziani",
+    "Drafted By": "Cleveland Indians",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Martin Brown",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Tulsa Edison (Tulsa, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "Al Deravin",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Sierra Vista High School (Baldwin Park, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "615",
+    "Phase": "JR",
+    "Player Name": "Mel Workman",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Moweaqua (Moweaqua,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "616",
+    "Phase": "JR",
+    "Player Name": "Walter Harrison",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Male (Louisville,KY)",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "617",
+    "Phase": "JR",
+    "Player Name": "Eugene Garritt",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Delaware",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "618",
+    "Phase": "JR",
+    "Player Name": "Allie Prescott",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Kingsbury High School (Memphis, TN)",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "619",
+    "Phase": "JR",
+    "Player Name": "Peter Middlekauff",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "1B",
+    "Drafted From": "Stanford University",
+    "Year": 1965
+  },
+  {
+    "Round": "33",
+    "Pick": "620",
+    "Phase": "JR",
+    "Player Name": "Pete Ciganovich",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "James H. Bowen (Chicago, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "621",
+    "Phase": "JR",
+    "Player Name": "Mike Nickels",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Pulaski (Pulaski,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "622",
+    "Phase": "JR",
+    "Player Name": "Richard Schaffer",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "C-3B",
+    "Drafted From": "Birmingham High School (Van Nuys, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "623",
+    "Phase": "JR",
+    "Player Name": "Michael Carty",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Downey High School (Downey,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "624",
+    "Phase": "JR",
+    "Player Name": "Tom Shopay",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Dean College",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "625",
+    "Phase": "JR",
+    "Player Name": "Larry Hansen",
+    "Drafted By": "Cleveland Indians",
+    "POS": "Of-3B",
+    "Drafted From": "Jefferson High School (Portland, OR)",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "626",
+    "Phase": "JR",
+    "Player Name": "Harold White",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Rutgers University",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "627",
+    "Phase": "JR",
+    "Player Name": "Mike Zink",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B-C",
+    "Drafted From": "Woodrow Wilson High School (Tacoma, WA)",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "628",
+    "Phase": "JR",
+    "Player Name": "Robert Gustafson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Rollins College",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "629",
+    "Phase": "JR",
+    "Player Name": "Craig MacKay",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "University of Utah",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "630",
+    "Phase": "JR",
+    "Player Name": "Robert Yingling",
+    "Drafted By": "Houston Astros",
+    "POS": "SS-2B",
+    "Drafted From": "St. Joseph (West New York,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "631",
+    "Phase": "JR",
+    "Player Name": "Robert Jones",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Grambling State University",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "632",
+    "Phase": "JR",
+    "Player Name": "Bob Biletnikoff",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "University of Miami",
+    "Year": 1965
+  },
+  {
+    "Round": "34",
+    "Pick": "633",
+    "Phase": "JR",
+    "Player Name": "Paul Lovrich",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Eisenhower High School (Blue Island,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "634",
+    "Phase": "JR",
+    "Player Name": "David Warmbrod",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "635",
+    "Phase": "JR",
+    "Player Name": "Joe Beck",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "1B",
+    "Drafted From": "Kansas State University",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "636",
+    "Phase": "JR",
+    "Player Name": "Don Shaw",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "San Diego State University",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "637",
+    "Phase": "JR",
+    "Player Name": "James Smith",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Denmark (Denmark,SC)",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "638",
+    "Phase": "JR",
+    "Player Name": "Tom Brown",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Juniper (Juniper,FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "639",
+    "Phase": "JR",
+    "Player Name": "Richard Roberts",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Southwest High School (St. Louis, MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "640",
+    "Phase": "JR",
+    "Player Name": "William Lierman",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "641",
+    "Phase": "JR",
+    "Player Name": "John Tartera",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "University of Vermont",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "642",
+    "Phase": "JR",
+    "Player Name": "Ralph Barrier",
+    "Drafted By": "Houston Astros",
+    "POS": "p-1B",
+    "Drafted From": "Hillsdale (Hillsdale,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "643",
+    "Phase": "JR",
+    "Player Name": "Ray Frank",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Southern University",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "644",
+    "Phase": "JR",
+    "Player Name": "Gary Shephard",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Duffy (Niagara Falls,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "35",
+    "Pick": "645",
+    "Phase": "JR",
+    "Player Name": "Joe Bloom",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Notre Dame High School (Sherman Oaks, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "646",
+    "Phase": "JR",
+    "Player Name": "Gregory Marotz",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Colgate University",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "647",
+    "Phase": "JR",
+    "Player Name": "James McFarland",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "648",
+    "Phase": "JR",
+    "Player Name": "Ron Kyner",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Arvin (Arvin,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "649",
+    "Phase": "JR",
+    "Player Name": "Terry Childers",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "Richmond County Academy (Augusta, GA)",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "650",
+    "Phase": "JR",
+    "Player Name": "Steve Kokor",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "651",
+    "Phase": "JR",
+    "Player Name": "Alvin Strane",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "St. Elizabeth (Oakland, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "652",
+    "Phase": "JR",
+    "Player Name": "Ronald Masterson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Soddy-Daisy (Soddy-Daisy,TN)",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "653",
+    "Phase": "JR",
+    "Player Name": "Joseph Brathwaite",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Atlantic City (Atlantic City,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "654",
+    "Phase": "JR",
+    "Player Name": "Jerry DaVanon",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "San Diego Mesa College",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "655",
+    "Phase": "JR",
+    "Player Name": "Mike Burns",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "656",
+    "Phase": "JR",
+    "Player Name": "Ronald Pietila",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "36",
+    "Pick": "657",
+    "Phase": "JR",
+    "Player Name": "Leland White",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Hueneme High School (Oxnard, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "658",
+    "Phase": "JR",
+    "Player Name": "Glen Borkhuis",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Syracuse University",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "659",
+    "Phase": "JR",
+    "Player Name": "Daniel Waraska",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "2B-SS",
+    "Drafted From": "Seton Hall University",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "660",
+    "Phase": "JR",
+    "Player Name": "Dave Aldrich",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Mount Diablo (Concord, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "661",
+    "Phase": "JR",
+    "Player Name": "Terry Harrison",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Pendleton (Pendleton,OR)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "662",
+    "Phase": "JR",
+    "Player Name": "Bill Butler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Herndon (Herndon,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "663",
+    "Phase": "JR",
+    "Player Name": "Mark Schaeffer",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Cleveland High School (Reseda,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "664",
+    "Phase": "JR",
+    "Player Name": "Robert Cox",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "665",
+    "Phase": "JR",
+    "Player Name": "Bill Gray",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "666",
+    "Phase": "JR",
+    "Player Name": "Louis McKown",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Wichita Falls High School (Wichita Falls, TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "667",
+    "Phase": "JR",
+    "Player Name": "Dan DeVito",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Stamford (Stamford,CT)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "668",
+    "Phase": "JR",
+    "Player Name": "Mike Koritko",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "Notre Dame High School (Fairfield,CT)",
+    "Year": 1965
+  },
+  {
+    "Round": "37",
+    "Pick": "669",
+    "Phase": "JR",
+    "Player Name": "Michael White",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Costa Mesa High School (Costa Mesa, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "670",
+    "Phase": "JR",
+    "Player Name": "Rick Jackson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Rockhurst University",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "671",
+    "Phase": "JR",
+    "Player Name": "Duffy Dyer",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "C-Of",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "672",
+    "Phase": "JR",
+    "Player Name": "Ray Stadler",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "673",
+    "Phase": "JR",
+    "Player Name": "Dennis Trame",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Quincy University",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "674",
+    "Phase": "JR",
+    "Player Name": "Robert Yodice",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Lafayette High School (Brooklyn, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "675",
+    "Phase": "JR",
+    "Player Name": "Joe Madden",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "676",
+    "Phase": "JR",
+    "Player Name": "Isaac Barnes",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "677",
+    "Phase": "JR",
+    "Player Name": "Frank Brosseau",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P-OF",
+    "Drafted From": "University of Minnesota",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "678",
+    "Phase": "JR",
+    "Player Name": "Stephen Molberg",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Pampa (Pampa,TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "679",
+    "Phase": "JR",
+    "Player Name": "Larry Linville",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Bellingham (Bellingham,WA)",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "680",
+    "Phase": "JR",
+    "Player Name": "Charles Casey",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "University of Florida",
+    "Year": 1965
+  },
+  {
+    "Round": "38",
+    "Pick": "681",
+    "Phase": "JR",
+    "Player Name": "Robert Lawler",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "State College of Florida, Manatee-Sarasota",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "682",
+    "Phase": "JR",
+    "Player Name": "Berke Reichenbach",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "Ohio University",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "683",
+    "Phase": "JR",
+    "Player Name": "Dan Frisella",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Washington State University",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "684",
+    "Phase": "JR",
+    "Player Name": "James Lawson",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "685",
+    "Phase": "JR",
+    "Player Name": "Neil Weber",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Appleton (Appleton,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "686",
+    "Phase": "JR",
+    "Player Name": "John Huizenga",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Western Michigan University",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "687",
+    "Phase": "JR",
+    "Player Name": "Ron Grossmiller",
+    "Drafted By": "San Francisco Giants",
+    "POS": "IF",
+    "Drafted From": "Phoenix College",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "688",
+    "Phase": "JR",
+    "Player Name": "Rich Hacker",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "New Athens (New Athens,IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "689",
+    "Phase": "JR",
+    "Player Name": "Bob Purkhiser",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Purdue University",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "690",
+    "Phase": "JR",
+    "Player Name": "Paul Alderete",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Los Angeles Pierce College",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "691",
+    "Phase": "JR",
+    "Player Name": "Stanley Bowen",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "Of-1B",
+    "Drafted From": "Knox City (Novelity,MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "692",
+    "Phase": "JR",
+    "Player Name": "David Sellers",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "39",
+    "Pick": "693",
+    "Phase": "JR",
+    "Player Name": "Timothy McLain",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Bremen High School (Midlothian, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "694",
+    "Phase": "JR",
+    "Player Name": "Dennis Pierce",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "-",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "695",
+    "Phase": "JR",
+    "Player Name": "Glen Wallace",
+    "Drafted By": "Milwaukee Braves",
+    "POS": "P",
+    "Drafted From": "Butler (Florence, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "696",
+    "Phase": "JR",
+    "Player Name": "James Dix",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Saint Louis University",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "697",
+    "Phase": "JR",
+    "Player Name": "Dick Such",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Elon University",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "698",
+    "Phase": "JR",
+    "Player Name": "Craig Bozich",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Aurora Central High School (Aurora, CO)",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "699",
+    "Phase": "JR",
+    "Player Name": "Windy Currie",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B-OF",
+    "Drafted From": "Olympia High School (Columbia, SC)",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "700",
+    "Phase": "JR",
+    "Player Name": "Richard Devarney",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "University of Maine",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "701",
+    "Phase": "JR",
+    "Player Name": "Conrad Bradison",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Memorial (Eau Claire,WI)",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "702",
+    "Phase": "JR",
+    "Player Name": "Doug Parsons",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Bishop Armstrong High School (Sacramento, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "703",
+    "Phase": "JR",
+    "Player Name": "Dennis Denning",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C-3B",
+    "Drafted From": "University of St. Thomas",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "704",
+    "Phase": "JR",
+    "Player Name": "Jeff Herter",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "40",
+    "Pick": "705",
+    "Phase": "JR",
+    "Player Name": "Joe Holliday",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Duncan High School (Duncan, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "706",
+    "Phase": "JR",
+    "Player Name": "Mike Garrett",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "707",
+    "Phase": "JR",
+    "Player Name": "Malcolm Petty",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "708",
+    "Phase": "JR",
+    "Player Name": "Steve Vanderlip",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "West Ottawa (Holland,MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "709",
+    "Phase": "JR",
+    "Player Name": "Peter Hamm",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Soquel (Soquel,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "710",
+    "Phase": "JR",
+    "Player Name": "Doug Dobrei",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B-P",
+    "Drafted From": "Michigan State University",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "711",
+    "Phase": "JR",
+    "Player Name": "Wayne Miller",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Lambuth University",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "712",
+    "Phase": "JR",
+    "Player Name": "Henry Tenney",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS-of",
+    "Drafted From": "Vista (Vista, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "713",
+    "Phase": "JR",
+    "Player Name": "John Fleischaur",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "C-of",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "41",
+    "Pick": "714",
+    "Phase": "JR",
+    "Player Name": "Ken Eby",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Purdue University",
+    "Year": 1965
+  },
+  {
+    "Round": "42",
+    "Pick": "715",
+    "Phase": "JR",
+    "Player Name": "Andrew Shea",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "St. Helena (Bronx, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "42",
+    "Pick": "716",
+    "Phase": "JR",
+    "Player Name": "Vic Sorrell",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "North Carolina State University",
+    "Year": 1965
+  },
+  {
+    "Round": "42",
+    "Pick": "717",
+    "Phase": "JR",
+    "Player Name": "William Ray",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "2B",
+    "Drafted From": "Robert E. Lee High School (Huntsville,AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "42",
+    "Pick": "718",
+    "Phase": "JR",
+    "Player Name": "Jim Duffy",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Westmont High School (Westmont, IL)",
+    "Year": 1965
+  },
+  {
+    "Round": "42",
+    "Pick": "719",
+    "Phase": "JR",
+    "Player Name": "Don Sessions",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "University of Colorado",
+    "Year": 1965
+  },
+  {
+    "Round": "42",
+    "Pick": "720",
+    "Phase": "JR",
+    "Player Name": "James Brown",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Englewood High School (Englewood, CO)",
+    "Year": 1965
+  },
+  {
+    "Round": "42",
+    "Pick": "721",
+    "Phase": "JR",
+    "Player Name": "Victor Majewski",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Villanova University",
+    "Year": 1965
+  },
+  {
+    "Round": "43",
+    "Pick": "722",
+    "Phase": "JR",
+    "Player Name": "Jerry Boehmer",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Saint Louis University",
+    "Year": 1965
+  },
+  {
+    "Round": "43",
+    "Pick": "723",
+    "Phase": "JR",
+    "Player Name": "Robert Bixler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Miami University",
+    "Year": 1965
+  },
+  {
+    "Round": "43",
+    "Pick": "724",
+    "Phase": "JR",
+    "Player Name": "John Olander",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "of-C",
+    "Drafted From": "Sacramento State",
+    "Year": 1965
+  },
+  {
+    "Round": "43",
+    "Pick": "725",
+    "Phase": "JR",
+    "Player Name": "Jerome Cawley",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "University of Minnesota",
+    "Year": 1965
+  },
+  {
+    "Round": "43",
+    "Pick": "726",
+    "Phase": "JR",
+    "Player Name": "Gary Butcher",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Los Angeles Harbor College",
+    "Year": 1965
+  },
+  {
+    "Round": "43",
+    "Pick": "727",
+    "Phase": "JR",
+    "Player Name": "Mike Hebert",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Terrebonny (Thibodaux,LA)",
+    "Year": 1965
+  },
+  {
+    "Round": "43",
+    "Pick": "728",
+    "Phase": "JR",
+    "Player Name": "Gene Barisano",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "Ben Franklin (New York, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "44",
+    "Pick": "729",
+    "Phase": "JR",
+    "Player Name": "Joe Campbell",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Morehead State University",
+    "Year": 1965
+  },
+  {
+    "Round": "44",
+    "Pick": "730",
+    "Phase": "JR",
+    "Player Name": "Ralph Foytack",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Moscow (Moscow,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "44",
+    "Pick": "731",
+    "Phase": "JR",
+    "Player Name": "Jesse Cleveland",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Alabama State University",
+    "Year": 1965
+  },
+  {
+    "Round": "44",
+    "Pick": "732",
+    "Phase": "JR",
+    "Player Name": "Bob Gebhard",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 1965
+  },
+  {
+    "Round": "44",
+    "Pick": "733",
+    "Phase": "JR",
+    "Player Name": "Arthur Gainous",
+    "Drafted By": "Houston Astros",
+    "POS": "1B",
+    "Drafted From": "Moore High School (Waco, TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "44",
+    "Pick": "734",
+    "Phase": "JR",
+    "Player Name": "Leonard Shefliott",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Vermont",
+    "Year": 1965
+  },
+  {
+    "Round": "44",
+    "Pick": "735",
+    "Phase": "JR",
+    "Player Name": "Gary Avery",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "OF",
+    "Drafted From": "Fremont High School (Los Angeles, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "45",
+    "Pick": "736",
+    "Phase": "JR",
+    "Player Name": "Toby Frymire",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Penn State University",
+    "Year": 1965
+  },
+  {
+    "Round": "45",
+    "Pick": "737",
+    "Phase": "JR",
+    "Player Name": "David Hanbury",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Oswego (Oswego,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "45",
+    "Pick": "738",
+    "Phase": "JR",
+    "Player Name": "Walter Manuel",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Lafayette College",
+    "Year": 1965
+  },
+  {
+    "Round": "45",
+    "Pick": "739",
+    "Phase": "JR",
+    "Player Name": "Edward Earlywine",
+    "Drafted By": "Houston Astros",
+    "POS": "2B",
+    "Drafted From": "University of New Mexico",
+    "Year": 1965
+  },
+  {
+    "Round": "45",
+    "Pick": "740",
+    "Phase": "JR",
+    "Player Name": "Charles Van Camp",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B",
+    "Drafted From": "Minot State University",
+    "Year": 1965
+  },
+  {
+    "Round": "45",
+    "Pick": "741",
+    "Phase": "JR",
+    "Player Name": "James Watts",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "SS",
+    "Drafted From": "Howard University",
+    "Year": 1965
+  },
+  {
+    "Round": "46",
+    "Pick": "742",
+    "Phase": "JR",
+    "Player Name": "Gary Strom",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "San Jose State University",
+    "Year": 1965
+  },
+  {
+    "Round": "46",
+    "Pick": "743",
+    "Phase": "JR",
+    "Player Name": "James Gretta",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B-OF",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "46",
+    "Pick": "744",
+    "Phase": "JR",
+    "Player Name": "Jerry Gleisner",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Cathedral (New Ulm,MN)",
+    "Year": 1965
+  },
+  {
+    "Round": "46",
+    "Pick": "745",
+    "Phase": "JR",
+    "Player Name": "Mel Behney",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Verona (Verona,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "46",
+    "Pick": "746",
+    "Phase": "JR",
+    "Player Name": "Dale Ehler",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "University of Oregon",
+    "Year": 1965
+  },
+  {
+    "Round": "46",
+    "Pick": "747",
+    "Phase": "JR",
+    "Player Name": "Ronald Gorey",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P-OF",
+    "Drafted From": "San Clemente (San Clemente,CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "47",
+    "Pick": "748",
+    "Phase": "JR",
+    "Player Name": "Barry Raziano",
+    "Drafted By": "New York Mets",
+    "POS": "P-OF",
+    "Drafted From": "East Jefferson (Metairie,LA)",
+    "Year": 1965
+  },
+  {
+    "Round": "47",
+    "Pick": "749",
+    "Phase": "JR",
+    "Player Name": "Raymond Glinsky",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Akron",
+    "Year": 1965
+  },
+  {
+    "Round": "47",
+    "Pick": "750",
+    "Phase": "JR",
+    "Player Name": "Gary Bodak",
+    "Drafted By": "Minnesota Twins",
+    "POS": "of-1B",
+    "Drafted From": "Sayreville (Parlin,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "47",
+    "Pick": "751",
+    "Phase": "JR",
+    "Player Name": "Jack Goings",
+    "Drafted By": "Houston Astros",
+    "POS": "3B",
+    "Drafted From": "Whitehaven (Memphis, TN)",
+    "Year": 1965
+  },
+  {
+    "Round": "47",
+    "Pick": "752",
+    "Phase": "JR",
+    "Player Name": "Bill Grimes",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Northwest Classen High School (Oklahoma City, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "47",
+    "Pick": "753",
+    "Phase": "JR",
+    "Player Name": "Ronnie Hillman",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P",
+    "Drafted From": "Ada High School (Ada, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "48",
+    "Pick": "754",
+    "Phase": "JR",
+    "Player Name": "Ron Delplanche",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "University of Oregon",
+    "Year": 1965
+  },
+  {
+    "Round": "48",
+    "Pick": "755",
+    "Phase": "JR",
+    "Player Name": "John Pierce",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Bacone College",
+    "Year": 1965
+  },
+  {
+    "Round": "48",
+    "Pick": "756",
+    "Phase": "JR",
+    "Player Name": "Luis Lagunas",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "Arizona State University",
+    "Year": 1965
+  },
+  {
+    "Round": "48",
+    "Pick": "757",
+    "Phase": "JR",
+    "Player Name": "Patrick Kendig",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "South Hunterdon (Ringoes,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "48",
+    "Pick": "758",
+    "Phase": "JR",
+    "Player Name": "Cal Fisk",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "University of New Hampshire",
+    "Year": 1965
+  },
+  {
+    "Round": "48",
+    "Pick": "759",
+    "Phase": "JR",
+    "Player Name": "John Budnick",
+    "Drafted By": "Kansas City Athletics",
+    "POS": "P-OF",
+    "Drafted From": "Bound Brook (Bound Brook,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "49",
+    "Pick": "760",
+    "Phase": "JR",
+    "Player Name": "Robert Oliver",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Texas",
+    "Year": 1965
+  },
+  {
+    "Round": "49",
+    "Pick": "761",
+    "Phase": "JR",
+    "Player Name": "Trenton Jackson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Illinois",
+    "Year": 1965
+  },
+  {
+    "Round": "49",
+    "Pick": "762",
+    "Phase": "JR",
+    "Player Name": "Rick Manning",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "College of the Holy Cross",
+    "Year": 1965
+  },
+  {
+    "Round": "49",
+    "Pick": "763",
+    "Phase": "JR",
+    "Player Name": "Harry Mohr",
+    "Drafted By": "Houston Astros",
+    "POS": "3B",
+    "Drafted From": "University of Colorado",
+    "Year": 1965
+  },
+  {
+    "Round": "49",
+    "Pick": "764",
+    "Phase": "JR",
+    "Player Name": "Greg Riddoch",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Colorado State University",
+    "Year": 1965
+  },
+  {
+    "Round": "50",
+    "Pick": "765",
+    "Phase": "JR",
+    "Player Name": "Mike Welton",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Billings (Billings, MT)",
+    "Year": 1965
+  },
+  {
+    "Round": "50",
+    "Pick": "766",
+    "Phase": "JR",
+    "Player Name": "Archie Roberts",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS-3B",
+    "Drafted From": "Columbia University",
+    "Year": 1965
+  },
+  {
+    "Round": "50",
+    "Pick": "767",
+    "Phase": "JR",
+    "Player Name": "Larry Deaton",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Edgewater High School (Orlando, FL)",
+    "Year": 1965
+  },
+  {
+    "Round": "50",
+    "Pick": "768",
+    "Phase": "JR",
+    "Player Name": "Robert Grzymala",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "St. Mary's High School (East Northport,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "50",
+    "Pick": "769",
+    "Phase": "JR",
+    "Player Name": "Jim Wendell",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "La Habra High School (La Habra, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "51",
+    "Pick": "770",
+    "Phase": "JR",
+    "Player Name": "Antonio Liberti",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "John Adams (Ozone Park,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "51",
+    "Pick": "771",
+    "Phase": "JR",
+    "Player Name": "Sanford Marks",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "51",
+    "Pick": "772",
+    "Phase": "JR",
+    "Player Name": "Aubrey Clore",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Madison County High School (Madison,VA)",
+    "Year": 1965
+  },
+  {
+    "Round": "51",
+    "Pick": "773",
+    "Phase": "JR",
+    "Player Name": "Alfred Pettes",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Las Cruces (Las Cruces,NM)",
+    "Year": 1965
+  },
+  {
+    "Round": "51",
+    "Pick": "774",
+    "Phase": "JR",
+    "Player Name": "Percy Sensabaugh",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Virginia Military Institute",
+    "Year": 1965
+  },
+  {
+    "Round": "52",
+    "Pick": "775",
+    "Phase": "JR",
+    "Player Name": "Robert Schanze",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 1965
+  },
+  {
+    "Round": "52",
+    "Pick": "776",
+    "Phase": "JR",
+    "Player Name": "Robert Rommes",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Mabel-Canton (Mabel,MN)",
+    "Year": 1965
+  },
+  {
+    "Round": "52",
+    "Pick": "777",
+    "Phase": "JR",
+    "Player Name": "Scott Long",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Auburn University",
+    "Year": 1965
+  },
+  {
+    "Round": "52",
+    "Pick": "778",
+    "Phase": "JR",
+    "Player Name": "Bob Malloy",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Shenandoah University",
+    "Year": 1965
+  },
+  {
+    "Round": "53",
+    "Pick": "779",
+    "Phase": "JR",
+    "Player Name": "Marlyn Baum",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Luther College",
+    "Year": 1965
+  },
+  {
+    "Round": "53",
+    "Pick": "780",
+    "Phase": "JR",
+    "Player Name": "Henry Boykin",
+    "Drafted By": "Houston Astros",
+    "POS": "1B-P",
+    "Drafted From": "Phillips (Phillips,TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "53",
+    "Pick": "781",
+    "Phase": "JR",
+    "Player Name": "Charles Drediger",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Bordentown Military Institute (Bordentown,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "54",
+    "Pick": "782",
+    "Phase": "JR",
+    "Player Name": "Tommy Thompson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS-3B",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "54",
+    "Pick": "783",
+    "Phase": "JR",
+    "Player Name": "Lionel Jones",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Southern University",
+    "Year": 1965
+  },
+  {
+    "Round": "54",
+    "Pick": "784",
+    "Phase": "JR",
+    "Player Name": "John Stephens",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Loyola University",
+    "Year": 1965
+  },
+  {
+    "Round": "55",
+    "Pick": "785",
+    "Phase": "JR",
+    "Player Name": "John Sipin",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Watsonville High School (Watsonville, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "55",
+    "Pick": "786",
+    "Phase": "JR",
+    "Player Name": "Gary Fields",
+    "Drafted By": "Houston Astros",
+    "POS": "IF",
+    "Drafted From": "University of Louisiana-Monroe",
+    "Year": 1965
+  },
+  {
+    "Round": "55",
+    "Pick": "787",
+    "Phase": "JR",
+    "Player Name": "Rich Thoms",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Austin Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "56",
+    "Pick": "788",
+    "Phase": "JR",
+    "Player Name": "Ernie DeFilippis",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Long Island University-Brooklyn Campus",
+    "Year": 1965
+  },
+  {
+    "Round": "56",
+    "Pick": "789",
+    "Phase": "JR",
+    "Player Name": "Rich Nye",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of California",
+    "Year": 1965
+  },
+  {
+    "Round": "56",
+    "Pick": "790",
+    "Phase": "JR",
+    "Player Name": "Wayne Britton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "East Carolina University",
+    "Year": 1965
+  },
+  {
+    "Round": "57",
+    "Pick": "791",
+    "Phase": "JR",
+    "Player Name": "William Monroe",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "57",
+    "Pick": "792",
+    "Phase": "JR",
+    "Player Name": "Richard Bechtel",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Rider University",
+    "Year": 1965
+  },
+  {
+    "Round": "57",
+    "Pick": "793",
+    "Phase": "JR",
+    "Player Name": "Steve Lough",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Patapsco (Baltimore, MD)",
+    "Year": 1965
+  },
+  {
+    "Round": "58",
+    "Pick": "794",
+    "Phase": "JR",
+    "Player Name": "Dale Ford",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B-OF",
+    "Drafted From": "Washington State University",
+    "Year": 1965
+  },
+  {
+    "Round": "58",
+    "Pick": "795",
+    "Phase": "JR",
+    "Player Name": "Jerry Day",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Midwest City High School (Midwest City, OK)",
+    "Year": 1965
+  },
+  {
+    "Round": "58",
+    "Pick": "796",
+    "Phase": "JR",
+    "Player Name": "Glen Wallace",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Butler (Florence, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "59",
+    "Pick": "797",
+    "Phase": "JR",
+    "Player Name": "Michael Thompson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "University of Texas",
+    "Year": 1965
+  },
+  {
+    "Round": "59",
+    "Pick": "798",
+    "Phase": "JR",
+    "Player Name": "Roy Myers",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Watkins Overton (Memphis, TN)",
+    "Year": 1965
+  },
+  {
+    "Round": "59",
+    "Pick": "799",
+    "Phase": "JR",
+    "Player Name": "Steve Andraiga",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Notre Dame High School (Fairfield,CT)",
+    "Year": 1965
+  },
+  {
+    "Round": "60",
+    "Pick": "800",
+    "Phase": "JR",
+    "Player Name": "Paul DeLoca",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "St. Francis College",
+    "Year": 1965
+  },
+  {
+    "Round": "60",
+    "Pick": "801",
+    "Phase": "JR",
+    "Player Name": "Jon Ives",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Alfred G. Berner (Massapequa, NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "60",
+    "Pick": "802",
+    "Phase": "JR",
+    "Player Name": "Gary Carnegie",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B-of",
+    "Drafted From": "Connelly (Pittsburgh, PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "61",
+    "Pick": "803",
+    "Phase": "JR",
+    "Player Name": "Jan Adelman",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Mississippi",
+    "Year": 1965
+  },
+  {
+    "Round": "61",
+    "Pick": "804",
+    "Phase": "JR",
+    "Player Name": "Dale Dulaney",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Chicago State University",
+    "Year": 1965
+  },
+  {
+    "Round": "62",
+    "Pick": "805",
+    "Phase": "JR",
+    "Player Name": "Billy Harris",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "University of North Carolina at Wilmington",
+    "Year": 1965
+  },
+  {
+    "Round": "62",
+    "Pick": "806",
+    "Phase": "JR",
+    "Player Name": "Gary Smith",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Alpena Community College",
+    "Year": 1965
+  },
+  {
+    "Round": "63",
+    "Pick": "807",
+    "Phase": "JR",
+    "Player Name": "John Vignone",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Susquehanna University",
+    "Year": 1965
+  },
+  {
+    "Round": "63",
+    "Pick": "808",
+    "Phase": "JR",
+    "Player Name": "John Rockwell",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Santa Ana High School (Santa Ana, CA)",
+    "Year": 1965
+  },
+  {
+    "Round": "64",
+    "Pick": "809",
+    "Phase": "JR",
+    "Player Name": "Joe Entiero",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "St. Gabriel (Hazelton,PA)",
+    "Year": 1965
+  },
+  {
+    "Round": "64",
+    "Pick": "810",
+    "Phase": "JR",
+    "Player Name": "Paul Knight",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Avon Lake (Avon Lake,OH)",
+    "Year": 1965
+  },
+  {
+    "Round": "65",
+    "Pick": "811",
+    "Phase": "JR",
+    "Player Name": "Glen Borkhuis",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Syracuse University",
+    "Year": 1965
+  },
+  {
+    "Round": "65",
+    "Pick": "812",
+    "Phase": "JR",
+    "Player Name": "Michael Kenyon",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Ithaca College",
+    "Year": 1965
+  },
+  {
+    "Round": "66",
+    "Pick": "813",
+    "Phase": "JR",
+    "Player Name": "Mario Gillio",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Don Bosco Tech (Paterson,NJ)",
+    "Year": 1965
+  },
+  {
+    "Round": "66",
+    "Pick": "814",
+    "Phase": "JR",
+    "Player Name": "Roger Hansen",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Muskegon (Muskegon,MI)",
+    "Year": 1965
+  },
+  {
+    "Round": "67",
+    "Pick": "815",
+    "Phase": "JR",
+    "Player Name": "Dale Fincher",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Waxahachie (Waxahachie,TX)",
+    "Year": 1965
+  },
+  {
+    "Round": "67",
+    "Pick": "816",
+    "Phase": "JR",
+    "Player Name": "Ed Southard",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Arizona",
+    "Year": 1965
+  },
+  {
+    "Round": "68",
+    "Pick": "817",
+    "Phase": "JR",
+    "Player Name": "Otis Thornton",
+    "Drafted By": "Houston Astros",
+    "POS": "C-p",
+    "Drafted From": "Westfield High School (Docena, AL)",
+    "Year": 1965
+  },
+  {
+    "Round": "68",
+    "Pick": "818",
+    "Phase": "JR",
+    "Player Name": "Carl Cmejrek",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "1B-OF",
+    "Drafted From": "University of Michigan",
+    "Year": 1965
+  },
+  {
+    "Round": "69",
+    "Pick": "819",
+    "Phase": "JR",
+    "Player Name": "Jerry Borga",
+    "Drafted By": "Houston Astros",
+    "POS": "3B-C",
+    "Drafted From": "Easton (Easton,MO)",
+    "Year": 1965
+  },
+  {
+    "Round": "69",
+    "Pick": "820",
+    "Phase": "JR",
+    "Player Name": "Tom Moeller",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "2B",
+    "Drafted From": "University of Denver",
+    "Year": 1965
+  },
+  {
+    "Round": "70",
+    "Pick": "821",
+    "Phase": "JR",
+    "Player Name": "Ralph Gonzales",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "",
+    "Year": 1965
+  },
+  {
+    "Round": "70",
+    "Pick": "822",
+    "Phase": "JR",
+    "Player Name": "George Gazegorek",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "St. Edward's University",
+    "Year": 1965
+  },
+  {
+    "Round": "71",
+    "Pick": "823",
+    "Phase": "JR",
+    "Player Name": "Richard Licini",
+    "Drafted By": "Houston Astros",
+    "POS": "1B-OF",
+    "Drafted From": "Iona Prep (New Rochelle,NY)",
+    "Year": 1965
+  },
+  {
+    "Round": "72",
+    "Pick": "824",
+    "Phase": "JR",
+    "Player Name": "Reginald Thomas",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "",
+    "Year": 1965
+  }
+]

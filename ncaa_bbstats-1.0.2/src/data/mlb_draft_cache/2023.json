@@ -1,0 +1,6142 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Paul Skenes",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Dylan Crews",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Max Clark",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Franklin Community High School (Franklin, IN)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Wyatt Langford",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Walker Jenkins",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "South Brunswick High School (Southport, NC)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Jacob Wilson",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Rhett Lowder",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Blake Mitchell",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "Sinton High School (Sinton, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Chase Dollander",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Noble Meyer",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Jesuit High School (Portland, OR)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Nolan Schanuel",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "1B",
+    "Drafted From": "Florida Atlantic University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Tommy Troy",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Matt Shaw",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "University of Maryland",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Kyle Teel",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "University of Virginia",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Jacob Gonzalez",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "University of Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Bryce Eldridge",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B/RHP",
+    "Drafted From": "James Madison High School (Vienna, VA)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Enrique Bradfield Jr.",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Brock Wilken",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Brayden Taylor",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "Texas Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Arjun Nimmala",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Strawberry Crest High School (Dover, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Chase Davis",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Arizona",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Colt Emerson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "John Glenn High School (New Concord, OH)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Ralphy Velazquez",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "C",
+    "Drafted From": "Huntington Beach High School (Huntington Beach, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Hurston Waldrep",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "University of Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Dillon Head",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Homewood-Flossmoor High School (Flossmoor, IL)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "George Lombard Jr.",
+    "Drafted By": "New York Yankees",
+    "POS": "SS",
+    "Drafted From": "Gulliver Prep School (Pinecrest, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Aidan Miller",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "J. W. Mitchell High School (Trinity, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Brice Matthews",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "University of Nebraska",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Jonny Farmelo",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Westfield High School (Chantilly, VA)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Tai Peete",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "Trinity Christian High School (Sharpsburg, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "Adrian Santana",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "Doral Academy (Doral, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Colin Houck",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Parkview High School (Lilburn, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Josh Knoth",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Patchogue-Medford High School (Medford, NY)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Charlee Soto",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Reborn Christian Academy (Kissimmee, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "Thomas White",
+    "Drafted By": "Miami Marlin",
+    "POS": "LHP",
+    "Drafted From": "Phillips Academy (Andover, MA)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Kendall George",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Atascocita High School (Humble, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Kevin McGonigle",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Monsignor Bonner High School (Drexel Hill, PA)",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Ty Floyd",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "1",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Myles Naylor",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "St. Joan of Arc Catholic High School (Ontario, Canada)",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Yohandy Morales",
+    "Drafted By": "Washington Nationals",
+    "POS": "3B",
+    "Drafted From": "University of Miami",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "Ryan Lasko",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Rutgers University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "Mitch Jebb",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Michigan State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Sammy Stafura",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Walter Panas High School (Cortlandt, NY)",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Blake Wolters",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Mahomet-Seymour High School (Mahomet, IL)",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Max Anderson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "University of Nebraska",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Sean Sullivan",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "Kemp Alderman",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "University of Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Gino Groover",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "3B",
+    "Drafted From": "North Carolina State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Luke Keaschall",
+    "Drafted By": "Minnesota Twins",
+    "POS": "2B",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Nazzan Zanetello",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Christian Brothers College High School (St. Louis, MO)",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Grant Taylor",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Walker Martin",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Eaton High School (Eaton, CO)",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Mac Horvath",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Mike Boeve",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "3B",
+    "Drafted From": "University of Nebraska at Omaha",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Colton Ledbetter",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Brandon Sproat",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "Ben Williamson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "William & Mary University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Alex Clemmey",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Bishop Hendricken High School (Warwick, RI)",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "Drue Hackenberg",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Virginia Tech",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Jake Gelof",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "University of Virginia",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Alonzo Tredwell",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "UCLA",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Andrew Walters",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Jackson Baumeister",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Florida State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Caden Grice",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "Clemson University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Cole Carrigg",
+    "Drafted By": "Colorado Rockies",
+    "POS": "C",
+    "Drafted From": "San Diego State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Carson Roccaforte",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "University of Louisiana at Lafayette",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Zander Mueth",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Belleville East High School (Belleville, IL)",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Jaxon Wiggins",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Joe Whitman",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "Kent State University",
+    "Year": 2023
+  },
+  {
+    "Round": "2",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Cade Kuehler",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Campbell University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Travis Sykora",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Round Rock High School (Round Rock, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "Steven Echavarria",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Millburn High School (Millburn, NJ)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Garret Forrester",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "Oregon State University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Hunter Hollan",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "LHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Hiro Wyatt",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Staples High School (Westport, CT)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Paul Wilson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "Lakeridge High School (Lake Oswego, OR)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Jack Mahoney",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Brock Vradenburg",
+    "Drafted By": "Miami Marlins",
+    "POS": "1B",
+    "Drafted From": "Michigan State University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Alberto Rios",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "3B",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Jack Hurley",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "Virginia Tech",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Josh Rivera",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "University of Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Brandon Winokur",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Edison High School (Huntington Beach, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Antonio Anderson",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "North Atlanta High School (Atlanta, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "Seth Keener",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Cole Foster",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "Auburn University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Kiefer Lord",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Washington",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Eric Bitonti",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Aquinas High School (San Bernardino, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Tre' Morgan",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "1B",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Juaron Watts-Brown",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Travis Honeyman",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Boston College",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Nolan McLean",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Teddy McGraw",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "C.J. Kayfus",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "University of Miami",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Sabin Ceballos",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "University of Oregon",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Brady Smith",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Grainger High School (Rutledge, TN)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Jandaniel Gonzalez",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "Anita Otero Hernandez (Humacao, PR)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Kyle Carr",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "Palomar College",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Devin Saltiban",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Hilo High School (Hilo, HI)",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Jake Bloss",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Georgetown University",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Tavian Josenberger",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 2023
+  },
+  {
+    "Round": "3",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Kade Morris",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Nevada",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Andrew Pinckney",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "University of Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "Cole Miller",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Newbury Park High School (Thousand Oaks, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Carlson Reed",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "West Virginia University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Cole Schoenwetter",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "San Marcos High School (Santa Barbara, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Hunter Owen",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Carson Rucker",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "Goodpasture Christian School (Madison, TN)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "Skylar Hales",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Santa Clara University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Isaiah Coupet",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "Ohio State University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Emmett Olson",
+    "Drafted By": "Miami Marlins",
+    "POS": "LHP",
+    "Drafted From": "University of Nebraska",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Joe Redfield",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "Sam Houston State University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Grayson Hitt",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Will Sanders",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "Tanner Hall",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Matt Duffy",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Canisius College",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Calvin Harris",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "University of Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Maui Ahuna",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Levi Wells",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Texas State University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Jason Woodward",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Florida Gulf Coast University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Hunter Haas",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "Texas A&M University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Landen Maroudis",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Calvary Christian High School (Clearwater, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Quinn Mathews",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Wyatt Hudepohl",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of North Carolina at Charlotte",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Aidan Smith",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Lovejoy High School (Lucas, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "Cooper Ingle",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "C",
+    "Drafted From": "Clemson University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Garrett Baumann",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Paul J. Hagerty High School (Oviedo, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Wyatt Crowell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "Florida State University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Homer Bush",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "Roc Riggio",
+    "Drafted By": "New York Yankees",
+    "POS": "2B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "TayShaun Walton",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "Cam Fisher",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina at Charlotte",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Kristian Campbell",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "Justin Riemer",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Wright State University",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "A.J. Ewing",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Springboro High School (Springboro, OH)",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Austin Troesser",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Dylan Campbell",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "University of Texas",
+    "Year": 2023
+  },
+  {
+    "Round": "4",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "Eriq Swan",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Middle Tennessee State University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "Marcus Brown",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Nathan Dettmer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Patrick Reilly",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Connor Burns",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Long Beach State University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Spencer Nivens",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Missouri State University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Jaden Hamm",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Middle Tennessee State University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Alejandro Rosario",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Kyle Karros",
+    "Drafted By": "Colorado Rockies",
+    "POS": "2B",
+    "Drafted From": "UCLA",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Andrew Lindsey",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Chris Clark",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Harvard University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Kevin Sim",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "3B",
+    "Drafted From": "University of San Diego",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Michael Carico",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Davidson College",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Dylan Questad",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Waterford High School (Waterford, WI)",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Connelly Early",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "University of Virginia",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "Christian Oppor",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Gulf Coast State College",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Quinn McDaniel",
+    "Drafted By": "San Francisco Giants",
+    "POS": "2B",
+    "Drafted From": "University of Maine",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Jake Cunningham",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina-Charlotte",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Ryan Birchard",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Niagara County Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Trevor Harrison",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "J. W. Mitchell High School (New Port Richey, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Connor O'Halloran",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "University of Michigan",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Zach Levenson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Miami",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Zach Thornton",
+    "Drafted By": "New York Mets",
+    "POS": "LHP",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Brock Rodden",
+    "Drafted By": "Seattle Mariners",
+    "POS": "SS",
+    "Drafted From": "Wichita State University",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "Christian Knapczyk",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "SS",
+    "Drafted From": "University of Louisville",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "Isaiah Drake",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "North Atlanta High School (Atlanta, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Joe Vetrano",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "1B",
+    "Drafted From": "Boston College",
+    "Year": 2023
+  },
+  {
+    "Round": "5",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Chase Jaworsky",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Rock Canyon High School (Littleton, CO)",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "165",
+    "Phase": "JR",
+    "Player Name": "Gavin Dugas",
+    "Drafted By": "Washington Nationals",
+    "POS": "LF",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "Jonah Cox",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Hunter Furtado",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Ethan O'Donnell",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of Virginia",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Coleman Picard",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Bryant University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Bennett Lee",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "Caden Scarborough",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Harmony High School (Harmony, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Cade Denton",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "Jake DeLeo",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "Cam Minacci",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Philip Abner",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "University of Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Alfonsin Rosario",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "P27 Academy (Lexington, SC)",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "177",
+    "Phase": "JR",
+    "Player Name": "Jay Harry",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "Pennsylvania State University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "CJ Weins",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Western Kentucky University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "Lucas Gordon",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "Luke Shliger",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "University of Maryland",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Jacob Cravey",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Samford University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Cooper Pratt",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Magnolia Heights High School (Senatobia, MS)",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "TJ Nichols",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Jace Bohrofen",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RF",
+    "Drafted From": "University of Arkansas",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "Jason Savacool",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Jack Wenninger",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Illinois",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "Brody Hopkins",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Winthrop University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "Tommy Hawke",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LF",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "Lucas Braun",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "California State University, Northridge",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Bryan Gonzalez",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Carlos Beltran Baseball Academy (Florida, PR)",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "Jay Beshears",
+    "Drafted By": "San Diego Padres",
+    "POS": "2B",
+    "Drafted From": "Duke University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "Cade Smith",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "George Klassen",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of Minnesota",
+    "Year": 2023
+  },
+  {
+    "Round": "6",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Ethan Pecko",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Towson University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Ryan Snell",
+    "Drafted By": "Washington Nationals",
+    "POS": "C",
+    "Drafted From": "Lamar University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "Nate Nankil",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "California State University, Fullerton",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "Jaden Woods",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Georgia",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Dominic Pitelli",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "University of Miami",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "Trevor Werner",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Texas A&M University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "John Peck",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Pepperdine University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Izack Tiger",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Butler Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Seth Halvorsen",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "Justin Storm",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "Cole Fontenelle",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "3B",
+    "Drafted From": "Texas Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Ryan Bruno",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "Yahil Melendez",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "B-You Academy (Caguas, PR)",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "Nolan Santos",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Bethune-Cookman",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "Caden Rose",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "University of Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "George Wolkow",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Downers Grove North High School (Downers Grove, IL)",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Scott Bandura",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Princeton University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "Teddy Sharkey",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Tate Kuehner",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Louisville",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "Owen Wild",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Gonzaga University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "Nick Goodwin",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Kansas State University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Charles Harrison",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "UCLA",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "Noah Hall",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of South Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "Ty Cummings",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Campbell University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "Alex Mooney",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "SS",
+    "Drafted From": "Duke University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "219",
+    "Phase": "JR",
+    "Player Name": "Justin Long",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Rice University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "Patrick Copen",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Marshall University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "Tucker Musgrove",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "University of Mobile",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Kiko Romero",
+    "Drafted By": "New York Yankees",
+    "POS": "1B",
+    "Drafted From": "University of Arizona",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "Jake Eddington",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Missouri State University",
+    "Year": 2023
+  },
+  {
+    "Round": "7",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Joey Dixon",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Jared Simpson",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Jackson Finley",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Georgia Institute of Technology",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Austin Strickland",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Kentucky",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Carter Graham",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "1B",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "Dustin Dickerson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "Jatnk Diaz",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Hazleton High School (Hazleton, PA)",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Julian Brock",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "University of Louisiana",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Braylen Wimmer",
+    "Drafted By": "Colorado Rockies",
+    "POS": "SS",
+    "Drafted From": "University of South Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "Nick Maldonado",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Barrett Kent",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "Pottsboro High School (Pottsboro, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Jackson Feltner",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "1B",
+    "Drafted From": "Morehead State University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Brett Bateman",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "University of Minnesota",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "Jace Stoffal",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Oregon",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Trennor O'Donnell",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Ball State University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Eddie Park",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Josh Bostick",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Grayson College",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "Braxton Bragg",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Craig Yoho",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Indiana University Bloomington",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Drew Dowd",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Braden Barry",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "West Virginia University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Ixan Henderson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "California State University, Fresno",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "Boston Baro",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Capistrano Valley High School (Mission Viejo, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "Ryan Hawks",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "University of Louisville",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Jonah Advincula",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "Washington State University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Cory Wall",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "College of William and Mary",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Jaron Elkins",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Goodpasture Christian School (Madison, TN)",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "Kannon Kemp",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Weatherford High School (Weatherford, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "Nicholas Judice",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of Louisiana at Monroe",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "Bryson Ware",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "3B",
+    "Drafted From": "Auburn University",
+    "Year": 2023
+  },
+  {
+    "Round": "8",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Ryan Johnson",
+    "Drafted By": "Houston Astros",
+    "POS": "2B",
+    "Drafted From": "Pepperdine University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Thomas Schultz",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Corey Avant",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Wingate University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Danny Carrion",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of California, Davis",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "Logan Van Treeck",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Lipscomb University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Jacob Widener",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Hayden Minton",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Missouri State University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "Quincy Scott",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Palomar College",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Ben McCabe",
+    "Drafted By": "Colorado Rockies",
+    "POS": "C",
+    "Drafted From": "University of Central Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "Colby Shade",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "University of Oregon",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Chase Gockel",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "Quincy University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Kyle Amendt",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Jonathon Long",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "California State University, Long Beach",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "Jack Dougherty",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Blake Wehunt",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Kennesaw State University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Jake Peppers",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Jacksonville State University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "Charlie Szykowny",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "University of Illinois at Chicago",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "Zach Fruit",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Troy University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Mark Manfredi",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "University of Dayton",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Dalton Fowler",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "University of Memphis",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Sam Shaw",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Lambrick Park Secondary School (Victoria, Canada)",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Christian Worley",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Virginia Tech",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Nick Lorusso",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "University of Maryland",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "RJ Schreck",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "Jay Driver",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Harvard University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "Riley Gowens",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of Illinois",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Ryan Brown",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Ball State University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "Ryan Wilson",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Davidson College",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "Jared Wegner",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Avery Owusu-Asiedu",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University",
+    "Year": 2023
+  },
+  {
+    "Round": "9",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Jeron Williams",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "University of Toledo",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "Phillip Glasser",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Indiana University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "Tom Reisinger",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "East Stroudsburg University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Landon Tomkins",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "Graham Osman",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "California State University, Long Beach",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Justin Johnson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Andrew Sears",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of Connecticut",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "Case Matter",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "University of Washington",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "Jace Kaminska",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "University of Nebraska-Lincoln",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Xavier Meachem",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "North Carolina A&T State University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Chris Barraza",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "University of Arizona",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "Zane Russell",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "Luis Martinez-Gomez",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Temple College",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Ross Dunn",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Ryan Ammons",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Clemson University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "Zach Franklin",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "Ryan Vanderhei",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Texas Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Matthew Etzel",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "Morris Austin",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Houston Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "Adam Boucher",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Duke University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Josh Mollerus",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "University of Oregon",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Caden Kendle",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of California, Irvine",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "Christian Pregent",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "Stetson University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Jared Sundstrom",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Matt Wilkinson",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Central Arizona College",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "Pier-Olivier Boucher",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University Carbondale",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "Sam Mongelli",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Sacred Heart University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "Nik McClaughry",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "University of Arizona",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Brian Hendry",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "Cam Brown",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Texas Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "10",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "Austin Deming",
+    "Drafted By": "Houston Astros",
+    "POS": "3B",
+    "Drafted From": "Brigham Young University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "Gavin Adams",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "Indian River State College",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "Drew Conover",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Rutgers, the State University of New Jersey",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "Magdiel Cotto",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Kentucky",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Jack Moss",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "1B",
+    "Drafted From": "Texas A&M University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "Jared Dickey",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Jim Jarvis",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "University of Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "Maxton Martin",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Southridge High School (Kennewick, WA)",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "Stu Flesland",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "University of Washington",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "Jake Brooks",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "UCLA",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "John Wimmer",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "SS",
+    "Drafted From": "Rock Hill High School (Rock Hill, SC)",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "Casey Anderson",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Utah Valley University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "Zyhir Hope",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Colonial Forge High School (Stafford, VA)",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Ty Langenberg",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of Iowa",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Nelly Taylor",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Polk State College",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "Rikuu Nishida",
+    "Drafted By": "Chicago White Sox",
+    "POS": "2B",
+    "Drafted From": "University of Oregon",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "Jack Payton",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "University of Louisville",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Nestor German",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Seattle University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Bishop Letson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Floyd Central High School (Floyds Knobs, IN)",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Garrett Edwards",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "Grant Rogers",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "McNeese State University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "Dakota Harris",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "Brett Banks",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of North Carolina at Wilmington",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "Brandyn Garcia",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "Johnny Tincher",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "C",
+    "Drafted From": "University of Washington",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "Jace Grady",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Carson Hobbs",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Samford University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Carson Montgomery",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Florida State University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Josh Grosz",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "East Carolina University",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Kehden Hettiger",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Sierra Canyon School (Los Angeles, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "11",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "Nehomar Ochoa",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Galena Park High School (Galena Park, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "Travis Sthele",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Cole Conn",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "University of Illinois at Chicago",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Khristian Curtis",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Simon Miller",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Texas at San Antonio",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Logan Martin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "University of Kentucky",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "Andrew Dunford",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Houston County High School (Warner Robins, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Paul Bonzagni",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Southern Illinois University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Bryson Hammer",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Josh Ekness",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "University of Houston",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "Sam Brown",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "1B",
+    "Drafted From": "Washington State University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "Sam Knowlton",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "University of South Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "Carter Trice",
+    "Drafted By": "Chicago Cubs",
+    "POS": "2B",
+    "Drafted From": "North Carolina State University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Paulshawn Pasqualotto",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of California, Berkeley",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Max Carlson",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "University of North Carolina at Chapel Hill",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Mathias LaCombe",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Cochise College",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "Timmy Manning",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "Blake Money",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Bjorn Johnson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Lincoln High School (Seattle, WA)",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "Chandler Murphy",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "University of Missouri",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "Chay Yeager",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Pasco-Hernando State College",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "Brayden Jobert",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Brady Kirtner",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Virginia Tech",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "Logan Evans",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Pittsburgh",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "Keegan Zinn",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Lake Minneola High School (Minneola, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Brady Day",
+    "Drafted By": "Atlanta Braves",
+    "POS": "2B",
+    "Drafted From": "Kansas State University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "Noah Ruen",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Tyler Junior College",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Blake Dickerson",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Ocean Lakes High School (Virginia Beach, VA)",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "Brady Rose",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Brandon Beckel",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Texas Tech University",
+    "Year": 2023
+  },
+  {
+    "Round": "12",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "Anthony Huezo",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Etiwanda High School (Rancho Cucamonga, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "Liam Sullivan",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "University of Georgia",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "Will Johnston",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Texas A&M University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Charles McAdoo",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "2B",
+    "Drafted From": "San Jose State University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Cody Adcock",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Arkansas",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Ethan Bosacker",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Xavier University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Brett Callahan",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "St. Joseph's University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "William Privette",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "College of Charleston",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Caleb Hobson",
+    "Drafted By": "Colorado Rockies",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee at Martin",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "Colson Lawrence",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "University of South Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "Riley Bauman",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "Abilene Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Hayden Durke",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Rice University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "Sam Armstrong",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Old Dominion University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Jeremy Lee",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "University of South Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Cade Feeney",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "North Dakota State University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "Ryan Galanie",
+    "Drafted By": "Chicago White Sox",
+    "POS": "3B",
+    "Drafted From": "Wofford College",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "Jose Ortiz",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Leadership Christian Academy (Guaynabo, PR)",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Riley Cooper",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Brett Wichrowski",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Bryant University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "Bryan Broecker",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "C",
+    "Drafted From": "Michigan State University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Brennan Orf",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Southern Illinois University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "William Sullivan",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Troy University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "Ben Simon",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Elon University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "Elijah Dale",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Illinois State University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "Jacob Bresnahan",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Sumner High School (Sumner, WA)",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Will Verdung",
+    "Drafted By": "Atlanta Braves",
+    "POS": "3B",
+    "Drafted From": "Itawamba Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Alex Makarewich",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Northwestern State University",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "Dane Lais",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Oregon City High School (Oregon City, OR)",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Josh Tiedemann",
+    "Drafted By": "New York Yankees",
+    "POS": "3B",
+    "Drafted From": "Hamilton High School (Chandler, AZ)",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "Marty Gair",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Florida SouthWestern State College",
+    "Year": 2023
+  },
+  {
+    "Round": "13",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "James Hicks",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of South Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "Elijah Nunez",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "Texas Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Luke Mann",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "University of Missouri",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Garrett McMillan",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Alabama",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "Kyle Henley",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Denmark High School (Alpharetta, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Mason Miller",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Florida Gulf Coast University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "David Smith",
+    "Drafted By": "Detroit Tigers",
+    "POS": "2B",
+    "Drafted From": "University of Connecticut",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "Josh Trentadue",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "College of Southern Idaho",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Hunter Mann",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "Tennessee Technological University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "Jack Sellinger",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "University of Nevada, Las Vegas",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Zach Joyce",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Jake Fitzgibbons",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "Grayson Moore",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "Xander Hamilton",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Appalachian State University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "Jojo Ingrassia",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "California State University, Fullerton",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "Edrick Felix",
+    "Drafted By": "Chicago White Sox",
+    "POS": "2B",
+    "Drafted From": "Florida Gulf Coast University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Cale Lansville",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "San Jacinto College",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "Michael Forret",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "State College of Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Hayden Robinson",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Berwick High School (Berwick, LA)",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "T.J. Fondtain",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "San Diego State University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "Joe Vogatsky",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "James Madison University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "Jacob Odle",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Orange Coast College",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "John Valle",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Thomas Jefferson High School (Tampa, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "Ernie Day",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Campbell University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "Zane Morehouse",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "Mitch Farris",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "Wingate University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Jaxon Jelkin",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "South Mountain Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "Tyler Morgan",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Abilene Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Danny Flatt",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "P27 Academy (Lexington, SC)",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Zach Arnold",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "University of Houston",
+    "Year": 2023
+  },
+  {
+    "Round": "14",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Jackson Nezuh",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "University of Louisiana at Lafayette",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "Mikey Tepper",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "Liberty University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Will Simpson",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "University of Washington",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "John Lopez",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Puerto Rico Baseball Academy (Gurabo, PR)",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "Dylan Simmons",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "University of Pittsburgh",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Chase Isbell",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Auburn University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Brady Cerkownyk",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Connors State College",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "Michael Trausch",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Central Arizona College",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Darius Perry",
+    "Drafted By": "Colorado Rockies",
+    "POS": "C",
+    "Drafted From": "UCLA",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "Nigel Belgrave",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Caleb Ketchup",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "SS",
+    "Drafted From": "Lipscomb University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Rio Britton",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "North Carolina State University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "Ty Johnson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Ball State University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Spencer Bengard",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "California Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "Phoenix Call",
+    "Drafted By": "Boston Red Sox",
+    "POS": "SS",
+    "Drafted From": "Calabasas High School (Calabasas, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "Carlton Perkins",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Cowley Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Dylan Carmouche",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "Tulane University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "Qrey Lott",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Lowndes High School (Valdosta, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Josh Adamczewski",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Lake Central High School (St. John, IN)",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Will Stevens",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Tarleton State University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "Kelena Sauer",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "San Diego State University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Tre Richardson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Texas Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Justin Lawson",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "North Carolina State University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Carson Jones",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "Virginia Tech",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Kyle Scott",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Lackawanna College",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "David Rodriguez",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "San Joaquin Delta College",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "460",
+    "Phase": "JR",
+    "Player Name": "Jordan Thompson",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Zac Addkison",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Marshall University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "Tomas Frick",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "University of North Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "Jared Thomas",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 2023
+  },
+  {
+    "Round": "15",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "Garret Guillemette",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Austin Amaral",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "Stetson University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Ryan Brown",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Oregon State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Justin Miknis",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Kent State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "Bernard Moon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Redan High School (Stone Mountain, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "Josh Hansell",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "Donye Evans",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "University of North Carolina at Charlotte",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Jake Brown",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Sulphur High School (Sulphur, LA)",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "Austin Emener",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "East Tennessee State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "Kevin Vaupel",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "Seton Hill University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "Rio Foster",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "Florence-Darlington Technical College",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "475",
+    "Phase": "JR",
+    "Player Name": "Matthew Linskey",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Rice University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "Daniel Brown",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "Campbell University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "Anthony Silvas",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Riverside City College",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "Isaac Stebens",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "Weston Eberly",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Columbia University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "Justin Wishkoski",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Sam Houston State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "Cole Urman",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "California State University, Fullerton",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "Josh Timmerman",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Ohio State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "Wooyeoul Shin",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "1B",
+    "Drafted From": "Miami Dade College",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "Jackson Hornung",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "Skidmore College",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "Tyler Bradt",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "East Carolina University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Jake Zitella",
+    "Drafted By": "New York Mets",
+    "POS": "3B",
+    "Drafted From": "St. Charles East High School (St. Charles, IL)",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "Caleb Cali",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "University of Arkansas",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "Mac Heuer",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Georgia Home Education Association (Snellville, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "Isaac Gallegos",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of New Mexico",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "Javen Coleman",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "Sam Whiting",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "University of California, Santa Barbara",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Andrew Landry",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Southeastern Louisiana University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "Luke Russo",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Eastern Michigan University",
+    "Year": 2023
+  },
+  {
+    "Round": "16",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "Will Bush",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Tyler Junior College",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "Merrick Baldo",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Colby Halter",
+    "Drafted By": "Oakland Athletics",
+    "POS": "2B",
+    "Drafted From": "University of Florida",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Daniel Cuvet",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "ESB Academy (Pembroke Pines, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "JeanPierre Ortiz",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Chipola College",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "Connor Oliver",
+    "Drafted By": "Kansas City Royals",
+    "POS": "P",
+    "Drafted From": "Miami University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Bradley Stewart",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Cooper City High School (Cooper City, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Kamdyn Perry",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Bishop Gorman High School (Las Vegas, NV)",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "Aidan Longwell",
+    "Drafted By": "Colorado Rockies",
+    "POS": "1B",
+    "Drafted From": "Kent State University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Mark Coley",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "University of Rhode Island",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Logan Britt",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "Abilene Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "Carlos Rey",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Nova Southeastern University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "Ethan Flanagan",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "UCLA",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "Kade Bragg",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Angelo State University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Dylan Schlaegel",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Legacy High School (Mansfield, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Mikey Kane",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Oregon State University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Drew Cavanaugh",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "Florida Southern College",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "Zane Barnhart",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "Hillsdale College",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Jacob Gholston",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Flower Mound High School (Flower Mound, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Hayden Snelsire",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Randolph-Macon College",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "Sam Kulasingam",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "1B",
+    "Drafted From": "United States Air Force Academy",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "Trey Paige",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Delaware State University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Bryce Jenkins",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "University of Tennessee",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Jacob Sharp",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "University of Nevada, Las Vegas",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "Barrett Riebock",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "Paris Junior College",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Kade Kern",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Ohio State University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "Luke Fox",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Duke University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "Eric Yost",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Northeastern University",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Wilson Rodriguez",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Academia Presbiteriana High School (Carolina, PR)",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "A.J. Shaver",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Florida SouthWestern State College",
+    "Year": 2023
+  },
+  {
+    "Round": "17",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Colby Langford",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "Murray State College",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Nate Rombach",
+    "Drafted By": "Washington Nationals",
+    "POS": "C",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "Derrick Tarpley",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Brownsville High School (Brownsville, PA)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "Kalae Harrison",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "North Carolina State University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "Drew Pestka",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "John A. Logan College",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Stone Russell",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "Ethan Farris",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Cypress Woods High School (Cypress, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "Brendan Morse",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Niagara County Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "Yanzel Correa",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "International Baseball Academy (Ceiba, PR)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Tristan Dietrich",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "Owen J. Roberts High School (Pottstown, PA)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Dalton Kendrick",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "P",
+    "Drafted From": "University of Memphis",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Alec Baker",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Brian Kalmer",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "Gonzaga University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Hector Garcia",
+    "Drafted By": "Minnesota Twins",
+    "POS": "P",
+    "Drafted From": "Hope International University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Zach Fogell",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "University of Connecticut",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Anthony Imhoff",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Pima Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "Michael Rodriguez",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "North Greenville University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Tanner Witt",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "P",
+    "Drafted From": "University of Texas at Austin",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Dylan Watts",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Tacoma Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "Jeremy Pilon",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Ecole secondaire du Chene-Bleu (Pincourt, Canada)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Chase Brunson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "San Clemente High School (San Clemente, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "Hunter Kublick",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "Umpqua Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Gavyn Jones",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "White Oak High School (White Oak, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "Daniel Ouderkirk",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "Pennsylvania State University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Matt Jachec",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Indiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "Cam Magee",
+    "Drafted By": "Atlanta Braves",
+    "POS": "SS",
+    "Drafted From": "Washington State University",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "Sterling Patick",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "South Hills High School (West Covina, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Harry Gustin",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "University of Hawaii at Manoa",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "Coby Morales",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "University of Washington",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Ethan Chenault",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "University of North Carolina at Wilmington",
+    "Year": 2023
+  },
+  {
+    "Round": "18",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Derek True",
+    "Drafted By": "Houston Astros",
+    "POS": "P",
+    "Drafted From": "California Tech, San Luis Obispo",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "James Ellwanger",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "Magnolia West High School (Magnolia, TX)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Derek Salata",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Illinois State University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "Tyler Kennedy",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "Florida SouthWestern State College",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "Herick Hernandez",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Miami Dade College",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "Donovan LaSalle",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Alfred M. Barbe High School (Lake Charles, LA)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "Blake Pivaroff",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "Elijah Ickes",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Kamehameha High School (Honolulu, HI)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "Kannon Handy",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "Colorado Mesa University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "Johnny Olmstead",
+    "Drafted By": "Miami Marlins",
+    "POS": "3B",
+    "Drafted From": "University of Southern California",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Raudi Rodriguez",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "Georgia Premier Academy (Statesboro, GA))",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "Wyatt Crenshaw",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "2B",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Nick Dean",
+    "Drafted By": "Chicago Cubs",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "Sam Parker",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "Kennesaw Mountain High School (Kennesaw Mountain, GA)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Stanley Tucker",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Texas A&M University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "Caden Connor",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "California State University, Fullerton",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "Tommy Kane",
+    "Drafted By": "San Francisco Giants",
+    "POS": "P",
+    "Drafted From": "University of Maryland",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Kollin Ritchie",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Atoka High School (Atoka, OK)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Isaac Morton",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Spring Lake Park High School (Spring Lake Park, MN)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Owen Stevenson",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Arizona State University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Aaron Munson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Angelo State University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "Graysen Tarlow",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "California State University, Northridge",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Christian Little",
+    "Drafted By": "New York Mets",
+    "POS": "P",
+    "Drafted From": "Louisiana State University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "Charlie Pagliarini",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "Fairfield University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "Josh Harlow",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Mercer University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Riley Frey",
+    "Drafted By": "Atlanta Braves",
+    "POS": "P",
+    "Drafted From": "University of Wisconsin-Milwaukee",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "Spencer Green",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "P",
+    "Drafted From": "Richland High School (Richland, WA)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Adler Cecil",
+    "Drafted By": "San Diego Padres",
+    "POS": "P",
+    "Drafted From": "Temecula Valley High School (Temecula, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "Cade Austin",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "University of South Carolina",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "Casey Steward",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "P",
+    "Drafted From": "Washburn University",
+    "Year": 2023
+  },
+  {
+    "Round": "19",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "Andrew Duncan",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "A3 Academy (Tampa, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "Isaac Ayon",
+    "Drafted By": "Washington Nationals",
+    "POS": "P",
+    "Drafted From": "University of Oregon",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Diego Barrera",
+    "Drafted By": "Oakland Athletics",
+    "POS": "P",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Peyton Stumbo",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "P",
+    "Drafted From": "University of Nevada, Reno",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Gabe Gaeckle",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "P",
+    "Drafted From": "Aptos High School (Aptos, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Blake Wilson",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Santa Margarita Catholic High School (Rancho Santa Margarita, CA)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Johnathan Rogers",
+    "Drafted By": "Detroit Tigers",
+    "POS": "P",
+    "Drafted From": "Tupelo High School (Tupelo, MS)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "Laif Palmer",
+    "Drafted By": "Texas Rangers",
+    "POS": "P",
+    "Drafted From": "Golden High School (Golden, CO)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Troy Butler",
+    "Drafted By": "Colorado Rockies",
+    "POS": "P",
+    "Drafted From": "Herkimer County Community College",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "Ryan Ignoffo",
+    "Drafted By": "Miami Marlins",
+    "POS": "P",
+    "Drafted From": "Eastern Illinois University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "Mac McCroskey",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "SS",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Dominic Voegele",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "P",
+    "Drafted From": "Columbia High School (Columbia, IL)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Drew Bowser",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "Stanford University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "Ashton Larson",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "St. Thomas Aquinas High School (Overland Park, KS)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Robert Orloski",
+    "Drafted By": "Boston Red Sox",
+    "POS": "P",
+    "Drafted From": "Middleton High School (Middleton, ID)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Garrett Wright",
+    "Drafted By": "Chicago White Sox",
+    "POS": "P",
+    "Drafted From": "Texas Christian University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "Nadir Lewis",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Princeton University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "Jalen Vasquez",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "North Greenville University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Justin Chambers",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "P",
+    "Drafted From": "Basha High School (Chandler, AZ)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "Max Stanley",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "P",
+    "Drafted From": "Douglas County High School (Castle Rock, CO)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "Kai Peterson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "P",
+    "Drafted From": "Sierra College",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "Cameron Johnson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "P",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "Kellum Clark",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Will Watson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "P",
+    "Drafted From": "San Joaquin Delta College",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Ryan Marohn",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "P",
+    "Drafted From": "Freedom High School (Chantilly, VA)",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Will King",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Eastern Kentucky University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "D.J. Uiagalelei",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Oregon State University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "B.Y. Choi",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "New Mexico Military Institute",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "Bryce Warrecker",
+    "Drafted By": "New York Yankees",
+    "POS": "P",
+    "Drafted From": "Cal Tech, San Luis Obispo",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Pierce Bennett",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "2B",
+    "Drafted From": "Wake Forest University",
+    "Year": 2023
+  },
+  {
+    "Round": "20",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "Pascanel Ferreras",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Western Carolina University",
+    "Year": 2023
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Spencer Torkelson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Arizona State University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Heston Kjerstad",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Arkansas",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Max Meyer",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of Minnesota",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Asa Lacy",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Texas A&M",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Austin Martin",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Emerson  Hancock",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Georgia",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "Nick Gonzales",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "New Mexico State",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Robert Hassell III",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Independence High School (Thompson's Station, TN)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Zac Veen",
+    "Drafted By": "Colorado Rockies",
+    "POS": "OF",
+    "Drafted From": "Spruce Creek High School (Spruce Creek, FL)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Reid Detmers",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "LHP",
+    "Drafted From": "University of Louisville",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Garrett Crochet",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Austin Hendrick",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "West Allegheny High School (West Allegheny, PA)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "Patrick Bailey",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "North Carolina State University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Justin Foscue",
+    "Drafted By": "Texas Rangers",
+    "POS": "2B",
+    "Drafted From": "Mississippi State University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Mick Abel",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Jesuit High School (Jesuit, OR)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "Ed Howard",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Mount Carmel High School (Mount Carmel, IL)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Nick Yorke",
+    "Drafted By": "Boston Red Sox",
+    "POS": "2B",
+    "Drafted From": "Archbishop Mitty High School (San Jose, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Bryce Jarvis",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Pete Crow-Armstrong",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Harvard-Westlake High School (Westlake, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Garrett Mitchell",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "UCLA",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Jordan Walker",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Decatur High School (Decatur, GA)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Cade Cavalli",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Carson Tucker",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Mountain Pointe High School (Mountain Pointe, AZ)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Nick Bitsko",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Central Bucks High School East (Doylestown, PA)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Jared Shuster",
+    "Drafted By": "Atlanta Braves",
+    "POS": "LHP",
+    "Drafted From": "Wake Forrest University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "Tyler Soderstrom",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Turlock High School (Turlock, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Aaron Sabato",
+    "Drafted By": "Minnesota Twins",
+    "POS": "1B",
+    "Drafted From": "University of North Carolina",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Austin Wells",
+    "Drafted By": "New York Yankees",
+    "POS": "C",
+    "Drafted From": "University of Arizona",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Bobby Miller",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "University of Louisville",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Jordan Westburg",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Mississippi State University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "Carmen Mlodzinski",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Nick Loftin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "SS",
+    "Drafted From": "Baylor University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Slade Cecconi",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Justin Lange",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Llano High School (Llano, TX)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "Drew Romo",
+    "Drafted By": "Colorado Rockies",
+    "POS": "C",
+    "Drafted From": "The Woodlands High School (Woodlands, TX)",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Tanner Burns",
+    "Drafted By": "Cleveland Indians",
+    "POS": "RHP",
+    "Drafted From": "Auburn University",
+    "Year": 2020
+  },
+  {
+    "Round": "1",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Alika Williams",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "Arizona State University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Dillon Dingler",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Ohio State",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Hudson Haskin",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "CF",
+    "Drafted From": "Tulane",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Dax Fulton",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Mustang High School (Mustang, OK)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "Ben Hernandez",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "De La Salle Institute",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "C.J. Van Eyk",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Florida State University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Zach DeLoach",
+    "Drafted By": "Seattle Mariners",
+    "POS": "CF",
+    "Drafted From": "Texas A&M",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Jared Jones",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "La Mirada High School (La Mirada, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Owen Caissie",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Notre Dame Catholic High School (Ontario, Canada)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Chris McMahon",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "Jared Kelley",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Refugio High School (Refugio, TX)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Christian Roa",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Texas A&M",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Casey Schmitt",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "San Diego State University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Evan Carter",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "Elizabethton High School (Elizabethton, TN)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Burl Carraway",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "Dallas Baptist High School (Dallas, TX)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "J.T. Ginn",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Freddy Zamora",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "University of Miami",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Masyn Winn",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS/RHP",
+    "Drafted From": "Kingwood High School (Kingwood, TX)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Cole Henry",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Logan Allen",
+    "Drafted By": "Cleveland Indians",
+    "POS": "LHP",
+    "Drafted From": "Florida International University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "Ian Seymour",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "LHP",
+    "Drafted From": "Virginia Tech",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "Jeff Criswell",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "University of Michigan",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "Alerick Soularie",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Landon Knack",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "East Tennessee State",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Kyle Nicolas",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Ball State University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Daniel Cabrera",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Louisiana State University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Tink Hence",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Watson Chapel High School (Pine Bluff, AR)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Connor Phillips",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "McLennan Community College",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Jackson Miller",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "J.W. Mitchell High School (New Port Richey, FL)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Clayton Beeter",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Texas Tech",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Nick Swiney",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "NC State",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Jimmy Glowenke",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS/RHP",
+    "Drafted From": "Dallas Baptist",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Isaiah Greene",
+    "Drafted By": "New York Mets",
+    "POS": "CF",
+    "Drafted From": "Corona High School (Corona, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Alec Burleson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RF/LHP",
+    "Drafted From": "East Carolina University",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Sammy Infante",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Monsignor Edward Pace High School (Miami Gardens, FL)",
+    "Year": 2020
+  },
+  {
+    "Round": "2",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "Alex Santos II",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Mount Saint Michael Academy (Bronx, NY)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Trei Cruz",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Rice University",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Anthony Servideo",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Ole Miss",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Zach McCambley",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Coastal Carolina",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Tyler Gentry",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RF",
+    "Drafted From": "University of Alabama",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Trent Palmer",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Jacksonville",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Kaden Polcovich",
+    "Drafted By": "Seattle Mariners",
+    "POS": "2B",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Nick Garcia",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Chapman University",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Cole Wilcox",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "University of Georgia",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Sam Weatherly",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "Clemson University",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "David Calabrese",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "CF",
+    "Drafted From": "St. Elizabeth Catholic High School (Ontario, Canada)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Adisyn Coffey",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Wabash Valley College",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "Bryce Bonnin",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Texas Tech",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Kyle Harrison",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "De La Salle High School (Concord, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Tekoah Roby",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Pine Forest High School (Pensacola, FL)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Casey Martin",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "University of Arkansas",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Jordan Nwogu",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "University of Michigan",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Blaze Jordan",
+    "Drafted By": "Boston Red Sox",
+    "POS": "1B",
+    "Drafted From": "DeSoto Central High School (Southaven, MS)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Liam Norris",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "Green Hope High School (Cary, NC)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Anthony Walters",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "San Diego State University",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Zavier Warren",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Central Michigan",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "Levi Prater",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Holden Powell",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "UCLA",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Petey Halpin",
+    "Drafted By": "Cleveland Indians",
+    "POS": "OF",
+    "Drafted From": "Mira Costa High School (Manhattan Beach, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Hunter Barnhart",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Saint Joseph High School (Lakewood, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Jesse Franklin",
+    "Drafted By": "Atlanta Braves",
+    "POS": "CF",
+    "Drafted From": "University of Michigan",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Michael Guldberg",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Georgia Tech",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Trevor Hauver",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "Jake Vogel",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Huntington Beach High School (Huntington Beach, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "3",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Tyler Brown",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Gage Workman",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Arizona State University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "Coby Mayo",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "3B",
+    "Drafted From": "Marjory Stoneman Douglas High School (Parkland, FL)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Jake Eder",
+    "Drafted By": "Miami Marlins",
+    "POS": "LHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "Christian Chamberlain",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Nick Frasso",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Loyola Marymount",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Tyler Keenan",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "Ole Miss",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "Jack Hartman",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Appalachian State University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Levi Thomas",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Troy",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Case Williams",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Douglas County High School (Castle Rock, CO)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Werner Blakely",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "SS",
+    "Drafted From": "Detroit Edison High School (Detroit, MI)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Kade Mechals",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "MacKenzie Wainwright",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RF",
+    "Drafted From": "St. Edward High School (Lakewood, OH)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "R.J. Dabovich",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Arizona State University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Dylan MacLean",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "Central Catholic High School (Portland, OR)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Carson Ragsdale",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of South Florida",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Luke Little",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "San Jacinto College North",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Jeremy Wu-Yelland",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "University of Hawaii",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "A.J. Vukovich",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "3B",
+    "Drafted From": "East Troy High School (East Troy, WI)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Matthew Dyer",
+    "Drafted By": "New York Mets",
+    "POS": "C",
+    "Drafted From": "University of Arizona",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Joey Wiemer",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "University of Cincinnati",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Ian Bedell",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Brady Lindsly",
+    "Drafted By": "Washington Nationals",
+    "POS": "C",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Milan Tolentino",
+    "Drafted By": "Cleveland Indians",
+    "POS": "SS",
+    "Drafted From": "Santa Margarita High School (Rancho Santa Margarita, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "Tanner Murray",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "UC Davis",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Spencer Strider",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Clemson University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Dane Acker",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Marco Raya",
+    "Drafted By": "Cleveland Indians",
+    "POS": "RHP",
+    "Drafted From": "United South High School (Laredo, TX)",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "Beck Way",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Northwest Florida State University",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "Carson Taylor",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "C",
+    "Drafted From": "Virginia Tech",
+    "Year": 2020
+  },
+  {
+    "Round": "4",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "Zach Daniels",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Colt Keith",
+    "Drafted By": "Detroit Tigers",
+    "POS": "3B",
+    "Drafted From": "Biloxi High School (Biloxi, MS)",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "Carter Baumler",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Dowling Catholic High School (Des Moines, IA)",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "Kyle Hurt",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "USC",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Will Klein",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Eastern Illinois",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Zach Britton",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LF",
+    "Drafted From": "University of Louisville",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "Taylor Dollard",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Cal Poly",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "Logan Hofmann",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Northwestern State",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Jagger Haynes",
+    "Drafted By": "San Diego Padres",
+    "POS": "LHP",
+    "Drafted From": "West Columbus High School (Cerro Gordo, NC)",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Jack Blomgren",
+    "Drafted By": "Colorado Rockies",
+    "POS": "SS",
+    "Drafted From": "University of Michigan",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Adam Seminaris",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "LHP",
+    "Drafted From": "Long Beach State",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Bailey Horn",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Auburn",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Joe Boyle",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "University of Notre Dame",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Ryan Murphy",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Le Moyne",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Thomas Saggese",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Carlsbad High School (Carlsbad, CA)",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Baron Radcliff",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Georgia Tech",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Koen Moreno",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Panther Creek High School (Cary, NC)",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Shane Drohan",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "Florida State University",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Brandon Pfaadt",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Bellarmine",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Eric Orze",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "New Orleans",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Hayden Cantrelle",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Louisiana Lafayette",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "J.L. Jones IV",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "1B",
+    "Drafted From": "Long Beach State",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Mitchell Parker",
+    "Drafted By": "Washington Nationals",
+    "POS": "LHP",
+    "Drafted From": "San Jacinto College North",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Mason Hickman",
+    "Drafted By": "Cleveland Indians",
+    "POS": "RHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Jeff Hakanson",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Central Florida",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "Bryce Elder",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Texas",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Stevie Emanuels",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Washington",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Kala'i Rosario",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Waiakea High School (Hilo, HI)",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Gavin Stone",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Central Arkansas",
+    "Year": 2020
+  },
+  {
+    "Round": "5",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Shay Whitcomb",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "UC San Diego",
+    "Year": 2020
+  }
+]

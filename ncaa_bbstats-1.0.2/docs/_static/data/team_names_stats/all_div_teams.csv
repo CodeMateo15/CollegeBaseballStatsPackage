@@ -1,0 +1,1059 @@
+team_id,team_name,division
+1,A&M-Corpus Christi,1
+2,AUM,2
+3,Abilene Christian,1
+4,Abilene Christian,2
+5,Academy of Art,2
+6,Adams St.,2
+7,Adelphi,2
+8,Adrian,3
+9,Air Force,1
+10,Akron,1
+11,Alabama,1
+12,Alabama A&M,1
+13,Alabama Huntsville,2
+14,Alabama St.,1
+15,Albany St.,2
+16,Albertus Magnus,3
+17,Albion,3
+18,Albright,3
+19,Alcorn,1
+20,Alderson Broaddus,2
+21,Alfred,3
+22,Alfred St.,3
+23,Allegheny,3
+24,Alliance,2
+25,Alma,3
+26,Alvernia,3
+27,American Int'l,2
+28,Amherst,3
+29,Anderson,2
+30,Anderson,3
+31,Angelo St.,2
+32,Anna Maria,3
+33,App State,1
+34,Arcadia,3
+35,Arizona,1
+36,Arizona St.,1
+37,Ark.-Fort Smith,2
+38,Ark.-Monticello,2
+39,Ark.-Pine Bluff,1
+40,Arkansas,1
+41,Arkansas St.,1
+42,Arkansas Tech,2
+43,Armstrong St.,2
+44,Army West Point,1
+45,Asbury,3
+46,Ashland,2
+47,Assumption,2
+48,Auburn,1
+49,Augsburg,3
+50,Augusta,2
+51,Augustana,2
+52,Augustana,3
+53,Aurora,3
+54,Austin,3
+55,Austin Peay,1
+56,Averett,3
+57,Azusa Pacific,2
+58,BYU,1
+59,Babson,3
+60,Baldwin Wallace,3
+61,Ball St.,1
+62,Bard,3
+63,Barry,2
+64,Barton,2
+65,Baruch,3
+66,Bates,3
+67,Baylor,1
+68,Becker,3
+69,Belhaven,3
+70,Bellarmine,1
+71,Bellarmine,2
+72,Belmont,1
+73,Belmont Abbey,2
+74,Beloit,3
+75,Bemidji St.,2
+76,Benedict,2
+77,Benedictine,3
+78,Bentley,2
+79,Berea,3
+80,Berry,3
+81,Bethany,3
+82,Bethany Lutheran,3
+83,Bethel,3
+84,Bethune-Cookman,1
+85,Binghamton,1
+86,Biola,2
+87,Birmingham-So.,1
+88,Birmingham-So.,3
+89,Blackburn,3
+90,Bloomfield,2
+91,Bloomsburg,2
+92,Bluefield St.,2
+93,Bluffton,3
+94,Bob Jones,3
+95,Boise St.,1
+96,Boston College,1
+97,Bowdoin,3
+98,Bowling Green,1
+99,Bradley,1
+100,Brandeis,3
+101,Brevard,2
+102,Brevard,3
+103,Bridgeport,2
+104,Bridgewater,3
+105,Bridgewater St.,3
+106,Brown,1
+107,Bryant,1
+108,Bryant,2
+109,Bucknell,1
+110,Buena Vista,3
+111,Buffalo,1
+112,Butler,1
+113,CCNY,3
+114,CSU Bakersfield,1
+115,CSU Pueblo,2
+116,CSUN,1
+117,CSUSB,2
+118,CUI,2
+119,CWRU,3
+120,Cabrini,3
+121,Cairn,3
+122,Cal Lutheran,3
+123,Cal Poly,1
+124,Cal Poly Pomona,2
+125,Cal St. Dom. Hills,2
+126,Cal St. East Bay,2
+127,Cal St. East Bay,3
+128,Cal St. Fullerton,1
+129,Cal St. Monterey Bay,2
+130,Cal St. San Marcos,2
+131,Cal State LA,2
+132,Caldwell,2
+133,California,1
+134,California,2
+135,California Baptist,1
+136,California Baptist,2
+137,Caltech,3
+138,Calvin,3
+139,Cameron,2
+140,Campbell,1
+141,Canisius,1
+142,Capital,3
+143,Carleton,3
+144,Carroll,3
+145,Carson-Newman,2
+146,Carthage,3
+147,Catawba,2
+148,Catholic,3
+149,Cazenovia,3
+150,Cedarville,2
+151,Centenary,1
+152,Centenary,3
+153,Central,3
+154,Central Ark.,1
+155,Central Ark.,2
+156,Central Conn. St.,1
+157,Central Mich.,1
+158,Central Mo.,2
+159,Central Okla.,2
+160,Central Wash.,2
+161,Centre,3
+162,Chaminade,2
+163,Chapman,3
+164,Charleston,2
+165,Charleston So.,1
+166,Charlotte,1
+167,Chatham,3
+168,Chestnut Hill,2
+169,Chicago St.,1
+170,Chico St.,2
+171,Chowan,2
+172,Chowan,3
+173,Chris. Newport,3
+174,Christian Brothers,2
+175,Cincinnati,1
+176,Claflin,2
+177,Claremont-M-S,3
+178,Clarion,2
+179,Clark,3
+180,Clark Atlanta,2
+181,Clarke,3
+182,Clarks Summit,3
+183,Clarkson,3
+184,Clemson,1
+185,Cleveland St.,1
+186,Coast Guard,3
+187,Coastal Carolina,1
+188,Coe,3
+189,Coker,2
+190,Col. of Charleston,1
+191,Colby,3
+192,Colby-Sawyer,3
+193,Colo. Christian,2
+194,Colo. Sch. of Mines,2
+195,Colorado Mesa,2
+196,Columbia,1
+197,Columbus St.,2
+198,Concord,2
+199,Concordia,2
+200,Concordia,3
+201,Concordia Chicago,3
+202,Concordia Portland,2
+203,Concordia Wisconsin,3
+204,Concordia-M'head,3
+205,Concordia-St. Paul,2
+206,Coppin St.,1
+207,Cornell,1
+208,Cornell College,3
+209,Cortland,3
+210,Covenant,3
+211,Creighton,1
+212,Crown,3
+213,Curry,3
+214,D'Youville,2
+215,D'Youville,3
+216,DBU,1
+217,DBU,2
+218,Dallas,3
+219,Daniel Webster,3
+220,Dartmouth,1
+221,Davenport,2
+222,Davidson,1
+223,Davis & Elkins,2
+224,Dayton,1
+225,DePauw,3
+226,DeSales,3
+227,Dean,3
+228,Defiance,3
+229,Delaware,1
+230,Delaware St.,1
+231,Delaware Valley,3
+232,Delta St.,2
+233,Denison,3
+234,Detroit Mercy,1
+235,Dickinson,3
+236,Dominican,2
+237,Dominican,3
+238,Dowling,2
+239,Drew,3
+240,Drexel,1
+241,Drury,2
+242,Dubuque,3
+243,Duke,1
+244,Duquesne,1
+245,ETSU,1
+246,Earlham,3
+247,East Carolina,1
+248,East Central,2
+249,East Stroudsburg,2
+250,East Tex. Baptist,3
+251,East. Mennonite,3
+252,Eastern,3
+253,Eastern Conn. St.,3
+254,Eastern Ill.,1
+255,Eastern Ky.,1
+256,Eastern Mich.,1
+257,Eastern N.M.,2
+258,Eastern Nazarene,3
+259,Eckerd,2
+260,Edgewood,3
+261,Edinboro,2
+262,Edward Waters,2
+263,Elizabeth City St.,2
+264,Elizabethtown,3
+265,Elmhurst,3
+266,Elmira,3
+267,Elms,3
+268,Elon,1
+269,Embry-Riddle,2
+270,Emerson,3
+271,Emmanuel,2
+272,Emory,3
+273,Emory & Henry,2
+274,Emory & Henry,3
+275,Emporia St.,2
+276,Endicott,3
+277,Erskine,2
+278,Eureka,3
+279,Evansville,1
+280,FDU,1
+281,FDU-Florham,3
+282,FGCU,1
+283,FGCU,2
+284,FIU,1
+285,Fairfield,1
+286,Fairmont St.,2
+287,Farmingdale St.,3
+288,Felician,2
+289,Ferrum,3
+290,Findlay,2
+291,Finlandia,3
+292,Fitchburg St.,3
+293,Fla. Atlantic,1
+294,Fla. Southern,2
+295,Flagler,2
+296,Florida,1
+297,Florida A&M,1
+298,Florida St.,1
+299,Florida Tech,2
+300,Fontbonne,3
+301,Fordham,1
+302,Fort Hays St.,2
+303,Framingham St.,3
+304,Francis Marion,2
+305,Franciscan,3
+306,Franklin,3
+307,Franklin & Marshall,3
+308,Franklin Pierce,2
+309,Fredonia,3
+310,Fresno Pacific,2
+311,Fresno St.,1
+312,Frostburg St.,2
+313,Frostburg St.,3
+314,Furman,1
+315,Ga. Southern,1
+316,Ga. Southwestern,2
+317,Gallaudet,3
+318,Gannon,2
+319,Gardner-Webb,1
+320,Geneva,3
+321,George Fox,3
+322,George Mason,1
+323,George Washington,1
+324,Georgetown,1
+325,Georgia,1
+326,Georgia College,2
+327,Georgia St.,1
+328,Georgia Tech,1
+329,Georgian Court,2
+330,Gettysburg,3
+331,Glenville St.,2
+332,Goldey-Beacom,2
+333,Gonzaga,1
+334,Gordon,3
+335,Grambling,1
+336,Grand Canyon,1
+337,Grand Canyon,2
+338,Grand Valley St.,2
+339,Greensboro,3
+340,Greenville,3
+341,Grinnell,3
+342,Grove City,3
+343,Guilford,3
+344,Gustavus Adolphus,3
+345,Gwynedd Mercy,3
+346,Hamilton,3
+347,Hamline,3
+348,Hampden-Sydney,3
+349,Hanover,3
+350,Hardin-Simmons,3
+351,Harding,2
+352,Hartford,1
+353,Hartwick,3
+354,Harvard,1
+355,Haverford,3
+356,Hawaii,1
+357,Hawaii Hilo,1
+358,Hawaii Hilo,2
+359,Hawaii Pacific,2
+360,Heidelberg,3
+361,Henderson St.,2
+362,Hendrix,3
+363,High Point,1
+364,Hilbert,3
+365,Hillsdale,2
+366,Hiram,3
+367,Hobart,3
+368,Hofstra,1
+369,Holy Cross,1
+370,Holy Family,2
+371,Holy Names,2
+372,Hood,3
+373,Hope,3
+374,Houghton,3
+375,Houston,1
+376,Houston Christian,1
+377,Howard Payne,3
+378,Huntingdon,3
+379,Husson,3
+380,IIT,3
+381,Ill. Springfield,2
+382,Ill. Wesleyan,3
+383,Illinois,1
+384,Illinois Col.,3
+385,Illinois St.,1
+386,Immaculata,3
+387,Indiana,1
+388,Indiana,2
+389,Indiana St.,1
+390,Iona,1
+391,Iowa,1
+392,Iowa Wesleyan,3
+393,Ithaca,3
+394,JWU,3
+395,Jackson St.,1
+396,Jacksonville,1
+397,Jacksonville St.,1
+398,James Madison,1
+399,Jefferson,2
+400,John Carroll,3
+401,John Jay,3
+402,Johns Hopkins,3
+403,Juniata,3
+404,Kalamazoo,3
+405,Kansas,1
+406,Kansas St.,1
+407,Kean,3
+408,Keene St.,3
+409,Kennesaw St.,1
+410,Kennesaw St.,2
+411,Kent St.,1
+412,Kentucky,1
+413,Kentucky St.,2
+414,Kenyon,3
+415,Keuka,3
+416,Keystone,3
+417,King,2
+418,King's,3
+419,Knox,3
+420,Kutztown,2
+421,Ky. Wesleyan,2
+422,LIU,1
+423,LIU Post,2
+424,LMU,1
+425,LSU,1
+426,La Roche,3
+427,La Salle,1
+428,La Verne,3
+429,LaGrange,3
+430,Lafayette,1
+431,Lake Erie,2
+432,Lake Erie,3
+433,Lakeland,3
+434,Lamar University,1
+435,Lancaster Bible,3
+436,Lander,2
+437,Lane,2
+438,Lasell,3
+439,Lawrence,3
+440,Le Moyne,1
+441,Le Moyne,2
+442,LeMoyne-Owen,2
+443,LeTourneau,3
+444,Lebanon Valley,3
+445,Lee,2
+446,Lehigh,1
+447,Lehman,3
+448,Lenoir-Rhyne,2
+449,Lesley,3
+450,Lewis,2
+451,Lewis & Clark,3
+452,Liberty,1
+453,Limestone,2
+454,Lincoln,2
+455,Lincoln,3
+456,Lincoln Memorial,2
+457,Lindenwood,2
+458,Linfield,3
+459,Lipscomb,1
+460,Little Rock,1
+461,Lock Haven,2
+462,Long Beach St.,1
+463,Longwood,1
+464,Longwood,2
+465,Loras,3
+466,Louisiana,1
+467,Louisiana Col.,3
+468,Louisiana Tech,1
+469,Louisville,1
+470,Lubbock Christian,2
+471,Luther,3
+472,Lycoming,3
+473,Lynchburg,3
+474,Lynn,2
+475,MCLA,3
+476,MIT,3
+477,MSOE,3
+478,MSU Denver,2
+479,MUW,3
+480,MacMurray,3
+481,Macalester,3
+482,Maine,1
+483,Malone,2
+484,Manchester,3
+485,Manhattan,1
+486,Manhattanville,3
+487,Mansfield,2
+488,Maranatha Baptist,3
+489,Marian,3
+490,Marietta,3
+491,Marist,1
+492,Mars Hill,2
+493,Marshall,1
+494,Martin Luther,3
+495,Mary,2
+496,Mary Baldwin,3
+497,Mary Hardin-Baylor,3
+498,Mary Washington,3
+499,Maryland,1
+500,Marymount,3
+501,Maryville,2
+502,Maryville,3
+503,Marywood,3
+504,Mass. Maritime,3
+505,Massachusetts,1
+506,McDaniel,3
+507,McKendree,2
+508,McMurry,3
+509,McNeese,1
+510,Me.-Farmington,3
+511,Me.-Presque Isle,3
+512,Medaille,3
+513,Memphis,1
+514,Menlo,2
+515,Menlo,3
+516,Mercer,1
+517,Merchant Marine,3
+518,Mercy,2
+519,Mercyhurst,2
+520,Merrimack,1
+521,Merrimack,2
+522,Messiah,3
+523,Methodist,3
+524,Miami,1
+525,Michigan,1
+526,Michigan St.,1
+527,Middle Tenn.,1
+528,Middlebury,3
+529,Miles,2
+530,Millersville,2
+531,Millikin,3
+532,Millsaps,3
+533,Milwaukee,1
+534,Minn. Duluth,2
+535,Minn.-Crookston,2
+536,Minn.-Morris,2
+537,Minn.-Morris,3
+538,Minnesota,1
+539,Minnesota St.,2
+540,Minot St.,2
+541,Misericordia,3
+542,Mississippi Col.,2
+543,Mississippi Col.,3
+544,Mississippi St.,1
+545,Mississippi Val.,1
+546,Missouri,1
+547,Missouri S&T,2
+548,Missouri St.,1
+549,Missouri Western,2
+550,Mitchell,3
+551,Mo. Southern St.,2
+552,Mo.-St. Louis,2
+553,Molloy,2
+554,Monmouth,1
+555,Monmouth,3
+556,Mont. St. Billings,2
+557,Montclair St.,3
+558,Montevallo,2
+559,Moravian,3
+560,Morehead St.,1
+561,Morehouse,2
+562,Mount Aloysius,3
+563,Mount Olive,2
+564,Mount St. Mary's,1
+565,Mount Union,3
+566,Mt. St. Joseph,3
+567,Mt. St. Mary,3
+568,Muhlenberg,3
+569,Murray St.,1
+570,Muskingum,3
+571,N.C. A&T,1
+572,N.C. Central,1
+573,N.C. Central,2
+574,N.C. Wesleyan,3
+575,N.M. Highlands,2
+576,NC State,1
+577,NIU,1
+578,NJIT,1
+579,NJIT,2
+580,NYU,3
+581,Navy,1
+582,Neb. Wesleyan,3
+583,Neb.-Kearney,2
+584,Nebraska,1
+585,Neumann,3
+586,Nevada,1
+587,New England Col.,3
+588,New Haven,2
+589,New Jersey City,3
+590,New Mexico,1
+591,New Mexico St.,1
+592,New Orleans,1
+593,New Rochelle,3
+594,New York Tech,1
+595,New York Tech,2
+596,Newberry,2
+597,Newbury,3
+598,Newman,2
+599,Niagara,1
+600,Nicholls,1
+601,Nichols,3
+602,Norfolk St.,1
+603,North Ala.,1
+604,North Ala.,2
+605,North Carolina,1
+606,North Central,3
+607,North Dakota,1
+608,North Dakota,2
+609,North Dakota St.,1
+610,North Dakota St.,2
+611,North Florida,1
+612,North Florida,2
+613,North Georgia,2
+614,North Greenville,2
+615,North Park,3
+616,Northeastern,1
+617,Northeastern St.,2
+618,Northern Colo.,1
+619,Northern Colo.,2
+620,Northern Ky.,1
+621,Northern Ky.,2
+622,Northern St.,2
+623,Northland,3
+624,Northwest Mo. St.,2
+625,Northwest Nazarene,2
+626,Northwestern,1
+627,Northwestern Okla.,2
+628,Northwestern St.,1
+629,Northwestern-St. Paul,3
+630,Northwood,2
+631,Norwich,3
+632,Notre Dame,1
+633,Notre Dame,2
+634,Notre Dame,3
+635,Nova Southeastern,2
+636,Oakland,1
+637,Oakland City,2
+638,Oberlin,3
+639,Occidental,3
+640,Oglethorpe,3
+641,Ohio,1
+642,Ohio Dominican,2
+643,Ohio Northern,3
+644,Ohio St.,1
+645,Ohio Valley,2
+646,Ohio Wesleyan,3
+647,Okla. Baptist,2
+648,Okla. Christian,2
+649,Okla. Panhandle,2
+650,Oklahoma,1
+651,Oklahoma St.,1
+652,Old Dominion,1
+653,Old Westbury,3
+654,Ole Miss,1
+655,Olivet,3
+656,Omaha,1
+657,Omaha,2
+658,Oral Roberts,1
+659,Oregon,1
+660,Oregon St.,1
+661,Oswego St.,3
+662,Otterbein,3
+663,Ouachita Baptist,2
+664,Ozarks,3
+665,Pace,1
+666,Pace,2
+667,Pacific,1
+668,Pacific,3
+669,Pacific Lutheran,3
+670,Paine,2
+671,Palm Beach Atl.,2
+672,Penn,1
+673,Penn College,3
+674,Penn St.,1
+675,Penn St. Harrisburg,3
+676,Penn St.-Abington,3
+677,Penn St.-Altoona,3
+678,Penn St.-Behrend,3
+679,Penn St.-Berks,3
+680,Pepperdine,1
+681,Pfeiffer,2
+682,Pfeiffer,3
+683,Piedmont,3
+684,Pine Manor,3
+685,Pitt.-Bradford,3
+686,Pitt.-Greensburg,3
+687,Pitt.-Johnstown,2
+688,Pittsburg St.,2
+689,Pittsburgh,1
+690,Plattsburgh St.,3
+691,Plymouth St.,3
+692,Point Loma,2
+693,Polytechnic,3
+694,Pomona-Pitzer,3
+695,Portland,1
+696,Post,2
+697,Prairie View,1
+698,Presbyterian,1
+699,Presbyterian,2
+700,Presentation,3
+701,Princeton,1
+702,Principia,3
+703,Puget Sound,3
+704,Purchase,3
+705,Purdue,1
+706,Purdue Fort Wayne,1
+707,Purdue Northwest,2
+708,Queens,2
+709,Quincy,2
+710,Quinnipiac,1
+711,RIT,3
+712,Radford,1
+713,Ramapo,3
+714,Randolph-Macon,3
+715,Redlands,3
+716,Regis,2
+717,Rensselaer,3
+718,Rhode Island,1
+719,Rhode Island Col.,3
+720,Rhodes,3
+721,Rice,1
+722,Richmond,1
+723,Rider,1
+724,Ripon,3
+725,Rivier,3
+726,Roanoke,3
+727,Rochester,3
+728,Rockford,3
+729,Rockhurst,2
+730,Roger Williams,3
+731,Rogers St.,2
+732,Rollins,2
+733,Rose-Hulman,3
+734,Rosemont,3
+735,Rowan,3
+736,Russell Sage,3
+737,Rust,3
+738,Rutgers,1
+739,Rutgers-Camden,3
+740,Rutgers-Newark,3
+741,SCAD,3
+742,SFA,1
+743,SIUE,1
+744,SIUE,2
+745,SUNY Brockport,3
+746,SUNY Canton,3
+747,SUNY Cobleskill,3
+748,SUNY Maritime,3
+749,SUNY New Paltz,3
+750,SUNY Oneonta,3
+751,SUNY Poly,3
+752,Sacramento St.,1
+753,Sacred Heart,1
+754,Saginaw Valley,2
+755,Saint Augustine's,2
+756,Saint Elizabeth,3
+757,Saint John's,3
+758,Saint Joseph,3
+759,Saint Joseph's,1
+760,Saint Leo,2
+761,Saint Louis,1
+762,Saint Martin's,2
+763,Saint Mary's,1
+764,Saint Mary's,3
+765,Saint Michael's,2
+766,Saint Peter's,1
+767,Saint Rose,2
+768,Saint Vincent,3
+769,Salem,2
+770,Salem St.,3
+771,Salisbury,3
+772,Salve Regina,3
+773,Sam Houston,1
+774,Samford,1
+775,San Diego,1
+776,San Diego St.,1
+777,San Fran. St.,2
+778,San Francisco,1
+779,San Jose St.,1
+780,Santa Clara,1
+781,Savannah St.,1
+782,Savannah St.,2
+783,Schreiner,3
+784,Scranton,3
+785,Seattle U,1
+786,Seton Hall,1
+787,Seton Hill,2
+788,Sewanee,3
+789,Shaw,2
+790,Shenandoah,3
+791,Shepherd,2
+792,Shippensburg,2
+793,Shorter,2
+794,Siena,1
+795,Simpson,3
+796,Sioux Falls,2
+797,Skidmore,3
+798,Slippery Rock,2
+799,Sonoma St.,2
+800,South Alabama,1
+801,South Carolina,1
+802,South Dakota,2
+803,South Dakota St.,1
+804,South Dakota St.,2
+805,South Fla.,1
+806,Southeast Mo. St.,1
+807,Southeastern La.,1
+808,Southeastern Okla.,2
+809,Southern Ark.,2
+810,Southern California,1
+811,Southern Conn. St.,2
+812,Southern Ill.,1
+813,Southern Ind.,2
+814,Southern Me.,3
+815,Southern Miss.,1
+816,Southern N.H.,2
+817,Southern Nazarene,2
+818,Southern U.,1
+819,Southern Utah,1
+820,Southern Va.,3
+821,Southern Vt.,3
+822,Southern Wesleyan,2
+823,Southwest Baptist,2
+824,Southwest Minn. St.,2
+825,Southwestern,3
+826,Southwestern Okla.,2
+827,Spalding,3
+828,Spring Hill,2
+829,Springfield,3
+830,St. Andrews,2
+831,St. Anselm,2
+832,St. Bonaventure,1
+833,St. Cloud St.,2
+834,St. Edward's,2
+835,St. Francis Brooklyn,1
+836,St. John Fisher,3
+837,St. John's,1
+838,St. Joseph's,2
+839,St. Joseph's,3
+840,St. Lawrence,3
+841,St. Mary's,2
+842,St. Mary's,3
+843,St. Norbert,3
+844,St. Olaf,3
+845,St. Paul's,2
+846,St. Scholastica,3
+847,St. Thomas,3
+848,St. Thomas Aquinas,2
+849,Stanford,1
+850,Stanislaus St.,2
+851,Staten Island,2
+852,Staten Island,3
+853,Stetson,1
+854,Stevens,3
+855,Stevenson,3
+856,Stillman,2
+857,Stillman,3
+858,Stockton,3
+859,Stonehill,2
+860,Stony Brook,1
+861,Suffolk,3
+862,Sul Ross St.,3
+863,Susquehanna,3
+864,Swarthmore,3
+865,TCNJ,3
+866,TCU,1
+867,Tampa,2
+868,Tarleton St.,1
+869,Tarleton St.,2
+870,Temple,1
+871,Tennessee,1
+872,Tennessee Tech,1
+873,Tex. A&M Int'l,2
+874,Tex. A&M-Kingsville,2
+875,Texas,1
+876,Texas A&M,1
+877,Texas Lutheran,2
+878,Texas Lutheran,3
+879,Texas Southern,1
+880,Texas St.,1
+881,Texas Tech,1
+882,Texas-Dallas,3
+883,The Citadel,1
+884,Thiel,3
+885,Thomas,3
+886,Thomas More,3
+887,Tiffin,2
+888,Toledo,1
+889,Towson,1
+890,Transylvania,3
+891,Trevecca Nazarene,2
+892,Trine,3
+893,Trinity,3
+894,Troy,1
+895,Truman St.,2
+896,Tufts,3
+897,Tulane,1
+898,Tusculum,2
+899,Tuskegee,2
+900,UAB,1
+901,UAH,2
+902,UAlbany,1
+903,UC Davis,1
+904,UC Davis,2
+905,UC Irvine,1
+906,UC Riverside,1
+907,UC San Diego,1
+908,UC San Diego,2
+909,UC Santa Barbara,1
+910,UC-Colo. Springs,2
+911,UCF,1
+912,UCLA,1
+913,UChicago,3
+914,UConn,1
+915,UIC,1
+916,UIW,1
+917,UIW,2
+918,UIndy,2
+919,ULM,1
+920,UMBC,1
+921,UMES,1
+922,UMSV,3
+923,UMass Boston,3
+924,UMass Dartmouth,3
+925,UMass Lowell,1
+926,UMass Lowell,2
+927,UNC Asheville,1
+928,UNC Greensboro,1
+929,UNC Pembroke,2
+930,UNCW,1
+931,UNI,1
+932,UNLV,1
+933,USC Aiken,2
+934,USC Upstate,1
+935,USC Upstate,2
+936,USciences,2
+937,UT Arlington,1
+938,UT Martin,1
+939,UT Permian Basin,2
+940,UT Tyler,2
+941,UT Tyler,3
+942,UTRGV,1
+943,UTSA,1
+944,UVA Wise,2
+945,UW-River Falls,3
+946,Union,2
+947,Union,3
+948,Upper Iowa,2
+949,Upper Iowa,3
+950,Urbana,2
+951,Ursinus,3
+952,Utah,1
+953,Utah Tech,1
+954,Utah Tech,2
+955,Utah Valley,1
+956,Utica,3
+957,VCU,1
+958,VMI,1
+959,VTSU Castleton,3
+960,VTSU Lyndon,3
+961,Va. Wesleyan,3
+962,Valdosta St.,2
+963,Valley Forge,3
+964,Valparaiso,1
+965,Vanderbilt,1
+966,Vassar,3
+967,Vermont,1
+968,Villanova,1
+969,Virginia,1
+970,Virginia St.,2
+971,Virginia Tech,1
+972,WPI,3
+973,Wabash,3
+974,Wagner,1
+975,Wake Forest,1
+976,Walsh,2
+977,Wartburg,3
+978,Wash. & Jeff.,3
+979,Wash. & Lee,3
+980,WashU,3
+981,Washburn,2
+982,Washington,1
+983,Washington Adventist,2
+984,Washington Col.,3
+985,Washington St.,1
+986,Wayne St.,2
+987,Waynesburg,3
+988,Webster,3
+989,Wells,3
+990,Wentworth,3
+991,Wesley,3
+992,Wesleyan,3
+993,West Ala.,2
+994,West Chester,2
+995,West Florida,2
+996,West Ga.,2
+997,West Liberty,2
+998,West Tex. A&M,2
+999,West Va. Tech,2
+1000,West Va. Wesleyan,2
+1001,West Virginia,1
+1002,West Virginia St.,2
+1003,WestConn,3
+1004,Western Caro.,1
+1005,Western Ill.,1
+1006,Western Ky.,1
+1007,Western Mich.,1
+1008,Western New Eng.,3
+1009,Western Ore.,2
+1010,Westfield St.,3
+1011,Westminster,2
+1012,Westminster,3
+1013,Westmont,2
+1014,Wheaton,3
+1015,Wheeling,2
+1016,Whitman,3
+1017,Whittier,3
+1018,Whitworth,3
+1019,Wichita St.,1
+1020,Widener,3
+1021,Wilkes,3
+1022,Willamette,3
+1023,William & Mary,1
+1024,William Jewell,2
+1025,William Peace,3
+1026,Williams,3
+1027,Wilmington,2
+1028,Wilmington,3
+1029,Wilson,3
+1030,Wingate,2
+1031,Winona St.,2
+1032,Winston-Salem,2
+1033,Winthrop,1
+1034,Wis. Lutheran,3
+1035,Wis.-Eau Claire,3
+1036,Wis.-La Crosse,3
+1037,Wis.-Oshkosh,3
+1038,Wis.-Parkside,2
+1039,Wis.-Platteville,3
+1040,Wis.-Stevens Point,3
+1041,Wis.-Stout,3
+1042,Wis.-Superior,3
+1043,Wis.-Whitewater,3
+1044,Wittenberg,3
+1045,Wm. Paterson,3
+1046,Wofford,1
+1047,Wooster,3
+1048,Worcester St.,3
+1049,Wright St.,1
+1050,Xavier,1
+1051,Yale,1
+1052,Yeshiva,3
+1053,York,3
+1054,Young Harris,2
+1055,Youngstown St.,1
+1056,division,1
+1057,division,2
+1058,division,3

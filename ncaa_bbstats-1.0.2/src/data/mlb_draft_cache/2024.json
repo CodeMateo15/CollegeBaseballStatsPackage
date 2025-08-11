@@ -1,0 +1,6152 @@
+[
+  {
+    "Round": "1",
+    "Pick": "1",
+    "Phase": "JR",
+    "Player Name": "Travis Bazzana",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "2B",
+    "Drafted From": "Oregon State University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "2",
+    "Phase": "JR",
+    "Player Name": "Chase Burns",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "3",
+    "Phase": "JR",
+    "Player Name": "Charlie Condon",
+    "Drafted By": "Colorado Rockies",
+    "POS": "OF",
+    "Drafted From": "University of Georgia",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "4",
+    "Phase": "JR",
+    "Player Name": "Nick Kurtz",
+    "Drafted By": "Oakland Athletics",
+    "POS": "1B",
+    "Drafted From": "Wake Forest University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "5",
+    "Phase": "JR",
+    "Player Name": "Hagen Smith",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "6",
+    "Phase": "JR",
+    "Player Name": "Jac Caglianone",
+    "Drafted By": "Kansas City Royals",
+    "POS": "1B/LHP",
+    "Drafted From": "University of Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "7",
+    "Phase": "JR",
+    "Player Name": "JJ Wetherholt",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "University of West Virginia",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "8",
+    "Phase": "JR",
+    "Player Name": "Christian Moore",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "2B",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "9",
+    "Phase": "JR",
+    "Player Name": "Konnor Griffin",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Jackson Preparatory School (Flowood, MS)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "10",
+    "Phase": "JR",
+    "Player Name": "Seaver King",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Wake Forest University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "11",
+    "Phase": "JR",
+    "Player Name": "Bryce Rainer",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Harvard-Westlake High School (Los Angeles, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "12",
+    "Phase": "JR",
+    "Player Name": "Braden Montgomery",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Texas A&M University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "13",
+    "Phase": "JR",
+    "Player Name": "James Tibbs III",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "14",
+    "Phase": "JR",
+    "Player Name": "Cam Smith",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "15",
+    "Phase": "JR",
+    "Player Name": "Jurrangelo Cijntje",
+    "Drafted By": "Seattle Mariners",
+    "POS": "LHP/RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "16",
+    "Phase": "JR",
+    "Player Name": "PJ Morlando",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "Summerville High School (Summerville, SC)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "17",
+    "Phase": "JR",
+    "Player Name": "Braylon Payne",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "OF",
+    "Drafted From": "Elkins High School (Missouri City, TX)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "18",
+    "Phase": "JR",
+    "Player Name": "Theo Gillen",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "OF",
+    "Drafted From": "Westlake High School (Austin, TX)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "19",
+    "Phase": "JR",
+    "Player Name": "Carson Benge",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "20",
+    "Phase": "JR",
+    "Player Name": "Trey Yesavage",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "East Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "21",
+    "Phase": "JR",
+    "Player Name": "Kaelen Culpepper",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Kansas State University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "22",
+    "Phase": "JR",
+    "Player Name": "Vance Honeycutt",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "23",
+    "Phase": "JR",
+    "Player Name": "Kellon Lindsey",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Hardee Senior High School (Wauchula, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "24",
+    "Phase": "JR",
+    "Player Name": "Cam Caminiti",
+    "Drafted By": "Atlanta Braves",
+    "POS": "LHP",
+    "Drafted From": "Saguaro High School (Scottsdale, AZ)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "25",
+    "Phase": "JR",
+    "Player Name": "Kash Mayfield",
+    "Drafted By": "San Diego Padres",
+    "POS": "LHP",
+    "Drafted From": "Elk City High School (Elk City, OK)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "26",
+    "Phase": "JR",
+    "Player Name": "Ben Hess",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "27",
+    "Phase": "JR",
+    "Player Name": "Dante Nori",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Northville High School (Northville, MI)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "28",
+    "Phase": "JR",
+    "Player Name": "Walker Janek",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "Sam Houston State University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "29",
+    "Phase": "JR",
+    "Player Name": "Slade Caldwell",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "Valley View High School (Jonesboro, AR)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "30",
+    "Phase": "JR",
+    "Player Name": "Malcolm Moore",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Stanford University",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "31",
+    "Phase": "JR",
+    "Player Name": "Ryan Waldschmidt",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "University of Kentucky",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "32",
+    "Phase": "JR",
+    "Player Name": "Griff O'Ferrall",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "University of Virginia",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "33",
+    "Phase": "JR",
+    "Player Name": "Kyle DeBarge",
+    "Drafted By": "Minnesota Twins",
+    "POS": "SS",
+    "Drafted From": "University of Louisiana",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "34",
+    "Phase": "JR",
+    "Player Name": "Blake Burke",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "1B",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "35",
+    "Phase": "JR",
+    "Player Name": "JD Dix",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "Whitefish Bay High School (Whitefish Bay, WI)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "36",
+    "Phase": "JR",
+    "Player Name": "Braylon Doughty",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Chaparral High School (Temecula, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "37",
+    "Phase": "JR",
+    "Player Name": "Levi Sterling",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Notre Dame High School (Sherman Oaks, CA )",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "38",
+    "Phase": "JR",
+    "Player Name": "Brody Brecht",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Iowa",
+    "Year": 2024
+  },
+  {
+    "Round": "1",
+    "Pick": "39",
+    "Phase": "JR",
+    "Player Name": "Caleb Lomavita",
+    "Drafted By": "Washington Nationals",
+    "POS": "C",
+    "Drafted From": "University of California",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "40",
+    "Phase": "JR",
+    "Player Name": "Tommy White",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "41",
+    "Phase": "JR",
+    "Player Name": "David Shields",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Mt. Lebanon High School (Pittsburgh, PA)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "42",
+    "Phase": "JR",
+    "Player Name": "Jared Thomas",
+    "Drafted By": "Colorado Rockies",
+    "POS": "OF",
+    "Drafted From": "University of Texas",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "43",
+    "Phase": "JR",
+    "Player Name": "Caleb Bonemer",
+    "Drafted By": "Chicago White Sox",
+    "POS": "SS",
+    "Drafted From": "Okemos High School (Okemos, MI)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "44",
+    "Phase": "JR",
+    "Player Name": "Luke Dickerson",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Morris Knolls High School (Rockaway, NJ)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "45",
+    "Phase": "JR",
+    "Player Name": "Chris Cortez",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "46",
+    "Phase": "JR",
+    "Player Name": "Jonathan Santucci",
+    "Drafted By": "New York Mets",
+    "POS": "LHP",
+    "Drafted From": "Duke University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "47",
+    "Phase": "JR",
+    "Player Name": "Wyatt Sanford",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Independence High School (Frisco, TX)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "48",
+    "Phase": "JR",
+    "Player Name": "Jacob Cozart",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "C",
+    "Drafted From": "North Carolina State University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "49",
+    "Phase": "JR",
+    "Player Name": "Owen Hall",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Edmond-North High School (Edmond, OK)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "50",
+    "Phase": "JR",
+    "Player Name": "Payton Tolle",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "51",
+    "Phase": "JR",
+    "Player Name": "Tyson Lewis",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Millard West High School (Omaha, NE)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "52",
+    "Phase": "JR",
+    "Player Name": "Boston Bateman",
+    "Drafted By": "San Diego Padres",
+    "POS": "LHP",
+    "Drafted From": "Adolfo Camarillo High School (Camarillo, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "53",
+    "Phase": "JR",
+    "Player Name": "Bryce Cunningham",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "54",
+    "Phase": "JR",
+    "Player Name": "Cole Mathis",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "College of Charleston",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "55",
+    "Phase": "JR",
+    "Player Name": "Ryan Sloan",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "York Community High School (Elmhurst, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "56",
+    "Phase": "JR",
+    "Player Name": "Carter Johnson",
+    "Drafted By": "Miami Marlins",
+    "POS": "SS",
+    "Drafted From": "Oxford High School (Oxford, AL)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "57",
+    "Phase": "JR",
+    "Player Name": "Bryce Meccage",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "The Pennington School (Pennington, NJ)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "58",
+    "Phase": "JR",
+    "Player Name": "\u00c9milien Pitre",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "2B",
+    "Drafted From": "University of Kentucky",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "59",
+    "Phase": "JR",
+    "Player Name": "Khal Stephen",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "60",
+    "Phase": "JR",
+    "Player Name": "Billy Amick",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "61",
+    "Phase": "JR",
+    "Player Name": "Ethan Anderson",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "University of Virginia",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "62",
+    "Phase": "JR",
+    "Player Name": "Carter Holton",
+    "Drafted By": "Atlanta Braves",
+    "POS": "LHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "63",
+    "Phase": "JR",
+    "Player Name": "Griffin Burkhold",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Freedom High School (South Riding, VA)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "64",
+    "Phase": "JR",
+    "Player Name": "Ivan Luciano",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "C",
+    "Drafted From": "El Shaddai Christian Academy (Dorado, PR)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "65",
+    "Phase": "JR",
+    "Player Name": "Dylan Dreiling",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "66",
+    "Phase": "JR",
+    "Player Name": "Tyler Bell",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "Lincoln-Way East High School (Frankfort, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "67",
+    "Phase": "JR",
+    "Player Name": "Chris Levonas",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Christian Brothers Academy (Lincroft, NJ)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "68",
+    "Phase": "JR",
+    "Player Name": "Blake Larson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "IMG Academy (Bradenton, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "69",
+    "Phase": "JR",
+    "Player Name": "Dasan Hill",
+    "Drafted By": "Minnesota Twins",
+    "POS": "LHP",
+    "Drafted From": "Grapevine High School (Grapevine, TX)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "70",
+    "Phase": "JR",
+    "Player Name": "Aiden May",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "71",
+    "Phase": "JR",
+    "Player Name": "Luke Holman",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "72",
+    "Phase": "JR",
+    "Player Name": "Ethan Schiefelbein",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "Corona High School (Corona, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "73",
+    "Phase": "JR",
+    "Player Name": "Gage Jump",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "2",
+    "Pick": "74",
+    "Phase": "JR",
+    "Player Name": "Ryan Johnson",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "75",
+    "Phase": "JR",
+    "Player Name": "Joshua Kuroda-Grauer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Rutgers University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "76",
+    "Phase": "JR",
+    "Player Name": "Drew Beam",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "77",
+    "Phase": "JR",
+    "Player Name": "Cole Messina",
+    "Drafted By": "Colorado Rockies",
+    "POS": "C",
+    "Drafted From": "University of South Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "78",
+    "Phase": "JR",
+    "Player Name": "Nick McLain",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Arizona State University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "79",
+    "Phase": "JR",
+    "Player Name": "Kevin Bazzell",
+    "Drafted By": "Washington Nationals",
+    "POS": "C",
+    "Drafted From": "Texas Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "80",
+    "Phase": "JR",
+    "Player Name": "Brian Holiday",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "81",
+    "Phase": "JR",
+    "Player Name": "Ryan Prager",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "LHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "82",
+    "Phase": "JR",
+    "Player Name": "Nate Dohm",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "83",
+    "Phase": "JR",
+    "Player Name": "Josh Hartle",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "84",
+    "Phase": "JR",
+    "Player Name": "Joey Oakie",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Ankeny Centennial High School (Ankeny, IA)",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "85",
+    "Phase": "JR",
+    "Player Name": "Josh Randall",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "University of San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "86",
+    "Phase": "JR",
+    "Player Name": "Brandon Neely",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "87",
+    "Phase": "JR",
+    "Player Name": "Mike Sirota",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "Northeastern University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "88",
+    "Phase": "JR",
+    "Player Name": "Cobb Hightower",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "East Rowan High School (Salisbury, NC)",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "89",
+    "Phase": "JR",
+    "Player Name": "Thatcher Hurd",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "90",
+    "Phase": "JR",
+    "Player Name": "Ronny Cruz",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Miami Christian School (Miami, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "91",
+    "Phase": "JR",
+    "Player Name": "Hunter Cranton",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Kansas",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "92",
+    "Phase": "JR",
+    "Player Name": "Gage Miller",
+    "Drafted By": "Miami Marlins",
+    "POS": "2B",
+    "Drafted From": "University of Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "93",
+    "Phase": "JR",
+    "Player Name": "Jaron DeBerry",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Dallas Baptist University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "94",
+    "Phase": "JR",
+    "Player Name": "Nathan Flewelling",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "C",
+    "Drafted From": "St. Joseph High School (Alberta, Canada)",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "95",
+    "Phase": "JR",
+    "Player Name": "Johnny King",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "LHP",
+    "Drafted From": "Naples High School (Naples, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "96",
+    "Phase": "JR",
+    "Player Name": "Khadim Diaw",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "97",
+    "Phase": "JR",
+    "Player Name": "Austin Overn",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "University of Southern California",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "98",
+    "Phase": "JR",
+    "Player Name": "Chase Harlan",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "3B",
+    "Drafted From": "Central Bucks East High School (Doylestown, PA)",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "99",
+    "Phase": "JR",
+    "Player Name": "Luke Sinnard",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "University of Indiana",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "100",
+    "Phase": "JR",
+    "Player Name": "John Spikerman",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "101",
+    "Phase": "JR",
+    "Player Name": "Ryan Forcucci",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "UC San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "102",
+    "Phase": "JR",
+    "Player Name": "Daniel Eagen",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Presbyterian College",
+    "Year": 2024
+  },
+  {
+    "Round": "3",
+    "Pick": "103",
+    "Phase": "JR",
+    "Player Name": "Casey Cook",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "104",
+    "Phase": "JR",
+    "Player Name": "Rodney Green",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "University of California",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "105",
+    "Phase": "JR",
+    "Player Name": "L.P. Langevin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of Louisiana",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "106",
+    "Phase": "JR",
+    "Player Name": "Blake Wright",
+    "Drafted By": "Colorado Rockies",
+    "POS": "3B",
+    "Drafted From": "Clemson University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "107",
+    "Phase": "JR",
+    "Player Name": "Casey Saucke",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "University of Virginia",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "108",
+    "Phase": "JR",
+    "Player Name": "Jackson Kent",
+    "Drafted By": "Washington Nationals",
+    "POS": "LHP",
+    "Drafted From": "University of Arizona",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "109",
+    "Phase": "JR",
+    "Player Name": "Ryan Campos",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "Arizona State University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "110",
+    "Phase": "JR",
+    "Player Name": "Austin Gordon",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Clemson University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "111",
+    "Phase": "JR",
+    "Player Name": "Eli Serrano III",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "North Carolina State University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "112",
+    "Phase": "JR",
+    "Player Name": "Eddie Rynders",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "Wisconsin Lutheran High School (Milwaukee, WI)",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "113",
+    "Phase": "JR",
+    "Player Name": "Rafe Schlesinger",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "University of Miami",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "114",
+    "Phase": "JR",
+    "Player Name": "Michael Massey",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "115",
+    "Phase": "JR",
+    "Player Name": "Zach Ehrhard",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "116",
+    "Phase": "JR",
+    "Player Name": "Dakota Jordan",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "117",
+    "Phase": "JR",
+    "Player Name": "Peyton Stovall",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "2B",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "118",
+    "Phase": "JR",
+    "Player Name": "Tyson Neighbors",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Kansas State University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "119",
+    "Phase": "JR",
+    "Player Name": "Gage Ziehl",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "120",
+    "Phase": "JR",
+    "Player Name": "Ty Southisene",
+    "Drafted By": "Chicago Cubs",
+    "POS": "SS",
+    "Drafted From": "Basic High School (Henderson, NV)",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "121",
+    "Phase": "JR",
+    "Player Name": "Josh Caron",
+    "Drafted By": "Seattle Mariners",
+    "POS": "C",
+    "Drafted From": "University of Nebraska",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "122",
+    "Phase": "JR",
+    "Player Name": "Fenwick Trimble",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "James Madison University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "123",
+    "Phase": "JR",
+    "Player Name": "Marco Dinges",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "124",
+    "Phase": "JR",
+    "Player Name": "Nate Knowles",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "William & Mary",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "125",
+    "Phase": "JR",
+    "Player Name": "Sean Keys",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "3B",
+    "Drafted From": "Bucknell University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "126",
+    "Phase": "JR",
+    "Player Name": "Jaime Ferrer",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "127",
+    "Phase": "JR",
+    "Player Name": "Chase Allsup",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Auburn University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "128",
+    "Phase": "JR",
+    "Player Name": "Jakob Wright",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "Cal Poly",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "129",
+    "Phase": "JR",
+    "Player Name": "Herick Hernandez",
+    "Drafted By": "Atlanta Braves",
+    "POS": "LHP",
+    "Drafted From": "University of Miami",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "130",
+    "Phase": "JR",
+    "Player Name": "Carson DeMartini",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Virginia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "131",
+    "Phase": "JR",
+    "Player Name": "Parker Smith",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Rice University",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "132",
+    "Phase": "JR",
+    "Player Name": "Tytus Cissell",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "Francis Howell High School (St Charles, MO)",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "133",
+    "Phase": "JR",
+    "Player Name": "David Hagaman",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "University of West Virginia",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "134",
+    "Phase": "JR",
+    "Player Name": "Kavares Tears",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "135",
+    "Phase": "JR",
+    "Player Name": "Clark Candiotti",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "University of Arizona",
+    "Year": 2024
+  },
+  {
+    "Round": "4",
+    "Pick": "136",
+    "Phase": "JR",
+    "Player Name": "Nick Mitchell",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Indiana University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "137",
+    "Phase": "JR",
+    "Player Name": "Sam Stuhr",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "University of Portland",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "138",
+    "Phase": "JR",
+    "Player Name": "A.J. Causey",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "139",
+    "Phase": "JR",
+    "Player Name": "Lebarron Johnson Jr.",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Texas",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "140",
+    "Phase": "JR",
+    "Player Name": "Sam Antonacci",
+    "Drafted By": "Chicago White Sox",
+    "POS": "IF",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "141",
+    "Phase": "JR",
+    "Player Name": "Randal Diaz",
+    "Drafted By": "Washington Nationals",
+    "POS": "SS",
+    "Drafted From": "Indiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "142",
+    "Phase": "JR",
+    "Player Name": "Braden Davis",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "143",
+    "Phase": "JR",
+    "Player Name": "Dylan Jordan",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Viera High School (Melbourne, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "144",
+    "Phase": "JR",
+    "Player Name": "Trey Snyder",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Liberty North High School (Liberty, MO)",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "145",
+    "Phase": "JR",
+    "Player Name": "Will Taylor",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Clemson University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "146",
+    "Phase": "JR",
+    "Player Name": "Aidan Major",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "West Virginia University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "147",
+    "Phase": "JR",
+    "Player Name": "Jack Penney",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "University of Notre Dame",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "148",
+    "Phase": "JR",
+    "Player Name": "Brandon Clarke",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "State College of Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "149",
+    "Phase": "JR",
+    "Player Name": "Jakob Christian",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "University of San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "150",
+    "Phase": "JR",
+    "Player Name": "Tristan Smith",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Clemson University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "151",
+    "Phase": "JR",
+    "Player Name": "Kale Fountain",
+    "Drafted By": "San Diego Padres",
+    "POS": "3B",
+    "Drafted From": "Norris High School (Firth, NE)",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "152",
+    "Phase": "JR",
+    "Player Name": "Greysen Carter",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "153",
+    "Phase": "JR",
+    "Player Name": "Ariel Armas",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "University of San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "154",
+    "Phase": "JR",
+    "Player Name": "Charlie Beilenson",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "155",
+    "Phase": "JR",
+    "Player Name": "Grant Shepards",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "Mountain Vista High School (Highlands Ranch, CO)",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "156",
+    "Phase": "JR",
+    "Player Name": "John Holobetz",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Old Dominion University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "157",
+    "Phase": "JR",
+    "Player Name": "Jacob Kmatz",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "158",
+    "Phase": "JR",
+    "Player Name": "Jackson Wentworth",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Kansas State University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "159",
+    "Phase": "JR",
+    "Player Name": "Caden Kendle",
+    "Drafted By": "Minnesota Twins",
+    "POS": "OF",
+    "Drafted From": "University of California",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "160",
+    "Phase": "JR",
+    "Player Name": "Ryan Stafford",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Cal Poly",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "161",
+    "Phase": "JR",
+    "Player Name": "Nick Montgomery",
+    "Drafted By": "Atlanta Braves",
+    "POS": "C",
+    "Drafted From": "Cypress High School (Cypress, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "162",
+    "Phase": "JR",
+    "Player Name": "Carter Mathison",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "University of Indiana",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "163",
+    "Phase": "JR",
+    "Player Name": "Cole Hertzler",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Liberty University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "164",
+    "Phase": "JR",
+    "Player Name": "Connor Foley",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Indiana University",
+    "Year": 2024
+  },
+  {
+    "Round": "5",
+    "Pick": "165",
+    "Phase": "JR",
+    "Player Name": "Devin Fitz-Gerald",
+    "Drafted By": "Texas Rangers",
+    "POS": "SS",
+    "Drafted From": "Marjory Stoneman Douglas High School (Parkland, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "166",
+    "Phase": "JR",
+    "Player Name": "Josiah Romeo",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Mayfield Secondary School (Ontario, Canada)",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "167",
+    "Phase": "JR",
+    "Player Name": "Tanner Jones",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Texas A&M",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "168",
+    "Phase": "JR",
+    "Player Name": "Konner Eaton",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "George Mason University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "169",
+    "Phase": "JR",
+    "Player Name": "Jackson Appel",
+    "Drafted By": "Chicago White Sox",
+    "POS": "C",
+    "Drafted From": "Texas A&M",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "170",
+    "Phase": "JR",
+    "Player Name": "Davian Garcia",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Florida Gulf Coast University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "171",
+    "Phase": "JR",
+    "Player Name": "Josh Kross",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "C",
+    "Drafted From": "University of Cincinnati",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "172",
+    "Phase": "JR",
+    "Player Name": "Peyton Olejnik",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Miami University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "173",
+    "Phase": "JR",
+    "Player Name": "Corey Collins",
+    "Drafted By": "New York Mets",
+    "POS": "1B",
+    "Drafted From": "University of Georgia",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "174",
+    "Phase": "JR",
+    "Player Name": "Matt Ager",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "UC Santa Barbara",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "175",
+    "Phase": "JR",
+    "Player Name": "Caden Favors",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Wichita State University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "176",
+    "Phase": "JR",
+    "Player Name": "Woody Hadeen",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "University of California",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "177",
+    "Phase": "JR",
+    "Player Name": "Blake Aita",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Kennesaw State University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "178",
+    "Phase": "JR",
+    "Player Name": "Robert Hipwell",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "Santa Clara University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "179",
+    "Phase": "JR",
+    "Player Name": "Jacob Friend",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Davidson College",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "180",
+    "Phase": "JR",
+    "Player Name": "Darrien McDowell",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "University of West Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "181",
+    "Phase": "JR",
+    "Player Name": "Griffin Herring",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "182",
+    "Phase": "JR",
+    "Player Name": "Ryan Gallagher",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "UC Santa Barbara",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "183",
+    "Phase": "JR",
+    "Player Name": "Grant Knipp",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B/RHP",
+    "Drafted From": "Campbell University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "184",
+    "Phase": "JR",
+    "Player Name": "Payton Green",
+    "Drafted By": "Miami Marlins",
+    "POS": "SS",
+    "Drafted From": "Georgia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "185",
+    "Phase": "JR",
+    "Player Name": "Chandler Welch",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Tulane University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "186",
+    "Phase": "JR",
+    "Player Name": "Janzen Keisel",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "187",
+    "Phase": "JR",
+    "Player Name": "Aaron Parker",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "UC Santa Barbara",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "188",
+    "Phase": "JR",
+    "Player Name": "Derek Bender",
+    "Drafted By": "Minnesota Twins",
+    "POS": "C",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "189",
+    "Phase": "JR",
+    "Player Name": "DJ Layton",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "SS",
+    "Drafted From": "Charlotte Christian School (Charlotte, NC)",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "190",
+    "Phase": "JR",
+    "Player Name": "Brooks Auger",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "191",
+    "Phase": "JR",
+    "Player Name": "Ethan Bagwell",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Collinsville High School (Collinsville, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "192",
+    "Phase": "JR",
+    "Player Name": "Kodey Shojinaga",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "C",
+    "Drafted From": "University of Kansas",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "193",
+    "Phase": "JR",
+    "Player Name": "Caden Powell",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Seminole State University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "194",
+    "Phase": "JR",
+    "Player Name": "Mason Marriott",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Baylor University",
+    "Year": 2024
+  },
+  {
+    "Round": "6",
+    "Pick": "195",
+    "Phase": "JR",
+    "Player Name": "Garrett Horn",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "Liberty University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "196",
+    "Phase": "JR",
+    "Player Name": "Dylan Fien",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Great Oak High School (Temecula, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "197",
+    "Phase": "JR",
+    "Player Name": "Dennis Colleran",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Northeastern University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "198",
+    "Phase": "JR",
+    "Player Name": "Fidel Ulloa",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "199",
+    "Phase": "JR",
+    "Player Name": "Phil Fox",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Pittsburgh",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "200",
+    "Phase": "JR",
+    "Player Name": "Robert Cranz",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "201",
+    "Phase": "JR",
+    "Player Name": "Andrew Dutkany",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "202",
+    "Phase": "JR",
+    "Player Name": "Bridger Holmes",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Oregon State University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "203",
+    "Phase": "JR",
+    "Player Name": "Will Watson",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Southern California",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "204",
+    "Phase": "JR",
+    "Player Name": "Connor Wietgrefe",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "University of Minnesota",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "205",
+    "Phase": "JR",
+    "Player Name": "Cameron Sullivan",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Mt. Vernon High School (Mt. Vernon, IN)",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "206",
+    "Phase": "JR",
+    "Player Name": "Jackson Strong",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Canisius College",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "207",
+    "Phase": "JR",
+    "Player Name": "Will Turner",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "University of South Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "208",
+    "Phase": "JR",
+    "Player Name": "Greg Farone",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "209",
+    "Phase": "JR",
+    "Player Name": "Myles Smith",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of California, Irvine",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "210",
+    "Phase": "JR",
+    "Player Name": "Kai Roberts",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "University of Utah",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "211",
+    "Phase": "JR",
+    "Player Name": "Wyatt Parliament",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Virginia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "212",
+    "Phase": "JR",
+    "Player Name": "Ivan Brethowr",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "UC Santa Barbara",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "213",
+    "Phase": "JR",
+    "Player Name": "Brock Moore",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Oregon",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "214",
+    "Phase": "JR",
+    "Player Name": "Nick Brink",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of Portland",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "215",
+    "Phase": "JR",
+    "Player Name": "Mason Molina",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "LHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "216",
+    "Phase": "JR",
+    "Player Name": "Ryan Andrade",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Pittsburgh",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "217",
+    "Phase": "JR",
+    "Player Name": "Austin Cates",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "UNLV",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "218",
+    "Phase": "JR",
+    "Player Name": "Eli Jones",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "219",
+    "Phase": "JR",
+    "Player Name": "Carson Dorsey",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "LHP",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "220",
+    "Phase": "JR",
+    "Player Name": "Elijah Hainline",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "Oregon State University",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "221",
+    "Phase": "JR",
+    "Player Name": "Brett Sears",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "University of Nebraska",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "222",
+    "Phase": "JR",
+    "Player Name": "Joel Dragoo",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "OF",
+    "Drafted From": "Presbyterian College",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "223",
+    "Phase": "JR",
+    "Player Name": "Joseph Sullivan",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of South Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "224",
+    "Phase": "JR",
+    "Player Name": "Luke Craig",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "UNC Wilmington",
+    "Year": 2024
+  },
+  {
+    "Round": "7",
+    "Pick": "225",
+    "Phase": "JR",
+    "Player Name": "Rafe Perich",
+    "Drafted By": "Texas Rangers",
+    "POS": "3B",
+    "Drafted From": "Lehigh University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "226",
+    "Phase": "JR",
+    "Player Name": "Davis Diaz",
+    "Drafted By": "Oakland Athletics",
+    "POS": "C",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "227",
+    "Phase": "JR",
+    "Player Name": "Nick Conte",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "228",
+    "Phase": "JR",
+    "Player Name": "Luke Jewett",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "UCLA",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "229",
+    "Phase": "JR",
+    "Player Name": "Aaron Combs",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Tennessee",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "230",
+    "Phase": "JR",
+    "Player Name": "Sam Petersen",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "University of Iowa",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "231",
+    "Phase": "JR",
+    "Player Name": "Jack Findlay",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "University of Notre Dame",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "232",
+    "Phase": "JR",
+    "Player Name": "Randy Flores",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "SS",
+    "Drafted From": "Alabama State University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "233",
+    "Phase": "JR",
+    "Player Name": "Ryan Lambert",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "234",
+    "Phase": "JR",
+    "Player Name": "Gavin Adams",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "235",
+    "Phase": "JR",
+    "Player Name": "Donovan Zsak",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Rutgers University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "236",
+    "Phase": "JR",
+    "Player Name": "Ethan Sloan",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "Regis University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "237",
+    "Phase": "JR",
+    "Player Name": "Conrad Cason",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Greater Atlanta Christian School (Norcross, GA)",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "238",
+    "Phase": "JR",
+    "Player Name": "Niko Mazza",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "University of Southern Mississippi",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "239",
+    "Phase": "JR",
+    "Player Name": "Luke Hayden",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Indiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "240",
+    "Phase": "JR",
+    "Player Name": "Nick Wissman",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "University of Dayton",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "241",
+    "Phase": "JR",
+    "Player Name": "Tyler Wilson",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "242",
+    "Phase": "JR",
+    "Player Name": "Edgar Alvarez",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "Nicholls State University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "243",
+    "Phase": "JR",
+    "Player Name": "Will Riley",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Virginia Military Institute",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "244",
+    "Phase": "JR",
+    "Player Name": "Jacob Jenkins-Cowart",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "East Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "245",
+    "Phase": "JR",
+    "Player Name": "Sam Garcia",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "LHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "246",
+    "Phase": "JR",
+    "Player Name": "Jayden Voelker",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Northern Essex Community College",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "247",
+    "Phase": "JR",
+    "Player Name": "Eddie Micheletti Jr.",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "Virginia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "248",
+    "Phase": "JR",
+    "Player Name": "Jakob Hall",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "249",
+    "Phase": "JR",
+    "Player Name": "Colin Tuft",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Tulane University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "250",
+    "Phase": "JR",
+    "Player Name": "Brendan Tunink",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Newman Central Catholic High School (Sterling, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "251",
+    "Phase": "JR",
+    "Player Name": "Logan Samuels",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "University of Montevallo",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "252",
+    "Phase": "JR",
+    "Player Name": "Camron Hill",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "LHP",
+    "Drafted From": "Georgia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "253",
+    "Phase": "JR",
+    "Player Name": "Dylan Howard",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Radford University",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "254",
+    "Phase": "JR",
+    "Player Name": "Travis Garnett",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "William & Mary",
+    "Year": 2024
+  },
+  {
+    "Round": "8",
+    "Pick": "255",
+    "Phase": "JR",
+    "Player Name": "Anthony Susac",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "University of Arizona",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "256",
+    "Phase": "JR",
+    "Player Name": "Jared Sprague-Lott",
+    "Drafted By": "Oakland Athletics",
+    "POS": "3B",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "257",
+    "Phase": "JR",
+    "Player Name": "Canyon Brown",
+    "Drafted By": "Kansas City Royals",
+    "POS": "C",
+    "Drafted From": "North Carolina A&T State University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "258",
+    "Phase": "JR",
+    "Player Name": "Tommy Hopfe",
+    "Drafted By": "Colorado Rockies",
+    "POS": "1B",
+    "Drafted From": "California State University, Fresno",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "259",
+    "Phase": "JR",
+    "Player Name": "Jack Young",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Iowa",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "260",
+    "Phase": "JR",
+    "Player Name": "Jackson Ross",
+    "Drafted By": "Washington Nationals",
+    "POS": "3B",
+    "Drafted From": "University of Mississippi",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "261",
+    "Phase": "JR",
+    "Player Name": "Cade McGee",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Texas Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "262",
+    "Phase": "JR",
+    "Player Name": "Derek Clark",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "LHP",
+    "Drafted From": "West Virginia University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "263",
+    "Phase": "JR",
+    "Player Name": "Jaxon Jelkin",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Houston",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "264",
+    "Phase": "JR",
+    "Player Name": "Duce Gourson",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "SS",
+    "Drafted From": "UCLA",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "265",
+    "Phase": "JR",
+    "Player Name": "Sean Matson",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Harvard University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "266",
+    "Phase": "JR",
+    "Player Name": "Zach Swanson",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Toutle Lake High School (Toutle, WA)",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "267",
+    "Phase": "JR",
+    "Player Name": "Hudson White",
+    "Drafted By": "Boston Red Sox",
+    "POS": "C",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "268",
+    "Phase": "JR",
+    "Player Name": "Zane Zielinski",
+    "Drafted By": "San Francisco Giants",
+    "POS": "SS",
+    "Drafted From": "University of Illinois at Chicago",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "269",
+    "Phase": "JR",
+    "Player Name": "Ryan McCrystal",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "East Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "270",
+    "Phase": "JR",
+    "Player Name": "Zach Evans",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "Lenoir-Rhyne University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "271",
+    "Phase": "JR",
+    "Player Name": "Tanner Bauman",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "Auburn University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "272",
+    "Phase": "JR",
+    "Player Name": "Brooks Caple",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Lamar University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "273",
+    "Phase": "JR",
+    "Player Name": "Aiden Butler",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Polk State College",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "274",
+    "Phase": "JR",
+    "Player Name": "Dub Gleed",
+    "Drafted By": "Miami Marlins",
+    "POS": "3B",
+    "Drafted From": "University of California",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "275",
+    "Phase": "JR",
+    "Player Name": "Griffin Tobias",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Lake Central High Scho (St John, IN)",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "276",
+    "Phase": "JR",
+    "Player Name": "Garrett Gainey",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "LHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "277",
+    "Phase": "JR",
+    "Player Name": "Colby Holcombe",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "278",
+    "Phase": "JR",
+    "Player Name": "Jason Doktorczyk",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of Nevada",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "279",
+    "Phase": "JR",
+    "Player Name": "Jack Crowder",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Illinois",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "280",
+    "Phase": "JR",
+    "Player Name": "Kole Myers",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Troy University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "281",
+    "Phase": "JR",
+    "Player Name": "Owen Hackman",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "282",
+    "Phase": "JR",
+    "Player Name": "Marcus Morgan",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Iowa",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "283",
+    "Phase": "JR",
+    "Player Name": "Ryan Smith",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "University of Illinois at Chicago",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "284",
+    "Phase": "JR",
+    "Player Name": "Ben McLaughlin",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "3B",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "9",
+    "Pick": "285",
+    "Phase": "JR",
+    "Player Name": "Keith Jones II",
+    "Drafted By": "Texas Rangers",
+    "POS": "OF",
+    "Drafted From": "New Mexico State University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "286",
+    "Phase": "JR",
+    "Player Name": "Cameron Leary",
+    "Drafted By": "Oakland Athletics",
+    "POS": "OF",
+    "Drafted From": "Boston College",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "287",
+    "Phase": "JR",
+    "Player Name": "Nate Ackenhausen",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "LSU",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "288",
+    "Phase": "JR",
+    "Player Name": "Fisher Jameson",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "289",
+    "Phase": "JR",
+    "Player Name": "Cole McConnell",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "290",
+    "Phase": "JR",
+    "Player Name": "Luke Johnson",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "University of Maryland, Baltimore",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "291",
+    "Phase": "JR",
+    "Player Name": "Bryce Madron",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "292",
+    "Phase": "JR",
+    "Player Name": "Ryan Nicholson",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "1B",
+    "Drafted From": "University of Kentucky",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "293",
+    "Phase": "JR",
+    "Player Name": "Brendan Girton",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "294",
+    "Phase": "JR",
+    "Player Name": "Derek Berg",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "Army West Point",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "295",
+    "Phase": "JR",
+    "Player Name": "Chase Mobley",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Durant High School (Plant City, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "296",
+    "Phase": "JR",
+    "Player Name": "R.J. Sales",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "UNC Wilmington",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "297",
+    "Phase": "JR",
+    "Player Name": "Devin Futrell",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "298",
+    "Phase": "JR",
+    "Player Name": "Cade Vernon",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Murray State University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "299",
+    "Phase": "JR",
+    "Player Name": "Yanuel Casiano",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "C",
+    "Drafted From": "Academia Deportiva Albergue (Olimpico, PR)",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "300",
+    "Phase": "JR",
+    "Player Name": "Jack Costello",
+    "Drafted By": "San Diego Padres",
+    "POS": "3B",
+    "Drafted From": "University of San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "301",
+    "Phase": "JR",
+    "Player Name": "Joe Delossantos",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "William & Mary",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "302",
+    "Phase": "JR",
+    "Player Name": "Matt Halbach",
+    "Drafted By": "Chicago Cubs",
+    "POS": "3B",
+    "Drafted From": "UC San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "303",
+    "Phase": "JR",
+    "Player Name": "Anthony Donofrio",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "University of North Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "304",
+    "Phase": "JR",
+    "Player Name": "Michael Snyder",
+    "Drafted By": "Miami Marlins",
+    "POS": "3B",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "305",
+    "Phase": "JR",
+    "Player Name": "Ethan Dorchies",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Cary-Grove High School (Cary, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "306",
+    "Phase": "JR",
+    "Player Name": "Trey Pooser",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "307",
+    "Phase": "JR",
+    "Player Name": "Carter Cunningham",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "OF",
+    "Drafted From": "East Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "308",
+    "Phase": "JR",
+    "Player Name": "Peyton Carr",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "High Point University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "309",
+    "Phase": "JR",
+    "Player Name": "Christian Rodriguez",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "310",
+    "Phase": "JR",
+    "Player Name": "Seamus Barrett",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Loyola Marymount University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "311",
+    "Phase": "JR",
+    "Player Name": "Jacob Kroeger",
+    "Drafted By": "Atlanta Braves",
+    "POS": "LHP",
+    "Drafted From": "Maryville University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "312",
+    "Phase": "JR",
+    "Player Name": "Brady Day",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "SS",
+    "Drafted From": "Kansas State University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "313",
+    "Phase": "JR",
+    "Player Name": "Ramsey David",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Southeastern University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "314",
+    "Phase": "JR",
+    "Player Name": "Trent Youngblood",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Transylvania University",
+    "Year": 2024
+  },
+  {
+    "Round": "10",
+    "Pick": "315",
+    "Phase": "JR",
+    "Player Name": "Jake Jekielek",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Northwood University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "316",
+    "Phase": "JR",
+    "Player Name": "Kyle Robinson",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Texas Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "317",
+    "Phase": "JR",
+    "Player Name": "Zachary Cawyer",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "318",
+    "Phase": "JR",
+    "Player Name": "Alan Espinal",
+    "Drafted By": "Colorado Rockies",
+    "POS": "C",
+    "Drafted From": "Vanderbilt University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "319",
+    "Phase": "JR",
+    "Player Name": "Blake Shepardson",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of San Francisco",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "320",
+    "Phase": "JR",
+    "Player Name": "Merritt Beeker",
+    "Drafted By": "Washington Nationals",
+    "POS": "LHP",
+    "Drafted From": "Ball State University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "321",
+    "Phase": "JR",
+    "Player Name": "Jon Jon Gazdar",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Austin Peay State University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "322",
+    "Phase": "JR",
+    "Player Name": "Trey Gregory-Alford",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Coronado High School (Colorado Springs, CO)",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "323",
+    "Phase": "JR",
+    "Player Name": "Nick Roselli",
+    "Drafted By": "New York Mets",
+    "POS": "2B",
+    "Drafted From": "Binghamton University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "324",
+    "Phase": "JR",
+    "Player Name": "Jacob Bimbi",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "LHP",
+    "Drafted From": "Western Kentucky University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "325",
+    "Phase": "JR",
+    "Player Name": "Garrett Howe",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "SS",
+    "Drafted From": "Samford University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "326",
+    "Phase": "JR",
+    "Player Name": "Micah Ashman",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "University of Utah",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "327",
+    "Phase": "JR",
+    "Player Name": "Steven Brooks",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Cal Poly",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "328",
+    "Phase": "JR",
+    "Player Name": "Andy Polanco",
+    "Drafted By": "San Francisco Giants",
+    "POS": "OF",
+    "Drafted From": "Central Pointe Christian Academy (Kissimmee, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "329",
+    "Phase": "JR",
+    "Player Name": "Edgar Edgar Colon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Felix Varela Senior High School (Miami, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "330",
+    "Phase": "JR",
+    "Player Name": "Sean Barnett",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP/IF",
+    "Drafted From": "Wingate University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "331",
+    "Phase": "JR",
+    "Player Name": "Mack Estrada",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Northwest Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "332",
+    "Phase": "JR",
+    "Player Name": "Eli Lovich",
+    "Drafted By": "Chicago Cubs",
+    "POS": "OF",
+    "Drafted From": "Blue Valley West High School (Overland Park, KS)",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "333",
+    "Phase": "JR",
+    "Player Name": "Christian Little",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "334",
+    "Phase": "JR",
+    "Player Name": "Jake Faherty",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "335",
+    "Phase": "JR",
+    "Player Name": "Caedmon Parke",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "336",
+    "Phase": "JR",
+    "Player Name": "Cade Citelli",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Houston",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "337",
+    "Phase": "JR",
+    "Player Name": "Troy Guthrie",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Parrish Community High School (Parrish, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "338",
+    "Phase": "JR",
+    "Player Name": "Michael Carpenter",
+    "Drafted By": "Minnesota Twins",
+    "POS": "LHP",
+    "Drafted From": "Madison College",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "339",
+    "Phase": "JR",
+    "Player Name": "Sebastian Gongora",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "LHP",
+    "Drafted From": "University of Louisville",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "340",
+    "Phase": "JR",
+    "Player Name": "Aidan Foeller",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Southern Illinois University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "341",
+    "Phase": "JR",
+    "Player Name": "Patrick Clohisy",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "St. Louis University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "342",
+    "Phase": "JR",
+    "Player Name": "Titan Hayes",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Austin Peay State University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "343",
+    "Phase": "JR",
+    "Player Name": "Jason Schiavone",
+    "Drafted By": "Houston Astros",
+    "POS": "C",
+    "Drafted From": "James Madison University",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "344",
+    "Phase": "JR",
+    "Player Name": "Bo Walker",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "Starr's Mill High School (Fayetteville, GA)",
+    "Year": 2024
+  },
+  {
+    "Round": "11",
+    "Pick": "345",
+    "Phase": "JR",
+    "Player Name": "Dalton Pence",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "University of North Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "346",
+    "Phase": "JR",
+    "Player Name": "Ali Camarillo",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "Texas A&M University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "347",
+    "Phase": "JR",
+    "Player Name": "Tommy Molsky",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "348",
+    "Phase": "JR",
+    "Player Name": "Everett Catlett",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "Georgetown University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "349",
+    "Phase": "JR",
+    "Player Name": "Nathan Archer",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "Bowling Green University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "350",
+    "Phase": "JR",
+    "Player Name": "Alexander Meckley",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Coastal Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "351",
+    "Phase": "JR",
+    "Player Name": "Ian Petrutz",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "OF",
+    "Drafted From": "University of Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "352",
+    "Phase": "JR",
+    "Player Name": "Fran Oschell III",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "353",
+    "Phase": "JR",
+    "Player Name": "Ethan Lanthier",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Kansas",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "354",
+    "Phase": "JR",
+    "Player Name": "Camden Janik",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "C",
+    "Drafted From": "University of Illinois",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "355",
+    "Phase": "JR",
+    "Player Name": "Sean Heppner",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "University of British Columbia",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "356",
+    "Phase": "JR",
+    "Player Name": "Jude Warwick",
+    "Drafted By": "Detroit Tigers",
+    "POS": "SS",
+    "Drafted From": "Downers Grove North High School (Downers Grove, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "357",
+    "Phase": "JR",
+    "Player Name": "Brady Tygart",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Arkansas",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "358",
+    "Phase": "JR",
+    "Player Name": "Zander Darby",
+    "Drafted By": "San Francisco Giants",
+    "POS": "3B",
+    "Drafted From": "UC Santa Barbara",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "359",
+    "Phase": "JR",
+    "Player Name": "Will Cannon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Auburn University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "360",
+    "Phase": "JR",
+    "Player Name": "Brandon Butterworth",
+    "Drafted By": "Colorado Rockies",
+    "POS": "SS",
+    "Drafted From": "NC State University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "361",
+    "Phase": "JR",
+    "Player Name": "Brendan Jones",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Kansas State University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "362",
+    "Phase": "JR",
+    "Player Name": "Daniel Avitia",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Grand Canyon University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "363",
+    "Phase": "JR",
+    "Player Name": "Evan Truitt",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Charleston Southern University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "364",
+    "Phase": "JR",
+    "Player Name": "Connor Caskenette",
+    "Drafted By": "Miami Marlins",
+    "POS": "C",
+    "Drafted From": "Purdue University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "365",
+    "Phase": "JR",
+    "Player Name": "Tyson Hardin",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "366",
+    "Phase": "JR",
+    "Player Name": "Jack Lines",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "SS",
+    "Drafted From": "TNXL Academy (Ocoee, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "367",
+    "Phase": "JR",
+    "Player Name": "Carson Messina",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Summerville High School (Summerville, SC)",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "368",
+    "Phase": "JR",
+    "Player Name": "Christian Becerra",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of California",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "369",
+    "Phase": "JR",
+    "Player Name": "Andrew Tess",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "C",
+    "Drafted From": "Calvary Christian High School (Clearwater, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "370",
+    "Phase": "JR",
+    "Player Name": "Cody Morse",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "Weatherford College",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "371",
+    "Phase": "JR",
+    "Player Name": "Cayman Goode",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Douglas S. Freeman High School (Richmond, VA)",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "372",
+    "Phase": "JR",
+    "Player Name": "A.J. Wilson",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "LHP",
+    "Drafted From": "UNC Charlotte",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "373",
+    "Phase": "JR",
+    "Player Name": "Ryan Verdugo",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "CSU Bakersfield",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "374",
+    "Phase": "JR",
+    "Player Name": "John West",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Boston College",
+    "Year": 2024
+  },
+  {
+    "Round": "12",
+    "Pick": "375",
+    "Phase": "JR",
+    "Player Name": "Josh Springer",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "Corona High School (Corona, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "376",
+    "Phase": "JR",
+    "Player Name": "Riley Huge",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "Winthrop University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "377",
+    "Phase": "JR",
+    "Player Name": "Sam Kulasingam",
+    "Drafted By": "Kansas City Royals",
+    "POS": "3B",
+    "Drafted From": "Air Force Academy",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "378",
+    "Phase": "JR",
+    "Player Name": "Justin Loer",
+    "Drafted By": "Colorado Rockies",
+    "POS": "LHP",
+    "Drafted From": "Louisiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "379",
+    "Phase": "JR",
+    "Player Name": "Pierce George",
+    "Drafted By": "Chicago White Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "380",
+    "Phase": "JR",
+    "Player Name": "Bryant Olson",
+    "Drafted By": "Washington Nationals",
+    "POS": "LHP",
+    "Drafted From": "Mercer University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "381",
+    "Phase": "JR",
+    "Player Name": "Nolan Sparks",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "University of Rochester",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "382",
+    "Phase": "JR",
+    "Player Name": "Fulton Lockhart",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "University of Central Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "383",
+    "Phase": "JR",
+    "Player Name": "R.J. Gordon",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Oregon",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "384",
+    "Phase": "JR",
+    "Player Name": "Matt McShane",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Saint Joseph's University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "385",
+    "Phase": "JR",
+    "Player Name": "Bennett Thompson",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "C",
+    "Drafted From": "University of Oregon",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "386",
+    "Phase": "JR",
+    "Player Name": "Lucas Elissalt",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Chipola College",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "387",
+    "Phase": "JR",
+    "Player Name": "Shea Sprague",
+    "Drafted By": "Boston Red Sox",
+    "POS": "LHP",
+    "Drafted From": "University of North Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "388",
+    "Phase": "JR",
+    "Player Name": "Drake George",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Lewis-Clark State College",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "389",
+    "Phase": "JR",
+    "Player Name": "Anthony Stephan",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "OF",
+    "Drafted From": "University of Virginia",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "390",
+    "Phase": "JR",
+    "Player Name": "Matthew Watson",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "391",
+    "Phase": "JR",
+    "Player Name": "Dillon Lewis",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Queens University of Charlotte",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "392",
+    "Phase": "JR",
+    "Player Name": "Evan Aschenbeck",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "Texas A&M University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "393",
+    "Phase": "JR",
+    "Player Name": "Brandon Eike",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "VCU",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "394",
+    "Phase": "JR",
+    "Player Name": "Cody Schrier",
+    "Drafted By": "Miami Marlins",
+    "POS": "SS",
+    "Drafted From": "UCLA",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "395",
+    "Phase": "JR",
+    "Player Name": "Joey Broughton",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "LHP",
+    "Drafted From": "Northville High School (Northville, MI)",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "396",
+    "Phase": "JR",
+    "Player Name": "Connor Hujsak",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "OF",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "397",
+    "Phase": "JR",
+    "Player Name": "Brock Tibbitts",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "C",
+    "Drafted From": "University of Indiana",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "398",
+    "Phase": "JR",
+    "Player Name": "Xavier Kolhosser",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "St. John's University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "399",
+    "Phase": "JR",
+    "Player Name": "Brandon Downer",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "California Baptist University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "400",
+    "Phase": "JR",
+    "Player Name": "Mike Villani",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Long Beach State University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "401",
+    "Phase": "JR",
+    "Player Name": "Colby Jones",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "SS",
+    "Drafted From": "Northwest Florida State College",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "402",
+    "Phase": "JR",
+    "Player Name": "Tegan Cain",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Kansas",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "403",
+    "Phase": "JR",
+    "Player Name": "Bryce Boettcher",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "University of Oregon",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "404",
+    "Phase": "JR",
+    "Player Name": "Kyle Ayers",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Texas Christian University",
+    "Year": 2024
+  },
+  {
+    "Round": "13",
+    "Pick": "405",
+    "Phase": "JR",
+    "Player Name": "Aidan Deakins",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "Wabash Valley College",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "406",
+    "Phase": "JR",
+    "Player Name": "Ryan Magdic",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "407",
+    "Phase": "JR",
+    "Player Name": "Kyle DeGroat",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Wallkill Senior High School (Wallkill, NY)",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "408",
+    "Phase": "JR",
+    "Player Name": "Sam Gerth",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Navarro College",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "409",
+    "Phase": "JR",
+    "Player Name": "Justin Sinibaldi",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Rutgers University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "410",
+    "Phase": "JR",
+    "Player Name": "Yoel Tejeda Jr.",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "411",
+    "Phase": "JR",
+    "Player Name": "Mason Burns",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Western Kentucky University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "412",
+    "Phase": "JR",
+    "Player Name": "Najer Victor",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "University of Central Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "413",
+    "Phase": "JR",
+    "Player Name": "Tanner Witt",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Texas",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "414",
+    "Phase": "JR",
+    "Player Name": "Ian Farrow",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Florida Gulf Coast University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "415",
+    "Phase": "JR",
+    "Player Name": "Ryan Cesarini",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "OF",
+    "Drafted From": "Saint Joseph's University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "416",
+    "Phase": "JR",
+    "Player Name": "Preston Howey",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "St. Mary's College",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "417",
+    "Phase": "JR",
+    "Player Name": "Alex Bouchard",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Lehigh University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "418",
+    "Phase": "JR",
+    "Player Name": "Jeremiah Jenkins",
+    "Drafted By": "San Francisco Giants",
+    "POS": "1B",
+    "Drafted From": "University of Maine",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "419",
+    "Phase": "JR",
+    "Player Name": "Adrian Areizaga",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "SS",
+    "Drafted From": "Leadership Christian Academy (Guaynabo, PR)",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "420",
+    "Phase": "JR",
+    "Player Name": "Brendan Durfee",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "UC Santa Barbara",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "421",
+    "Phase": "JR",
+    "Player Name": "Austin Green",
+    "Drafted By": "New York Yankees",
+    "POS": "2B",
+    "Drafted From": "Texas Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "422",
+    "Phase": "JR",
+    "Player Name": "Cameron Sisner",
+    "Drafted By": "Chicago Cubs",
+    "POS": "1B",
+    "Drafted From": "East Tennessee State University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "423",
+    "Phase": "JR",
+    "Player Name": "Austin St. Laurent",
+    "Drafted By": "Seattle Mariners",
+    "POS": "3B",
+    "Drafted From": "Appalachian State University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "424",
+    "Phase": "JR",
+    "Player Name": "Cam Clayton",
+    "Drafted By": "Miami Marlins",
+    "POS": "SS",
+    "Drafted From": "University of Washington",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "425",
+    "Phase": "JR",
+    "Player Name": "James Nunnallee",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "C",
+    "Drafted From": "Lightridge High School (Aldie, VA)",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "426",
+    "Phase": "JR",
+    "Player Name": "Ryan Schiefer",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "Arizona State University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "427",
+    "Phase": "JR",
+    "Player Name": "J.R. Freethy",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "2B",
+    "Drafted From": "University of Nevada",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "428",
+    "Phase": "JR",
+    "Player Name": "Jacob Kisting",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Bradley University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "429",
+    "Phase": "JR",
+    "Player Name": "Cohen Achen",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Lindsey Wilson College",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "430",
+    "Phase": "JR",
+    "Player Name": "Will Gagnon",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "Reedley College",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "431",
+    "Phase": "JR",
+    "Player Name": "Mason Guerra",
+    "Drafted By": "Atlanta Braves",
+    "POS": "1B",
+    "Drafted From": "Oregon State University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "432",
+    "Phase": "JR",
+    "Player Name": "Jared Spencer",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "LHP",
+    "Drafted From": "Indiana State University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "433",
+    "Phase": "JR",
+    "Player Name": "Ryan Mathiesen",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "The Master's University",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "434",
+    "Phase": "JR",
+    "Player Name": "Braden Quinn",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "University of Connecticut",
+    "Year": 2024
+  },
+  {
+    "Round": "14",
+    "Pick": "435",
+    "Phase": "JR",
+    "Player Name": "Ben Hartl",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "University of Kansas",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "436",
+    "Phase": "JR",
+    "Player Name": "Blake Hammond",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Santa Clara University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "437",
+    "Phase": "JR",
+    "Player Name": "Tyler Davis",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "438",
+    "Phase": "JR",
+    "Player Name": "Luke Thelen",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Western Michigan University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "439",
+    "Phase": "JR",
+    "Player Name": "Mason Moore",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "440",
+    "Phase": "JR",
+    "Player Name": "Sir Jamison Jones",
+    "Drafted By": "Washington Nationals",
+    "POS": "C",
+    "Drafted From": "St. Rita of Cascia High School (Chicago, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "441",
+    "Phase": "JR",
+    "Player Name": "Sam Brodersen",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Louisiana Tech University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "442",
+    "Phase": "JR",
+    "Player Name": "Bailan Caraballo",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "Reborn Christian Academy (Kissimmee, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "443",
+    "Phase": "JR",
+    "Player Name": "Owen Woodward",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Houston",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "444",
+    "Phase": "JR",
+    "Player Name": "Ethan Lege",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "3B",
+    "Drafted From": "Ole Miss",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "445",
+    "Phase": "JR",
+    "Player Name": "Conner Whittaker",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "446",
+    "Phase": "JR",
+    "Player Name": "Zach MacDonald",
+    "Drafted By": "Detroit Tigers",
+    "POS": "OF",
+    "Drafted From": "Miami University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "447",
+    "Phase": "JR",
+    "Player Name": "Joey Gartrell",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Portland",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "448",
+    "Phase": "JR",
+    "Player Name": "Evan Gray",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "St. Louis University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "449",
+    "Phase": "JR",
+    "Player Name": "Jordan Little",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Virginia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "450",
+    "Phase": "JR",
+    "Player Name": "Tanner Smith",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "Harvard University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "451",
+    "Phase": "JR",
+    "Player Name": "Marshall Toole",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Wofford College",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "452",
+    "Phase": "JR",
+    "Player Name": "Hayden Frank",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "Lipscomb University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "453",
+    "Phase": "JR",
+    "Player Name": "Thomas Higgins Jr.",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Georgia Southern University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "454",
+    "Phase": "JR",
+    "Player Name": "Coen Niclai",
+    "Drafted By": "Miami Marlins",
+    "POS": "C",
+    "Drafted From": "Service High School (Anchorage, AK)",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "455",
+    "Phase": "JR",
+    "Player Name": "Travis Smith",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "456",
+    "Phase": "JR",
+    "Player Name": "Derek Datil",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "OF",
+    "Drafted From": "Antonio Lucchetti High School (Arecibo, PR)",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "457",
+    "Phase": "JR",
+    "Player Name": "Jonathan Todd",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Western Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "458",
+    "Phase": "JR",
+    "Player Name": "Cole Peschl",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Campbell University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "459",
+    "Phase": "JR",
+    "Player Name": "Carter Rustad",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "460",
+    "Phase": "JR",
+    "Player Name": "Erik Parker",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "North Gwinnett High School (Suwanee, GA)",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "461",
+    "Phase": "JR",
+    "Player Name": "Owen Carey",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Londonderry High School (Londonderry, NH)",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "462",
+    "Phase": "JR",
+    "Player Name": "Luke Gabrysh",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Saint Joseph's University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "463",
+    "Phase": "JR",
+    "Player Name": "Drew Vogel",
+    "Drafted By": "Houston Astros",
+    "POS": "SS",
+    "Drafted From": "Murray State University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "464",
+    "Phase": "JR",
+    "Player Name": "Rocco Reid",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "LHP",
+    "Drafted From": "Clemson University",
+    "Year": 2024
+  },
+  {
+    "Round": "15",
+    "Pick": "465",
+    "Phase": "JR",
+    "Player Name": "Brooks Fowler",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Oral Roberts University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "466",
+    "Phase": "JR",
+    "Player Name": "Connor Spencer",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Ole Miss",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "467",
+    "Phase": "JR",
+    "Player Name": "Andrew Morones",
+    "Drafted By": "Kansas City Royals",
+    "POS": "RHP",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "468",
+    "Phase": "JR",
+    "Player Name": "Kevin Fitzer",
+    "Drafted By": "Colorado Rockies",
+    "POS": "1B",
+    "Drafted From": "Cal State Northridge",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "469",
+    "Phase": "JR",
+    "Player Name": "T.J. McCants",
+    "Drafted By": "Chicago White Sox",
+    "POS": "OF",
+    "Drafted From": "University of Alabama",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "470",
+    "Phase": "JR",
+    "Player Name": "Nolan Hughes",
+    "Drafted By": "Washington Nationals",
+    "POS": "LHP",
+    "Drafted From": "Xavier University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "471",
+    "Phase": "JR",
+    "Player Name": "Deniel Ortiz",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "3B",
+    "Drafted From": "Walters State Community College",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "472",
+    "Phase": "JR",
+    "Player Name": "Will Gervase",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "LHP",
+    "Drafted From": "Wake Forest University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "473",
+    "Phase": "JR",
+    "Player Name": "Josh Blum",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "University of Southern California",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "474",
+    "Phase": "JR",
+    "Player Name": "Brian Curley",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "VCU",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "475",
+    "Phase": "JR",
+    "Player Name": "Jacob Remily",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Maryknoll High School (Honolulu, HI)",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "476",
+    "Phase": "JR",
+    "Player Name": "Anson Seibert",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Blue Valley Southwest High School (Overland Park, KS)",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "477",
+    "Phase": "JR",
+    "Player Name": "Griffin Kilander",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Wayne St University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "478",
+    "Phase": "JR",
+    "Player Name": "Tyler Switalski",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "University of West Virginia",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "479",
+    "Phase": "JR",
+    "Player Name": "Jimmy Romano",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Duke University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "480",
+    "Phase": "JR",
+    "Player Name": "Kasen Wells",
+    "Drafted By": "San Diego Padres",
+    "POS": "OF",
+    "Drafted From": "Weatherford College",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "481",
+    "Phase": "JR",
+    "Player Name": "Xavier Rivas",
+    "Drafted By": "New York Yankees",
+    "POS": "LHP",
+    "Drafted From": "Ole Miss",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "482",
+    "Phase": "JR",
+    "Player Name": "Christian Gordon",
+    "Drafted By": "Chicago Cubs",
+    "POS": "LHP",
+    "Drafted From": "VCU",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "483",
+    "Phase": "JR",
+    "Player Name": "Wyatt Lunsford-Shenkman",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "East Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "484",
+    "Phase": "JR",
+    "Player Name": "Eric Rataczak",
+    "Drafted By": "Miami Marlins",
+    "POS": "1B",
+    "Drafted From": "Niagara University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "485",
+    "Phase": "JR",
+    "Player Name": "Jayden Dubanew",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Marjory Stoneman Douglas High School (Parkland, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "486",
+    "Phase": "JR",
+    "Player Name": "Brady Marget",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "1B",
+    "Drafted From": "Tulane University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "487",
+    "Phase": "JR",
+    "Player Name": "Colby Martin",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Southeastern University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "488",
+    "Phase": "JR",
+    "Player Name": "Aidan Haugh",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of North Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "489",
+    "Phase": "JR",
+    "Player Name": "Nate George",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Minooka Community High School (Minooka, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "490",
+    "Phase": "JR",
+    "Player Name": "Evan Shaw",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "University of Kansas",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "491",
+    "Phase": "JR",
+    "Player Name": "Titus Dumitru",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "New Mexico State University",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "492",
+    "Phase": "JR",
+    "Player Name": "Eli Trop",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "University of Pennsylvania",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "493",
+    "Phase": "JR",
+    "Player Name": "Bryce Mayer",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "University of Missouri",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "494",
+    "Phase": "JR",
+    "Player Name": "Dawson Brown",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "Georgia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "16",
+    "Pick": "495",
+    "Phase": "JR",
+    "Player Name": "Eric Loomis",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Missouri State University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "496",
+    "Phase": "JR",
+    "Player Name": "Aidan Layton",
+    "Drafted By": "Oakland Athletics",
+    "POS": "RHP",
+    "Drafted From": "Seton Hill University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "497",
+    "Phase": "JR",
+    "Player Name": "Dane Burns",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Home Schooled (Houston, TX)",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "498",
+    "Phase": "JR",
+    "Player Name": "Nolan Clifford",
+    "Drafted By": "Colorado Rockies",
+    "POS": "SS",
+    "Drafted From": "Creighton University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "499",
+    "Phase": "JR",
+    "Player Name": "Lyle Miller-Green",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B/RHP",
+    "Drafted From": "Austin Peay State University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "500",
+    "Phase": "JR",
+    "Player Name": "Gavin Bruni",
+    "Drafted By": "Washington Nationals",
+    "POS": "LHP",
+    "Drafted From": "Ohio State University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "501",
+    "Phase": "JR",
+    "Player Name": "Brandt Thompson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "RHP",
+    "Drafted From": "Missouri State University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "502",
+    "Phase": "JR",
+    "Player Name": "Lucas Ramirez",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "OF",
+    "Drafted From": "American Heritage School (Plantation, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "503",
+    "Phase": "JR",
+    "Player Name": "Jacoby Long",
+    "Drafted By": "New York Mets",
+    "POS": "OF",
+    "Drafted From": "University of Miami",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "504",
+    "Phase": "JR",
+    "Player Name": "Andrew Patrick",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "OF",
+    "Drafted From": "Wright State University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "505",
+    "Phase": "JR",
+    "Player Name": "Logan McGuire",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Georgia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "506",
+    "Phase": "JR",
+    "Player Name": "Gabriel Rosado",
+    "Drafted By": "Detroit Tigers",
+    "POS": "C",
+    "Drafted From": "Carlos Beltr\u00e1n Baseball Academy (Florida, PR)",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "507",
+    "Phase": "JR",
+    "Player Name": "Yan Cruz",
+    "Drafted By": "Boston Red Sox",
+    "POS": "OF",
+    "Drafted From": "Academia Presbiteriana (Carolina, PR)",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "508",
+    "Phase": "JR",
+    "Player Name": "Hunter Dryden",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "Whitworth University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "509",
+    "Phase": "JR",
+    "Player Name": "Trent Hodgdon",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "University of South Carolina",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "510",
+    "Phase": "JR",
+    "Player Name": "Ryan Jackson",
+    "Drafted By": "San Diego Padres",
+    "POS": "SS",
+    "Drafted From": "USC",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "511",
+    "Phase": "JR",
+    "Player Name": "JoJo Jackson",
+    "Drafted By": "New York Yankees",
+    "POS": "OF",
+    "Drafted From": "Georgia State University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "512",
+    "Phase": "JR",
+    "Player Name": "Ben Johnson",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Georgia Southern University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "513",
+    "Phase": "JR",
+    "Player Name": "Harrison Kreiling",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Nebraska at Omaha",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "514",
+    "Phase": "JR",
+    "Player Name": "Micah McDowell",
+    "Drafted By": "Miami Marlins",
+    "POS": "OF",
+    "Drafted From": "Oregon State University",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "515",
+    "Phase": "JR",
+    "Player Name": "Cooper Malamazian",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "SS",
+    "Drafted From": "Nazareth Academy (La Grange Park, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "516",
+    "Phase": "JR",
+    "Player Name": "Andres Galan",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of California",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "517",
+    "Phase": "JR",
+    "Player Name": "Gavin Smith",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "Valley Christian High School (Chandler, AZ)",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "518",
+    "Phase": "JR",
+    "Player Name": "Jay Thomason",
+    "Drafted By": "Minnesota Twins",
+    "POS": "3B",
+    "Drafted From": "Air Force Academy",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "519",
+    "Phase": "JR",
+    "Player Name": "Iziah Salinas",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "LHP",
+    "Drafted From": "Cowley County Community College",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "520",
+    "Phase": "JR",
+    "Player Name": "Jackson Nicklaus",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "SS",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "521",
+    "Phase": "JR",
+    "Player Name": "Jacob Shafer",
+    "Drafted By": "Atlanta Braves",
+    "POS": "RHP",
+    "Drafted From": "UNC Wilmington",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "522",
+    "Phase": "JR",
+    "Player Name": "Ryan Degges",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "UNC Charlotte",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "523",
+    "Phase": "JR",
+    "Player Name": "Ethan Wagner",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "P27 Baseball Academy (Lexington, SC)",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "524",
+    "Phase": "JR",
+    "Player Name": "Drake Frize",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "University of San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "17",
+    "Pick": "525",
+    "Phase": "JR",
+    "Player Name": "Joey Danielson",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "North Dakota State University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "526",
+    "Phase": "JR",
+    "Player Name": "Tucker Novotny",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "University of Minnesota",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "527",
+    "Phase": "JR",
+    "Player Name": "Corey Cousin",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "Slidell High School (Slidell, LA)",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "528",
+    "Phase": "JR",
+    "Player Name": "Tyler Hampu",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Austin Peay State University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "529",
+    "Phase": "JR",
+    "Player Name": "Liam Paddack",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "Gonzaga University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "530",
+    "Phase": "JR",
+    "Player Name": "Teo Banks",
+    "Drafted By": "Washington Nationals",
+    "POS": "OF",
+    "Drafted From": "Tulane University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "531",
+    "Phase": "JR",
+    "Player Name": "Christian Martin",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "Virginia Tech",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "532",
+    "Phase": "JR",
+    "Player Name": "David Mershon",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "SS",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "533",
+    "Phase": "JR",
+    "Player Name": "Jace Hampson",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Lynnwood High School (Bothell, WA)",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "534",
+    "Phase": "JR",
+    "Player Name": "Jake Shirk",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Wright State University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "535",
+    "Phase": "JR",
+    "Player Name": "Izaak Martinez",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "UC San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "536",
+    "Phase": "JR",
+    "Player Name": "Bryce Alewine",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Southern Union State Junior College",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "537",
+    "Phase": "JR",
+    "Player Name": "Cole Tolbert",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "University of Mississippi",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "538",
+    "Phase": "JR",
+    "Player Name": "Ryan Slater",
+    "Drafted By": "San Francisco Giants",
+    "POS": "RHP",
+    "Drafted From": "University of Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "539",
+    "Phase": "JR",
+    "Player Name": "Jalen Hairston",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "3B",
+    "Drafted From": "State College of Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "540",
+    "Phase": "JR",
+    "Player Name": "Victor Figueroa",
+    "Drafted By": "San Diego Padres",
+    "POS": "1B",
+    "Drafted From": "Florida Southwestern University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "541",
+    "Phase": "JR",
+    "Player Name": "Gus Hughes",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "High Point University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "542",
+    "Phase": "JR",
+    "Player Name": "Thomas Mangus",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "Navarro College",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "543",
+    "Phase": "JR",
+    "Player Name": "Matt Tiberia",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "Lynn University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "544",
+    "Phase": "JR",
+    "Player Name": "Nate Payne",
+    "Drafted By": "Miami Marlins",
+    "POS": "LHP",
+    "Drafted From": "Central Dauphin High School (Harrisburg, PA)",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "545",
+    "Phase": "JR",
+    "Player Name": "Tyler Renz",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Fox Lane High School (Bedford, NY)",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "546",
+    "Phase": "JR",
+    "Player Name": "Dominic Niman",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "LHP",
+    "Drafted From": "University of Kentucky",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "547",
+    "Phase": "JR",
+    "Player Name": "Holden  Wilkerson",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "RHP",
+    "Drafted From": "Virginia Military Institute",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "548",
+    "Phase": "JR",
+    "Player Name": "Michael Ross",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "Samford University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "549",
+    "Phase": "JR",
+    "Player Name": "Michael Caldon",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Felician College",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "550",
+    "Phase": "JR",
+    "Player Name": "Isaac Ayon",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "RHP",
+    "Drafted From": "University of Oregon",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "551",
+    "Phase": "JR",
+    "Player Name": "Jake Steels",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Cal Poly",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "552",
+    "Phase": "JR",
+    "Player Name": "Kevin Warunek",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "LHP",
+    "Drafted From": "Longwood University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "553",
+    "Phase": "JR",
+    "Player Name": "Grant Burleson",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Western Kentucky University",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "554",
+    "Phase": "JR",
+    "Player Name": "Jackson Hotchkiss",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "OF",
+    "Drafted From": "Battle Ground High School (Battle Ground, WA)",
+    "Year": 2024
+  },
+  {
+    "Round": "18",
+    "Pick": "555",
+    "Phase": "JR",
+    "Player Name": "Kadyn Leon",
+    "Drafted By": "Texas Rangers",
+    "POS": "RHP",
+    "Drafted From": "Lake Travis High School (Austin, TX)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "556",
+    "Phase": "JR",
+    "Player Name": "Gunner Gouldsmith",
+    "Drafted By": "Oakland Athletics",
+    "POS": "SS",
+    "Drafted From": "California State University, Sacramento",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "557",
+    "Phase": "JR",
+    "Player Name": "Dash Albus",
+    "Drafted By": "Kansas City Royals",
+    "POS": "LHP",
+    "Drafted From": "Abilene Christian University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "558",
+    "Phase": "JR",
+    "Player Name": "Nathan Blasick",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "University of New Orleans",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "559",
+    "Phase": "JR",
+    "Player Name": "Nick Pinto",
+    "Drafted By": "Chicago White Sox",
+    "POS": "LHP",
+    "Drafted From": "University of California, Irvine",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "560",
+    "Phase": "JR",
+    "Player Name": "Ryan Minckler",
+    "Drafted By": "Washington Nationals",
+    "POS": "RHP",
+    "Drafted From": "Niagara University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "561",
+    "Phase": "JR",
+    "Player Name": "Brendan Lawson",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "SS",
+    "Drafted From": "P27 Baseball Academy (Lexington, SC)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "562",
+    "Phase": "JR",
+    "Player Name": "Connor Gatwood",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Baker High School (Mobile, AL)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "563",
+    "Phase": "JR",
+    "Player Name": "Frank Elissalt",
+    "Drafted By": "New York Mets",
+    "POS": "RHP",
+    "Drafted From": "Nova Southeastern University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "564",
+    "Phase": "JR",
+    "Player Name": "Joe Vogatsky",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "James Madison University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "565",
+    "Phase": "JR",
+    "Player Name": "Cam Schuelke",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "Mississippi State University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "566",
+    "Phase": "JR",
+    "Player Name": "Chase Davis",
+    "Drafted By": "Detroit Tigers",
+    "POS": "LHP",
+    "Drafted From": "Leon High School (Tallahassee, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "567",
+    "Phase": "JR",
+    "Player Name": "D'Angelo Ortiz",
+    "Drafted By": "Boston Red Sox",
+    "POS": "3B",
+    "Drafted From": "Miami Dade College",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "568",
+    "Phase": "JR",
+    "Player Name": "Ryan Ure",
+    "Drafted By": "San Francisco Giants",
+    "POS": "LHP",
+    "Drafted From": "Oklahoma State University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "569",
+    "Phase": "JR",
+    "Player Name": "Owen Pote",
+    "Drafted By": "Cincinnati Reds",
+    "POS": "RHP",
+    "Drafted From": "Home Schooled (Alberta, Canada)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "570",
+    "Phase": "JR",
+    "Player Name": "Vicarte Domingo",
+    "Drafted By": "San Diego Padres",
+    "POS": "RHP",
+    "Drafted From": "University of British Columbia",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "571",
+    "Phase": "JR",
+    "Player Name": "Brandon Decker",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Oakland University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "572",
+    "Phase": "JR",
+    "Player Name": "Owen Ayers",
+    "Drafted By": "Chicago Cubs",
+    "POS": "C",
+    "Drafted From": "Marshall University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "573",
+    "Phase": "JR",
+    "Player Name": "Brian Walters",
+    "Drafted By": "Seattle Mariners",
+    "POS": "RHP",
+    "Drafted From": "University of Miami",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "574",
+    "Phase": "JR",
+    "Player Name": "Luke Lashutka",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "St. Leo University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "575",
+    "Phase": "JR",
+    "Player Name": "Noah Wech",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Manitowoc Lincoln High School (Manitowoc, WI)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "576",
+    "Phase": "JR",
+    "Player Name": "Tony Santa Maria",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "3B",
+    "Drafted From": "Rutgers University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "577",
+    "Phase": "JR",
+    "Player Name": "D'Marion Terrell",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "1B",
+    "Drafted From": "Thompson High School (Alabaster, AL)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "578",
+    "Phase": "JR",
+    "Player Name": "Logan Whitaker",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "North Carolina State University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "579",
+    "Phase": "JR",
+    "Player Name": "Braylon Whitaker",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "OF",
+    "Drafted From": "Cox Mill High school (Concord, NC)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "580",
+    "Phase": "JR",
+    "Player Name": "Chase Williams",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "OF",
+    "Drafted From": "Northwest Florida State University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "581",
+    "Phase": "JR",
+    "Player Name": "Dalton McIntyre",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Southern Mississippi University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "582",
+    "Phase": "JR",
+    "Player Name": "Erik Ritchie",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "LHP",
+    "Drafted From": "East Carolina University",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "583",
+    "Phase": "JR",
+    "Player Name": "Twine Palmer",
+    "Drafted By": "Houston Astros",
+    "POS": "RHP",
+    "Drafted From": "Connors State College",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "584",
+    "Phase": "JR",
+    "Player Name": "Tyler Bayer",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "RHP",
+    "Drafted From": "South Forsyth High School (Cumming, GA)",
+    "Year": 2024
+  },
+  {
+    "Round": "19",
+    "Pick": "585",
+    "Phase": "JR",
+    "Player Name": "Cade Obermueller",
+    "Drafted By": "Texas Rangers",
+    "POS": "LHP",
+    "Drafted From": "University of Iowa",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "586",
+    "Phase": "JR",
+    "Player Name": "Dylan Volantis",
+    "Drafted By": "Oakland Athletics",
+    "POS": "LHP",
+    "Drafted From": "Westlake High School (Thousand Oaks, CA)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "587",
+    "Phase": "JR",
+    "Player Name": "Carter Frederick",
+    "Drafted By": "Kansas City Royals",
+    "POS": "OF",
+    "Drafted From": "University of Oklahoma",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "588",
+    "Phase": "JR",
+    "Player Name": "Hunter Omlid",
+    "Drafted By": "Colorado Rockies",
+    "POS": "RHP",
+    "Drafted From": "Arizona State University",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "589",
+    "Phase": "JR",
+    "Player Name": "Myles Bailey",
+    "Drafted By": "Chicago White Sox",
+    "POS": "1B",
+    "Drafted From": "Lincoln High School (Tallahassee, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "590",
+    "Phase": "JR",
+    "Player Name": "Colby Shelton",
+    "Drafted By": "Washington Nationals",
+    "POS": "3B",
+    "Drafted From": "University of Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "591",
+    "Phase": "JR",
+    "Player Name": "Owen Rice",
+    "Drafted By": "St. Louis Cardinals",
+    "POS": "LHP",
+    "Drafted From": "University of Milwaukee",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "592",
+    "Phase": "JR",
+    "Player Name": "Zachary Redner",
+    "Drafted By": "Los Angeles Angels",
+    "POS": "RHP",
+    "Drafted From": "Hillsborough Community College",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "593",
+    "Phase": "JR",
+    "Player Name": "Adam Haight",
+    "Drafted By": "New York Mets",
+    "POS": "SS",
+    "Drafted From": "Cedar Park Christian School (Bothell, WA)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "594",
+    "Phase": "JR",
+    "Player Name": "Taylor Penn",
+    "Drafted By": "Pittsburgh Pirates",
+    "POS": "RHP",
+    "Drafted From": "Woodford County High School (Versailles, KY)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "595",
+    "Phase": "JR",
+    "Player Name": "Cam Walty",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "RHP",
+    "Drafted From": "University of Arizona",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "596",
+    "Phase": "JR",
+    "Player Name": "Dawson Price",
+    "Drafted By": "Detroit Tigers",
+    "POS": "RHP",
+    "Drafted From": "Eastern Oklahoma State College",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "597",
+    "Phase": "JR",
+    "Player Name": "Ben Hansen",
+    "Drafted By": "Boston Red Sox",
+    "POS": "RHP",
+    "Drafted From": "Brigham Young University",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "598",
+    "Phase": "JR",
+    "Player Name": "Fernando Gonzalez",
+    "Drafted By": "San Francisco Giants",
+    "POS": "C",
+    "Drafted From": "University of Georgia",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "599",
+    "Phase": "JR",
+    "Player Name": "Mason Russell",
+    "Drafted By": "Cleveland Guardians",
+    "POS": "LHP",
+    "Drafted From": "Casteel High School (Queen Creek, AZ)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "600",
+    "Phase": "JR",
+    "Player Name": "Chase Fralick",
+    "Drafted By": "San Diego Padres",
+    "POS": "C",
+    "Drafted From": "McIntosh High School (Peachtree City, GA)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "601",
+    "Phase": "JR",
+    "Player Name": "Cole Royer",
+    "Drafted By": "New York Yankees",
+    "POS": "RHP",
+    "Drafted From": "Pierce County High School (Blackshear, GA)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "602",
+    "Phase": "JR",
+    "Player Name": "Brayden Risedorph",
+    "Drafted By": "Chicago Cubs",
+    "POS": "RHP",
+    "Drafted From": "University of Indiana",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "603",
+    "Phase": "JR",
+    "Player Name": "Ryan Picollo",
+    "Drafted By": "Seattle Mariners",
+    "POS": "OF",
+    "Drafted From": "St. Joseph's University",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "604",
+    "Phase": "JR",
+    "Player Name": "Chase Centala",
+    "Drafted By": "Miami Marlins",
+    "POS": "RHP",
+    "Drafted From": "University of Central Florida",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "605",
+    "Phase": "JR",
+    "Player Name": "Henry Brummel",
+    "Drafted By": "Milwaukee Brewers",
+    "POS": "RHP",
+    "Drafted From": "Pontiac Township High School (Pontiac, IL)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "606",
+    "Phase": "JR",
+    "Player Name": "Kaleb Corbett",
+    "Drafted By": "Tampa Bay Rays",
+    "POS": "RHP",
+    "Drafted From": "University of Louisville",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "607",
+    "Phase": "JR",
+    "Player Name": "Bryce Martin-Grudzielanek",
+    "Drafted By": "Toronto Blue Jays",
+    "POS": "SS",
+    "Drafted From": "UC San Diego",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "608",
+    "Phase": "JR",
+    "Player Name": "Merit Jones",
+    "Drafted By": "Minnesota Twins",
+    "POS": "RHP",
+    "Drafted From": "University of Utah",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "609",
+    "Phase": "JR",
+    "Player Name": "Evan Yates",
+    "Drafted By": "Baltimore Orioles",
+    "POS": "RHP",
+    "Drafted From": "Cal State Fullerton",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "610",
+    "Phase": "JR",
+    "Player Name": "Hunter Elliott",
+    "Drafted By": "Los Angeles Dodgers",
+    "POS": "LHP",
+    "Drafted From": "Ole Miss",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "611",
+    "Phase": "JR",
+    "Player Name": "Eric Hartman",
+    "Drafted By": "Atlanta Braves",
+    "POS": "OF",
+    "Drafted From": "Holy Trinity Academy (Alberta, Canada)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "612",
+    "Phase": "JR",
+    "Player Name": "Kyler Carmack",
+    "Drafted By": "Philadelphia Phillies",
+    "POS": "RHP",
+    "Drafted From": "Ole Miss",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "613",
+    "Phase": "JR",
+    "Player Name": "Ky McGary",
+    "Drafted By": "Houston Astros",
+    "POS": "OF",
+    "Drafted From": "Sandra Day O'Connor High School (Phoenix, AZ)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "614",
+    "Phase": "JR",
+    "Player Name": "Hunter Carns",
+    "Drafted By": "Arizona Diamondbacks",
+    "POS": "C",
+    "Drafted From": "First Coast High School (Jacksonville, FL)",
+    "Year": 2024
+  },
+  {
+    "Round": "20",
+    "Pick": "615",
+    "Phase": "JR",
+    "Player Name": "Mac Rose",
+    "Drafted By": "Texas Rangers",
+    "POS": "C",
+    "Drafted From": "McLennan Community College",
+    "Year": 2024
+  }
+]
