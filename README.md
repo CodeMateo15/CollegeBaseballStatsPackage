@@ -104,6 +104,10 @@ Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/te
 
 - Win probability models using in-game data
 
+## Support
+Star this repo and share to help support!
+[![GitHub stars](https://img.shields.io/github/stars/CodeMateo15/CollegeBaseballStatsPackage.svg?style=social&label=Star)](https://github.com/CodeMateo15/CollegeBaseballStatsPackage)
+
 ## Contact
 Feel free to reach out for collaboration or feedback:
 Mateo Biggs, mateojohn2024@gmail.com
