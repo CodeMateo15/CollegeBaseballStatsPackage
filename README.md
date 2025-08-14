@@ -52,10 +52,10 @@ average_team_stat_str(stat_name: str, year: int, division: int): Returns a strin
 average_team_stat_float(stat_name: str, year: int, division: int): Returns a float representing the average value of a given statistic across all teams for the specified year and division
 ```
 ```
-get_pythagenpat_expectation(team_name: str, year: int, division: int): Computes Pythagenpat expected win percentage
+get_pythagorean_expectation(team_name: str, year: int, division: int): Computes Pythagorean expected win percentage
 ```
 ```
-compare_pythagenpat_expectation(team_name: str, year: int, division: int): Computes Pythagenpat expected win percentage and compares it with the actual win percentage
+compare_pythagorean_expectation(team_name: str, year: int, division: int): Computes Pythagorean expected win percentage and compares it with the actual win percentage
 ```
 ```
 plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int): Aggregates and plots a specified statistic for a team over a range of years

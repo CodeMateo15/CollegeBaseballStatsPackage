@@ -113,9 +113,9 @@ def display_team_stats(search_team: str, year: int, division: int) -> None:
         print("No team found matching the search term.")
 
 
-def compare_pythagenpat_expectation(team_name: str, year: int, division: int) -> str:
+def compare_pythagorean_expectation(team_name: str, year: int, division: int) -> str:
     """
-    Computes Pythagenpat expected win percentage and compares it with the actual win percentage.
+    Computes Pythagorean expected win percentage and compares it with the actual win percentage.
 
     Args:
         team_name: Team name or partial string (ex. "Northeastern").
@@ -133,7 +133,7 @@ def compare_pythagenpat_expectation(team_name: str, year: int, division: int) ->
     T = get_team_stat("T", team_name, year, division)
 
     if None in (R, RA, W, L, T):
-        return f"Insufficient data to compute Pythagenpat for '{team_name}' ({year}, Div {division})."
+        return f"Insufficient data to compute Pythagorean for '{team_name}' ({year}, Div {division})."
 
     try:
         expected_pct = R**exponent / (R**exponent + RA**exponent)
@@ -141,16 +141,16 @@ def compare_pythagenpat_expectation(team_name: str, year: int, division: int) ->
         actual_pct = W / total_games if total_games > 0 else 0.0
 
         return (
-            f"Pythagenpat Expected Win% for {team_name} ({year}, Div {division}): {expected_pct:.3f} | "
+            f"Pythagorean Expected Win% for {team_name} ({year}, Div {division}): {expected_pct:.3f} | "
             f"Actual Win%: {actual_pct:.3f}"
         )
     except (ZeroDivisionError, ValueError, OverflowError) as e:
-        return f"Could not compute Pythagenpat for '{team_name}': {str(e)}"
+        return f"Could not compute Pythagorean for '{team_name}': {str(e)}"
 
 
-def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> float | str:
+def get_pythagorean_expectation(team_name: str, year: int, division: int) -> float | str:
     """
-    Computes Pythagenpat expected win percentage.
+    Computes Pythagorean expected win percentage.
 
     Args:
         team_name: Team name or partial string (ex. "Northeastern").
@@ -165,7 +165,7 @@ def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> flo
     RA = get_team_stat("R (Pitching)", team_name, year, division)
 
     if None in (R, RA):
-        return f"Insufficient data to compute Pythagenpat for '{team_name}' ({year}, Div {division})."
+        return f"Insufficient data to compute Pythagorean for '{team_name}' ({year}, Div {division})."
 
     try:
         expected_pct = R**exponent / (R**exponent + RA**exponent)
@@ -173,7 +173,7 @@ def get_pythagenpat_expectation(team_name: str, year: int, division: int) -> flo
             expected_pct, 3
         )
     except (ZeroDivisionError, ValueError, OverflowError) as e:
-        return f"Could not compute Pythagenpat for '{team_name}': {str(e)}"
+        return f"Could not compute Pythagorean for '{team_name}': {str(e)}"
 
 
 MLB_DRAFT_DIR = os.path.abspath(
