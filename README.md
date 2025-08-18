@@ -101,7 +101,6 @@ Refer to <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/t
 Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_mlb.html" target="_blank">MLB Draft Name Reference</a> for consistent naming of schools when using draft-related functions.
 
 ## Planned Features
-- NCAA individual player stats
 
 - Team game results with win-loss tracking
 
