@@ -116,10 +116,10 @@ get_player_rows(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin",
 top_players(stat_type: "batting"|"pitching", stat: str, n: int = 10, year: int|None = None, team_substr: str|None = None): Top-N leaderboard for a given stat. Uses the "qualified" dataset internally
 ```
 ```
-batting_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None, agg: "sum"|"mean"|"max"|"min"|"list" = "sum"): Get a batting stat for a player from the selected dataset, optionally filtered by year and team, with simple aggregation
+batting_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): Get a batting stat for a player from the selected dataset, optionally filtered by year and team
 ```
 ```
-pitching_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None, agg: "sum"|"mean"|"max"|"min"|"list" = "sum"): Get a pitching stat for a player from the selected dataset, optionally filtered by year and team, with simple aggregation
+pitching_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): Get a pitching stat for a player from the selected dataset, optionally filtered by year and team
 ```
 ```
 list_batters(qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): List batter names from the selected dataset, optionally filtered by year and team substring

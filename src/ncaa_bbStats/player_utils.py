@@ -81,16 +81,14 @@ def get_player_stat(
     stat: str,
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
-    agg: Literal["sum", "mean", "max", "min", "list"] = "sum",
-) -> float | list[float] | None:
+) -> float | None:
     """
-    Get a single stat for a player. If multiple rows match (e.g., transfers), aggregate.
+    Get a single stat for a player. If multiple rows match (e.g., transfers), returns the sum.
     - stat: column name like "hr", "rbi", "obp", "era" (case-insensitive match).
     - year: if provided, filter to that season.
     - team_substr: optionally narrow to a team substring.
-    - agg: how to combine multiple rows. "list" returns list of values.
 
-    Returns a float (or list[float]) or None if not found or non-numeric.
+    Returns a float or None if not found or non-numeric.
     """
     df = _load_df(stat_type, qualifier)
 
@@ -114,15 +112,6 @@ def get_player_stat(
     if vals.empty:
         return None
 
-    if agg == "list":
-        return vals.tolist()
-    if agg == "mean":
-        return float(vals.mean())
-    if agg == "max":
-        return float(vals.max())
-    if agg == "min":
-        return float(vals.min())
-    # default sum
     return float(vals.sum())
 
 
@@ -224,10 +213,10 @@ def batting_stat(
     qualifier: Qualifier = "noMin",
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
-    agg: Literal["sum", "mean", "max", "min", "list"] = "sum",
-) -> float | list[float] | None:
-    """Convenience wrapper for batting stats using get_player_stat."""
-    return get_player_stat("batting", qualifier, player_name, stat, year=year, team_substr=team_substr, agg=agg)
+) -> float | None:
+    """Convenience wrapper for batting stats using get_player_stat (sums across matching rows)."""
+    return get_player_stat("batting", qualifier, player_name, stat, year=year, team_substr=team_substr)
+
 
 
 def pitching_stat(
@@ -236,10 +225,10 @@ def pitching_stat(
     qualifier: Qualifier = "noMin",
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
-    agg: Literal["sum", "mean", "max", "min", "list"] = "sum",
-) -> float | list[float] | None:
-    """Convenience wrapper for pitching stats using get_player_stat."""
-    return get_player_stat("pitching", qualifier, player_name, stat, year=year, team_substr=team_substr, agg=agg)
+) -> float | None:
+    """Convenience wrapper for pitching stats using get_player_stat (sums across matching rows)."""
+    return get_player_stat("pitching", qualifier, player_name, stat, year=year, team_substr=team_substr)
+
 
 
 def list_batters(qualifier: Qualifier = "noMin", year: Optional[int] = None, team_substr: Optional[str] = None) -> list[str]:

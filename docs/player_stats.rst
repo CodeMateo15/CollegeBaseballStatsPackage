@@ -66,29 +66,27 @@ Functions
     :param team_substr: Optional case-insensitive team substring match.
     :return: List of dicts with keys: {"name", "team", "year", "value"}.
 
-.. py:function:: batting_stat(player_name: str, stat: str, qualifier: ["qualified", "noMin"] = "noMin", year: int | None = None, team_substr: str | None = None, agg: ["sum", "mean", "max", "min", "list"] = "sum") -> float | list[float] | None
+.. py:function:: batting_stat(player_name: str, stat: str, qualifier: ["qualified", "noMin"] = "noMin", year: int | None = None, team_substr: str | None = None) -> float | None
 
-    Get a batting stat for a player from the selected dataset, optionally filtered by year and team, with simple aggregation.
+    Get a batting stat for a player from the selected dataset, optionally filtered by year and team. If multiple rows match, returns the sum.
 
     :param player_name: Player's full name.
     :param stat: Column name (case-insensitive), e.g., "hr", "rbi", "obp", "ops".
     :param qualifier: "qualified" or "noMin" dataset (default "noMin").
     :param year: Optional year filter.
     :param team_substr: Optional case-insensitive team substring match.
-    :param agg: How to combine multiple rows if present: "sum", "mean", "max", "min", or "list".
-    :return: Float value, list of floats (for agg="list"), or None if not found.
+    :return: Float value or None if not found.
 
-.. py:function:: pitching_stat(player_name: str, stat: str, qualifier: ["qualified", "noMin"] = "noMin", year: int | None = None, team_substr: str | None = None, agg: ["sum", "mean", "max", "min", "list"] = "sum") -> float | list[float] | None
+.. py:function:: pitching_stat(player_name: str, stat: str, qualifier: ["qualified", "noMin"] = "noMin", year: int | None = None, team_substr: str | None = None) -> float | None
 
-    Get a pitching stat for a player from the selected dataset, optionally filtered by year and team, with simple aggregation.
+    Get a pitching stat for a player from the selected dataset, optionally filtered by year and team. If multiple rows match, returns the sum.
 
     :param player_name: Player's full name.
     :param stat: Column name (case-insensitive), e.g., "era", "whip", "so", "bb", "ip".
     :param qualifier: "qualified" or "noMin" dataset (default "noMin").
     :param year: Optional year filter.
     :param team_substr: Optional case-insensitive team substring match.
-    :param agg: How to combine multiple rows if present: "sum", "mean", "max", "min", or "list".
-    :return: Float value, list of floats (for agg="list"), or None if not found.
+    :return: Float value or None if not found.
 
 .. py:function:: list_batters(qualifier: ["qualified", "noMin"] = "noMin", year: int | None = None, team_substr: str | None = None) -> list[str]
 
