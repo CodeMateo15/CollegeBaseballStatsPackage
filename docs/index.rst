@@ -3,7 +3,7 @@ ncaa_bbStats documentation
 ===========================================
 
 **ncaa_bbStats** is an open-source NCAA baseball analysis package for Python.
-It includes mutiple statistical functions for parsing and returning team stats and mlb draft results.
+It includes multiple statistical functions for parsing and returning team stats and mlb draft results.
 
 .. note::
 
@@ -14,6 +14,7 @@ It includes mutiple statistical functions for parsing and returning team stats a
    install
    team_stats
    mlb_draft
+   player_stats
    season_stats
    team_names_stats
    team_names_mlb

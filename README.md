@@ -90,6 +90,71 @@ print_draft_picks_mlb(picks: list): Prints MLB draft picks for a team in a given
 print_draft_picks_college(picks: list): Prints college draft picks for a team in a given year in a readable format
 ```
 
+## Player Stats Module
+### Overview
+Simple, notebook-friendly helpers to explore player batting and pitching stats from cached CSVs (qualified and noMin).
+
+- Discover available years and players
+- Retrieve specific stats as floats or lists
+- Get player rows for a season or across seasons
+- Build quick leaderboards (top-N)
+
+### Functions
+```
+list_available_years(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin"): Sorted unique years available for the given stat type and qualifier
+```
+```
+list_players(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin", year: int|None = None, team_substr: str|None = None): List player names, optionally filtered by a specific year and team substring
+```
+```
+player_seasons(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin", player_name: str): Years in which the player appears in the chosen dataset
+```
+```
+get_player_rows(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin", player_name: str, year: int|None = None, team_substr: str|None = None, include_columns: list[str]|None = None): Return per-row dictionaries for a player, optionally filtered by year and team substring
+```
+```
+top_players(stat_type: "batting"|"pitching", stat: str, n: int = 10, year: int|None = None, team_substr: str|None = None): Top-N leaderboard for a given stat. Uses the "qualified" dataset internally
+```
+```
+batting_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): Get a batting stat for a player from the selected dataset, optionally filtered by year and team
+```
+```
+pitching_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): Get a pitching stat for a player from the selected dataset, optionally filtered by year and team
+```
+```
+list_batters(qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): List batter names from the selected dataset, optionally filtered by year and team substring
+```
+```
+list_pitchers(qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): List pitcher names from the selected dataset, optionally filtered by year and team substring
+```
+
+### Quick Examples
+```python
+from ncaa_bbStats import (
+    list_available_years,
+    list_batters,
+    batting_stat,
+    top_players,
+    get_player_rows,
+)
+
+years = list_available_years("batting", "qualified")
+latest = years[-1]
+
+# List batter names (noMin) for the latest year
+batters = list_batters("noMin", year=latest)
+
+# Top 5 HR leaders (qualified)
+leaders = top_players("batting", "hr", n=5, year=latest)
+
+# Player HR total (noMin)
+if batters:
+    hr_total = batting_stat(batters[0], "hr", qualifier="noMin", year=latest)
+
+# Selected columns for a player in a season
+rows = get_player_rows("batting", "noMin", batters[0], year=latest, include_columns=["name","team","year","hr","pa"])
+```
+
 ## Reference
 ### Season Stats Reference
 See full list of supported team statistics and their abbreviations in the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/season_stats.html" target="_blank">Stats List</a>.
