@@ -169,13 +169,15 @@ Refer to <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/t
 Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_mlb.html" target="_blank">MLB Draft Name Reference</a> for consistent naming of schools when using draft-related functions.
 
 ### Player Name Reference
-Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/player_names.html" target="_blank">PLayer Name Reference</a> for consistent naming of players when using player-related functions.
+Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/player_names.html" target="_blank">Player Name Reference</a> for consistent naming of players when using player-related functions.
 
 ## Planned Features
 
 - Team game results with win-loss tracking
 
 - Win probability models using in-game data
+
+Found a bug or want a new feature? Open an [issue](https://github.com/CodeMateo15/CollegeBaseballStatsPackage/issues).
 
 ## Support
 Star this repo and share to help support!
