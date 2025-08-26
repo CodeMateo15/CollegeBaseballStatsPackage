@@ -1,4 +1,4 @@
-Season Stats Reference
+Player Stats Reference
 ======================
 
 This page lists all available player statistics, their abbreviations (as used in function calls), and descriptions.
