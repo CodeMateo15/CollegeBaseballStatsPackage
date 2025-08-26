@@ -60,7 +60,7 @@ Functions
     Top-N leaderboard for a given stat. Uses the "qualified" dataset internally.
 
     :param stat_type: "batting" or "pitching".
-    :param stat: Column name (case-insensitive), e.g., "hr", "rbi", "obp", "era", "so".
+    :param stat: Column name (case-insensitive), ex. "hr", "rbi", "obp", "era", "so".
     :param n: Number of rows to return (default 10).
     :param year: Optional year filter.
     :param team_substr: Optional case-insensitive team substring match.
@@ -71,7 +71,7 @@ Functions
     Get a batting stat for a player from the selected dataset, optionally filtered by year and team. If multiple rows match, returns the sum.
 
     :param player_name: Player's full name.
-    :param stat: Column name (case-insensitive), e.g., "hr", "rbi", "obp", "ops".
+    :param stat: Column name (case-insensitive), ex. "hr", "rbi", "obp", "ops".
     :param qualifier: "qualified" or "noMin" dataset (default "noMin").
     :param year: Optional year filter.
     :param team_substr: Optional case-insensitive team substring match.
@@ -82,7 +82,7 @@ Functions
     Get a pitching stat for a player from the selected dataset, optionally filtered by year and team. If multiple rows match, returns the sum.
 
     :param player_name: Player's full name.
-    :param stat: Column name (case-insensitive), e.g., "era", "whip", "so", "bb", "ip".
+    :param stat: Column name (case-insensitive), ex. "era", "whip", "so", "bb", "ip".
     :param qualifier: "qualified" or "noMin" dataset (default "noMin").
     :param year: Optional year filter.
     :param team_substr: Optional case-insensitive team substring match.
@@ -140,5 +140,5 @@ Usage Examples
 See Also
 --------
 
-- :doc:`mlb_draft`
-- :doc:`team_stats`
+- :doc:`player_names`
+- :doc:`player_reference`

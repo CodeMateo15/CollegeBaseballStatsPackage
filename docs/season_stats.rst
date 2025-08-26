@@ -204,3 +204,10 @@ Use the abbreviations in function calls, example:
 
     get_team_stat("HR", "Northeastern", 2024, 1)
     average_team_stat_float("ERA", "Northeastern", 1, 2010, 2024)
+
+See Also
+--------
+
+- :doc:`team_stats`
+- :doc:`team_names_stats`
+- :doc:`team_names_mlb`

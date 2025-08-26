@@ -83,7 +83,7 @@ def get_player_stat(
     team_substr: Optional[str] = None,
 ) -> float | None:
     """
-    Get a single stat for a player. If multiple rows match (e.g., transfers), returns the sum.
+    Get a single stat for a player. If multiple rows match (ex. transfers), returns the sum.
     - stat: column name like "hr", "rbi", "obp", "era" (case-insensitive match).
     - year: if provided, filter to that season.
     - team_substr: optionally narrow to a team substring.
