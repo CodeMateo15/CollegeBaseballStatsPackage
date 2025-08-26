@@ -156,14 +156,20 @@ rows = get_player_rows("batting", "noMin", batters[0], year=latest, include_colu
 ```
 
 ## Reference
-### Season Stats Reference
-See full list of supported team statistics and their abbreviations in the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/season_stats.html" target="_blank">Stats List</a>.
+### Season Stat Reference
+See full list of supported team statistics and their abbreviations in the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/season_stats.html" target="_blank">Team Stats List</a>.
 
-### Team Names
+### Player Stat Reference
+See full list of supported player statistics and their abbreviations in the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/player_reference.html" target="_blank">Player Stats List</a>.
+
+### Team Name Reference
 Refer to <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_stats.html" target="_blank">Team Name Reference</a> for formatting options when passing team names.
 
-### Draft Team/School Names
+### Draft Team/School Name Reference
 Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_mlb.html" target="_blank">MLB Draft Name Reference</a> for consistent naming of schools when using draft-related functions.
+
+### Player Name Reference
+Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/player_names.html" target="_blank">PLayer Name Reference</a> for consistent naming of players when using player-related functions.
 
 ## Planned Features
 
