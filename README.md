@@ -1,6 +1,6 @@
 # ncaa_bbStats (AKA CollegeBaseballStatsPackage)
 
-**ncaa_bbStats** is an open-source Python package for retrieving, parsing, and analyzing Division I, II, and III college baseball team statistics (2002–2025), player statistics (2021-2025), and MLB Draft data (1965-2025). It also includes tools to retrieve and analyze MLB draft results of NCAA players. Built for sports analysts, developers, and fans, the package supports both live scraping and cached CSV/JSON access for faster use.
+**ncaa_bbStats** is an open-source Python package for retrieving, parsing, and analyzing Division I, II, and III college baseball team statistics (2002–2025), player statistics (2021-2025), and MLB Draft data (1965-2025). Built for sports analysts, developers, and fans, the package supports both live scraping and cached CSV/JSON access for faster use.
 
 > **Note**  
 > This project is under active development.
