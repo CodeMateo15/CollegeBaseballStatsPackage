@@ -1,6 +1,6 @@
 import csv
 
-input_file = "batting_noMin.csv"
+input_file = "pitching_qualified.csv"
 output_file = "cleaned.csv"
 
 with open(input_file, newline='', encoding='utf-8') as infile:

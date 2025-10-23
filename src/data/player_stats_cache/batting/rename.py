@@ -3,7 +3,7 @@ import os
 
 # File paths (edit if needed)
 script_dir = os.path.dirname(os.path.abspath(__file__))  # Directory of the script
-data_file = os.path.join(script_dir, "batting_qualified.csv")  # Main CSV (contains 'team' column)
+data_file = os.path.join(script_dir, "batting_noMin.csv")  # Main CSV (contains 'team' column)
 teams_file = os.path.join(script_dir, "unique_teams.csv")  # Reference CSV (Acronym, Full Name)
 output_file = os.path.join(script_dir, "merged.csv")  # Output file
 

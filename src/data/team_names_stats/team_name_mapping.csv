@@ -1,0 +1,1057 @@
+team_id,division,team_old,team_new
+1,1,A&M-Corpus Christi,A&M-Corpus Christi
+2,2,AUM,AUM
+3,1,Abilene Christian,Abilene Christian University
+4,2,Abilene Christian,Abilene Christian
+5,2,Academy of Art,Academy of Art
+6,2,Adams St.,Adams St.
+7,2,Adelphi,Adelphi
+8,3,Adrian,Adrian
+9,1,Air Force,United States Air Force Academy
+10,1,Akron,University of Akron
+11,1,Alabama,University of Alabama
+12,1,Alabama A&M,Alabama A&M University
+13,2,Alabama Huntsville,Alabama Huntsville
+14,1,Alabama St.,Alabama State University
+15,2,Albany St.,Albany St.
+16,3,Albertus Magnus,Albertus Magnus
+17,3,Albion,Albion
+18,3,Albright,Albright
+19,1,Alcorn,Alcorn State University
+20,2,Alderson Broaddus,Alderson Broaddus
+21,3,Alfred,Alfred
+22,3,Alfred St.,Alfred St.
+23,3,Allegheny,Allegheny
+24,2,Alliance,Alliance
+25,3,Alma,Alma
+26,3,Alvernia,Alvernia
+27,2,American Int'l,American Int'l
+28,3,Amherst,Amherst
+29,2,Anderson,Anderson
+30,3,Anderson,Anderson
+31,2,Angelo St.,Angelo St.
+32,3,Anna Maria,Anna Maria
+33,1,App State,Coppin State University
+34,3,Arcadia,Arcadia
+35,1,Arizona,University of Arizona
+36,1,Arizona St.,Arizona State University
+37,2,Ark.-Fort Smith,Ark.-Fort Smith
+38,2,Ark.-Monticello,Ark.-Monticello
+39,1,Ark.-Pine Bluff,University of Arkansas at Pine Bluff
+40,1,Arkansas,University of Arkansas
+41,1,Arkansas St.,Arkansas State University
+42,2,Arkansas Tech,Arkansas Tech
+43,2,Armstrong St.,Armstrong St.
+44,1,Army West Point,United States Military Academy
+45,3,Asbury,Asbury
+46,2,Ashland,Ashland
+47,2,Assumption,Assumption
+48,1,Auburn,Auburn University
+49,3,Augsburg,Augsburg
+50,2,Augusta,Augusta
+51,2,Augustana,Augustana
+52,3,Augustana,Augustana
+53,3,Aurora,Aurora
+54,3,Austin,Austin
+55,1,Austin Peay,Austin Peay State University
+56,3,Averett,Averett
+57,2,Azusa Pacific,Azusa Pacific
+58,1,BYU,Brigham Young University
+59,3,Babson,Babson
+60,3,Baldwin Wallace,Baldwin Wallace
+61,1,Ball St.,Ball State University
+62,3,Bard,Bard
+63,2,Barry,Barry
+64,2,Barton,Barton
+65,3,Baruch,Baruch
+66,3,Bates,Bates
+67,1,Baylor,Baylor University
+68,3,Becker,Becker
+69,3,Belhaven,Belhaven
+70,1,Bellarmine,Bellarmine University
+71,2,Bellarmine,Bellarmine
+72,1,Belmont,Belmont University
+73,2,Belmont Abbey,Belmont Abbey
+74,3,Beloit,Beloit
+75,2,Bemidji St.,Bemidji St.
+76,2,Benedict,Benedict
+77,3,Benedictine,Benedictine
+78,2,Bentley,Bentley
+79,3,Berea,Berea
+80,3,Berry,Berry
+81,3,Bethany,Bethany
+82,3,Bethany Lutheran,Bethany Lutheran
+83,3,Bethel,Bethel
+84,1,Bethune-Cookman,Bethune–Cookman University
+85,1,Binghamton,Binghamton University
+86,2,Biola,Biola
+87,1,Birmingham-So.,Birmingham-So.
+88,3,Birmingham-So.,Birmingham-So.
+89,3,Blackburn,Blackburn
+90,2,Bloomfield,Bloomfield
+91,2,Bloomsburg,Bloomsburg
+92,2,Bluefield St.,Bluefield St.
+93,3,Bluffton,Bluffton
+94,3,Bob Jones,Bob Jones
+95,1,Boise St.,Boise St.
+96,1,Boston College,Boston College
+97,3,Bowdoin,Bowdoin
+98,1,Bowling Green,Bowling Green State University
+99,1,Bradley,Bradley University
+100,3,Brandeis,Brandeis
+101,2,Brevard,Brevard
+102,3,Brevard,Brevard
+103,2,Bridgeport,Bridgeport
+104,3,Bridgewater,Bridgewater
+105,3,Bridgewater St.,Bridgewater St.
+106,1,Brown,Brown University
+107,1,Bryant,Bryant University
+108,2,Bryant,Bryant
+109,1,Bucknell,Bucknell University
+110,3,Buena Vista,Buena Vista
+111,1,Buffalo,Buffalo
+112,1,Butler,Butler University
+113,3,CCNY,CCNY
+114,1,CSU Bakersfield,"California State University, Bakersfield"
+115,2,CSU Pueblo,CSU Pueblo
+116,1,CSUN,"California State University, Northridge"
+117,2,CSUSB,CSUSB
+118,2,CUI,CUI
+119,3,CWRU,CWRU
+120,3,Cabrini,Cabrini
+121,3,Cairn,Cairn
+122,3,Cal Lutheran,Cal Lutheran
+123,1,Cal Poly,California Polytechnic State University
+124,2,Cal Poly Pomona,Cal Poly Pomona
+125,2,Cal St. Dom. Hills,Cal St. Dom. Hills
+126,2,Cal St. East Bay,Cal St. East Bay
+127,3,Cal St. East Bay,Cal St. East Bay
+128,1,Cal St. Fullerton,"California State University, Fullerton"
+129,2,Cal St. Monterey Bay,Cal St. Monterey Bay
+130,2,Cal St. San Marcos,Cal St. San Marcos
+131,2,Cal State LA,Cal State LA
+132,2,Caldwell,Caldwell
+133,1,California,"University of California, Berkeley"
+134,2,California,California
+135,1,California Baptist,California Baptist University
+136,2,California Baptist,California Baptist
+137,3,Caltech,Caltech
+138,3,Calvin,Calvin
+139,2,Cameron,Cameron
+140,1,Campbell,Campbell University
+141,1,Canisius,Canisius
+142,3,Capital,Capital
+143,3,Carleton,Carleton
+144,3,Carroll,Carroll
+145,2,Carson-Newman,Carson-Newman
+146,3,Carthage,Carthage
+147,2,Catawba,Catawba
+148,3,Catholic,Catholic
+149,3,Cazenovia,Cazenovia
+150,2,Cedarville,Cedarville
+151,1,Centenary,Centenary
+152,3,Centenary,Centenary
+153,3,Central,Central
+154,1,Central Ark.,Central Ark.
+155,2,Central Ark.,Central Ark.
+156,1,Central Conn. St.,Central Connecticut State University
+157,1,Central Mich.,Central Michigan University
+158,2,Central Mo.,Central Mo.
+159,2,Central Okla.,Central Okla.
+160,2,Central Wash.,Central Wash.
+161,3,Centre,Centre
+162,2,Chaminade,Chaminade
+163,3,Chapman,Chapman
+164,2,Charleston,Charleston
+165,1,Charleston So.,Charleston Southern University
+166,1,Charlotte,University of North Carolina at Charlotte
+167,3,Chatham,Chatham
+168,2,Chestnut Hill,Chestnut Hill
+169,1,Chicago St.,Chicago St.
+170,2,Chico St.,Chico St.
+171,2,Chowan,Chowan
+172,3,Chowan,Chowan
+173,3,Chris. Newport,Chris. Newport
+174,2,Christian Brothers,Christian Brothers
+175,1,Cincinnati,University of Cincinnati
+176,2,Claflin,Claflin
+177,3,Claremont-M-S,Claremont-M-S
+178,2,Clarion,Clarion
+179,3,Clark,Clark
+180,2,Clark Atlanta,Clark Atlanta
+181,3,Clarke,Clarke
+182,3,Clarks Summit,Clarks Summit
+183,3,Clarkson,Clarkson
+184,1,Clemson,Clemson University
+185,1,Cleveland St.,Cleveland St.
+186,3,Coast Guard,Coast Guard
+187,1,Coastal Carolina,Coastal Carolina University
+188,3,Coe,Coe
+189,2,Coker,Coker
+190,1,Col. of Charleston,College of Charleston
+191,3,Colby,Colby
+192,3,Colby-Sawyer,Colby-Sawyer
+193,2,Colo. Christian,Colo. Christian
+194,2,Colo. Sch. of Mines,Colo. Sch. of Mines
+195,2,Colorado Mesa,Colorado Mesa
+196,1,Columbia,Columbia University
+197,2,Columbus St.,Columbus St.
+198,2,Concord,Concord
+199,2,Concordia,Concordia
+200,3,Concordia,Concordia
+201,3,Concordia Chicago,Concordia Chicago
+202,2,Concordia Portland,Concordia Portland
+203,3,Concordia Wisconsin,Concordia Wisconsin
+204,3,Concordia-M'head,Concordia-M'head
+205,2,Concordia-St. Paul,Concordia-St. Paul
+206,1,Coppin St.,Appalachian State University
+207,1,Cornell,Cornell University
+208,3,Cornell College,Cornell College
+209,3,Cortland,Cortland
+210,3,Covenant,Covenant
+211,1,Creighton,Creighton University
+212,3,Crown,Crown
+213,3,Curry,Curry
+214,2,D'Youville,D'Youville
+215,3,D'Youville,D'Youville
+216,1,DBU,Dallas Baptist University
+217,2,DBU,DBU
+218,3,Dallas,Dallas
+219,3,Daniel Webster,Daniel Webster
+220,1,Dartmouth,Dartmouth College
+221,2,Davenport,Davenport
+222,1,Davidson,Davidson College
+223,2,Davis & Elkins,Davis & Elkins
+224,1,Dayton,University of Dayton
+225,3,DePauw,DePauw
+226,3,DeSales,DeSales
+227,3,Dean,Dean
+228,3,Defiance,Defiance
+229,1,Delaware,University of Delaware
+230,1,Delaware St.,Delaware State University
+231,3,Delaware Valley,Delaware Valley
+232,2,Delta St.,Delta St.
+233,3,Denison,Denison
+234,1,Detroit Mercy,Detroit Mercy
+235,3,Dickinson,Dickinson
+236,2,Dominican,Dominican
+237,3,Dominican,Dominican
+238,2,Dowling,Dowling
+239,3,Drew,Drew
+240,1,Drexel,Drexel
+241,2,Drury,Drury
+242,3,Dubuque,Dubuque
+243,1,Duke,Duke University
+244,1,Duquesne,Duquesne
+245,1,ETSU,East Tennessee State University
+246,3,Earlham,Earlham
+247,1,East Carolina,East Carolina University
+248,2,East Central,East Central
+249,2,East Stroudsburg,East Stroudsburg
+250,3,East Tex. Baptist,East Tex. Baptist
+251,3,East. Mennonite,East. Mennonite
+252,3,Eastern,Eastern
+253,3,Eastern Conn. St.,Eastern Conn. St.
+254,1,Eastern Ill.,Eastern Illinois University
+255,1,Eastern Ky.,Eastern Kentucky University
+256,1,Eastern Mich.,Eastern Michigan University
+257,2,Eastern N.M.,Eastern N.M.
+258,3,Eastern Nazarene,Eastern Nazarene
+259,2,Eckerd,Eckerd
+260,3,Edgewood,Edgewood
+261,2,Edinboro,Edinboro
+262,2,Edward Waters,Edward Waters
+263,2,Elizabeth City St.,Elizabeth City St.
+264,3,Elizabethtown,Elizabethtown
+265,3,Elmhurst,Elmhurst
+266,3,Elmira,Elmira
+267,3,Elms,Elms
+268,1,Elon,Elon University
+269,2,Embry-Riddle,Embry-Riddle
+270,3,Emerson,Emerson
+271,2,Emmanuel,Emmanuel
+272,3,Emory,Emory
+273,2,Emory & Henry,Emory & Henry
+274,3,Emory & Henry,Emory & Henry
+275,2,Emporia St.,Emporia St.
+276,3,Endicott,Endicott
+277,2,Erskine,Erskine
+278,3,Eureka,Eureka
+279,1,Evansville,University of Evansville
+280,1,FDU,Fairleigh Dickinson University
+281,3,FDU-Florham,FDU-Florham
+282,1,FGCU,Florida Gulf Coast University
+283,2,FGCU,FGCU
+284,1,FIU,Florida International University
+285,1,Fairfield,Fairfield University
+286,2,Fairmont St.,Fairmont St.
+287,3,Farmingdale St.,Farmingdale St.
+288,2,Felician,Felician
+289,3,Ferrum,Ferrum
+290,2,Findlay,Findlay
+291,3,Finlandia,Finlandia
+292,3,Fitchburg St.,Fitchburg St.
+293,1,Fla. Atlantic,Florida Atlantic University
+294,2,Fla. Southern,Fla. Southern
+295,2,Flagler,Flagler
+296,1,Florida,University of Florida
+297,1,Florida A&M,Florida A&M University
+298,1,Florida St.,Florida State University
+299,2,Florida Tech,Florida Tech
+300,3,Fontbonne,Fontbonne
+301,1,Fordham,Fordham University
+302,2,Fort Hays St.,Fort Hays St.
+303,3,Framingham St.,Framingham St.
+304,2,Francis Marion,Francis Marion
+305,3,Franciscan,Franciscan
+306,3,Franklin,Franklin
+307,3,Franklin & Marshall,Franklin & Marshall
+308,2,Franklin Pierce,Franklin Pierce
+309,3,Fredonia,Fredonia
+310,2,Fresno Pacific,Fresno Pacific
+311,1,Fresno St.,Fresno State University
+312,2,Frostburg St.,Frostburg St.
+313,3,Frostburg St.,Frostburg St.
+314,1,Furman,Furman
+315,1,Ga. Southern,Georgia Southern University
+316,2,Ga. Southwestern,Ga. Southwestern
+317,3,Gallaudet,Gallaudet
+318,2,Gannon,Gannon
+319,1,Gardner-Webb,Gardner–Webb University
+320,3,Geneva,Geneva
+321,3,George Fox,George Fox
+322,1,George Mason,George Mason University
+323,1,George Washington,George Washington University
+324,1,Georgetown,Georgetown University
+325,1,Georgia,University of Georgia
+326,2,Georgia College,Georgia College
+327,1,Georgia St.,Georgia State University
+328,1,Georgia Tech,Georgia Institute of Technology
+329,2,Georgian Court,Georgian Court
+330,3,Gettysburg,Gettysburg
+331,2,Glenville St.,Glenville St.
+332,2,Goldey-Beacom,Goldey-Beacom
+333,1,Gonzaga,Gonzaga University
+334,3,Gordon,Gordon
+335,1,Grambling,Grambling State University
+336,1,Grand Canyon,Grand Canyon University
+337,2,Grand Canyon,Grand Canyon
+338,2,Grand Valley St.,Grand Valley St.
+339,3,Greensboro,Greensboro
+340,3,Greenville,Greenville
+341,3,Grinnell,Grinnell
+342,3,Grove City,Grove City
+343,3,Guilford,Guilford
+344,3,Gustavus Adolphus,Gustavus Adolphus
+345,3,Gwynedd Mercy,Gwynedd Mercy
+346,3,Hamilton,Hamilton
+347,3,Hamline,Hamline
+348,3,Hampden-Sydney,Hampden-Sydney
+349,3,Hanover,Hanover
+350,3,Hardin-Simmons,Hardin-Simmons
+351,2,Harding,Harding
+352,1,Hartford,University of Hartford
+353,3,Hartwick,Hartwick
+354,1,Harvard,Harvard University
+355,3,Haverford,Haverford
+356,1,Hawaii,University of Hawaii Manoa
+357,1,Hawaii Hilo,Hawaii Hilo
+358,2,Hawaii Hilo,Hawaii Hilo
+359,2,Hawaii Pacific,Hawaii Pacific
+360,3,Heidelberg,Heidelberg
+361,2,Henderson St.,Henderson St.
+362,3,Hendrix,Hendrix
+363,1,High Point,High Point University
+364,3,Hilbert,Hilbert
+365,2,Hillsdale,Hillsdale
+366,3,Hiram,Hiram
+367,3,Hobart,Hobart
+368,1,Hofstra,Hofstra University
+369,1,Holy Cross,College of the Holy Cross
+370,2,Holy Family,Holy Family
+371,2,Holy Names,Holy Names
+372,3,Hood,Hood
+373,3,Hope,Hope
+374,3,Houghton,Houghton
+375,1,Houston,University of Houston
+376,1,Houston Christian,Houston Christian University
+377,3,Howard Payne,Howard Payne
+378,3,Huntingdon,Huntingdon
+379,3,Husson,Husson
+380,3,IIT,IIT
+381,2,Ill. Springfield,Ill. Springfield
+382,3,Ill. Wesleyan,Ill. Wesleyan
+383,1,Illinois,University of Illinois
+384,3,Illinois Col.,Illinois Col.
+385,1,Illinois St.,Illinois State University
+386,3,Immaculata,Immaculata
+387,1,Indiana,Indiana State University
+388,2,Indiana,Indiana
+389,1,Indiana St.,Indiana University
+390,1,Iona,Iona University
+391,1,Iowa,University of Iowa
+392,3,Iowa Wesleyan,Iowa Wesleyan
+393,3,Ithaca,Ithaca
+394,3,JWU,JWU
+395,1,Jackson St.,Jackson State University
+396,1,Jacksonville,Jacksonville University
+397,1,Jacksonville St.,Jacksonville State University
+398,1,James Madison,James Madison University
+399,2,Jefferson,Jefferson
+400,3,John Carroll,John Carroll
+401,3,John Jay,John Jay
+402,3,Johns Hopkins,Johns Hopkins
+403,3,Juniata,Juniata
+404,3,Kalamazoo,Kalamazoo
+405,1,Kansas,University of Kansas
+406,1,Kansas St.,Kansas St.
+407,3,Kean,Kean
+408,3,Keene St.,Keene St.
+409,1,Kennesaw St.,Kennesaw State University
+410,2,Kennesaw St.,Kennesaw St.
+411,1,Kent St.,Kent State University
+412,1,Kentucky,University of Kentucky
+413,2,Kentucky St.,Kentucky St.
+414,3,Kenyon,Kenyon
+415,3,Keuka,Keuka
+416,3,Keystone,Keystone
+417,2,King,King
+418,3,King's,King's
+419,3,Knox,Knox
+420,2,Kutztown,Kutztown
+421,2,Ky. Wesleyan,Ky. Wesleyan
+422,1,LIU,Long Island University
+423,2,LIU Post,LIU Post
+424,1,LMU,Loyola Marymount University
+425,1,LSU,Louisiana State University
+426,3,La Roche,La Roche
+427,1,La Salle,La Salle University
+428,3,La Verne,La Verne
+429,3,LaGrange,LaGrange
+430,1,Lafayette,Lafayette College
+431,2,Lake Erie,Lake Erie
+432,3,Lake Erie,Lake Erie
+433,3,Lakeland,Lakeland
+434,1,Lamar University,Lamar University
+435,3,Lancaster Bible,Lancaster Bible
+436,2,Lander,Lander
+437,2,Lane,Lane
+438,3,Lasell,Lasell
+439,3,Lawrence,Lawrence
+440,1,Le Moyne,Le Moyne College
+441,2,Le Moyne,Le Moyne
+442,2,LeMoyne-Owen,LeMoyne-Owen
+443,3,LeTourneau,LeTourneau
+444,3,Lebanon Valley,Lebanon Valley
+445,2,Lee,Lee
+446,1,Lehigh,Lehigh University
+447,3,Lehman,Lehman
+448,2,Lenoir-Rhyne,Lenoir-Rhyne
+449,3,Lesley,Lesley
+450,2,Lewis,Lewis
+451,3,Lewis & Clark,Lewis & Clark
+452,1,Liberty,Liberty University
+453,2,Limestone,Limestone
+454,2,Lincoln,Lincoln
+455,3,Lincoln,Lincoln
+456,2,Lincoln Memorial,Lincoln Memorial
+457,2,Lindenwood,Lindenwood University
+458,3,Linfield,Linfield
+459,1,Lipscomb,Lipscomb University
+460,1,Little Rock,Little Rock University
+461,2,Lock Haven,Lock Haven
+462,1,Long Beach St.,Long Beach State University
+463,1,Longwood,Longwood University
+464,2,Longwood,Longwood
+465,3,Loras,Loras
+466,1,Louisiana,University of Louisiana at Lafayette
+467,3,Louisiana Col.,Louisiana Col.
+468,1,Louisiana Tech,Louisiana Tech University
+469,1,Louisville,University of Louisville
+470,2,Lubbock Christian,Lubbock Christian
+471,3,Luther,Luther
+472,3,Lycoming,Lycoming
+473,3,Lynchburg,Lynchburg
+474,2,Lynn,Lynn
+475,3,MCLA,MCLA
+476,3,MIT,MIT
+477,3,MSOE,MSOE
+478,2,MSU Denver,MSU Denver
+479,3,MUW,MUW
+480,3,MacMurray,MacMurray
+481,3,Macalester,Macalester
+482,1,Maine,University of Maine
+483,2,Malone,Malone
+484,3,Manchester,Manchester
+485,1,Manhattan,Manhattan College
+486,3,Manhattanville,Manhattanville
+487,2,Mansfield,Mansfield
+488,3,Maranatha Baptist,Maranatha Baptist
+489,3,Marian,Marian
+490,3,Marietta,Marietta
+491,1,Marist,Marist College
+492,2,Mars Hill,Mars Hill
+493,1,Marshall,Marshall University
+494,3,Martin Luther,Martin Luther
+495,2,Mary,Mary
+496,3,Mary Baldwin,Mary Baldwin
+497,3,Mary Hardin-Baylor,Mary Hardin-Baylor
+498,3,Mary Washington,Mary Washington
+499,1,Maryland,University of Maryland
+500,3,Marymount,Marymount
+501,2,Maryville,Maryville
+502,3,Maryville,Maryville
+503,3,Marywood,Marywood
+504,3,Mass. Maritime,Mass. Maritime
+505,1,Massachusetts,University of Massachusetts Amherst
+506,3,McDaniel,McDaniel
+507,2,McKendree,McKendree
+508,3,McMurry,McMurry
+509,1,McNeese,McNeese State University
+510,3,Me.-Farmington,Me.-Farmington
+511,3,Me.-Presque Isle,Me.-Presque Isle
+512,3,Medaille,Medaille
+513,1,Memphis,University of Memphis
+514,2,Menlo,Menlo
+515,3,Menlo,Menlo
+516,1,Mercer,Mercer University
+517,3,Merchant Marine,Merchant Marine
+518,2,Mercy,Mercy
+519,2,Mercyhurst,Mercyhurst
+520,1,Merrimack,Merrimack College
+521,2,Merrimack,Merrimack
+522,3,Messiah,Messiah
+523,3,Methodist,Methodist
+524,1,Miami,University of Miami
+525,1,Michigan,University of Michigan
+526,1,Michigan St.,Michigan State University
+527,1,Middle Tenn.,Middle Tennessee State University
+528,3,Middlebury,Middlebury
+529,2,Miles,Miles
+530,2,Millersville,Millersville
+531,3,Millikin,Millikin
+532,3,Millsaps,Millsaps
+533,1,Milwaukee,University of Wisconsin–Milwaukee
+534,2,Minn. Duluth,Minn. Duluth
+535,2,Minn.-Crookston,Minn.-Crookston
+536,2,Minn.-Morris,Minn.-Morris
+537,3,Minn.-Morris,Minn.-Morris
+538,1,Minnesota,University of Minnesota
+539,2,Minnesota St.,Minnesota St.
+540,2,Minot St.,Minot St.
+541,3,Misericordia,Misericordia
+542,2,Mississippi Col.,Mississippi Col.
+543,3,Mississippi Col.,Mississippi Col.
+544,1,Mississippi St.,Mississippi State University
+545,1,Mississippi Val.,Mississippi Valley State University
+546,1,Missouri,University of Missouri
+547,2,Missouri S&T,Missouri S&T
+548,1,Missouri St.,Missouri State University
+549,2,Missouri Western,Missouri Western
+550,3,Mitchell,Mitchell
+551,2,Mo. Southern St.,Mo. Southern St.
+552,2,Mo.-St. Louis,University of Missouri–St. Louis
+553,2,Molloy,Molloy
+554,1,Monmouth,Monmouth University
+555,3,Monmouth,Monmouth
+556,2,Mont. St. Billings,Mont. St. Billings
+557,3,Montclair St.,Montclair St.
+558,2,Montevallo,Montevallo
+559,3,Moravian,Moravian
+560,1,Morehead St.,Morehead State University
+561,2,Morehouse,Morehouse
+562,3,Mount Aloysius,Mount Aloysius
+563,2,Mount Olive,Mount Olive
+564,1,Mount St. Mary's,Mount St. Mary's University
+565,3,Mount Union,Mount Union
+566,3,Mt. St. Joseph,Mt. St. Joseph
+567,3,Mt. St. Mary,Mt. St. Mary
+568,3,Muhlenberg,Muhlenberg
+569,1,Murray St.,Murray State University
+570,3,Muskingum,Muskingum
+571,1,N.C. A&T,North Carolina A&T State University
+572,1,N.C. Central,North Carolina Central University
+573,2,N.C. Central,N.C. Central
+574,3,N.C. Wesleyan,N.C. Wesleyan
+575,2,N.M. Highlands,N.M. Highlands
+576,1,NC State,North Carolina State University
+577,1,NIU,University of Northern Illinois
+578,1,NJIT,New Jersey Institute of Technology
+579,2,NJIT,NJIT
+580,3,NYU,NYU
+581,1,Navy,United States Naval Academy
+582,3,Neb. Wesleyan,Neb. Wesleyan
+583,2,Neb.-Kearney,Neb.-Kearney
+584,1,Nebraska,University of Nebraska–Lincoln
+585,3,Neumann,Neumann
+586,1,Nevada,"University of Nevada, Reno"
+587,3,New England Col.,New England Col.
+588,2,New Haven,New Haven
+589,3,New Jersey City,New Jersey City
+590,1,New Mexico,University of New Mexico
+591,1,New Mexico St.,New Mexico State University
+592,1,New Orleans,University of New Orleans
+593,3,New Rochelle,New Rochelle
+594,1,New York Tech,New York Tech
+595,2,New York Tech,New York Tech
+596,2,Newberry,Newberry
+597,3,Newbury,Newbury
+598,2,Newman,Newman
+599,1,Niagara,Niagara University
+600,1,Nicholls,Nicholls State University
+601,3,Nichols,Nichols
+602,1,Norfolk St.,Norfolk State University
+603,1,North Ala.,University of North Alabama
+604,2,North Ala.,North Ala.
+605,1,North Carolina,University of North Carolina at Chapel Hill
+606,3,North Central,North Central
+607,1,North Dakota,University of North Dakota
+608,2,North Dakota,North Dakota
+609,1,North Dakota St.,North Dakota State University
+610,2,North Dakota St.,North Dakota St.
+611,1,North Florida,University of North Florida
+612,2,North Florida,North Florida
+613,2,North Georgia,North Georgia
+614,2,North Greenville,North Greenville
+615,3,North Park,North Park
+616,1,Northeastern,Northeastern University
+617,2,Northeastern St.,Northeastern St.
+618,1,Northern Colo.,University of Northern Colorado
+619,2,Northern Colo.,Northern Colo.
+620,1,Northern Ky.,Northern Kentucky University
+621,2,Northern Ky.,Northern Ky.
+622,2,Northern St.,Northern St.
+623,3,Northland,Northland
+624,2,Northwest Mo. St.,Northwest Mo. St.
+625,2,Northwest Nazarene,Northwest Nazarene
+626,1,Northwestern,Northwestern University
+627,2,Northwestern Okla.,Northwestern Okla.
+628,1,Northwestern St.,Northwestern State University
+629,3,Northwestern-St. Paul,Northwestern-St. Paul
+630,2,Northwood,Northwood
+631,3,Norwich,Norwich
+632,1,Notre Dame,University of Notre Dame
+633,2,Notre Dame,Notre Dame
+634,3,Notre Dame,Notre Dame
+635,2,Nova Southeastern,Nova Southeastern
+636,1,Oakland,Oakland University
+637,2,Oakland City,Oakland City
+638,3,Oberlin,Oberlin
+639,3,Occidental,Occidental
+640,3,Oglethorpe,Oglethorpe
+641,1,Ohio,Ohio University
+642,2,Ohio Dominican,Ohio Dominican
+643,3,Ohio Northern,Ohio Northern
+644,1,Ohio St.,Ohio State University
+645,2,Ohio Valley,Ohio Valley
+646,3,Ohio Wesleyan,Ohio Wesleyan
+647,2,Okla. Baptist,Okla. Baptist
+648,2,Okla. Christian,Okla. Christian
+649,2,Okla. Panhandle,Okla. Panhandle
+650,1,Oklahoma,University of Oklahoma
+651,1,Oklahoma St.,Oklahoma State University
+652,1,Old Dominion,Old Dominion University
+653,3,Old Westbury,Old Westbury
+654,1,Ole Miss,University of Mississippi
+655,3,Olivet,Olivet
+656,1,Omaha,University of Nebraska at Omaha
+657,2,Omaha,Omaha
+658,1,Oral Roberts,Oral Roberts University
+659,1,Oregon,University of Oregon
+660,1,Oregon St.,Oregon State University
+661,3,Oswego St.,Oswego St.
+662,3,Otterbein,Otterbein
+663,2,Ouachita Baptist,Ouachita Baptist
+664,3,Ozarks,Ozarks
+665,1,Pace,Pace University
+666,2,Pace,Pace
+667,1,Pacific,University of the Pacific
+668,3,Pacific,Pacific
+669,3,Pacific Lutheran,Pacific Lutheran
+670,2,Paine,Paine
+671,2,Palm Beach Atl.,Palm Beach Atl.
+672,1,Penn,University of Pennsylvania
+673,3,Penn College,Penn College
+674,1,Penn St.,Penn State University
+675,3,Penn St. Harrisburg,Penn St. Harrisburg
+676,3,Penn St.-Abington,Penn St.-Abington
+677,3,Penn St.-Altoona,Penn St.-Altoona
+678,3,Penn St.-Behrend,Penn St.-Behrend
+679,3,Penn St.-Berks,Penn St.-Berks
+680,1,Pepperdine,Pepperdine University
+681,2,Pfeiffer,Pfeiffer
+682,3,Pfeiffer,Pfeiffer
+683,3,Piedmont,Piedmont
+684,3,Pine Manor,Pine Manor
+685,3,Pitt.-Bradford,Pitt.-Bradford
+686,3,Pitt.-Greensburg,Pitt.-Greensburg
+687,2,Pitt.-Johnstown,Pitt.-Johnstown
+688,2,Pittsburg St.,Pittsburg St.
+689,1,Pittsburgh,University of Pittsburgh
+690,3,Plattsburgh St.,Plattsburgh St.
+691,3,Plymouth St.,Plymouth St.
+692,2,Point Loma,Point Loma
+693,3,Polytechnic,Polytechnic
+694,3,Pomona-Pitzer,Pomona-Pitzer
+695,1,Portland,Portland State University
+696,2,Post,Post
+697,1,Prairie View,Prairie View A&M University
+698,1,Presbyterian,Presbyterian College
+699,2,Presbyterian,Presbyterian
+700,3,Presentation,Presentation
+701,1,Princeton,Princeton University
+702,3,Principia,Principia
+703,3,Puget Sound,Puget Sound
+704,3,Purchase,Purchase
+705,1,Purdue,Purdue University
+706,1,Purdue Fort Wayne,Purdue Fort Wayne
+707,2,Purdue Northwest,Purdue Northwest
+708,2,Queens,Queens
+709,2,Quincy,Quincy
+710,1,Quinnipiac,Quinnipiac University
+711,3,RIT,RIT
+712,1,Radford,Radford University
+713,3,Ramapo,Ramapo
+714,3,Randolph-Macon,Randolph-Macon
+715,3,Redlands,Redlands
+716,2,Regis,Regis
+717,3,Rensselaer,Rensselaer
+718,1,Rhode Island,University of Rhode Island
+719,3,Rhode Island Col.,Rhode Island Col.
+720,3,Rhodes,Rhodes
+721,1,Rice,Rice University
+722,1,Richmond,University of Richmond
+723,1,Rider,Rider University
+724,3,Ripon,Ripon
+725,3,Rivier,Rivier
+726,3,Roanoke,Roanoke
+727,3,Rochester,Rochester
+728,3,Rockford,Rockford
+729,2,Rockhurst,Rockhurst
+730,3,Roger Williams,Roger Williams
+731,2,Rogers St.,Rogers St.
+732,2,Rollins,Rollins
+733,3,Rose-Hulman,Rose-Hulman
+734,3,Rosemont,Rosemont
+735,3,Rowan,Rowan
+736,3,Russell Sage,Russell Sage
+737,3,Rust,Rust
+738,1,Rutgers,Rutgers University
+739,3,Rutgers-Camden,Rutgers-Camden
+740,3,Rutgers-Newark,Rutgers-Newark
+741,3,SCAD,SCAD
+742,1,SFA,Stephen F. Austin State University
+743,1,SIUE,Southern Illinois University Edwardsville
+744,2,SIUE,SIUE
+745,3,SUNY Brockport,SUNY Brockport
+746,3,SUNY Canton,SUNY Canton
+747,3,SUNY Cobleskill,SUNY Cobleskill
+748,3,SUNY Maritime,SUNY Maritime
+749,3,SUNY New Paltz,SUNY New Paltz
+750,3,SUNY Oneonta,SUNY Oneonta
+751,3,SUNY Poly,SUNY Poly
+752,1,Sacramento St.,Sacramento State University
+753,1,Sacred Heart,Sacred Heart University
+754,2,Saginaw Valley,Saginaw Valley
+755,2,Saint Augustine's,Saint Augustine's
+756,3,Saint Elizabeth,Saint Elizabeth
+757,3,Saint John's,Saint John's
+758,3,Saint Joseph,Saint Joseph
+759,1,Saint Joseph's,St. Joseph's University
+760,2,Saint Leo,Saint Leo
+761,1,Saint Louis,Saint Louis University
+762,2,Saint Martin's,Saint Martin's
+763,1,Saint Mary's,St. Mary's College of California
+764,3,Saint Mary's,Saint Mary's
+765,2,Saint Michael's,Saint Michael's
+766,1,Saint Peter's,St. Peter's College
+767,2,Saint Rose,Saint Rose
+768,3,Saint Vincent,Saint Vincent
+769,2,Salem,Salem
+770,3,Salem St.,Salem St.
+771,3,Salisbury,Salisbury
+772,3,Salve Regina,Salve Regina
+773,1,Sam Houston,Sam Houston State University
+774,1,Samford,Samford
+775,1,San Diego,University of San Diego
+776,1,San Diego St.,San Diego State University
+777,2,San Fran. St.,San Fran. St.
+778,1,San Francisco,University of San Francisco
+779,1,San Jose St.,San Jose State University
+780,1,Santa Clara,Santa Clara University
+781,1,Savannah St.,Savannah St.
+782,2,Savannah St.,Savannah St.
+783,3,Schreiner,Schreiner
+784,3,Scranton,Scranton
+785,1,Seattle U,Seattle University
+786,1,Seton Hall,Seton Hall University
+787,2,Seton Hill,Seton Hill
+788,3,Sewanee,Sewanee
+789,2,Shaw,Shaw
+790,3,Shenandoah,Shenandoah
+791,2,Shepherd,Shepherd
+792,2,Shippensburg,Shippensburg
+793,2,Shorter,Shorter
+794,1,Siena,Siena College
+795,3,Simpson,Simpson
+796,2,Sioux Falls,Sioux Falls
+797,3,Skidmore,Skidmore
+798,2,Slippery Rock,Slippery Rock
+799,2,Sonoma St.,Sonoma St.
+800,1,South Alabama,University of South Alabama
+801,1,South Carolina,University of South Carolina
+802,2,South Dakota,South Dakota
+803,1,South Dakota St.,South Dakota State University
+804,2,South Dakota St.,South Dakota St.
+805,1,South Fla.,University of South Florida
+806,1,Southeast Mo. St.,Southeast Missouri State University
+807,1,Southeastern La.,Southeastern Louisiana University
+808,2,Southeastern Okla.,Southeastern Okla.
+809,2,Southern Ark.,Southern Ark.
+810,1,Southern California,University of Southern California
+811,2,Southern Conn. St.,Southern Conn. St.
+812,1,Southern Ill.,Southern Illinois University
+813,2,Southern Ind.,Southern Ind.
+814,3,Southern Me.,Southern Me.
+815,1,Southern Miss.,University of Southern Mississippi
+816,2,Southern N.H.,Southern N.H.
+817,2,Southern Nazarene,Southern Nazarene
+818,1,Southern U.,Southern University and A&M College
+819,1,Southern Utah,Southern Utah University
+820,3,Southern Va.,Southern Va.
+821,3,Southern Vt.,Southern Vt.
+822,2,Southern Wesleyan,Southern Wesleyan
+823,2,Southwest Baptist,Southwest Baptist
+824,2,Southwest Minn. St.,Southwest Minn. St.
+825,3,Southwestern,Southwestern
+826,2,Southwestern Okla.,Southwestern Okla.
+827,3,Spalding,Spalding
+828,2,Spring Hill,Spring Hill
+829,3,Springfield,Springfield
+830,2,St. Andrews,St. Andrews
+831,2,St. Anselm,St. Anselm
+832,1,St. Bonaventure,St. Bonaventure University
+833,2,St. Cloud St.,St. Cloud St.
+834,2,St. Edward's,St. Edward's
+835,1,St. Francis Brooklyn,St. Francis Brooklyn
+836,3,St. John Fisher,St. John Fisher
+837,1,St. John's,St. John's University
+838,2,St. Joseph's,St. Joseph's
+839,3,St. Joseph's,St. Joseph's
+840,3,St. Lawrence,St. Lawrence
+841,2,St. Mary's,St. Mary's
+842,3,St. Mary's,St. Mary's
+843,3,St. Norbert,St. Norbert
+844,3,St. Olaf,St. Olaf
+845,2,St. Paul's,St. Paul's
+846,3,St. Scholastica,St. Scholastica
+847,3,St. Thomas,St. Thomas
+848,2,St. Thomas Aquinas,St. Thomas Aquinas
+849,1,Stanford,Stanford University
+850,2,Stanislaus St.,Stanislaus St.
+851,2,Staten Island,Staten Island
+852,3,Staten Island,Staten Island
+853,1,Stetson,Stetson University
+854,3,Stevens,Stevens
+855,3,Stevenson,Stevenson
+856,2,Stillman,Stillman
+857,3,Stillman,Stillman
+858,3,Stockton,Stockton
+859,2,Stonehill,Stonehill
+860,1,Stony Brook,Stony Brook University
+861,3,Suffolk,Suffolk
+862,3,Sul Ross St.,Sul Ross St.
+863,3,Susquehanna,Susquehanna
+864,3,Swarthmore,Swarthmore
+865,3,TCNJ,TCNJ
+866,1,TCU,Texas Christian University
+867,2,Tampa,Tampa
+868,1,Tarleton St.,Tarleton State University
+869,2,Tarleton St.,Tarleton St.
+870,1,Temple,Temple
+871,1,Tennessee,University of Tennessee Knoxville
+872,1,Tennessee Tech,Tennessee Tech University
+873,2,Tex. A&M Int'l,Tex. A&M Int'l
+874,2,Tex. A&M-Kingsville,Tex. A&M-Kingsville
+875,1,Texas,University of Texas at Austin
+876,1,Texas A&M,Texas A&M University
+877,2,Texas Lutheran,Texas Lutheran
+878,3,Texas Lutheran,Texas Lutheran
+879,1,Texas Southern,Texas Southern University
+880,1,Texas St.,Texas State University
+881,1,Texas Tech,Texas Tech University
+882,3,Texas-Dallas,Texas-Dallas
+883,1,The Citadel,The Citadel Military College of South Carolina
+884,3,Thiel,Thiel
+885,3,Thomas,Thomas
+886,3,Thomas More,Thomas More
+887,2,Tiffin,Tiffin
+888,1,Toledo,University of Toledo
+889,1,Towson,Towson University
+890,3,Transylvania,Transylvania
+891,2,Trevecca Nazarene,Trevecca Nazarene
+892,3,Trine,Trine
+893,3,Trinity,Trinity
+894,1,Troy,Troy University
+895,2,Truman St.,Truman St.
+896,3,Tufts,Tufts
+897,1,Tulane,Tulane University
+898,2,Tusculum,Tusculum
+899,2,Tuskegee,Tuskegee
+900,1,UAB,University of Alabama at Birmingham
+901,2,UAH,UAH
+902,1,UAlbany,University at Albany
+903,1,UC Davis,"University of California, Davis"
+904,2,UC Davis,UC Davis
+905,1,UC Irvine,"University of California, Irvine"
+906,1,UC Riverside,"University of California, Riverside"
+907,1,UC San Diego,"University of California, San Diego"
+908,2,UC San Diego,UC San Diego
+909,1,UC Santa Barbara,"University of California, Santa Barbara"
+910,2,UC-Colo. Springs,UC-Colo. Springs
+911,1,UCF,University of Central Florida
+912,1,UCLA,"University of California, Los Angeles"
+913,3,UChicago,UChicago
+914,1,UConn,University of Connecticut
+915,1,UIC,University of Illinois at Chicago
+916,1,UIW,University of the Incarnate Word
+917,2,UIW,UIW
+918,2,UIndy,UIndy
+919,1,ULM,University of Louisiana at Monroe
+920,1,UMBC,"University of Maryland, Baltimore County"
+921,1,UMES,University of Maryland Eastern Shore
+922,3,UMSV,UMSV
+923,3,UMass Boston,UMass Boston
+924,3,UMass Dartmouth,UMass Dartmouth
+925,1,UMass Lowell,University of Massachusetts Lowell
+926,2,UMass Lowell,UMass Lowell
+927,1,UNC Asheville,University of North Carolina at Asheville
+928,1,UNC Greensboro,University of North Carolina at Greensboro
+929,2,UNC Pembroke,UNC Pembroke
+930,1,UNCW,University of North Carolina at Wilmington
+931,1,UNI,University of Northern Iowa
+932,1,UNLV,"University of Nevada, Las Vegas"
+933,2,USC Aiken,USC Aiken
+934,1,USC Upstate,University of South Carolina Upstate
+935,2,USC Upstate,USC Upstate
+936,2,USciences,USciences
+937,1,UT Arlington,University of Texas at Arlington
+938,1,UT Martin,University of Tennessee at Martin
+939,2,UT Permian Basin,UT Permian Basin
+940,2,UT Tyler,UT Tyler
+941,3,UT Tyler,UT Tyler
+942,1,UTRGV,University of Texas–Rio Grande Valley
+943,1,UTSA,University of Texas at San Antonio
+944,2,UVA Wise,UVA Wise
+945,3,UW-River Falls,UW-River Falls
+946,2,Union,Union
+947,3,Union,Union
+948,2,Upper Iowa,Upper Iowa
+949,3,Upper Iowa,Upper Iowa
+950,2,Urbana,Urbana
+951,3,Ursinus,Ursinus
+952,1,Utah,University of Utah
+953,1,Utah Tech,Utah Tech University
+954,2,Utah Tech,Utah Tech
+955,1,Utah Valley,Utah Valley University
+956,3,Utica,Utica
+957,1,VCU,Virginia Commonwealth University
+958,1,VMI,Virginia Military Institute
+959,3,VTSU Castleton,VTSU Castleton
+960,3,VTSU Lyndon,VTSU Lyndon
+961,3,Va. Wesleyan,Va. Wesleyan
+962,2,Valdosta St.,Valdosta St.
+963,3,Valley Forge,Valley Forge
+964,1,Valparaiso,Valparaiso University
+965,1,Vanderbilt,Vanderbilt University
+966,3,Vassar,Vassar
+967,1,Vermont,Vermont
+968,1,Villanova,Villanova University
+969,1,Virginia,University of Virginia
+970,2,Virginia St.,Virginia St.
+971,1,Virginia Tech,Virginia Tech
+972,3,WPI,WPI
+973,3,Wabash,Wabash
+974,1,Wagner,Wagner College
+975,1,Wake Forest,Wake Forest University
+976,2,Walsh,Walsh
+977,3,Wartburg,Wartburg
+978,3,Wash. & Jeff.,Wash. & Jeff.
+979,3,Wash. & Lee,Wash. & Lee
+980,3,WashU,WashU
+981,2,Washburn,Washburn
+982,1,Washington,University of Washington
+983,2,Washington Adventist,Washington Adventist
+984,3,Washington Col.,Washington Col.
+985,1,Washington St.,Washington State University
+986,2,Wayne St.,Wayne St.
+987,3,Waynesburg,Waynesburg
+988,3,Webster,Webster
+989,3,Wells,Wells
+990,3,Wentworth,Wentworth
+991,3,Wesley,Wesley
+992,3,Wesleyan,Wesleyan
+993,2,West Ala.,West Ala.
+994,2,West Chester,West Chester
+995,2,West Florida,West Florida
+996,2,West Ga.,University of West Georgia
+997,2,West Liberty,West Liberty
+998,2,West Tex. A&M,West Tex. A&M
+999,2,West Va. Tech,West Va. Tech
+1000,2,West Va. Wesleyan,West Va. Wesleyan
+1001,1,West Virginia,West Virginia University
+1002,2,West Virginia St.,West Virginia St.
+1003,3,WestConn,WestConn
+1004,1,Western Caro.,Western Carolina University
+1005,1,Western Ill.,Western Illinois University
+1006,1,Western Ky.,Western Kentucky University
+1007,1,Western Mich.,Western Michigan University
+1008,3,Western New Eng.,Western New Eng.
+1009,2,Western Ore.,Western Ore.
+1010,3,Westfield St.,Westfield St.
+1011,2,Westminster,Westminster
+1012,3,Westminster,Westminster
+1013,2,Westmont,Westmont
+1014,3,Wheaton,Wheaton
+1015,2,Wheeling,Wheeling
+1016,3,Whitman,Whitman
+1017,3,Whittier,Whittier
+1018,3,Whitworth,Whitworth
+1019,1,Wichita St.,Wichita State University
+1020,3,Widener,Widener
+1021,3,Wilkes,Wilkes
+1022,3,Willamette,Willamette
+1023,1,William & Mary,College of William & Mary
+1024,2,William Jewell,William Jewell
+1025,3,William Peace,William Peace
+1026,3,Williams,Williams
+1027,2,Wilmington,Wilmington
+1028,3,Wilmington,Wilmington
+1029,3,Wilson,Wilson
+1030,2,Wingate,Wingate
+1031,2,Winona St.,Winona St.
+1032,2,Winston-Salem,Winston-Salem
+1033,1,Winthrop,Winthrop University
+1034,3,Wis. Lutheran,Wis. Lutheran
+1035,3,Wis.-Eau Claire,Wis.-Eau Claire
+1036,3,Wis.-La Crosse,Wis.-La Crosse
+1037,3,Wis.-Oshkosh,Wis.-Oshkosh
+1038,2,Wis.-Parkside,Wis.-Parkside
+1039,3,Wis.-Platteville,Wis.-Platteville
+1040,3,Wis.-Stevens Point,Wis.-Stevens Point
+1041,3,Wis.-Stout,Wis.-Stout
+1042,3,Wis.-Superior,Wis.-Superior
+1043,3,Wis.-Whitewater,Wis.-Whitewater
+1044,3,Wittenberg,Wittenberg
+1045,3,Wm. Paterson,Wm. Paterson
+1046,1,Wofford,Wofford College
+1047,3,Wooster,Wooster
+1048,3,Worcester St.,Worcester St.
+1049,1,Wright St.,Wright State University
+1050,1,Xavier,Xavier University
+1051,1,Yale,Yale University
+1052,3,Yeshiva,Yeshiva
+1053,3,York,York
+1054,2,Young Harris,Young Harris
+1055,1,Youngstown St.,Youngstown State University
+1056,1,Miami University-Ohio,Miami University-Ohio
