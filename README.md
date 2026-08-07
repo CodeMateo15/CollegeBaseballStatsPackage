@@ -191,6 +191,16 @@ result["confidence"]   # 'low' -- reports how much had to be imputed
 
 ---
 
+## Examples
+
+Runnable notebooks covering every public function, with outputs saved so they
+read without executing anything, live in [`notebooks/`](notebooks/):
+
+```bash
+pip install -e ".[all]" jupyter
+jupyter lab notebooks/
+```
+
 ## Regenerating the data
 
 Builders live in `tools/` and the `*_store` modules; none of them ship in the

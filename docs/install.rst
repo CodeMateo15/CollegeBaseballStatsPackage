@@ -35,6 +35,18 @@ whether or not they are present. Calling a function that needs one raises
 :func:`explain_prediction` falls back to a gain-based explanation when SHAP is
 absent rather than failing.
 
+Examples
+--------
+
+The repository carries runnable notebooks covering every public function, with
+outputs saved so they read without executing anything:
+
+.. code-block:: console
+
+   git clone https://github.com/CodeMateo15/CollegeBaseballStatsPackage
+   pip install -e ".[all]" jupyter
+   jupyter lab notebooks/
+
 Quick check
 -----------
 
