@@ -1,75 +1,175 @@
+"""Read access to the player-season caches.
+
+The cache stores counting statistics only. Rate and advanced statistics are
+computed on read by :mod:`ncaa_bbStats.advanced_stats`, so ``obp``, ``era``,
+``cwrc+`` and the rest are all available here even though no column holds them.
+See DATA_PROVENANCE.md.
+"""
+
 import os
 from functools import lru_cache
 from typing import Literal, Optional, Sequence
+
 import pandas as pd
 
-_DATA_DIR = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "..", "data", "player_stats_cache")
-)
+from ncaa_bbStats._paths import data_path
+from ncaa_bbStats.advanced_stats import add_advanced_columns, ip_to_float
 
 Qualifier = Literal["qualified", "noMin"]
 StatType = Literal["batting", "pitching"]
 
+# Statistics that are meaningful to add up across seasons or teams. Everything
+# else is a rate, and summing rates is nonsense -- a transfer's two ERAs do not
+# add to a career ERA. get_player_stat recomputes rates from summed components
+# instead.
+_ADDITIVE = {
+    "g", "gs", "pa", "ab", "h", "1b", "2b", "3b", "hr", "r", "rbi", "bb", "so",
+    "hbp", "sf", "sh", "gdp", "sb", "cs", "tb",
+    "w", "l", "cg", "sho", "sv", "tbf", "er", "wp", "bk",
+    "cwraa", "cwrc", "cwsb",
+}
 
-# Paths and loading
+# Innings are additive but not in the notation they are stored in. NCAA writes
+# thirds as tenths, so 83.2 + 89.1 is 173 innings, not 172.3. Summed separately.
+_INNINGS = {"ip", "ip_true"}
 
-def get_player_csv_path(stat_type: StatType, qualifier: Qualifier) -> str:
-    """Return absolute path to the player CSV for the given type/qualifier."""
-    fname = f"{stat_type}_{qualifier}.csv"
-    return os.path.join(_DATA_DIR, stat_type, fname)
+
+def get_player_csv_path(stat_type: StatType, qualifier: Qualifier = "noMin") -> str:
+    """Return the absolute path to the player CSV for a stat type.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): Accepted and ignored. Both qualifier levels live in one
+            file now, distinguished by the ``qualified`` column; the argument is
+            kept so existing calls keep working.
+
+    Returns:
+        str: Absolute path to the CSV.
+    """
+    return data_path("player_stats_cache", stat_type, f"{stat_type}.csv")
 
 
 @lru_cache(maxsize=8)
-def _load_df(stat_type: StatType, qualifier: Qualifier) -> pd.DataFrame:
-    """Load the CSV into a DataFrame (cached). Does minimal cleanup."""
-    path = get_player_csv_path(stat_type, qualifier)
+def _load_df(stat_type: StatType, qualifier: Qualifier = "noMin") -> pd.DataFrame:
+    """Load one player cache with derived columns attached (cached).
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): ``"qualified"`` to keep only players who met the
+            playing-time minimum, ``"noMin"`` for everyone.
+
+    Returns:
+        pandas.DataFrame: Player-season rows, counting stats plus derived
+        columns.
+
+    Raises:
+        FileNotFoundError: If the cache file is absent.
+    """
+    path = get_player_csv_path(stat_type)
     if not os.path.isfile(path):
         raise FileNotFoundError(f"Missing player stats file: {path}")
+
     df = pd.read_csv(path)
-    # Normalize column names and strip
     df.columns = [c.strip() for c in df.columns]
-    # Normalize string columns
     for c in df.select_dtypes(include=["object"]).columns:
         df[c] = df[c].astype(str).str.strip()
-    return df
+
+    if qualifier == "qualified" and "qualified" in df.columns:
+        df = df[df["qualified"]].reset_index(drop=True)
+
+    return add_advanced_columns(df, stat_type)
+
+
+def load_player_frame(
+    stat_type: StatType, qualifier: Qualifier = "noMin"
+) -> pd.DataFrame:
+    """Return the full player-season table as a DataFrame.
+
+    Derived rate and advanced columns are already attached, so a plain
+    ``read_csv`` of the underlying file is not equivalent.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+
+    Returns:
+        pandas.DataFrame: A copy, safe to mutate.
+    """
+    return _load_df(stat_type, qualifier).copy()
 
 
 # Listing utilities (lists for notebooks)
 
-def list_available_years(stat_type: StatType, qualifier: Qualifier) -> list[int]:
-    """Sorted unique years available in the CSV."""
+def list_available_years(stat_type: StatType, qualifier: Qualifier = "noMin") -> list[int]:
+    """Sorted unique years available in the cache.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+
+    Returns:
+        list[int]: Sorted season years.
+    """
     df = _load_df(stat_type, qualifier)
     if "year" not in df.columns:
         return []
-    yrs = pd.to_numeric(df["year"], errors="coerce").dropna().astype(int).unique().tolist()
-    return sorted(yrs)
+    years = pd.to_numeric(df["year"], errors="coerce").dropna().astype(int).unique()
+    return sorted(years.tolist())
+
+
+def _filter(df, year=None, team_substr=None, player_name=None):
+    """Build a boolean mask over the standard filters."""
+    mask = pd.Series(True, index=df.index)
+    if player_name is not None:
+        mask &= df["name"].str.lower() == player_name.lower()
+    if year is not None and "year" in df.columns:
+        mask &= df["year"].astype(str) == str(int(year))
+    if team_substr and "team" in df.columns:
+        mask &= df["team"].str.lower().str.contains(team_substr.lower(), na=False)
+    return mask
 
 
 def list_players(
     stat_type: StatType,
-    qualifier: Qualifier,
+    qualifier: Qualifier = "noMin",
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
 ) -> list[str]:
-    """Return a sorted list of player names, optionally filtered by year and team substring."""
+    """Return a sorted list of player names, optionally filtered.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+
+    Returns:
+        list[str]: Sorted unique player names.
+    """
     df = _load_df(stat_type, qualifier)
-    m = pd.Series(True, index=df.index)
-    if year is not None and "year" in df.columns:
-        m &= df["year"].astype(str) == str(int(year))
-    if team_substr and "team" in df.columns:
-        m &= df["team"].str.lower().str.contains(team_substr.lower(), na=False)
-    names = df.loc[m, "name"].dropna().astype(str).unique().tolist()
-    return sorted(names)
+    mask = _filter(df, year=year, team_substr=team_substr)
+    return sorted(df.loc[mask, "name"].dropna().astype(str).unique().tolist())
 
 
-def player_seasons(stat_type: StatType, qualifier: Qualifier, player_name: str) -> list[int]:
-    """Return sorted years where a player appears in the dataset."""
+def player_seasons(
+    stat_type: StatType, qualifier: Qualifier, player_name: str
+) -> list[int]:
+    """Return the seasons in which a player appears.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        player_name (str): Exact name, matched case-insensitively.
+
+    Returns:
+        list[int]: Sorted season years.
+    """
     df = _load_df(stat_type, qualifier)
-    m = df["name"].str.lower() == player_name.lower()
     if "year" not in df.columns:
         return []
-    yrs = pd.to_numeric(df.loc[m, "year"], errors="coerce").dropna().astype(int).unique().tolist()
-    return sorted(yrs)
+    mask = _filter(df, player_name=player_name)
+    years = pd.to_numeric(df.loc[mask, "year"], errors="coerce").dropna().astype(int)
+    return sorted(years.unique().tolist())
 
 
 # Core getters (simple float and list outputs)
@@ -82,37 +182,86 @@ def get_player_stat(
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
 ) -> float | None:
-    """
-    Get a single stat for a player. If multiple rows match (ex. transfers), returns the sum.
-    - stat: column name like "hr", "rbi", "obp", "era" (case-insensitive match).
-    - year: if provided, filter to that season.
-    - team_substr: optionally narrow to a team substring.
+    """Get one statistic for a player.
 
-    Returns a float or None if not found or non-numeric.
+    When several rows match -- a transfer, or no ``year`` given -- counting
+    statistics are summed and rate statistics are recomputed from the summed
+    components. Summing the rates themselves would be wrong: a pitcher who threw
+    to a 3.00 ERA one year and 5.00 the next did not have an 8.00 ERA.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        player_name (str): Exact name, matched case-insensitively.
+        stat (str): Column name, matched case-insensitively (ex. ``"hr"``,
+            ``"obp"``, ``"era"``, ``"cwrc+"``).
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+
+    Returns:
+        float | None: The value, or None if the player, stat, or a required
+        input is missing.
     """
     df = _load_df(stat_type, qualifier)
 
-    # Resolve column name case-insensitively
     colmap = {c.lower(): c for c in df.columns}
     if stat.lower() not in colmap:
         return None
-    scol = colmap[stat.lower()]
+    column = colmap[stat.lower()]
 
-    m = df["name"].str.lower() == player_name.lower()
-    if year is not None and "year" in df.columns:
-        m &= df["year"].astype(str) == str(int(year))
-    if team_substr and "team" in df.columns:
-        m &= df["team"].str.lower().str.contains(team_substr.lower(), na=False)
-
-    sub = df.loc[m, scol]
-    if sub.empty:
+    mask = _filter(df, year=year, team_substr=team_substr, player_name=player_name)
+    rows = df.loc[mask]
+    if rows.empty:
         return None
 
-    vals = pd.to_numeric(sub, errors="coerce").dropna()
-    if vals.empty:
+    if len(rows) == 1:
+        value = pd.to_numeric(rows.iloc[0][column], errors="coerce")
+        return None if pd.isna(value) else float(value)
+
+    if stat.lower() in _INNINGS:
+        # Returned as true innings (173.667), not NCAA notation, because a
+        # career total in base-3 tenths invites exactly the arithmetic error
+        # this branch exists to avoid.
+        return sum(ip_to_float(v) or 0.0 for v in rows["ip"])
+
+    if stat.lower() in _ADDITIVE:
+        values = pd.to_numeric(rows[column], errors="coerce").dropna()
+        return float(values.sum()) if not values.empty else None
+
+    # A rate over several rows: rebuild it from the aggregated components.
+    combined = _aggregate_rows(rows, stat_type)
+    if combined is None or column not in combined.columns:
+        return None
+    value = pd.to_numeric(combined.iloc[0][column], errors="coerce")
+    return None if pd.isna(value) else float(value)
+
+
+def _aggregate_rows(rows: pd.DataFrame, stat_type: StatType):
+    """Sum the counting stats of several season rows and re-derive the rates."""
+    numeric = [c for c in rows.columns if c.lower() in _ADDITIVE and c in rows.columns]
+    if not numeric:
         return None
 
-    return float(vals.sum())
+    totals = {}
+    for column in numeric:
+        if column in ("ip", "ip_true"):
+            continue
+        totals[column] = pd.to_numeric(rows[column], errors="coerce").sum()
+
+    if "ip" in rows.columns:
+        # Innings are base-3, so sum true innings and convert back to NCAA
+        # notation before the rate helpers re-parse it. Round the total to the
+        # nearest third first: summing 83.667 + 42 + 89.333 lands on
+        # 214.99999999999997 in binary floating point, which truncates to 214
+        # innings and 3 outs -- notation that does not exist.
+        innings = sum(ip_to_float(v) or 0.0 for v in rows["ip"])
+        total_outs = int(round(innings * 3))
+        totals["ip"] = total_outs // 3 + (total_outs % 3) / 10.0
+
+    # Rates are season-scoped through the league constants; use the most recent
+    # season present so the constants are at least internally consistent.
+    totals["year"] = int(pd.to_numeric(rows["year"], errors="coerce").max())
+    return add_advanced_columns(pd.DataFrame([totals]), stat_type)
 
 
 def get_player_rows(
@@ -123,23 +272,28 @@ def get_player_rows(
     team_substr: Optional[str] = None,
     include_columns: Optional[Sequence[str]] = None,
 ) -> list[dict]:
-    """
-    Return a list of row dicts for a player (optionally filtered by year/team).
-    If include_columns is provided, only those columns are kept (if present).
+    """Return a player's season rows as dicts.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        player_name (str): Exact name, matched case-insensitively.
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+        include_columns (Sequence[str], optional): Keep only these columns.
+
+    Returns:
+        list[dict]: One dict per matching season.
     """
     df = _load_df(stat_type, qualifier)
-    m = df["name"].str.lower() == player_name.lower()
-    if year is not None and "year" in df.columns:
-        m &= df["year"].astype(str) == str(int(year))
-    if team_substr and "team" in df.columns:
-        m &= df["team"].str.lower().str.contains(team_substr.lower(), na=False)
-    sub = df.loc[m]
+    mask = _filter(df, year=year, team_substr=team_substr, player_name=player_name)
+    rows = df.loc[mask]
 
     if include_columns:
-        keep = [c for c in include_columns if c in sub.columns]
+        keep = [c for c in include_columns if c in rows.columns]
         if keep:
-            sub = sub[keep]
-    return sub.to_dict(orient="records")
+            rows = rows[keep]
+    return rows.to_dict(orient="records")
 
 
 def top_players(
@@ -149,62 +303,42 @@ def top_players(
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
 ) -> list[dict]:
-    """
-    Return top-N players by a stat as a list of dicts: {name, team, year, value}.
+    """Return the top N players by a statistic.
+
+    Always sorts descending over the qualified population. For stats where lower
+    is better (ERA, WHIP), prefer :func:`ncaa_bbStats.leaderboard.leaderboard`,
+    which picks the direction automatically.
+
+    Args:
+        stat_type (str): ``"batting"`` or ``"pitching"``.
+        stat (str): Column name, matched case-insensitively.
+        n (int): How many players to return.
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+
+    Returns:
+        list[dict]: Dicts with ``name``, ``team``, ``year``, ``value``.
     """
     df = _load_df(stat_type, "qualified")
     colmap = {c.lower(): c for c in df.columns}
     if stat.lower() not in colmap:
         return []
-    scol = colmap[stat.lower()]
+    column = colmap[stat.lower()]
 
-    work = df.copy()
-    m = pd.Series(True, index=work.index)
-    if year is not None and "year" in work.columns:
-        m &= work["year"].astype(str) == str(int(year))
-    if team_substr and "team" in work.columns:
-        m &= work["team"].str.lower().str.contains(team_substr.lower(), na=False)
+    mask = _filter(df, year=year, team_substr=team_substr)
+    rows = df.loc[mask, ["name", "team", "year", column]].copy()
+    rows[column] = pd.to_numeric(rows[column], errors="coerce")
+    rows = rows.dropna(subset=[column]).sort_values(by=column, ascending=False).head(n)
 
-    sub = work.loc[m, ["name", "team", "year", scol]].copy()
-    sub[scol] = pd.to_numeric(sub[scol], errors="coerce")
-    sub = sub.dropna(subset=[scol])
-    sub = sub.sort_values(by=scol, ascending=False).head(n)
-
-    out = []
-    for _, r in sub.iterrows():
-        out.append({
-            "name": r.get("name"),
-            "team": r.get("team"),
-            "year": int(r.get("year")) if pd.notna(r.get("year")) else None,
-            "value": float(r.get(scol)) if pd.notna(r.get(scol)) else None,
-        })
-    return out
-
-
-# Helpers
-
-def _ip_to_float(ip_series: pd.Series) -> pd.Series:
-    """Convert IP like 123.1 (1/3) and 123.2 (2/3) to floats as a Series."""
-    def _one(x: object) -> float | None:
-        if x is None or (isinstance(x, float) and pd.isna(x)):
-            return None
-        s = str(x).strip()
-        if not s:
-            return None
-        try:
-            if "." in s:
-                whole, frac = s.split(".", 1)
-                whole_i = int(whole) if whole else 0
-                d = frac[:1]
-                if d == "1":
-                    return whole_i + (1.0/3.0)
-                if d == "2":
-                    return whole_i + (2.0/3.0)
-                return float(s)
-            return float(s)
-        except Exception:
-            return None
-    return ip_series.apply(_one).astype(float)
+    return [
+        {
+            "name": r["name"],
+            "team": r["team"],
+            "year": int(r["year"]) if pd.notna(r["year"]) else None,
+            "value": float(r[column]),
+        }
+        for _, r in rows.iterrows()
+    ]
 
 
 def batting_stat(
@@ -214,9 +348,21 @@ def batting_stat(
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
 ) -> float | None:
-    """Convenience wrapper for batting stats using get_player_stat (sums across matching rows)."""
-    return get_player_stat("batting", qualifier, player_name, stat, year=year, team_substr=team_substr)
+    """Get one batting statistic for a player.
 
+    Args:
+        player_name (str): Exact name, matched case-insensitively.
+        stat (str): Column name (ex. ``"hr"``, ``"obp"``, ``"cwrc+"``).
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+
+    Returns:
+        float | None: The value, or None if not found.
+    """
+    return get_player_stat(
+        "batting", qualifier, player_name, stat, year=year, team_substr=team_substr
+    )
 
 
 def pitching_stat(
@@ -226,16 +372,54 @@ def pitching_stat(
     year: Optional[int] = None,
     team_substr: Optional[str] = None,
 ) -> float | None:
-    """Convenience wrapper for pitching stats using get_player_stat (sums across matching rows)."""
-    return get_player_stat("pitching", qualifier, player_name, stat, year=year, team_substr=team_substr)
+    """Get one pitching statistic for a player.
+
+    Args:
+        player_name (str): Exact name, matched case-insensitively.
+        stat (str): Column name (ex. ``"so"``, ``"era"``, ``"cfip"``).
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+
+    Returns:
+        float | None: The value, or None if not found.
+    """
+    return get_player_stat(
+        "pitching", qualifier, player_name, stat, year=year, team_substr=team_substr
+    )
 
 
+def list_batters(
+    qualifier: Qualifier = "noMin",
+    year: Optional[int] = None,
+    team_substr: Optional[str] = None,
+) -> list[str]:
+    """List batter names, optionally filtered by season and team.
 
-def list_batters(qualifier: Qualifier = "noMin", year: Optional[int] = None, team_substr: Optional[str] = None) -> list[str]:
-    """List batter names, optionally filtered by year/team."""
+    Args:
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+
+    Returns:
+        list[str]: Sorted unique names.
+    """
     return list_players("batting", qualifier, year=year, team_substr=team_substr)
 
 
-def list_pitchers(qualifier: Qualifier = "noMin", year: Optional[int] = None, team_substr: Optional[str] = None) -> list[str]:
-    """List pitcher names, optionally filtered by year/team."""
+def list_pitchers(
+    qualifier: Qualifier = "noMin",
+    year: Optional[int] = None,
+    team_substr: Optional[str] = None,
+) -> list[str]:
+    """List pitcher names, optionally filtered by season and team.
+
+    Args:
+        qualifier (str): ``"qualified"`` or ``"noMin"``.
+        year (int, optional): Restrict to one season.
+        team_substr (str, optional): Case-insensitive team substring.
+
+    Returns:
+        list[str]: Sorted unique names.
+    """
     return list_players("pitching", qualifier, year=year, team_substr=team_substr)

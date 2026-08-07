@@ -10,6 +10,7 @@ it is redistributed. If you are adding a dataset, add a row here first.
 | NCAA team statistics | `src/data/team_stats_cache/div{1,2,3}/{year}.json` | [stats.ncaa.org](https://stats.ncaa.org) national rankings tables, scraped by `ncaa_bbStats.team_stats` | Official NCAA statistics; factual game records | 2002–2026, Divisions I–III |
 | MLB draft history | `src/data/mlb_draft_cache/*.json` | [Baseball Almanac](https://www.baseball-almanac.com), scraped by `ncaa_bbStats.draft_stats` | Factual draft records | 1965–2025, 69,169 picks |
 | Player statistics | `src/data/player_stats_cache/{batting,pitching}/*.csv` | See **FanGraphs** below | Counting statistics only; see below | 2021–2025, Division I |
+| League constants | `src/data/league_constants/*.csv` | Regressed from `team_stats_cache` by `tools/build_league_constants.py` | Package's own work | 2008–2026 (D-III from 2009) |
 | Team / school name tables | `src/data/team_names_stats/`, `src/data/mlb_team_names/` | Derived from the caches above by `ncaa_bbStats.team_names_store` | Package's own work | — |
 
 Facts about sporting events — who played, how many hits they got — are not
@@ -63,17 +64,49 @@ statistics using linear weights this package derives from its own NCAA team-stat
 cache. Full formulas and the regression method are in
 `docs/advanced_stats.rst`; constants ship in `src/data/league_constants/`.
 
-Correlation against the FanGraphs columns they replace (2021–2025, Division I),
-published so the derivation can be judged as independent work rather than a
+Run values are fitted per season and division by weighted least squares over
+team-season totals (R² 0.96–0.98 on runs scored, RMSE about 16 runs against
+seasons averaging 300), then shrunk toward the division's pooled estimate. The
+shrinkage matters: the season-to-season spread of the raw coefficients is about
+the same size as their standard errors, so most of the movement is sampling
+noise. Home-run and hit-by-pitch weights shrink fully to the pooled value;
+singles and walks retain roughly half their season-specific estimate.
+
+The hit-type weights are then projected onto the ordering that physics requires
+(1B ≤ 2B ≤ 3B ≤ HR) by inverse-variance-weighted isotonic regression. Without
+it, 34 of 55 division-seasons place the triple above the home run — an artifact
+of triples occurring in well under 1% of plate appearances, which leaves their
+coefficient absorbing rally context. Correlations below are unaffected by the
+projection; it only repairs impossible orderings.
+
+Measured correlation against the metrics they replace, over the qualified
+Division I population (11,529 batting and 5,642 pitching seasons, 2021–2025).
+Published so the derivation can be judged as independent work rather than a
 repackaging:
 
-| Metric | Replaces | Pearson r |
-| --- | --- | --- |
-| `cwoba` | `wOBA` | 0.9928 |
-| `cfip` | `FIP` | 0.9964 |
-| `clob_pct` | `LOB%` | 0.9911 |
-| `cwrc_plus` | `wRC+` | 0.9689 |
-| `cspd` | `Spd` | 0.910 |
+| Metric | Replaces | Pearson r | Spearman |
+| --- | --- | --- | --- |
+| `clob_pct` | `LOB%` | 1.0000 | 1.0000 |
+| `cwrc` | `wRC` | 0.9961 | 0.9962 |
+| `cwoba` | `wOBA` | 0.9925 | 0.9917 |
+| `cwrc_plus` | `wRC+` | 0.9685 | 0.9667 |
+| `cfip` | `FIP` | 0.9460 | 0.9388 |
+| `cwsb` | `wSB` | 0.8955 | 0.8613 |
+| `cspd` | `Spd` | 0.9124 | 0.9052 |
+
+The rate statistics that are pure arithmetic — AVG, OBP, SLG, OPS, ISO, BABIP,
+BB%, K%, ERA, WHIP, K/9, BB/9, K-BB% — reproduce the removed columns **exactly**
+(maximum absolute difference 0.000000 across 26,826 batting rows; about 1e-6 for
+the innings-denominated pitching rates, from rounding in the stored values).
+This is why the cache stores counting statistics only: nothing was lost.
+
+There is a sharper way to put the wOBA result. `cwoba` and the metric it
+replaces are *both* linear functions of the same six counting statistics. In any
+model that already has singles, doubles, triples, home runs, walks, hit-by-pitch
+and plate appearances as inputs, neither adds information — each lies exactly in
+the span of the others. What these metrics provide is interpretability, not
+signal. The only content not recoverable from the counting statistics is the
+park adjustment, which is discussed below.
 
 ### Known limitations
 
@@ -86,14 +119,23 @@ repackaging:
   season, and no `BB (Pitching)` before 2011 (2012 for Division III). League
   totals from the batting side stand in. Measured closure error is 0.4–2.1%.
 - **No weights before 2008.** Seasons 2002–2007 record only at-bats, hits, and
-  runs, which is not enough to fit event weights. Advanced metrics return `None`
-  for those seasons rather than a fabricated value.
+  runs, which is not enough to fit event weights. Division III also has a gap at
+  2011, when it stopped reporting walks, hit-by-pitch and sacrifice flies.
+  Advanced metrics return `None` for those seasons rather than a fabricated
+  value.
 - **Division II has no sacrifice-hit data** in any season. This does not affect
   the metrics: the plate-appearance denominator is `AB + BB + HBP + SF`, which
   excludes sacrifice hits by construction.
-- **`cspd` is informational.** At r = 0.910 it is the weakest of the set and its
-  calibration is arbitrary. All of its inputs are retained in full, so prefer
-  those for modelling.
+- **`cspd` uses Major League calibration constants.** Its formula is published
+  and unmodified, but the constants inside it were fitted to Major League play,
+  so the NCAA population does not center on the conventional 5.0 — qualified
+  Division I hitters average about 3.9, and 5.0 is roughly the 80th percentile.
+  Compare players to each other rather than to the usual scale. It is the
+  weakest metric here and is informational only; every input is retained, so
+  prefer those for modelling.
+- **`cwsb` correlates least well** (r = 0.90) of the run-value metrics, because
+  it is a small-magnitude quantity — a standard deviation of about one run — so
+  modest absolute disagreements read as large relative ones.
 
 ## Player identity
 

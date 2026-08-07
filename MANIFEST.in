@@ -9,6 +9,9 @@ recursive-include src/data/player_stats_cache *.csv
 recursive-include src/data/mlb_draft_cache *.json
 recursive-include src/data/mlb_team_names *.csv
 recursive-include src/data/team_names_stats *.csv
+recursive-include src/data/league_constants *.csv
+include src/data/league_constants/manifest.json
+include src/data/player_stats_cache/manifest.json
 
 include LICENSE
 include README.md

@@ -28,6 +28,7 @@ It includes multiple statistical functions for parsing and returning college tea
    :caption: Player Stats
 
    player_stats
+   advanced_stats
    player_reference
 
 .. toctree::

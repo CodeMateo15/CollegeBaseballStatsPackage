@@ -39,9 +39,23 @@ from ncaa_bbStats.player_utils import (
     list_batters,
     list_pitchers,
     list_players,
+    load_player_frame,
     pitching_stat,
     player_seasons,
     top_players,
+)
+
+from ncaa_bbStats.advanced_stats import (
+    cfip,
+    clob_pct,
+    cspd,
+    cwoba,
+    cwraa,
+    cwrc,
+    cwrc_plus,
+    cwsb,
+    league_constants,
+    seasons_with_constants,
 )
 
 # Names whose defining module imports an optional dependency at module scope.
@@ -77,11 +91,23 @@ __all__ = [
     "list_players",
     "player_seasons",
     "get_player_rows",
+    "load_player_frame",
     "top_players",
     "batting_stat",
     "pitching_stat",
     "list_batters",
     "list_pitchers",
+    # advanced_stats -- derived by this package, see DATA_PROVENANCE.md
+    "cwoba",
+    "cwraa",
+    "cwrc",
+    "cwrc_plus",
+    "cwsb",
+    "cspd",
+    "cfip",
+    "clob_pct",
+    "league_constants",
+    "seasons_with_constants",
     # draft_stats (lazy)
     "parse_mlb_draft",
 ]

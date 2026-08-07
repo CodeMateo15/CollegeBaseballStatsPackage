@@ -11,6 +11,24 @@ This page lists all available player statistics, their abbreviations (as used in
 
    noMin means there's no filter for amount of plate appearances or innings pitched.
 
+   Both live in one file, distinguished by a ``qualified`` column. Pass
+   ``qualifier="qualified"`` or ``"noMin"`` exactly as before.
+
+.. note::
+
+   **Only counting statistics are stored.** Every rate and advanced statistic on
+   this page is computed when you read it, from the counting stats plus league
+   constants this package derives from its own NCAA team-stats cache. Both ship,
+   so nothing is lost -- the arithmetic rates reproduce exactly.
+
+   Metrics prefixed ``c`` (``cwoba``, ``cwrc+``, ``cfip``, ...) are the
+   college-calibrated analogues of the familiar sabermetric statistics. They are
+   built the same way, but their league constants come from NCAA play rather
+   than from Major League Baseball or a vendor's proprietary values, so the
+   numbers are close to but not interchangeable with same-named statistics
+   published elsewhere. See :doc:`data_provenance` for the formulas, the
+   estimation method, and measured correlations.
+
 Batting Stats List
 ------------------
 
@@ -118,33 +136,46 @@ Batting Stats List
 
   Slugging Percentage minus Batting Average.
 
-- **spd**: Speed Score
+- **cspd**: Speed Score
 
-  Composite baserunning speed metric.
+  Composite baserunning speed metric on a 0-10 scale, averaging stolen-base
+  success rate, attempt frequency, triples rate, and runs scored per time on
+  base. Its constants were fitted to Major League play, so NCAA hitters center
+  near 3.9 rather than the conventional 5.0 -- compare players to each other,
+  not to the usual scale. Informational only.
 
 - **babip**: Batting Average on Balls In Play
 
   Batting average on non-HR balls put in play.
 
-- **wsb**: Weighted Stolen Base Runs
+- **cwsb**: Stolen Base Runs
 
-  Runs above/below average from Stolen Bases/Caught Stealing.
+  Runs above or below average from stolen bases and times caught stealing,
+  measured against what a league-average runner would produce from the same
+  number of times on base.
 
-- **wrc**: Weighted Runs Created
+- **cwrc**: Weighted Runs Created
 
-  Estimated runs created.
+  Total runs the hitter is responsible for producing.
 
-- **wraa**: Weighted Runs Above Average
+- **cwraa**: Weighted Runs Above Average
 
-  Runs above league average from offense.
+  Runs contributed above a league-average hitter. Zero is exactly average.
 
-- **woba**: Weighted On-Base Average
+- **cwoba**: Weighted On-Base Average
 
-  Weighted measure of overall offensive value.
+  One number for a hitter's total offensive value per plate appearance,
+  weighting each way of reaching base by how many runs it is actually worth in
+  NCAA play. Unlike OBP it distinguishes a walk from a home run; unlike SLG it
+  weights by run value rather than total bases. Scaled so the league average
+  equals league OBP.
 
-- **wrc+**: Weighted Runs Created Plus
+- **cwrc+**: Weighted Runs Created Plus
 
-  Weighted Runs Created scaled to league and park (100 = average).
+  Weighted Runs Created indexed so 100 is league average: 130 is 30% better than
+  an average hitter that season, 70 is 30% worse. Because it is indexed to its
+  own season, it compares hitters across different run environments. No park
+  adjustment is applied -- see :doc:`data_provenance`.
 
 Pitching Stats List
 -------------------
@@ -265,17 +296,24 @@ Pitching Stats List
 
   Average on non-Home Run balls put in play against the pitcher.
 
-- **lob%**: Left On Base Percentage
+- **clob%**: Left On Base Percentage
 
-  Percentage of baserunners stranded.
+  Share of baserunners the pitcher stranded. Regresses hard toward the league
+  mean, so a large deviation usually predicts a move back toward average rather
+  than a repeatable skill.
 
-- **fip**: Fielding Independent Pitching
+- **cfip**: Fielding Independent Pitching
 
-  Run estimator based on HR, BB, HBP, SO, and IP.
+  Judges a pitcher only on the outcomes that do not depend on the defence behind
+  them -- strikeouts, walks, hit batters and home runs -- and puts the result on
+  the ERA scale. A pitcher whose ERA sits well above their cFIP was probably let
+  down by their defence or by sequencing luck, and the reverse.
 
-- **e-f**: ERA minus FIP
+- **e-cf**: ERA minus cFIP
 
   Difference between Earned Run Average and Fielding Independent Pitching.
+  Strongly positive suggests the pitcher was let down by defence or sequencing;
+  strongly negative suggests they were helped.
 
 Usage
 -----

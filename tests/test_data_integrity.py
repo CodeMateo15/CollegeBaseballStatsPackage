@@ -83,25 +83,35 @@ def test_distinct_schools_are_not_merged_in_team_names():
     assert "division" not in names
 
 
-def test_player_caches_are_not_duplicates():
-    """qualified and noMin must differ, for both stat types.
+@pytest.mark.parametrize("stat_type", ["batting", "pitching"])
+def test_qualified_is_a_strict_subset(stat_type):
+    """The qualified population must be smaller than, and inside, the full one.
 
-    Regression test for a4320ec, which left pitching_qualified.csv byte-identical
-    to pitching_noMin.csv.
+    Regression test for a4320ec, which overwrote pitching_qualified.csv with the
+    no-minimum data and left the two byte-identical. The two files are now one
+    file with a `qualified` flag, which is what makes that failure impossible.
     """
-    for stat_type in ("batting", "pitching"):
-        qualified = pathlib.Path(
-            data_path("player_stats_cache", stat_type, f"{stat_type}_qualified.csv")
-        )
-        no_min = pathlib.Path(
-            data_path("player_stats_cache", stat_type, f"{stat_type}_noMin.csv")
-        )
-        if not (qualified.is_file() and no_min.is_file()):
-            pytest.skip(f"{stat_type} player cache not present")
+    from ncaa_bbStats.player_utils import list_players
 
-        q_rows = sum(1 for _ in qualified.open(encoding="utf-8"))
-        n_rows = sum(1 for _ in no_min.open(encoding="utf-8"))
-        assert q_rows < n_rows, (
-            f"{stat_type}_qualified.csv has {q_rows} rows and "
-            f"{stat_type}_noMin.csv has {n_rows}; qualified must be a strict subset"
-        )
+    everyone = set(list_players(stat_type, "noMin"))
+    qualified = set(list_players(stat_type, "qualified"))
+    assert qualified < everyone, "qualified must be a proper subset of noMin"
+
+
+@pytest.mark.parametrize("stat_type", ["batting", "pitching"])
+def test_player_cache_ships_no_proprietary_columns(stat_type):
+    """No third-party derived metric or identifier survives in the cache.
+
+    These are replaced by the c-prefixed metrics in advanced_stats, which this
+    package derives itself. See DATA_PROVENANCE.md.
+    """
+    forbidden = {
+        "playerid", "mlbamid", "nameascii",
+        "woba", "wrc", "wrc+", "wraa", "wsb", "spd", "fip", "e-f", "lob%",
+    }
+    path = pathlib.Path(data_path("player_stats_cache", stat_type, f"{stat_type}.csv"))
+    with path.open(newline="", encoding="utf-8") as f:
+        header = {c.strip().lower() for c in next(csv.reader(f))}
+
+    found = header & forbidden
+    assert not found, f"{stat_type}.csv still ships proprietary columns: {sorted(found)}"

@@ -9,6 +9,7 @@ Overview
 This module lets you:
 
 - Discover available years and players for batting or pitching datasets (qualified and noMin).
+- Read any counting, rate, or advanced statistic; rate and advanced statistics are computed on demand from the stored counting stats. See :doc:`data_provenance`.
 - Retrieve specific stats for a player as a float or list of values.
 - Get player row records for a season or across seasons.
 - Produce simple leaderboards (top-N) for common stats like HR, RBI, ERA, SO, etc.
@@ -55,9 +56,25 @@ Functions
     :param include_columns: Optional subset of columns to keep if present.
     :return: List of row dicts.
 
+.. py:function:: load_player_frame(stat_type: ["batting", "pitching"], qualifier: ["qualified", "noMin"] = "noMin") -> pandas.DataFrame
+
+    Return the whole player-season table as a DataFrame, with every derived rate
+    and advanced column already attached.
+
+    Reading the underlying CSV directly is **not** equivalent: the file stores
+    counting statistics only, so ``obp``, ``era``, ``cwrc+`` and the rest exist
+    only after this function computes them.
+
+    :param stat_type: "batting" or "pitching".
+    :param qualifier: "qualified" or "noMin" dataset.
+    :return: A copy, safe to mutate.
+
 .. py:function:: top_players(stat_type: ["batting", "pitching"], stat: str, n: int = 10, year: int | None = None, team_substr: str | None = None) -> list[dict]
 
     Top-N leaderboard for a given stat. Uses the "qualified" dataset internally.
+
+    Always sorts descending, so for stats where lower is better (ERA, WHIP) it
+    returns the *worst* performers.
 
     :param stat_type: "batting" or "pitching".
     :param stat: Column name (case-insensitive), ex. "hr", "rbi", "obp", "era", "so".
