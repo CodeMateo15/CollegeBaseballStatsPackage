@@ -1,188 +1,225 @@
 # ncaa_bbStats (AKA CollegeBaseballStatsPackage)
 
-**ncaa_bbStats** is an open-source Python package for retrieving, parsing, and analyzing Division I, II, and III college baseball team statistics (2002–2025), player statistics (2021-2025), and MLB Draft data (1965-2025). Built for sports analysts, developers, and fans, the package supports both live scraping and cached CSV/JSON access for faster use.
+**ncaa_bbStats** is an open-source Python package for retrieving, parsing, and
+analyzing college baseball data: NCAA Division I, II, and III team statistics
+(2002–2026), player statistics (2021–2025), MLB Draft history (1965–2025),
+draft detail with signing bonuses (2021–2026), RPI and schedule strength,
+program finances, and a draft-prediction model with scouting reports.
 
-> **Note**  
+Built for analysts, developers, and fans. Everything is cached locally, so it
+works offline; scraping is opt-in.
+
+> **Note**
 > This project is under active development.
 
 ---
 
-## Documentation  
-Documentation is available at: <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html" target="_blank">ncaa_bbStats's ReadTheDocs</a>
+## Documentation
+Documentation: <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html" target="_blank">ncaa_bbStats on ReadTheDocs</a>
 
-PyPI site: <a href="https://pypi.org/project/ncaa-bbStats/" target="_blank">Link</a>
+PyPI: <a href="https://pypi.org/project/ncaa-bbStats/" target="_blank">ncaa-bbStats</a>
+
+Data sources and terms: [DATA_PROVENANCE.md](DATA_PROVENANCE.md)
 
 ---
 
 ## Install
+
 ```bash
-pip install ncaa_bbStats
-```
-## Team Stats Module
-### Overview
-This module enables you to extract season statistics for college baseball teams across all NCAA divisions. Some examples you can retrieve include:
-
-Batting Stats: BA, HR, 2B, 3B, OBP, SLG
-
-Pitching Stats: ERA, WHIP, K/9, SHO
-
-Fielding Stats: FPCT, E, DP, TP
-
-### Retrieval Functions
-```
-get_team_stat(stat_name: str, team_name: str, year: int, division: int): Retrieves a specific statistic for a given team from the cached data
-```
-```
-display_specific_team_stat(stat_name: str, search_team: str, year: int, division: int): Prints a specific statistic for a team in a readable format
-```
-```
-display_team_stats(search_team: str, year: int, division: int): Displays all available statistics for a team for a given year and division
-```
-```
-list_all_teams(year: int, division: int): Lists all teams for a given year and division
-```
-### Statistical Analysis Functions
-```
-average_all_team_stats(year: int, division: int): Computes the average of all numeric values for each statistic across all teams
-```
-```
-average_team_stat_str(stat_name: str, year: int, division: int): Returns a string representing the average value of a given statistic across all teams for the specified year and division
-```
-```
-average_team_stat_float(stat_name: str, year: int, division: int): Returns a float representing the average value of a given statistic across all teams for the specified year and division
-```
-```
-get_pythagorean_expectation(team_name: str, year: int, division: int): Computes Pythagorean expected win percentage
-```
-```
-compare_pythagorean_expectation(team_name: str, year: int, division: int): Computes Pythagorean expected win percentage and compares it with the actual win percentage
-```
-```
-plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int): Aggregates and plots a specified statistic for a team over a range of years
-```
-### JSON Caching
-Stats are stored in local JSON files (/data/team_stats_cache/) to enable fast offline access.
-
-## Draft Module
-### Overview
-This module pulls MLB draft data for college baseball players and formats it for analysis.
-
-### Functions
-```
-parse_mlb_draft(year: int): Parses MLB draft results from Baseball Almanac for a given year (1965–2025)
-```
-```
-get_drafted_players_mlb(team_name: str, year: int): Retrieves a list of players from the specified team drafted to MLB in a given year
-```
-```
-get_drafted_players_all_years_mlb(team_name: str): Retrieves all MLB draft picks for a team across all available years
-```
-```
-get_drafted_players_college(team_name: str, year: int): Retrieves a list of players from the specified team drafted to college in a given year
-```
-```
-get_drafted_players_all_years_college(team_name: str): Retrieves all college draft picks for a team across all available years
-```
-```
-print_draft_picks_mlb(picks: list): Prints MLB draft picks for a team in a given year in a readable format
-```
-```
-print_draft_picks_college(picks: list): Prints college draft picks for a team in a given year in a readable format
+pip install ncaa_bbStats                 # everything except predictions
+pip install "ncaa_bbStats[model]"        # + draft predictions
+pip install "ncaa_bbStats[explain]"      # + SHAP explanations
+pip install "ncaa_bbStats[scrape]"       # + re-scraping the sources yourself
 ```
 
-## Player Stats Module
-### Overview
-Simple, notebook-friendly helpers to explore player batting and pitching stats from cached CSVs (qualified and noMin).
+Requires Python 3.10 or later.
 
-- Discover available years and players
-- Retrieve specific stats as floats or lists
-- Get player rows for a season or across seasons
-- Build quick leaderboards (top-N)
+---
 
-### Functions
-```
-list_available_years(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin"): Sorted unique years available for the given stat type and qualifier
-```
-```
-list_players(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin", year: int|None = None, team_substr: str|None = None): List player names, optionally filtered by a specific year and team substring
-```
-```
-player_seasons(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin", player_name: str): Years in which the player appears in the chosen dataset
-```
-```
-get_player_rows(stat_type: "batting"|"pitching", qualifier: "qualified"|"noMin", player_name: str, year: int|None = None, team_substr: str|None = None, include_columns: list[str]|None = None): Return per-row dictionaries for a player, optionally filtered by year and team substring
-```
-```
-top_players(stat_type: "batting"|"pitching", stat: str, n: int = 10, year: int|None = None, team_substr: str|None = None): Top-N leaderboard for a given stat. Uses the "qualified" dataset internally
-```
-```
-batting_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): Get a batting stat for a player from the selected dataset, optionally filtered by year and team
-```
-```
-pitching_stat(player_name: str, stat: str, qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): Get a pitching stat for a player from the selected dataset, optionally filtered by year and team
-```
-```
-list_batters(qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): List batter names from the selected dataset, optionally filtered by year and team substring
-```
-```
-list_pitchers(qualifier: "qualified"|"noMin" = "noMin", year: int|None = None, team_substr: str|None = None): List pitcher names from the selected dataset, optionally filtered by year and team substring
-```
+## A tour
 
-### Quick Examples
 ```python
 from ncaa_bbStats import (
-    list_available_years,
-    list_batters,
-    batting_stat,
-    top_players,
-    get_player_rows,
+    team_profile, leaderboard, scouting_report, resolve_team, luckiest_teams,
 )
 
-years = list_available_years("batting", "qualified")
-latest = years[-1]
+# Everything about one program in one season, across every dataset
+p = team_profile("Tennessee", 2024)
+p["record"]            # 60-13, .822
+p["rpi"]["rpi_rank"]   # 1
+p["draft"]["picks"]    # 8
+p["pythagorean"]       # expected .807 against an actual .822
 
-# List batter names (noMin) for the latest year
-batters = list_batters("noMin", year=latest)
+# Leaderboards that sort the right way round
+leaderboard("era", stat_type="pitching", year=2025, min_ip=60, n=10)
+leaderboard("cwrc+", year=2025, conference="SEC", n=10)
+leaderboard("hr", per="career", qualifier="noMin", n=5)
 
-# Top 5 HR leaders (qualified)
-leaders = top_players("batting", "hr", n=5, year=latest)
+# Every source spells schools differently; one id resolves them all
+resolve_team("Eastern Ill.") == resolve_team("EIU") == resolve_team("Eastern Illinois")
 
-# Player HR total (noMin)
-if batters:
-    hr_total = batting_stat(batters[0], "hr", qualifier="noMin", year=latest)
+# Who won more than their run differential deserved?
+luckiest_teams(2025, n=5)
 
-# Selected columns for a player in a season
-rows = get_player_rows("batting", "noMin", batters[0], year=latest, include_columns=["name","team","year","hr","pa"])
+# A scouting report
+print(scouting_report("Kade Anderson", 2025))
 ```
 
+---
+
+## What's in it
+
+| Dataset | Coverage |
+| --- | --- |
+| NCAA team statistics | 2002–2026, Divisions I–III |
+| Player statistics | 2021–2025, Division I |
+| MLB Draft history | 1965–2025, 69,169 picks |
+| MLB Draft detail (bonuses, slots, biography) | 2021–2026, 3,685 picks |
+| RPI, strength of schedule, quadrant records | 2021–2026, Division I |
+| Program finances (EADA) | 2021–2025, carried forward to 2026 |
+| Draft prospect rankings | 2021–2026 |
+| Team registry | 1,023 programs |
+| Player registry | 27,283 players |
+
+---
+
+## Modules
+
+### Team stats
+`get_team_stat`, `display_team_stats`, `display_specific_team_stat`,
+`list_all_teams`, `plot_team_stat_over_years`, `average_all_team_stats`,
+`average_team_stat_str`, `average_team_stat_float`
+
+### Team registry
+One canonical `team_id` per program, so datasets that spell schools differently
+can be joined. Keyed on the federal IPEDS unitid where known, which survives
+rebrands — Dixie State and Utah Tech share an id. Division is a per-season
+attribute, not part of identity.
+
+`resolve_team`, `resolve_team_verbose`, `team_info`, `team_aliases`,
+`team_seasons`, `team_division`, `team_conference`, `list_teams`,
+`list_conferences`, `crosswalk`
+
+### Player stats
+`list_players`, `list_batters`, `list_pitchers`, `player_seasons`,
+`batting_stat`, `pitching_stat`, `get_player_rows`, `load_player_frame`,
+`list_available_years`
+
+The cache stores counting statistics only. Every rate and advanced statistic is
+computed when you read it, from those counts plus league constants this package
+derives from its own NCAA team data — so they can never fall out of step.
+
+### Advanced stats
+`cwoba`, `cwraa`, `cwrc`, `cwrc_plus`, `cwsb`, `cspd`, `cfip`, `clob_pct`,
+`league_constants`, `seasons_with_constants`
+
+College-calibrated analogues of the familiar sabermetric statistics, built the
+same way but with league constants regressed from NCAA play rather than borrowed
+from elsewhere. See [DATA_PROVENANCE.md](DATA_PROVENANCE.md) for the method and
+measured correlations.
+
+### Leaderboards
+`leaderboard`, `stat_direction`, `qualification_rules`
+
+Takes the sort direction from the statistic, so a top-ERA list contains good
+pitchers. Supports playing-time floors, team and conference filters, and career
+aggregation that rebuilds rates from summed components.
+
+### Draft
+`parse_mlb_draft`, `get_drafted_players_mlb`, `get_drafted_players_college`,
+`print_draft_picks_mlb`, `print_draft_picks_college` (1965–2025)
+
+`draft_pick`, `draft_class`, `draft_history`, `slot_value`, `signing_bonus`,
+`bonus_vs_slot`, `overslot_picks`, `biggest_bonuses`, `draft_demographics`,
+`conference_draft_counts`, `state_pipeline` (2021–2026, with bonuses and slots)
+
+`prospect_rank`, `prospect_board`, `prospect_vs_actual`, `biggest_draft_risers`,
+`biggest_draft_fallers`
+
+### RPI and program finances
+`rpi_rank`, `strength_of_schedule`, `rpi_table`, `rpi_record`,
+`quadrant_record`, `home_road_neutral`, `nonconference_profile`,
+`rpi_over_years`, `best_wins`
+
+`program_finance`, `budget_percentile`, `roster_size`, `coaching_staff_size`,
+`richest_programs`, `conference_spending`, `finance_vs_rpi`
+
+### Pythagorean expectation
+`get_pythagorean_expectation`, `compare_pythagorean_expectation`,
+`luck_rating`, `luckiest_teams`, `unluckiest_teams`, `pythagorean_exponent`,
+`conference_exponents`
+
+### Cross-dataset
+`team_profile`, `player_profile`, `draft_yield`, `dollars_per_draft_pick`,
+`conference_report`, `pipeline`, `compare_teams`
+
+### Scouting and draft prediction
+`scouting_report`, `predict_draft_probability`, `predict_draft_order`,
+`draft_board`, `explain_prediction`, `predict_from_stats`, `is_draft_eligible`,
+`model_card`
+
+Two models: whether a player-season leads to being drafted (PR-AUC 0.708,
+ROC-AUC 0.962 on a held-out 2025) and where a drafted player falls in their
+class (Spearman 0.644). Explanations come from SHAP where installed, with a
+gain-based fallback that says which it used.
+
+Read `model_card()` before quoting any of it — it carries the limitations,
+including that Stage 1 precision depends on the base rate you apply it to, that
+eligibility is inferred rather than looked up, and that order predictions have a
+mean absolute error of 76 places, so they separate tiers rather than picks.
+
+```python
+from ncaa_bbStats import predict_from_stats
+
+result = predict_from_stats(
+    "pitcher", age=21,
+    stats={"era": 2.40, "so": 130, "bb": 25, "ip": 95.0},
+    team="LSU", season=2025,
+)
+print(result["report"])
+result["confidence"]   # 'low' -- reports how much had to be imputed
+```
+
+---
+
 ## Reference
-### Season Stat Reference
-See full list of supported team statistics and their abbreviations in the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/season_stats.html" target="_blank">Team Stats List</a>.
 
-### Player Stat Reference
-See full list of supported player statistics and their abbreviations in the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/player_reference.html" target="_blank">Player Stats List</a>.
+- <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/season_stats.html" target="_blank">Team stat abbreviations</a>
+- <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/player_reference.html" target="_blank">Player stat abbreviations</a>
+- <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_registry.html" target="_blank">Team registry</a> — how team names resolve
+- <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/data_provenance.html" target="_blank">Data provenance</a> — sources, terms, and known limitations
 
-### Team Name Reference
-Refer to <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_stats.html" target="_blank">Team Name Reference</a> for formatting options when passing team names.
+---
 
-### Draft Team/School Name Reference
-Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/team_names_mlb.html" target="_blank">MLB Draft Name Reference</a> for consistent naming of schools when using draft-related functions.
+## Regenerating the data
 
-### Player Name Reference
-Use the <a href="https://collegebaseballstatspackage.readthedocs.io/en/latest/player_names.html" target="_blank">Player Name Reference</a> for consistent naming of players when using player-related functions.
+Builders live in `tools/` and the `*_store` modules; none of them ship in the
+wheel. See [tools/README.md](tools/README.md).
 
-## Planned Features
+```bash
+python -m ncaa_bbStats.team_store --years 2026    # scrape NCAA team stats
+python tools/build_league_constants.py            # refit the run values
+python tools/build_team_registry.py               # rebuild the registry
+python -m ncaa_bbStats.model_store                # retrain the draft models
+python -m pytest tests/ -q
+```
 
+---
+
+## Planned
+
+- Player statistics re-sourced directly from stats.ncaa.org, which would remove
+  the last third-party dependency in the data — see
+  [DATA_PROVENANCE.md](DATA_PROVENANCE.md)
+- IPEDS identifiers backfilled for Division II and III programs
 - Team game results with win-loss tracking
+- Park factors, which currently limit `cwrc_plus`
 
-- Win probability models using in-game data
-
-Found a bug or want a new feature? Open an [issue](https://github.com/CodeMateo15/CollegeBaseballStatsPackage/issues).
+Found a bug or want a feature? Open an [issue](https://github.com/CodeMateo15/CollegeBaseballStatsPackage/issues).
 
 ## Support
 Star this repo and share to help support!
 [![GitHub stars](https://img.shields.io/github/stars/CodeMateo15/CollegeBaseballStatsPackage.svg?style=social&label=Star)](https://github.com/CodeMateo15/CollegeBaseballStatsPackage)
 
 ## Contact
-Feel free to reach out for collaboration or feedback:
 Mateo Biggs, mateojohn2024@gmail.com

@@ -131,3 +131,38 @@ def test_provenance_documents_every_shipped_dataset():
     assert not undocumented, (
         f"data directories missing from DATA_PROVENANCE.md: {undocumented}"
     )
+
+
+def test_readme_names_only_real_functions():
+    """A README that promises a function which does not exist is worse than none."""
+    import re
+
+    readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
+    # Non-function backticked terms that legitimately appear in prose.
+    allowed_prose = {
+        "model", "explain", "scrape", "all", "dev", "tools", "team_id",
+        "player_id", "cwrc", "pip", "qualified", "noMin", "carried_forward",
+        "eada_year", "significant", "coverage", "confidence", "report",
+    }
+    named = set(re.findall(r"`([a-z_][a-z0-9_]*)`", readme))
+    missing = sorted(
+        name for name in named
+        if name not in allowed_prose and not hasattr(ncaa_bbStats, name)
+    )
+    assert not missing, f"README names functions that do not exist: {missing}"
+
+
+def test_version_is_consistent_across_metadata():
+    """pyproject and CITATION.cff must agree."""
+    import re
+    import tomllib
+
+    with open(REPO_ROOT / "pyproject.toml", "rb") as f:
+        pyproject_version = tomllib.load(f)["project"]["version"]
+
+    citation = (REPO_ROOT / "CITATION.cff").read_text(encoding="utf-8")
+    citation_version = re.search(r"^version:\s*(\S+)", citation, re.M).group(1)
+
+    assert pyproject_version == citation_version, (
+        f"pyproject says {pyproject_version}, CITATION.cff says {citation_version}"
+    )
