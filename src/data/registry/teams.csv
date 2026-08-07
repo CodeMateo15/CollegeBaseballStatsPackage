@@ -1,0 +1,1024 @@
+team_id,canonical_name,ipeds_unitid,institution_name,state,id_source,first_season,last_season,divisions
+IPEDS:100654,Alabama A&M,100654,Alabama A & M University,AL,ipeds,2003,2026,1
+IPEDS:100663,UAB,100663,University of Alabama at Birmingham,AL,ipeds,2003,2026,1
+IPEDS:100724,Alabama St.,100724,Alabama State University,AL,ipeds,2003,2026,1
+IPEDS:100751,Alabama,100751,The University of Alabama,AL,ipeds,2002,2026,1
+IPEDS:100858,Auburn,100858,Auburn University,AL,ipeds,2002,2026,1
+IPEDS:101480,Jacksonville St.,101480,Jacksonville State University,AL,ipeds,2003,2026,1
+IPEDS:101879,North Ala.,101879,University of North Alabama,AL,ipeds,2002,2026,1|2
+IPEDS:102049,Samford,102049,Samford University,AL,ipeds,2003,2026,1
+IPEDS:102094,South Alabama,102094,University of South Alabama,AL,ipeds,2002,2026,1
+IPEDS:102368,Troy,102368,Troy University,AL,ipeds,2003,2026,1
+IPEDS:104151,Arizona St.,104151,Arizona State University Campus Immersion,AZ,ipeds,2002,2026,1
+IPEDS:104179,Arizona,104179,University of Arizona,AZ,ipeds,2003,2026,1
+IPEDS:104717,Grand Canyon,104717,Grand Canyon University,AZ,ipeds,2002,2026,1|2
+IPEDS:106245,Little Rock,106245,University of Arkansas at Little Rock,AR,ipeds,2003,2026,1
+IPEDS:106397,Arkansas,106397,University of Arkansas,AR,ipeds,2002,2026,1
+IPEDS:106412,Ark.-Pine Bluff,106412,University of Arkansas at Pine Bluff,AR,ipeds,2003,2026,1
+IPEDS:106458,Arkansas St.,106458,Arkansas State University,AR,ipeds,2003,2026,1
+IPEDS:106704,Central Ark.,106704,University of Central Arkansas,AR,ipeds,2003,2026,1|2
+IPEDS:110361,California Baptist,110361,California Baptist University,CA,ipeds,2014,2026,1|2
+IPEDS:110422,Cal Poly,110422,California Polytechnic State University-San Luis Obispo,CA,ipeds,2003,2026,1
+IPEDS:110486,CSU Bakersfield,110486,California State University-Bakersfield,CA,ipeds,2011,2026,1
+IPEDS:110556,Fresno St.,110556,California State University-Fresno,CA,ipeds,2002,2026,1
+IPEDS:110565,Cal St. Fullerton,110565,California State University-Fullerton,CA,ipeds,2002,2026,1
+IPEDS:110583,Long Beach St.,110583,California State University-Long Beach,CA,ipeds,2002,2026,1
+IPEDS:110608,CSUN,110608,California State University-Northridge,CA,ipeds,2003,2026,1
+IPEDS:110617,Sacramento St.,110617,California State University-Sacramento,CA,ipeds,2003,2026,1
+IPEDS:110635,California,110635,University of California-Berkeley,CA,ipeds,2002,2026,1
+IPEDS:110644,UC Davis,110644,University of California-Davis,CA,ipeds,2002,2026,1|2
+IPEDS:110653,UC Irvine,110653,University of California-Irvine,CA,ipeds,2003,2026,1
+IPEDS:110662,UCLA,110662,University of California-Los Angeles,CA,ipeds,2003,2026,1
+IPEDS:110671,UC Riverside,110671,University of California-Riverside,CA,ipeds,2003,2026,1
+IPEDS:110680,UC San Diego,110680,University of California-San Diego,CA,ipeds,2002,2026,1|2
+IPEDS:110705,UC Santa Barbara,110705,University of California-Santa Barbara,CA,ipeds,2003,2026,1
+IPEDS:117946,LMU (CA),117946,Loyola Marymount University,CA,ipeds,2003,2026,1
+IPEDS:120883,Pacific,120883,University of the Pacific,CA,ipeds,2003,2026,1
+IPEDS:121150,Pepperdine,121150,Pepperdine University,CA,ipeds,2003,2026,1
+IPEDS:122409,San Diego St.,122409,San Diego State University,CA,ipeds,2002,2026,1
+IPEDS:122436,San Diego,122436,University of San Diego,CA,ipeds,2003,2026,1
+IPEDS:122612,San Francisco,122612,University of San Francisco,CA,ipeds,2003,2026,1
+IPEDS:122755,San Jose St.,122755,San Jose State University,CA,ipeds,2002,2026,1
+IPEDS:122931,Santa Clara,122931,Santa Clara University,CA,ipeds,2003,2026,1
+IPEDS:123554,Saint Mary's (CA),123554,Saint Mary's College of California,CA,ipeds,2003,2026,1
+IPEDS:123961,Southern California,123961,University of Southern California,CA,ipeds,2002,2026,1
+IPEDS:127741,Northern Colo.,127741,University of Northern Colorado,CO,ipeds,2003,2026,1|2
+IPEDS:128771,Central Conn. St.,128771,Central Connecticut State University,CT,ipeds,2002,2026,1
+IPEDS:129020,UConn,129020,University of Connecticut,CT,ipeds,2002,2026,1
+IPEDS:129242,Fairfield,129242,Fairfield University,CT,ipeds,2003,2026,1
+IPEDS:129525,Hartford,129525,University of Hartford,CT,ipeds,2003,2026,1|3
+IPEDS:129941,New Haven,129941,University of New Haven,CT,ipeds,2002,2025,2
+IPEDS:130226,Quinnipiac,130226,Quinnipiac University,CT,ipeds,2003,2026,1
+IPEDS:130253,Sacred Heart,130253,Sacred Heart University,CT,ipeds,2003,2026,1
+IPEDS:130794,Yale,130794,Yale University,CT,ipeds,2003,2026,1
+IPEDS:130934,Delaware St.,130934,Delaware State University,DE,ipeds,2002,2026,1
+IPEDS:130943,Delaware,130943,University of Delaware,DE,ipeds,2002,2026,1
+IPEDS:131469,George Washington,131469,George Washington University,DC,ipeds,2003,2026,1
+IPEDS:131496,Georgetown,131496,Georgetown University,DC,ipeds,2003,2026,1
+IPEDS:132602,Bethune-Cookman,132602,Bethune-Cookman University,FL,ipeds,2003,2026,1
+IPEDS:132903,UCF,132903,University of Central Florida,FL,ipeds,2002,2026,1
+IPEDS:133650,Florida A&M,133650,Florida Agricultural and Mechanical University,FL,ipeds,2003,2026,1
+IPEDS:133669,Fla. Atlantic,133669,Florida Atlantic University,FL,ipeds,2003,2026,1
+IPEDS:133951,FIU,133951,Florida International University,FL,ipeds,2002,2026,1
+IPEDS:134097,Florida St.,134097,Florida State University,FL,ipeds,2002,2026,1
+IPEDS:134130,Florida,134130,University of Florida,FL,ipeds,2002,2026,1
+IPEDS:134945,Jacksonville,134945,Jacksonville University,FL,ipeds,2003,2026,1
+IPEDS:135726,Miami (FL),135726,University of Miami,FL,ipeds,2003,2026,1
+IPEDS:136172,North Florida,136172,University of North Florida,FL,ipeds,2002,2026,1|2
+IPEDS:137351,South Fla.,137351,University of South Florida,FL,ipeds,2003,2026,1
+IPEDS:137546,Stetson,137546,Stetson University,FL,ipeds,2002,2026,1
+IPEDS:139755,Georgia Tech,139755,Georgia Institute of Technology-Main Campus,GA,ipeds,2002,2026,1
+IPEDS:139931,Ga. Southern,139931,Georgia Southern University,GA,ipeds,2002,2026,1
+IPEDS:139940,Georgia St.,139940,Georgia State University,GA,ipeds,2003,2026,1
+IPEDS:139959,Georgia,139959,University of Georgia,GA,ipeds,2002,2026,1|2
+IPEDS:140447,Mercer,140447,Mercer University,GA,ipeds,2003,2026,1
+IPEDS:141334,West Ga.,141334,University of West Georgia,GA,ipeds,2002,2024,2
+IPEDS:141574,Hawaii,141574,University of Hawaii at Manoa,HI,ipeds,2003,2026,1
+IPEDS:143358,Bradley,143358,Bradley University,IL,ipeds,2003,2026,1
+IPEDS:144892,Eastern Ill.,144892,Eastern Illinois University,IL,ipeds,2003,2026,1
+IPEDS:145600,UIC,145600,University of Illinois Chicago,IL,ipeds,2002,2026,1
+IPEDS:145637,Illinois,145637,University of Illinois Urbana-Champaign,IL,ipeds,2002,2026,1
+IPEDS:145813,Illinois St.,145813,Illinois State University,IL,ipeds,2003,2026,1
+IPEDS:147703,NIU,147703,Northern Illinois University,IL,ipeds,2003,2026,1
+IPEDS:147767,Northwestern,147767,Northwestern University,IL,ipeds,2003,2026,1
+IPEDS:149222,Southern Ill.,149222,Southern Illinois University-Carbondale,IL,ipeds,2002,2026,1
+IPEDS:149231,SIUE,149231,Southern Illinois University-Edwardsville,IL,ipeds,2003,2026,1|2
+IPEDS:149772,Western Ill.,149772,Western Illinois University,IL,ipeds,2003,2026,1
+IPEDS:150136,Ball St.,150136,Ball State University,IN,ipeds,2003,2026,1
+IPEDS:150163,Butler,150163,Butler University,IN,ipeds,2003,2026,1
+IPEDS:150534,Evansville,150534,University of Evansville,IN,ipeds,2003,2026,1
+IPEDS:151102,Purdue Fort Wayne,151102,Purdue University Fort Wayne,IN,ipeds,2003,2025,1
+IPEDS:151306,Southern Ind.,151306,University of Southern Indiana,IN,ipeds,2003,2026,1|2
+IPEDS:151324,Indiana St.,151324,Indiana State University,IN,ipeds,2003,2026,1
+IPEDS:151351,Indiana,151351,Indiana University-Bloomington,IN,ipeds,2002,2026,1
+IPEDS:152080,Notre Dame,152080,University of Notre Dame,IN,ipeds,2002,2026,1
+IPEDS:152600,Valparaiso,152600,Valparaiso University,IN,ipeds,2003,2026,1
+IPEDS:153658,Iowa,153658,University of Iowa,IA,ipeds,2003,2026,1
+IPEDS:155317,Kansas,155317,University of Kansas,KS,ipeds,2003,2026,1
+IPEDS:155399,Kansas St.,155399,Kansas State University,KS,ipeds,2003,2026,1
+IPEDS:156125,Wichita St.,156125,Wichita State University,KS,ipeds,2002,2026,1
+IPEDS:156286,Bellarmine,156286,Bellarmine University,KY,ipeds,2003,2026,1|2
+IPEDS:156620,Eastern Ky.,156620,Eastern Kentucky University,KY,ipeds,2003,2026,1
+IPEDS:157085,Kentucky,157085,University of Kentucky,KY,ipeds,2003,2026,1
+IPEDS:157289,Louisville,157289,University of Louisville,KY,ipeds,2002,2026,1
+IPEDS:157386,Morehead St.,157386,Morehead State University,KY,ipeds,2002,2026,1
+IPEDS:157401,Murray St.,157401,Murray State University,KY,ipeds,2003,2026,1
+IPEDS:157447,Northern Ky.,157447,Northern Kentucky University,KY,ipeds,2003,2026,1|2
+IPEDS:157951,Western Ky.,157951,Western Kentucky University,KY,ipeds,2002,2026,1
+IPEDS:159009,Grambling,159009,Grambling State University,LA,ipeds,2003,2026,1
+IPEDS:159391,LSU,159391,Louisiana State University and Agricultural & Mechanical College,LA,ipeds,2002,2026,1
+IPEDS:159647,Louisiana Tech,159647,Louisiana Tech University,LA,ipeds,2003,2026,1
+IPEDS:159717,McNeese,159717,McNeese State University,LA,ipeds,2003,2026,1
+IPEDS:159939,New Orleans,159939,University of New Orleans,LA,ipeds,2003,2026,1
+IPEDS:159966,Nicholls,159966,Nicholls State University,LA,ipeds,2003,2026,1
+IPEDS:159993,ULM,159993,University of Louisiana at Monroe,LA,ipeds,2003,2026,1
+IPEDS:160038,Northwestern St.,160038,Northwestern State University of Louisiana,LA,ipeds,2002,2026,1
+IPEDS:160612,Southeastern La.,160612,Southeastern Louisiana University,LA,ipeds,2003,2026,1
+IPEDS:160621,Southern U.,160621,Southern University and A & M College,LA,ipeds,2002,2026,1
+IPEDS:160658,Louisiana,160658,University of Louisiana at Lafayette,LA,ipeds,2002,2026,1
+IPEDS:160755,Tulane,160755,Tulane University of Louisiana,LA,ipeds,2003,2026,1
+IPEDS:161253,Maine,161253,University of Maine,ME,ipeds,2002,2026,1
+IPEDS:162283,Coppin St.,162283,Coppin State University,MD,ipeds,2003,2026,1
+IPEDS:163268,UMBC,163268,University of Maryland-Baltimore County,MD,ipeds,2003,2026,1
+IPEDS:163286,Maryland,163286,University of Maryland-College Park,MD,ipeds,2002,2026,1
+IPEDS:163338,UMES,163338,University of Maryland Eastern Shore,MD,ipeds,2003,2026,1
+IPEDS:163462,Mount St. Mary's,163462,Mount St. Mary's University,MD,ipeds,2003,2026,1
+IPEDS:164076,Towson,164076,Towson University,MD,ipeds,2003,2026,1
+IPEDS:164924,Boston College,164924,Boston College,MA,ipeds,2003,2026,1
+IPEDS:166027,Harvard,166027,Harvard University,MA,ipeds,2003,2026,1
+IPEDS:166124,Holy Cross,166124,College of the Holy Cross,MA,ipeds,2003,2026,1
+IPEDS:166513,UMass Lowell,166513,University of Massachusetts-Lowell,MA,ipeds,2002,2026,1|2
+IPEDS:166629,Massachusetts,166629,University of Massachusetts-Amherst,MA,ipeds,2003,2026,1
+IPEDS:166850,Merrimack,166850,Merrimack College,MA,ipeds,2003,2026,1|2
+IPEDS:167358,Northeastern,167358,Northeastern University,MA,ipeds,2002,2026,1
+IPEDS:167996,Stonehill,167996,Stonehill College,MA,ipeds,2003,2026,1|2
+IPEDS:169248,Central Mich.,169248,Central Michigan University,MI,ipeds,2003,2026,1
+IPEDS:169798,Eastern Mich.,169798,Eastern Michigan University,MI,ipeds,2003,2026,1
+IPEDS:170976,Michigan,170976,University of Michigan-Ann Arbor,MI,ipeds,2003,2026,1
+IPEDS:171100,Michigan St.,171100,Michigan State University,MI,ipeds,2002,2026,1
+IPEDS:171571,Oakland,171571,Oakland University,MI,ipeds,2003,2026,1
+IPEDS:172699,Western Mich.,172699,Western Michigan University,MI,ipeds,2003,2026,1
+IPEDS:174066,Minnesota,174066,University of Minnesota-Twin Cities,MN,ipeds,2002,2026,1
+IPEDS:174914,St. Thomas (MN),174914,University of St Thomas,MN,ipeds,2002,2026,1|3
+IPEDS:175342,Alcorn,175342,Alcorn State University,MS,ipeds,2003,2026,1
+IPEDS:175856,Jackson St.,175856,Jackson State University,MS,ipeds,2003,2026,1
+IPEDS:176017,Ole Miss,176017,University of Mississippi,MS,ipeds,2003,2026,1
+IPEDS:176044,Mississippi Val.,176044,Mississippi Valley State University,MS,ipeds,2003,2026,1
+IPEDS:176080,Mississippi St.,176080,Mississippi State University,MS,ipeds,2003,2026,1
+IPEDS:176372,Southern Miss.,176372,University of Southern Mississippi,MS,ipeds,2003,2026,1
+IPEDS:177968,Lindenwood,177968,Lindenwood University,MO,ipeds,2014,2026,1|2
+IPEDS:178396,Missouri,178396,University of Missouri-Columbia,MO,ipeds,2003,2026,1
+IPEDS:179159,Saint Louis,179159,Saint Louis University,MO,ipeds,2003,2026,1
+IPEDS:179557,Southeast Mo. St.,179557,Southeast Missouri State University,MO,ipeds,2003,2026,1
+IPEDS:179566,Missouri St.,179566,Missouri State University-Springfield,MO,ipeds,2003,2026,1
+IPEDS:181002,Creighton,181002,Creighton University,NE,ipeds,2003,2026,1
+IPEDS:181394,Omaha,181394,University of Nebraska at Omaha,NE,ipeds,2002,2026,1|2
+IPEDS:181464,Nebraska,181464,University of Nebraska-Lincoln,NE,ipeds,2002,2026,1
+IPEDS:182281,UNLV,182281,University of Nevada-Las Vegas,NV,ipeds,2002,2026,1
+IPEDS:182290,Nevada,182290,University of Nevada-Reno,NV,ipeds,2003,2026,1
+IPEDS:182670,Dartmouth,182670,Dartmouth College,NH,ipeds,2003,2026,1
+IPEDS:184603,FDU,184603,Fairleigh Dickinson University-Metropolitan Campus,NJ,ipeds,2003,2026,1
+IPEDS:185572,Monmouth,185572,Monmouth University,NJ,ipeds,2003,2026,1
+IPEDS:185828,NJIT,185828,New Jersey Institute of Technology,NJ,ipeds,2003,2026,1|2
+IPEDS:186131,Princeton,186131,Princeton University,NJ,ipeds,2003,2026,1
+IPEDS:186283,Rider,186283,Rider University,NJ,ipeds,2003,2026,1
+IPEDS:186380,Rutgers,186380,Rutgers University-New Brunswick,NJ,ipeds,2002,2026,1
+IPEDS:186432,Saint Peter's,186432,Saint Peter's University,NJ,ipeds,2003,2026,1
+IPEDS:186584,Seton Hall,186584,Seton Hall University,NJ,ipeds,2003,2026,1
+IPEDS:187985,New Mexico,187985,University of New Mexico-Main Campus,NM,ipeds,2002,2026,1
+IPEDS:188030,New Mexico St.,188030,New Mexico State University-Main Campus,NM,ipeds,2002,2026,1
+IPEDS:189705,Canisius,189705,Canisius College,NY,ipeds,2003,2026,1
+IPEDS:190150,Columbia,190150,Columbia University in the City of New York,NY,ipeds,2002,2026,1
+IPEDS:190415,Cornell,190415,Cornell University,NY,ipeds,2003,2026,1|3
+IPEDS:191241,Fordham,191241,Fordham University,NY,ipeds,2003,2026,1
+IPEDS:191649,Hofstra,191649,Hofstra University,NY,ipeds,2003,2026,1
+IPEDS:191931,Iona,191931,Iona College,NY,ipeds,2003,2026,1
+IPEDS:192323,Le Moyne,192323,Le Moyne College,NY,ipeds,2003,2023,1|2
+IPEDS:192448,LIU,192448,Long Island University,NY,ipeds,2003,2026,1
+IPEDS:192703,Manhattan,192703,Manhattan College,NY,ipeds,2003,2026,1
+IPEDS:192819,Marist,192819,Marist College,NY,ipeds,2002,2026,1
+IPEDS:193973,Niagara,193973,Niagara University,NY,ipeds,2003,2026,1
+IPEDS:195164,St. Bonaventure,195164,St Bonaventure University,NY,ipeds,2002,2026,1
+IPEDS:195474,Siena,195474,Siena College,NY,ipeds,2003,2026,1
+IPEDS:195809,St. John's (NY),195809,St. John's University-New York,NY,ipeds,2003,2026,1
+IPEDS:196060,UAlbany,196060,SUNY at Albany,NY,ipeds,2003,2026,1
+IPEDS:196079,Binghamton,196079,Binghamton University,NY,ipeds,2003,2026,1
+IPEDS:196097,Stony Brook,196097,Stony Brook University,NY,ipeds,2003,2026,1
+IPEDS:197197,Wagner,197197,Wagner College,NY,ipeds,2003,2026,1
+IPEDS:197869,App State,197869,Appalachian State University,NC,ipeds,2003,2026,1
+IPEDS:198136,Campbell,198136,Campbell University,NC,ipeds,2003,2026,1
+IPEDS:198385,Davidson,198385,Davidson College,NC,ipeds,2003,2026,1
+IPEDS:198419,Duke,198419,Duke University,NC,ipeds,2003,2026,1
+IPEDS:198464,East Carolina,198464,East Carolina University,NC,ipeds,2002,2026,1
+IPEDS:198516,Elon,198516,Elon University,NC,ipeds,2003,2026,1
+IPEDS:198561,Gardner-Webb,198561,Gardner-Webb University,NC,ipeds,2003,2026,1
+IPEDS:198695,High Point,198695,High Point University,NC,ipeds,2003,2026,1
+IPEDS:199102,N.C. A&T,199102,North Carolina A & T State University,NC,ipeds,2003,2026,1
+IPEDS:199111,UNC Asheville,199111,University of North Carolina at Asheville,NC,ipeds,2003,2026,1
+IPEDS:199120,North Carolina,199120,University of North Carolina at Chapel Hill,NC,ipeds,2002,2026,1
+IPEDS:199139,Charlotte,199139,University of North Carolina at Charlotte,NC,ipeds,2003,2026,1
+IPEDS:199148,UNC Greensboro,199148,University of North Carolina at Greensboro,NC,ipeds,2003,2026,1
+IPEDS:199157,N.C. Central,199157,North Carolina Central University,NC,ipeds,2007,2021,1|2
+IPEDS:199193,NC State,199193,North Carolina State University at Raleigh,NC,ipeds,2002,2026,1
+IPEDS:199218,UNCW,199218,University of North Carolina Wilmington,NC,ipeds,2002,2026,1
+IPEDS:199412,Queens (NC),199412,Queens University of Charlotte,NC,ipeds,2019,2026,1|2
+IPEDS:199847,Wake Forest,199847,Wake Forest University,NC,ipeds,2002,2026,1
+IPEDS:200004,Western Caro.,200004,Western Carolina University,NC,ipeds,2002,2026,1
+IPEDS:200332,North Dakota St.,200332,North Dakota State University-Main Campus,ND,ipeds,2003,2026,1|2
+IPEDS:200800,Akron,200800,University of Akron Main Campus,OH,ipeds,2003,2026,1
+IPEDS:201441,Bowling Green,201441,Bowling Green State University-Main Campus,OH,ipeds,2002,2026,1
+IPEDS:201885,Cincinnati,201885,University of Cincinnati-Main Campus,OH,ipeds,2002,2026,1
+IPEDS:202480,Dayton,202480,University of Dayton,OH,ipeds,2003,2026,1
+IPEDS:203517,Kent St.,203517,Kent State University at Kent,OH,ipeds,2003,2026,1
+IPEDS:204024,Miami (OH),204024,Miami University-Oxford,OH,ipeds,2003,2026,1
+IPEDS:204796,Ohio St.,204796,Ohio State University-Main Campus,OH,ipeds,2003,2026,1
+IPEDS:204857,Ohio,204857,Ohio University-Main Campus,OH,ipeds,2002,2026,1
+IPEDS:206084,Toledo,206084,University of Toledo,OH,ipeds,2003,2026,1
+IPEDS:206604,Wright St.,206604,Wright State University-Main Campus,OH,ipeds,2003,2026,1
+IPEDS:206622,Xavier,206622,Xavier University,OH,ipeds,2003,2026,1
+IPEDS:206695,Youngstown St.,206695,Youngstown State University,OH,ipeds,2003,2026,1
+IPEDS:207388,Oklahoma St.,207388,Oklahoma State University-Main Campus,OK,ipeds,2002,2026,1
+IPEDS:207500,Oklahoma,207500,University of Oklahoma-Norman Campus,OK,ipeds,2003,2026,1
+IPEDS:207582,Oral Roberts,207582,Oral Roberts University,OK,ipeds,2002,2026,1
+IPEDS:209542,Oregon St.,209542,Oregon State University,OR,ipeds,2003,2026,1
+IPEDS:209551,Oregon,209551,University of Oregon,OR,ipeds,2009,2026,1
+IPEDS:209825,Portland,209825,University of Portland,OR,ipeds,2003,2026,1
+IPEDS:211291,Bucknell,211291,Bucknell University,PA,ipeds,2003,2026,1
+IPEDS:213367,La Salle,213367,La Salle University,PA,ipeds,2003,2026,1
+IPEDS:213385,Lafayette,213385,Lafayette College,PA,ipeds,2003,2026,1
+IPEDS:213543,Lehigh,213543,Lehigh University,PA,ipeds,2003,2026,1
+IPEDS:213987,Mercyhurst,213987,Mercyhurst University,PA,ipeds,2003,2024,2
+IPEDS:214777,Penn St.,214777,Pennsylvania State University-Main Campus,PA,ipeds,2003,2026,1
+IPEDS:215062,Penn,215062,University of Pennsylvania,PA,ipeds,2003,2026,1|3
+IPEDS:215293,Pittsburgh,215293,University of Pittsburgh-Pittsburgh Campus,PA,ipeds,2003,2026,1
+IPEDS:215770,Saint Joseph's,215770,Saint Joseph's University,PA,ipeds,2003,2026,1
+IPEDS:216597,Villanova,216597,Villanova University,PA,ipeds,2003,2026,1
+IPEDS:217156,Brown,217156,Brown University,RI,ipeds,2003,2026,1
+IPEDS:217165,Bryant,217165,Bryant University,RI,ipeds,2003,2026,1|2
+IPEDS:217484,Rhode Island,217484,University of Rhode Island,RI,ipeds,2002,2026,1
+IPEDS:217688,Charleston So.,217688,Charleston Southern University,SC,ipeds,2003,2026,1
+IPEDS:217819,Col. of Charleston,217819,College of Charleston,SC,ipeds,2002,2026,1
+IPEDS:217864,The Citadel,217864,Citadel Military College of South Carolina,SC,ipeds,2002,2026,1
+IPEDS:217882,Clemson,217882,Clemson University,SC,ipeds,2002,2026,1
+IPEDS:218539,Presbyterian,218539,Presbyterian College,SC,ipeds,2003,2026,1|2
+IPEDS:218663,South Carolina,218663,University of South Carolina-Columbia,SC,ipeds,2002,2026,1
+IPEDS:218724,Coastal Carolina,218724,Coastal Carolina University,SC,ipeds,2002,2026,1
+IPEDS:218742,USC Upstate,218742,University of South Carolina-Upstate,SC,ipeds,2003,2026,1|2
+IPEDS:218964,Winthrop,218964,Winthrop University,SC,ipeds,2003,2026,1
+IPEDS:218973,Wofford,218973,Wofford College,SC,ipeds,2003,2026,1
+IPEDS:219356,South Dakota St.,219356,South Dakota State University,SD,ipeds,2002,2026,1|2
+IPEDS:219602,Austin Peay,219602,Austin Peay State University,TN,ipeds,2003,2026,1
+IPEDS:219709,Belmont,219709,Belmont University,TN,ipeds,2003,2026,1
+IPEDS:219976,Lipscomb,219976,Lipscomb University,TN,ipeds,2004,2026,1
+IPEDS:220075,ETSU,220075,East Tennessee State University,TN,ipeds,2003,2026,1
+IPEDS:220862,Memphis,220862,University of Memphis,TN,ipeds,2003,2026,1
+IPEDS:220978,Middle Tenn.,220978,Middle Tennessee State University,TN,ipeds,2003,2026,1
+IPEDS:221759,Tennessee,221759,The University of Tennessee-Knoxville,TN,ipeds,2003,2026,1
+IPEDS:221768,UT Martin,221768,The University of Tennessee-Martin,TN,ipeds,2003,2026,1
+IPEDS:221847,Tennessee Tech,221847,Tennessee Technological University,TN,ipeds,2003,2026,1
+IPEDS:221999,Vanderbilt,221999,Vanderbilt University,TN,ipeds,2003,2026,1
+IPEDS:222178,Abilene Christian,222178,Abilene Christian University,TX,ipeds,2002,2026,1|2
+IPEDS:223232,Baylor,223232,Baylor University,TX,ipeds,2003,2026,1
+IPEDS:224147,A&M-Corpus Christi,224147,Texas A & M University-Corpus Christi,TX,ipeds,2003,2026,1
+IPEDS:224226,DBU,224226,Dallas Baptist University,TX,ipeds,2004,2026,1|2
+IPEDS:225399,Houston Christian,225399,Houston Baptist University,TX,ipeds,2012,2026,1
+IPEDS:225511,Houston,225511,University of Houston,TX,ipeds,2002,2026,1
+IPEDS:225627,UIW,225627,University of the Incarnate Word,TX,ipeds,2003,2026,1|2
+IPEDS:226091,Lamar University,226091,Lamar University,TX,ipeds,2002,2026,1
+IPEDS:227368,UTRGV,227368,The University of Texas Rio Grande Valley,TX,ipeds,2003,2026,1
+IPEDS:227526,Prairie View,227526,Prairie View A & M University,TX,ipeds,2003,2026,1
+IPEDS:227757,Rice,227757,Rice University,TX,ipeds,2002,2026,1
+IPEDS:227881,Sam Houston,227881,Sam Houston State University,TX,ipeds,2003,2026,1
+IPEDS:228431,SFA,228431,Stephen F Austin State University,TX,ipeds,2006,2026,1
+IPEDS:228459,Texas St.,228459,Texas State University,TX,ipeds,2003,2026,1
+IPEDS:228529,Tarleton St.,228529,Tarleton State University,TX,ipeds,2003,2026,1|2
+IPEDS:228723,Texas A&M,228723,Texas A & M University-College Station,TX,ipeds,2002,2026,1
+IPEDS:228769,UT Arlington,228769,The University of Texas at Arlington,TX,ipeds,2003,2026,1
+IPEDS:228778,Texas,228778,The University of Texas at Austin,TX,ipeds,2002,2026,1
+IPEDS:228875,TCU,228875,Texas Christian University,TX,ipeds,2002,2026,1
+IPEDS:229027,UTSA,229027,The University of Texas at San Antonio,TX,ipeds,2003,2026,1
+IPEDS:229063,Texas Southern,229063,Texas Southern University,TX,ipeds,2003,2026,1
+IPEDS:229115,Texas Tech,229115,Texas Tech University,TX,ipeds,2003,2026,1
+IPEDS:230038,BYU,230038,Brigham Young University,UT,ipeds,2002,2026,1
+IPEDS:230171,Utah Tech,230171,Dixie State University,UT,ipeds,2009,2026,1|2
+IPEDS:230737,Utah Valley,230737,Utah Valley University,UT,ipeds,2010,2026,1
+IPEDS:230764,Utah,230764,University of Utah,UT,ipeds,2002,2026,1
+IPEDS:231624,William & Mary,231624,William & Mary,VA,ipeds,2002,2026,1
+IPEDS:232186,George Mason,232186,George Mason University,VA,ipeds,2003,2026,1
+IPEDS:232423,James Madison,232423,James Madison University,VA,ipeds,2002,2026,1
+IPEDS:232557,Liberty,232557,Liberty University,VA,ipeds,2002,2026,1
+IPEDS:232566,Longwood,232566,Longwood University,VA,ipeds,2002,2026,1|2
+IPEDS:232937,Norfolk St.,232937,Norfolk State University,VA,ipeds,2003,2026,1
+IPEDS:232982,Old Dominion,232982,Old Dominion University,VA,ipeds,2003,2026,1
+IPEDS:233277,Radford,233277,Radford University,VA,ipeds,2003,2026,1
+IPEDS:233374,Richmond,233374,University of Richmond,VA,ipeds,2002,2026,1
+IPEDS:233921,Virginia Tech,233921,Virginia Polytechnic Institute and State University,VA,ipeds,2003,2026,1
+IPEDS:234030,VCU,234030,Virginia Commonwealth University,VA,ipeds,2002,2026,1
+IPEDS:234076,Virginia,234076,University of Virginia-Main Campus,VA,ipeds,2003,2026,1
+IPEDS:234085,VMI,234085,Virginia Military Institute,VA,ipeds,2003,2026,1
+IPEDS:235316,Gonzaga,235316,Gonzaga University,WA,ipeds,2003,2026,1
+IPEDS:236595,Seattle U,236595,Seattle University,WA,ipeds,2013,2026,1
+IPEDS:236939,Washington St.,236939,Washington State University,WA,ipeds,2003,2026,1
+IPEDS:236948,Washington,236948,University of Washington-Seattle Campus,WA,ipeds,2003,2026,1
+IPEDS:237525,Marshall,237525,Marshall University,WV,ipeds,2003,2026,1
+IPEDS:238032,West Virginia,238032,West Virginia University,WV,ipeds,2003,2026,1
+IPEDS:240453,Milwaukee,240453,University of Wisconsin-Milwaukee,WI,ipeds,2003,2026,1
+IPEDS:243744,Stanford,243744,Stanford University,CA,ipeds,2002,2026,1
+IPEDS:243780,Purdue,243780,Purdue University-Main Campus,IN,ipeds,2002,2026,1
+IPEDS:433660,FGCU,433660,Florida Gulf Coast University,FL,ipeds,2005,2026,1|2
+IPEDS:486840,Kennesaw St.,486840,Kennesaw State University,GA,ipeds,2002,2026,1|2
+NCAA:academy-art,Academy of Art,,,,minted,2013,2023,2
+NCAA:adams-state,Adams St.,,,,minted,2013,2026,2
+NCAA:adelphi,Adelphi,,,,minted,2003,2026,2
+NCAA:adrian,Adrian,,,,minted,2003,2026,3
+NCAA:air-force,Air Force,,,,minted,2002,2026,1
+NCAA:alabama-huntsville,Alabama Huntsville,,,,minted,2002,2025,2
+NCAA:albany-state-georgia,Albany St. (GA),,,,minted,2003,2026,2
+NCAA:albertus-magnus,Albertus Magnus,,,,minted,2003,2026,3
+NCAA:albion,Albion,,,,minted,2003,2026,3
+NCAA:albright,Albright,,,,minted,2003,2026,3
+NCAA:alderson-broaddus,Alderson Broaddus,,,,minted,2004,2023,2
+NCAA:alfred,Alfred,,,,minted,2024,2026,3
+NCAA:alfred-state,Alfred St.,,,,minted,2019,2026,3
+NCAA:allegheny,Allegheny,,,,minted,2002,2026,3
+NCAA:alliance,Alliance,,,,minted,2004,2023,2
+NCAA:alma,Alma,,,,minted,2003,2026,3
+NCAA:alvernia,Alvernia,,,,minted,2002,2026,3
+NCAA:american-international,American Int'l,,,,minted,2003,2026,2
+NCAA:amherst,Amherst,,,,minted,2002,2026,3
+NCAA:anderson-in,Anderson (IN),,,,minted,2003,2026,3
+NCAA:anderson-south-carolina,Anderson (SC),,,,minted,2003,2026,2
+NCAA:angelo-state,Angelo St.,,,,minted,2005,2026,2
+NCAA:anna-maria,Anna Maria,,,,minted,2003,2026,3
+NCAA:arcadia,Arcadia,,,,minted,2003,2026,3
+NCAA:arkansas-fort-smith,Ark.-Fort Smith,,,,minted,2012,2026,2
+NCAA:arkansas-monticello,Ark.-Monticello,,,,minted,2003,2026,2
+NCAA:arkansas-technological,Arkansas Tech,,,,minted,2003,2026,2
+NCAA:armstrong-state,Armstrong St.,,,,minted,2002,2017,2
+NCAA:army-west-point,Army West Point,,,,minted,2003,2026,1
+NCAA:asbury,Asbury,,,,minted,2023,2026,3
+NCAA:ashland,Ashland,,,,minted,2002,2026,2
+NCAA:assumption,Assumption,,,,minted,2003,2026,2
+NCAA:augsburg,Augsburg,,,,minted,2003,2026,3
+NCAA:augusta,Augusta,,,,minted,2003,2026,2
+NCAA:augustana-il,Augustana (IL),,,,minted,2003,2026,3
+NCAA:augustana-sd,Augustana (SD),,,,minted,2003,2026,2
+NCAA:aum,AUM,,,,minted,2018,2026,2
+NCAA:aurora,Aurora,,,,minted,2002,2026,3
+NCAA:austin,Austin,,,,minted,2003,2026,3
+NCAA:averett,Averett,,,,minted,2003,2026,3
+NCAA:azusa-pacific,Azusa Pacific,,,,minted,2015,2026,2
+NCAA:babson,Babson,,,,minted,2003,2026,3
+NCAA:baldwin-wallace,Baldwin Wallace,,,,minted,2002,2026,3
+NCAA:bard,Bard,,,,minted,2013,2026,3
+NCAA:barry,Barry,,,,minted,2003,2026,2
+NCAA:barton,Barton,,,,minted,2003,2026,2
+NCAA:baruch,Baruch,,,,minted,2003,2026,3
+NCAA:bates,Bates,,,,minted,2003,2026,3
+NCAA:becker,Becker,,,,minted,2003,2021,3
+NCAA:belhaven,Belhaven,,,,minted,2019,2026,3
+NCAA:belmont-abbey,Belmont Abbey,,,,minted,2002,2026,2
+NCAA:beloit,Beloit,,,,minted,2003,2026,3
+NCAA:bemidji-state,Bemidji St.,,,,minted,2003,2026,2
+NCAA:benedict,Benedict,,,,minted,2004,2026,2
+NCAA:benedictine-il,Benedictine (IL),,,,minted,2003,2026,3
+NCAA:bentley,Bentley,,,,minted,2003,2026,2
+NCAA:berea,Berea,,,,minted,2018,2026,3
+NCAA:berry,Berry,,,,minted,2013,2026,3
+NCAA:bethany-lutheran,Bethany Lutheran,,,,minted,2009,2026,3
+NCAA:bethany-wv,Bethany (WV),,,,minted,2003,2026,3
+NCAA:bethel-mn,Bethel (MN),,,,minted,2003,2026,3
+NCAA:biola,Biola,,,,minted,2019,2026,2
+NCAA:birmingham-southern,Birmingham-So.,,,,minted,2004,2024,1|3
+NCAA:blackburn,Blackburn,,,,minted,2003,2026,3
+NCAA:bloomfield,Bloomfield,,,,minted,2004,2025,2
+NCAA:bloomsburg,Bloomsburg,,,,minted,2003,2026,2
+NCAA:bluefield-state,Bluefield St.,,,,minted,2005,2026,2
+NCAA:bluffton,Bluffton,,,,minted,2003,2026,3
+NCAA:bob-jones,Bob Jones,,,,minted,2022,2023,3
+NCAA:boise-state,Boise St.,,,,minted,2020,2020,1
+NCAA:bowdoin,Bowdoin,,,,minted,2003,2026,3
+NCAA:brandeis,Brandeis,,,,minted,2002,2026,3
+NCAA:brevard,Brevard,,,,minted,2009,2026,2|3
+NCAA:bridgeport,Bridgeport,,,,minted,2003,2026,2
+NCAA:bridgewater-state,Bridgewater St.,,,,minted,2002,2026,3
+NCAA:bridgewater-virginia,Bridgewater (VA),,,,minted,2003,2026,3
+NCAA:buena-vista,Buena Vista,,,,minted,2003,2026,3
+NCAA:buffalo,Buffalo,,,,minted,2003,2017,1
+NCAA:cabrini,Cabrini,,,,minted,2017,2024,3
+NCAA:cairn,Cairn,,,,minted,2004,2026,3
+NCAA:caldwell,Caldwell,,,,minted,2003,2026,2
+NCAA:california-lutheran,Cal Lutheran,,,,minted,2002,2026,3
+NCAA:california-pennsylvania,California (PA),,,,minted,2003,2026,2
+NCAA:california-polytechnic-pomona,Cal Poly Pomona,,,,minted,2003,2026,2
+NCAA:california-saint-dom-hills,Cal St. Dom. Hills,,,,minted,2002,2026,2
+NCAA:california-saint-east-bay,Cal St. East Bay,,,,minted,2003,2026,2|3
+NCAA:california-saint-monterey-bay,Cal St. Monterey Bay,,,,minted,2006,2026,2
+NCAA:california-saint-san-marcos,Cal St. San Marcos,,,,minted,2018,2026,2
+NCAA:california-state-louisiana,Cal State LA,,,,minted,2003,2026,2
+NCAA:caltech,Caltech,,,,minted,2008,2026,3
+NCAA:calvin,Calvin,,,,minted,2003,2026,3
+NCAA:cameron,Cameron,,,,minted,2003,2026,2
+NCAA:capital,Capital,,,,minted,2003,2026,3
+NCAA:carleton,Carleton,,,,minted,2003,2026,3
+NCAA:carroll-wi,Carroll (WI),,,,minted,2003,2026,3
+NCAA:carson-newman,Carson-Newman,,,,minted,2002,2026,2
+NCAA:carthage,Carthage,,,,minted,2002,2026,3
+NCAA:catawba,Catawba,,,,minted,2002,2026,2
+NCAA:catholic,Catholic,,,,minted,2003,2026,3
+NCAA:cazenovia,Cazenovia,,,,minted,2003,2023,3
+NCAA:ccny,CCNY,,,,minted,2005,2026,3
+NCAA:cedarville,Cedarville,,,,minted,2013,2026,2
+NCAA:centenary-louisiana,Centenary (LA),,,,minted,2003,2026,1|3
+NCAA:centenary-nj,Centenary (NJ),,,,minted,2002,2026,3
+NCAA:central-ia,Central (IA),,,,minted,2003,2026,3
+NCAA:central-missouri,Central Mo.,,,,minted,2002,2026,2
+NCAA:central-oklahoma,Central Okla.,,,,minted,2002,2026,2
+NCAA:central-washington,Central Wash.,,,,minted,2003,2026,2
+NCAA:centre,Centre,,,,minted,2003,2026,3
+NCAA:chaminade,Chaminade,,,,minted,2024,2026,2
+NCAA:chapman,Chapman,,,,minted,2002,2026,3
+NCAA:charleston-wv,Charleston (WV),,,,minted,2003,2026,2
+NCAA:chatham,Chatham,,,,minted,2017,2026,3
+NCAA:chestnut-hill,Chestnut Hill,,,,minted,2008,2026,2
+NCAA:chicago-state,Chicago St.,,,,minted,2003,2020,1
+NCAA:chico-state,Chico St.,,,,minted,2002,2026,2
+NCAA:chowan,Chowan,,,,minted,2003,2026,2|3
+NCAA:chris-newport,Chris. Newport,,,,minted,2003,2026,3
+NCAA:christian-brothers,Christian Brothers,,,,minted,2003,2026,2
+NCAA:claflin,Claflin,,,,minted,2010,2026,2
+NCAA:claremont-m-s,Claremont-M-S,,,,minted,2003,2026,3
+NCAA:clarion,Clarion,,,,minted,2003,2026,2
+NCAA:clark-atlanta,Clark Atlanta,,,,minted,2005,2026,2
+NCAA:clark-ma,Clark (MA),,,,minted,2003,2026,3
+NCAA:clarke,Clarke,,,,minted,2003,2007,3
+NCAA:clarks-summit,Clarks Summit,,,,minted,2007,2024,3
+NCAA:clarkson,Clarkson,,,,minted,2002,2026,3
+NCAA:cleveland-state,Cleveland St.,,,,minted,2003,2011,1
+NCAA:coast-guard,Coast Guard,,,,minted,2006,2026,3
+NCAA:coe,Coe,,,,minted,2003,2026,3
+NCAA:coker,Coker,,,,minted,2002,2026,2
+NCAA:colby,Colby,,,,minted,2003,2026,3
+NCAA:colby-sawyer,Colby-Sawyer,,,,minted,2003,2026,3
+NCAA:colorado-christian,Colo. Christian,,,,minted,2006,2026,2
+NCAA:colorado-mesa,Colorado Mesa,,,,minted,2002,2026,2
+NCAA:colorado-sch-mines,Colo. Sch. of Mines,,,,minted,2003,2026,2
+NCAA:columbus-state,Columbus St.,,,,minted,2002,2026,2
+NCAA:concord,Concord,,,,minted,2003,2026,2
+NCAA:concordia-chicago,Concordia Chicago,,,,minted,2003,2026,3
+NCAA:concordia-mhead,Concordia-M'head,,,,minted,2003,2026,3
+NCAA:concordia-ny,Concordia (NY),,,,minted,2002,2020,2
+NCAA:concordia-portland,Concordia Portland,,,,minted,2018,2020,2
+NCAA:concordia-saint-paul,Concordia-St. Paul,,,,minted,2003,2026,2
+NCAA:concordia-tx,Concordia (TX),,,,minted,2002,2026,3
+NCAA:concordia-wisconsin,Concordia Wisconsin,,,,minted,2003,2026,3
+NCAA:cortland,Cortland,,,,minted,2002,2026,3
+NCAA:covenant,Covenant,,,,minted,2013,2026,3
+NCAA:crown-mn,Crown (MN),,,,minted,2009,2026,3
+NCAA:csu-pueblo,CSU Pueblo,,,,minted,2002,2026,2
+NCAA:csusb,CSUSB,,,,minted,2003,2026,2
+NCAA:cui,CUI,,,,minted,2018,2026,2
+NCAA:curry,Curry,,,,minted,2003,2026,3
+NCAA:cwru,CWRU,,,,minted,2003,2026,3
+NCAA:dallas,Dallas,,,,minted,2002,2026,3
+NCAA:daniel-webster,Daniel Webster,,,,minted,2003,2017,3
+NCAA:davenport,Davenport,,,,minted,2020,2026,2
+NCAA:davis-and-elkins,Davis & Elkins,,,,minted,2003,2026,2
+NCAA:dean,Dean,,,,minted,2021,2026,3
+NCAA:defiance,Defiance,,,,minted,2003,2024,3
+NCAA:delaware-valley,Delaware Valley,,,,minted,2003,2026,3
+NCAA:delta-state,Delta St.,,,,minted,2002,2026,2
+NCAA:denison,Denison,,,,minted,2003,2026,3
+NCAA:depauw,DePauw,,,,minted,2003,2026,3
+NCAA:desales,DeSales,,,,minted,2002,2026,3
+NCAA:detroit-mercy,Detroit Mercy,,,,minted,2003,2004,1
+NCAA:dickinson,Dickinson,,,,minted,2003,2026,3
+NCAA:dominican-il,Dominican (IL),,,,minted,2003,2026,3
+NCAA:dominican-ny,Dominican (NY),,,,minted,2003,2026,2
+NCAA:dowling,Dowling,,,,minted,2002,2016,2
+NCAA:drew,Drew,,,,minted,2003,2026,3
+NCAA:drexel,Drexel,,,,minted,2003,2003,1
+NCAA:drury,Drury,,,,minted,2007,2026,2
+NCAA:dubuque,Dubuque,,,,minted,2003,2026,3
+NCAA:duquesne,Duquesne,,,,minted,2003,2010,1
+NCAA:dyouville,D'Youville,,,,minted,2004,2026,2|3
+NCAA:earlham,Earlham,,,,minted,2003,2026,3
+NCAA:east-central,East Central,,,,minted,2003,2026,2
+NCAA:east-mennonite,East. Mennonite,,,,minted,2004,2026,3
+NCAA:east-stroudsburg,East Stroudsburg,,,,minted,2003,2026,2
+NCAA:east-texas-baptist,East Tex. Baptist,,,,minted,2003,2026,3
+NCAA:eastern,Eastern,,,,minted,2003,2026,3
+NCAA:eastern-connecticut-state,Eastern Conn. St.,,,,minted,2002,2026,3
+NCAA:eastern-nazarene,Eastern Nazarene,,,,minted,2003,2024,3
+NCAA:eastern-nm,Eastern N.M.,,,,minted,2003,2026,2
+NCAA:eckerd,Eckerd,,,,minted,2003,2026,2
+NCAA:edgewood,Edgewood,,,,minted,2003,2026,3
+NCAA:edinboro,Edinboro,,,,minted,2003,2003,2
+NCAA:edward-waters,Edward Waters,,,,minted,2023,2026,2
+NCAA:elizabeth-city-state,Elizabeth City St.,,,,minted,2003,2014,2
+NCAA:elizabethtown,Elizabethtown,,,,minted,2003,2026,3
+NCAA:elmhurst,Elmhurst,,,,minted,2003,2026,3
+NCAA:elmira,Elmira,,,,minted,2015,2026,3
+NCAA:elms,Elms,,,,minted,2007,2026,3
+NCAA:embry-riddle-fl,Embry-Riddle (FL),,,,minted,2018,2026,2
+NCAA:emerson,Emerson,,,,minted,2007,2026,3
+NCAA:emmanuel-georgia,Emmanuel (GA),,,,minted,2017,2026,2
+NCAA:emory,Emory,,,,minted,2003,2026,3
+NCAA:emory-and-henry,Emory & Henry,,,,minted,2003,2026,2|3
+NCAA:emporia-state,Emporia St.,,,,minted,2003,2026,2
+NCAA:endicott,Endicott,,,,minted,2003,2026,3
+NCAA:erskine,Erskine,,,,minted,2003,2026,2
+NCAA:eureka,Eureka,,,,minted,2003,2026,3
+NCAA:fairmont-state,Fairmont St.,,,,minted,2002,2026,2
+NCAA:farmingdale-state,Farmingdale St.,,,,minted,2004,2026,3
+NCAA:fdu-florham,FDU-Florham,,,,minted,2002,2026,3
+NCAA:felician,Felician,,,,minted,2004,2026,2
+NCAA:ferrum,Ferrum,,,,minted,2002,2025,3
+NCAA:findlay,Findlay,,,,minted,2002,2026,2
+NCAA:finlandia,Finlandia,,,,minted,2008,2022,3
+NCAA:fitchburg-state,Fitchburg St.,,,,minted,2003,2026,3
+NCAA:flagler,Flagler,,,,minted,2009,2026,2
+NCAA:florida-southern,Fla. Southern,,,,minted,2002,2026,2
+NCAA:florida-technological,Florida Tech,,,,minted,2003,2026,2
+NCAA:fontbonne,Fontbonne,,,,minted,2003,2025,3
+NCAA:fort-hays-state,Fort Hays St.,,,,minted,2002,2026,2
+NCAA:framingham-state,Framingham St.,,,,minted,2003,2026,3
+NCAA:francis-marion,Francis Marion,,,,minted,2003,2026,2
+NCAA:franciscan,Franciscan,,,,minted,2020,2026,3
+NCAA:franklin,Franklin,,,,minted,2002,2026,3
+NCAA:franklin-and-marshall,Franklin & Marshall,,,,minted,2002,2026,3
+NCAA:franklin-pierce,Franklin Pierce,,,,minted,2003,2026,2
+NCAA:fredonia,Fredonia,,,,minted,2003,2026,3
+NCAA:fresno-pacific,Fresno Pacific,,,,minted,2016,2026,2
+NCAA:frostburg-state,Frostburg St.,,,,minted,2002,2026,2|3
+NCAA:furman,Furman,,,,minted,2003,2020,1
+NCAA:gallaudet,Gallaudet,,,,minted,2003,2023,3
+NCAA:gannon,Gannon,,,,minted,2003,2026,2
+NCAA:geneva,Geneva,,,,minted,2012,2026,3
+NCAA:george-fox,George Fox,,,,minted,2003,2026,3
+NCAA:georgia-southwestern,Ga. Southwestern,,,,minted,2009,2026,2
+NCAA:georgian-court,Georgian Court,,,,minted,2025,2026,2
+NCAA:gettysburg,Gettysburg,,,,minted,2003,2026,3
+NCAA:glenville-state,Glenville St.,,,,minted,2012,2026,2
+NCAA:goldey-beacom,Goldey-Beacom,,,,minted,2017,2026,2
+NCAA:gordon,Gordon,,,,minted,2003,2026,3
+NCAA:grand-valley-state,Grand Valley St.,,,,minted,2002,2026,2
+NCAA:greensboro,Greensboro,,,,minted,2003,2026,3
+NCAA:greenville,Greenville,,,,minted,2003,2026,3
+NCAA:grinnell,Grinnell,,,,minted,2003,2026,3
+NCAA:grove-city,Grove City,,,,minted,2003,2026,3
+NCAA:guilford,Guilford,,,,minted,2002,2026,3
+NCAA:gustavus-adolphus,Gustavus Adolphus,,,,minted,2002,2026,3
+NCAA:gwynedd-mercy,Gwynedd Mercy,,,,minted,2003,2026,3
+NCAA:hamilton,Hamilton,,,,minted,2003,2026,3
+NCAA:hamline,Hamline,,,,minted,2003,2026,3
+NCAA:hampden-sydney,Hampden-Sydney,,,,minted,2003,2026,3
+NCAA:hanover,Hanover,,,,minted,2002,2026,3
+NCAA:hardin-simmons,Hardin-Simmons,,,,minted,2003,2026,3
+NCAA:harding,Harding,,,,minted,2003,2026,2
+NCAA:hartwick,Hartwick,,,,minted,2003,2004,3
+NCAA:haverford,Haverford,,,,minted,2003,2026,3
+NCAA:hawaii-hilo,Hawaii Hilo,,,,minted,2003,2026,1|2
+NCAA:hawaii-pacific,Hawaii Pacific,,,,minted,2003,2026,2
+NCAA:heidelberg,Heidelberg,,,,minted,2002,2026,3
+NCAA:henderson-state,Henderson St.,,,,minted,2003,2026,2
+NCAA:hendrix,Hendrix,,,,minted,2003,2026,3
+NCAA:hilbert,Hilbert,,,,minted,2003,2026,3
+NCAA:hillsdale,Hillsdale,,,,minted,2003,2026,2
+NCAA:hiram,Hiram,,,,minted,2003,2026,3
+NCAA:hobart,Hobart,,,,minted,2023,2026,3
+NCAA:holy-family,Holy Family,,,,minted,2024,2026,2
+NCAA:holy-names,Holy Names,,,,minted,2017,2023,2
+NCAA:hood,Hood,,,,minted,2015,2026,3
+NCAA:hope,Hope,,,,minted,2002,2026,3
+NCAA:houghton,Houghton,,,,minted,2015,2026,3
+NCAA:howard-payne,Howard Payne,,,,minted,2003,2026,3
+NCAA:huntingdon,Huntingdon,,,,minted,2005,2026,3
+NCAA:husson,Husson,,,,minted,2005,2026,3
+NCAA:iit,IIT,,,,minted,2019,2025,3
+NCAA:illinois-col,Illinois Col.,,,,minted,2003,2026,3
+NCAA:illinois-springfield,Ill. Springfield,,,,minted,2011,2026,2
+NCAA:illinois-technological,Illinois Tech,,,,minted,2026,2026,3
+NCAA:illinois-wesleyan,Ill. Wesleyan,,,,minted,2002,2026,3
+NCAA:immaculata,Immaculata,,,,minted,2010,2026,3
+NCAA:indiana-pennsylvania,Indiana (PA),,,,minted,2002,2026,2
+NCAA:iowa-wesleyan,Iowa Wesleyan,,,,minted,2019,2021,3
+NCAA:ithaca,Ithaca,,,,minted,2002,2026,3
+NCAA:jamestown,Jamestown,,,,minted,2026,2026,2
+NCAA:jefferson,Jefferson,,,,minted,2003,2026,2
+NCAA:jessup,Jessup,,,,minted,2026,2026,2
+NCAA:john-carroll,John Carroll,,,,minted,2003,2026,3
+NCAA:john-jay,John Jay,,,,minted,2003,2026,3
+NCAA:johns-hopkins,Johns Hopkins,,,,minted,2002,2026,3
+NCAA:juniata,Juniata,,,,minted,2003,2026,3
+NCAA:jwu-providence,JWU (Providence),,,,minted,2003,2026,3
+NCAA:kalamazoo,Kalamazoo,,,,minted,2003,2026,3
+NCAA:kean,Kean,,,,minted,2002,2026,3
+NCAA:keene-state,Keene St.,,,,minted,2003,2026,3
+NCAA:kentucky-state,Kentucky St.,,,,minted,2003,2026,2
+NCAA:kentucky-wesleyan,Ky. Wesleyan,,,,minted,2002,2026,2
+NCAA:kenyon,Kenyon,,,,minted,2003,2026,3
+NCAA:keuka,Keuka,,,,minted,2003,2026,3
+NCAA:keystone,Keystone,,,,minted,2008,2026,3
+NCAA:king-tn,King (TN),,,,minted,2012,2026,2
+NCAA:king-tn-king,King (TN) (King,,,,minted,2011,2011,2
+NCAA:kings-pennsylvania,King's (PA),,,,minted,2003,2026,3
+NCAA:knox,Knox,,,,minted,2003,2026,3
+NCAA:kutztown,Kutztown,,,,minted,2003,2026,2
+NCAA:lagrange,LaGrange,,,,minted,2004,2026,3
+NCAA:lake-erie,Lake Erie,,,,minted,2003,2026,2|3
+NCAA:lakeland,Lakeland,,,,minted,2003,2026,3
+NCAA:lancaster-bible,Lancaster Bible,,,,minted,2010,2026,3
+NCAA:lander,Lander,,,,minted,2002,2026,2
+NCAA:lane,Lane,,,,minted,2006,2026,2
+NCAA:lasell,Lasell,,,,minted,2009,2026,3
+NCAA:lawrence,Lawrence,,,,minted,2003,2026,3
+NCAA:lebanon-valley,Lebanon Valley,,,,minted,2003,2026,3
+NCAA:lee,Lee,,,,minted,2015,2026,2
+NCAA:lehman,Lehman,,,,minted,2003,2026,3
+NCAA:lemoyne-owen,LeMoyne-Owen,,,,minted,2002,2026,2
+NCAA:lenoir-rhyne,Lenoir-Rhyne,,,,minted,2003,2026,2
+NCAA:lesley,Lesley,,,,minted,2011,2026,3
+NCAA:letourneau,LeTourneau,,,,minted,2003,2026,3
+NCAA:lewis,Lewis,,,,minted,2003,2026,2
+NCAA:lewis-and-clark,Lewis & Clark,,,,minted,2004,2026,3
+NCAA:limestone,Limestone,,,,minted,2004,2025,2
+NCAA:lincoln-memorial,Lincoln Memorial,,,,minted,2003,2026,2
+NCAA:lincoln-missouri,Lincoln (MO),,,,minted,2002,2026,2
+NCAA:lincoln-pennsylvania,Lincoln (PA),,,,minted,2004,2026,2|3
+NCAA:linfield,Linfield,,,,minted,2002,2026,3
+NCAA:liu-post,LIU Post,,,,minted,2003,2019,2
+NCAA:lock-haven,Lock Haven,,,,minted,2003,2026,2
+NCAA:loras,Loras,,,,minted,2003,2026,3
+NCAA:louisiana-col,Louisiana Col.,,,,minted,2004,2021,3
+NCAA:louisiana-roche,La Roche,,,,minted,2003,2026,3
+NCAA:louisiana-verne,La Verne,,,,minted,2003,2026,3
+NCAA:lubbock-christian,Lubbock Christian,,,,minted,2016,2026,2
+NCAA:luther,Luther,,,,minted,2003,2026,3
+NCAA:lycoming,Lycoming,,,,minted,2023,2026,3
+NCAA:lynchburg,Lynchburg,,,,minted,2003,2026,3
+NCAA:lynn,Lynn,,,,minted,2003,2026,2
+NCAA:lyon,Lyon,,,,minted,2026,2026,3
+NCAA:macalester,Macalester,,,,minted,2002,2026,3
+NCAA:macmurray,MacMurray,,,,minted,2003,2020,3
+NCAA:malone,Malone,,,,minted,2014,2026,2
+NCAA:manchester,Manchester,,,,minted,2002,2026,3
+NCAA:manhattanville,Manhattanville,,,,minted,2004,2026,3
+NCAA:mansfield,Mansfield,,,,minted,2002,2026,2
+NCAA:maranatha-baptist,Maranatha Baptist,,,,minted,2003,2026,3
+NCAA:marian-wi,Marian (WI),,,,minted,2002,2026,3
+NCAA:marietta,Marietta,,,,minted,2002,2026,3
+NCAA:mars-hill,Mars Hill,,,,minted,2003,2026,2
+NCAA:martin-luther,Martin Luther,,,,minted,2007,2026,3
+NCAA:mary,Mary,,,,minted,2008,2026,2
+NCAA:mary-baldwin,Mary Baldwin,,,,minted,2022,2026,3
+NCAA:mary-hardin-baylor,Mary Hardin-Baylor,,,,minted,2003,2026,3
+NCAA:mary-washington,Mary Washington,,,,minted,2002,2026,3
+NCAA:marymount-virginia,Marymount (VA),,,,minted,2014,2026,3
+NCAA:maryville-missouri,Maryville (MO),,,,minted,2003,2026,2|3
+NCAA:maryville-tn,Maryville (TN),,,,minted,2004,2026,3
+NCAA:marywood,Marywood,,,,minted,2003,2026,3
+NCAA:massachusetts-maritime,Mass. Maritime,,,,minted,2003,2026,3
+NCAA:mcdaniel,McDaniel,,,,minted,2003,2026,3
+NCAA:mckendree,McKendree,,,,minted,2014,2026,2
+NCAA:mcla,MCLA,,,,minted,2002,2026,3
+NCAA:mcmurry,McMurry,,,,minted,2003,2026,3
+NCAA:me-farmington,Me.-Farmington,,,,minted,2003,2026,3
+NCAA:me-presque-isle,Me.-Presque Isle,,,,minted,2012,2026,3
+NCAA:medaille,Medaille,,,,minted,2003,2023,3
+NCAA:menlo,Menlo,,,,minted,2003,2026,2|3
+NCAA:merchant-marine,Merchant Marine,,,,minted,2004,2026,3
+NCAA:mercy,Mercy,,,,minted,2003,2026,2
+NCAA:messiah,Messiah,,,,minted,2003,2026,3
+NCAA:methodist,Methodist,,,,minted,2002,2026,3
+NCAA:middlebury,Middlebury,,,,minted,2003,2026,3
+NCAA:miles,Miles,,,,minted,2003,2026,2
+NCAA:millersville,Millersville,,,,minted,2003,2026,2
+NCAA:millikin,Millikin,,,,minted,2003,2026,3
+NCAA:millsaps,Millsaps,,,,minted,2003,2026,3
+NCAA:minnesota-crookston,Minn.-Crookston,,,,minted,2003,2026,2
+NCAA:minnesota-duluth,Minn. Duluth,,,,minted,2003,2026,2
+NCAA:minnesota-morris,Minn.-Morris,,,,minted,2003,2026,2|3
+NCAA:minnesota-state,Minnesota St.,,,,minted,2002,2026,2
+NCAA:minot-state,Minot St.,,,,minted,2013,2026,2
+NCAA:misericordia,Misericordia,,,,minted,2003,2026,3
+NCAA:mississippi-christian,Mississippi Christian,,,,minted,2026,2026,2
+NCAA:mississippi-col,Mississippi Col.,,,,minted,2003,2025,2|3
+NCAA:missouri-s-and-t,Missouri S&T,,,,minted,2003,2026,2
+NCAA:missouri-saint-louis,Mo.-St. Louis,,,,minted,2002,2026,2
+NCAA:missouri-southern-state,Mo. Southern St.,,,,minted,2003,2026,2
+NCAA:missouri-western,Missouri Western,,,,minted,2002,2026,2
+NCAA:mit,MIT,,,,minted,2005,2026,3
+NCAA:mitchell,Mitchell,,,,minted,2010,2026,3
+NCAA:molloy,Molloy,,,,minted,2002,2026,2
+NCAA:monmouth-il,Monmouth (IL),,,,minted,2003,2026,3
+NCAA:montana-saint-billings,Mont. St. Billings,,,,minted,2006,2026,2
+NCAA:montclair-state,Montclair St.,,,,minted,2002,2026,3
+NCAA:montevallo,Montevallo,,,,minted,2003,2026,2
+NCAA:moravian,Moravian,,,,minted,2003,2026,3
+NCAA:morehouse,Morehouse,,,,minted,2005,2026,2
+NCAA:mount-aloysius,Mount Aloysius,,,,minted,2009,2026,3
+NCAA:mount-olive,Mount Olive,,,,minted,2003,2026,2
+NCAA:mount-union,Mount Union,,,,minted,2004,2026,3
+NCAA:msoe,MSOE,,,,minted,2003,2026,3
+NCAA:msu-denver,MSU Denver,,,,minted,2002,2026,2
+NCAA:mt-saint-joseph,Mt. St. Joseph,,,,minted,2002,2026,3
+NCAA:mt-saint-mary-ny,Mt. St. Mary (NY),,,,minted,2003,2026,3
+NCAA:muhlenberg,Muhlenberg,,,,minted,2003,2026,3
+NCAA:muskingum,Muskingum,,,,minted,2003,2026,3
+NCAA:muw,MUW,,,,minted,2021,2026,3
+NCAA:navy,Navy,,,,minted,2003,2026,1
+NCAA:nebraska-kearney,Neb.-Kearney,,,,minted,2003,2018,2
+NCAA:nebraska-wesleyan,Neb. Wesleyan,,,,minted,2002,2026,3
+NCAA:neumann,Neumann,,,,minted,2004,2026,3
+NCAA:new-england-col,New England Col.,,,,minted,2003,2026,3
+NCAA:new-jersey-city,New Jersey City,,,,minted,2003,2026,3
+NCAA:new-rochelle,New Rochelle,,,,minted,2018,2019,3
+NCAA:new-york-technological,New York Tech,,,,minted,2003,2020,1|2
+NCAA:newberry,Newberry,,,,minted,2003,2026,2
+NCAA:newbury,Newbury,,,,minted,2007,2019,3
+NCAA:newman,Newman,,,,minted,2009,2026,2
+NCAA:nichols,Nichols,,,,minted,2003,2026,3
+NCAA:nm-highlands,N.M. Highlands,,,,minted,2003,2026,2
+NCAA:north-carolina-wesleyan,N.C. Wesleyan,,,,minted,2004,2026,3
+NCAA:north-central-il,North Central (IL),,,,minted,2003,2026,3
+NCAA:north-central-mn,North Central (MN),,,,minted,2011,2026,3
+NCAA:north-dakota,North Dakota,,,,minted,2003,2016,1|2
+NCAA:north-georgia,North Georgia,,,,minted,2008,2026,2
+NCAA:north-greenville,North Greenville,,,,minted,2008,2026,2
+NCAA:north-park,North Park,,,,minted,2003,2026,3
+NCAA:northeastern-state,Northeastern St.,,,,minted,2003,2026,2
+NCAA:northern-state,Northern St.,,,,minted,2003,2026,2
+NCAA:northland,Northland,,,,minted,2006,2025,3
+NCAA:northwest-missouri-state,Northwest Mo. St.,,,,minted,2003,2026,2
+NCAA:northwest-nazarene,Northwest Nazarene,,,,minted,2003,2026,2
+NCAA:northwestern-oklahoma,Northwestern Okla.,,,,minted,2016,2026,2
+NCAA:northwestern-saint-paul,Northwestern-St. Paul,,,,minted,2009,2026,3
+NCAA:northwood,Northwood,,,,minted,2003,2026,2
+NCAA:norwich,Norwich,,,,minted,2006,2026,3
+NCAA:notre-dame-maryland,Notre Dame (MD),,,,minted,2025,2026,3
+NCAA:notre-dame-oh,Notre Dame (OH),,,,minted,2014,2024,2
+NCAA:notre-dame-oh-notre-dame,Notre Dame (OH) (Notre Dame,,,,minted,2013,2013,2
+NCAA:nova-southeastern,Nova Southeastern,,,,minted,2003,2026,2
+NCAA:nyu,NYU,,,,minted,2015,2026,3
+NCAA:oakland-city,Oakland City,,,,minted,2004,2020,2
+NCAA:oberlin,Oberlin,,,,minted,2003,2026,3
+NCAA:occidental,Occidental,,,,minted,2003,2026,3
+NCAA:oglethorpe,Oglethorpe,,,,minted,2003,2026,3
+NCAA:ohio-dominican,Ohio Dominican,,,,minted,2011,2026,2
+NCAA:ohio-northern,Ohio Northern,,,,minted,2003,2026,3
+NCAA:ohio-valley,Ohio Valley,,,,minted,2005,2021,2
+NCAA:ohio-wesleyan,Ohio Wesleyan,,,,minted,2002,2026,3
+NCAA:oklahoma-baptist,Okla. Baptist,,,,minted,2018,2026,2
+NCAA:oklahoma-christian,Okla. Christian,,,,minted,2016,2026,2
+NCAA:oklahoma-panhandle,Okla. Panhandle,,,,minted,2003,2017,2
+NCAA:old-westbury,Old Westbury,,,,minted,2003,2026,3
+NCAA:olivet,Olivet,,,,minted,2003,2026,3
+NCAA:oswego-state,Oswego St.,,,,minted,2003,2026,3
+NCAA:otterbein,Otterbein,,,,minted,2002,2026,3
+NCAA:ouachita-baptist,Ouachita Baptist,,,,minted,2003,2026,2
+NCAA:ozarks-ar,Ozarks (AR),,,,minted,2003,2026,3
+NCAA:pace,Pace,,,,minted,2003,2026,1|2
+NCAA:pacific-lutheran,Pacific Lutheran,,,,minted,2004,2026,3
+NCAA:pacific-or,Pacific (OR),,,,minted,2003,2026,3
+NCAA:paine,Paine,,,,minted,2003,2020,2
+NCAA:palm-beach-atlantic,Palm Beach Atl.,,,,minted,2008,2026,2
+NCAA:pennsylvania-saint-brandywine,Penn St. Brandywine,,,,minted,2026,2026,3
+NCAA:pennsylvania-saint-harrisburg,Penn St. Harrisburg,,,,minted,2011,2026,3
+NCAA:pennsylvania-state-abington,Penn St.-Abington,,,,minted,2013,2026,3
+NCAA:pennsylvania-state-altoona,Penn St.-Altoona,,,,minted,2003,2026,3
+NCAA:pennsylvania-state-behrend,Penn St.-Behrend,,,,minted,2002,2026,3
+NCAA:pennsylvania-state-berks,Penn St.-Berks,,,,minted,2009,2026,3
+NCAA:pfeiffer,Pfeiffer,,,,minted,2003,2026,2|3
+NCAA:piedmont,Piedmont,,,,minted,2004,2026,3
+NCAA:pine-manor,Pine Manor,,,,minted,2018,2020,3
+NCAA:pitt-bradford,Pitt.-Bradford,,,,minted,2002,2026,3
+NCAA:pitt-greensburg,Pitt.-Greensburg,,,,minted,2003,2026,3
+NCAA:pitt-johnstown,Pitt.-Johnstown,,,,minted,2003,2026,2
+NCAA:pittsburg-state,Pittsburg St.,,,,minted,2003,2026,2
+NCAA:plattsburgh-state,Plattsburgh St.,,,,minted,2003,2026,3
+NCAA:plymouth-state,Plymouth St.,,,,minted,2003,2026,3
+NCAA:point-loma,Point Loma,,,,minted,2015,2026,2
+NCAA:point-park,Point Park,,,,minted,2026,2026,2
+NCAA:polytechnic-ny,Polytechnic (NY),,,,minted,2007,2014,3
+NCAA:pomona-pitzer,Pomona-Pitzer,,,,minted,2002,2026,3
+NCAA:post,Post,,,,minted,2004,2026,2
+NCAA:presentation,Presentation,,,,minted,2010,2012,3
+NCAA:principia,Principia,,,,minted,2003,2026,3
+NCAA:puget-sound,Puget Sound,,,,minted,2004,2026,3
+NCAA:purchase,Purchase,,,,minted,2009,2026,3
+NCAA:purdue-northwest,Purdue Northwest,,,,minted,2020,2026,2
+NCAA:queens-ny,Queens (NY),,,,minted,2003,2026,2
+NCAA:quincy,Quincy,,,,minted,2003,2026,2
+NCAA:ramapo,Ramapo,,,,minted,2003,2026,3
+NCAA:randolph-macon,Randolph-Macon,,,,minted,2003,2026,3
+NCAA:redlands,Redlands,,,,minted,2003,2026,3
+NCAA:regis-co,Regis (CO),,,,minted,2002,2026,2
+NCAA:rensselaer,Rensselaer,,,,minted,2002,2026,3
+NCAA:rhode-island-col,Rhode Island Col.,,,,minted,2003,2026,3
+NCAA:rhodes,Rhodes,,,,minted,2003,2026,3
+NCAA:ripon,Ripon,,,,minted,2002,2026,3
+NCAA:rit,RIT,,,,minted,2003,2026,3
+NCAA:rivier,Rivier,,,,minted,2006,2026,3
+NCAA:roanoke,Roanoke,,,,minted,2003,2026,3
+NCAA:rochester-ny,Rochester (NY),,,,minted,2004,2026,3
+NCAA:rockford,Rockford,,,,minted,2003,2026,3
+NCAA:rockhurst,Rockhurst,,,,minted,2003,2026,2
+NCAA:roger-williams,Roger Williams,,,,minted,2002,2026,3
+NCAA:rogers-state,Rogers St.,,,,minted,2017,2026,2
+NCAA:rollins,Rollins,,,,minted,2002,2026,2
+NCAA:roosevelt,Roosevelt,,,,minted,2026,2026,2
+NCAA:rose-hulman,Rose-Hulman,,,,minted,2003,2026,3
+NCAA:rosemont,Rosemont,,,,minted,2022,2026,3
+NCAA:rowan,Rowan,,,,minted,2002,2026,3
+NCAA:russell-sage,Russell Sage,,,,minted,2022,2026,3
+NCAA:rust,Rust,,,,minted,2007,2015,3
+NCAA:rutgers-camden,Rutgers-Camden,,,,minted,2002,2026,3
+NCAA:rutgers-newark,Rutgers-Newark,,,,minted,2003,2026,3
+NCAA:saginaw-valley,Saginaw Valley,,,,minted,2003,2026,2
+NCAA:saint-andrews,St. Andrews,,,,minted,2003,2011,2
+NCAA:saint-anselm,Saint Anselm,,,,minted,2003,2026,2
+NCAA:saint-augustines,Saint Augustine's,,,,minted,2003,2018,2
+NCAA:saint-cloud-state,St. Cloud St.,,,,minted,2003,2026,2
+NCAA:saint-edwards,St. Edward's,,,,minted,2003,2026,2
+NCAA:saint-elizabeth,Saint Elizabeth,,,,minted,2020,2026,3
+NCAA:saint-francis-brooklyn,St. Francis Brooklyn,,,,minted,2003,2006,1
+NCAA:saint-john-fisher,St. John Fisher,,,,minted,2003,2026,3
+NCAA:saint-johns-mn,Saint John's (MN),,,,minted,2003,2026,3
+NCAA:saint-joseph-ct,Saint Joseph (CT),,,,minted,2024,2026,3
+NCAA:saint-josephs-brkln,St. Joseph's (Brkln),,,,minted,2010,2026,3
+NCAA:saint-josephs-in,St. Joseph's (IN),,,,minted,2002,2017,2
+NCAA:saint-josephs-li,St. Joseph's (L.I.),,,,minted,2003,2026,3
+NCAA:saint-josephs-me,St. Joseph's (ME),,,,minted,2003,2026,3
+NCAA:saint-lawrence,St. Lawrence,,,,minted,2004,2026,3
+NCAA:saint-leo,Saint Leo,,,,minted,2002,2026,2
+NCAA:saint-martins,Saint Martin's,,,,minted,2002,2026,2
+NCAA:saint-marys-maryland,St. Mary's (MD),,,,minted,2003,2026,3
+NCAA:saint-marys-mn,Saint Mary's (MN),,,,minted,2003,2026,3
+NCAA:saint-marys-tx,St. Mary's (TX),,,,minted,2002,2026,2
+NCAA:saint-michaels,Saint Michael's,,,,minted,2004,2026,2
+NCAA:saint-norbert,St. Norbert,,,,minted,2003,2026,3
+NCAA:saint-olaf,St. Olaf,,,,minted,2002,2026,3
+NCAA:saint-pauls,St. Paul's,,,,minted,2003,2011,2
+NCAA:saint-rose,Saint Rose,,,,minted,2002,2024,2
+NCAA:saint-scholastica,St. Scholastica,,,,minted,2004,2026,3
+NCAA:saint-thomas-aquinas,St. Thomas Aquinas,,,,minted,2003,2026,2
+NCAA:saint-thomas-tx,St. Thomas (TX),,,,minted,2021,2026,3
+NCAA:saint-vincent,Saint Vincent,,,,minted,2011,2026,3
+NCAA:salem-state,Salem St.,,,,minted,2005,2026,3
+NCAA:salem-wv,Salem (WV),,,,minted,2003,2026,2
+NCAA:salem-wv-salem,Salem (WV) (Salem,,,,minted,2011,2013,2
+NCAA:salisbury,Salisbury,,,,minted,2002,2026,3
+NCAA:salve-regina,Salve Regina,,,,minted,2003,2026,3
+NCAA:san-fran-state,San Fran. St.,,,,minted,2003,2025,2
+NCAA:savannah-state,Savannah St.,,,,minted,2003,2026,1|2
+NCAA:scad,SCAD,,,,minted,2003,2003,3
+NCAA:schreiner,Schreiner,,,,minted,2003,2026,3
+NCAA:scranton,Scranton,,,,minted,2003,2026,3
+NCAA:seton-hill,Seton Hill,,,,minted,2009,2026,2
+NCAA:sewanee,Sewanee,,,,minted,2003,2026,3
+NCAA:shaw,Shaw,,,,minted,2002,2013,2
+NCAA:shenandoah,Shenandoah,,,,minted,2003,2026,3
+NCAA:shepherd,Shepherd,,,,minted,2002,2026,2
+NCAA:shippensburg,Shippensburg,,,,minted,2003,2026,2
+NCAA:shorter,Shorter,,,,minted,2015,2026,2
+NCAA:simpson,Simpson,,,,minted,2003,2026,3
+NCAA:sioux-falls,Sioux Falls,,,,minted,2013,2026,2
+NCAA:skidmore,Skidmore,,,,minted,2003,2026,3
+NCAA:slippery-rock,Slippery Rock,,,,minted,2003,2026,2
+NCAA:sonoma-state,Sonoma St.,,,,minted,2002,2025,2
+NCAA:south-dakota,South Dakota,,,,minted,2003,2004,2
+NCAA:southeastern-oklahoma,Southeastern Okla.,,,,minted,2003,2026,2
+NCAA:southern-arkansas,Southern Ark.,,,,minted,2002,2026,2
+NCAA:southern-connecticut-state,Southern Conn. St.,,,,minted,2002,2026,2
+NCAA:southern-me,Southern Me.,,,,minted,2003,2026,3
+NCAA:southern-nazarene,Southern Nazarene,,,,minted,2015,2026,2
+NCAA:southern-nh,Southern N.H.,,,,minted,2003,2026,2
+NCAA:southern-utah,Southern Utah,,,,minted,2003,2012,1
+NCAA:southern-vermont,Southern Vt.,,,,minted,2008,2019,3
+NCAA:southern-virginia,Southern Va.,,,,minted,2015,2026,3
+NCAA:southern-wesleyan,Southern Wesleyan,,,,minted,2017,2026,2
+NCAA:southwest-baptist,Southwest Baptist,,,,minted,2003,2026,2
+NCAA:southwest-minnesota-state,Southwest Minn. St.,,,,minted,2003,2026,2
+NCAA:southwestern-oklahoma,Southwestern Okla.,,,,minted,2003,2026,2
+NCAA:southwestern-tx,Southwestern (TX),,,,minted,2002,2026,3
+NCAA:spalding,Spalding,,,,minted,2011,2026,3
+NCAA:spring-hill,Spring Hill,,,,minted,2018,2026,2
+NCAA:springfield,Springfield,,,,minted,2003,2026,3
+NCAA:stanislaus-state,Stanislaus St.,,,,minted,2003,2026,2
+NCAA:staten-island,Staten Island,,,,minted,2003,2026,2|3
+NCAA:stevens,Stevens,,,,minted,2003,2026,3
+NCAA:stevenson,Stevenson,,,,minted,2003,2026,3
+NCAA:stillman,Stillman,,,,minted,2003,2016,2|3
+NCAA:stockton,Stockton,,,,minted,2003,2026,3
+NCAA:suffolk,Suffolk,,,,minted,2003,2026,3
+NCAA:sul-ross-state,Sul Ross St.,,,,minted,2003,2023,3
+NCAA:suny-brockport,SUNY Brockport,,,,minted,2003,2026,3
+NCAA:suny-canton,SUNY Canton,,,,minted,2015,2026,3
+NCAA:suny-cobleskill,SUNY Cobleskill,,,,minted,2018,2026,3
+NCAA:suny-maritime,SUNY Maritime,,,,minted,2003,2026,3
+NCAA:suny-new-paltz,SUNY New Paltz,,,,minted,2002,2026,3
+NCAA:suny-oneonta,SUNY Oneonta,,,,minted,2003,2026,3
+NCAA:suny-polytechnic,SUNY Poly,,,,minted,2003,2026,3
+NCAA:susquehanna,Susquehanna,,,,minted,2003,2026,3
+NCAA:swarthmore,Swarthmore,,,,minted,2003,2026,3
+NCAA:tampa,Tampa,,,,minted,2002,2026,2
+NCAA:tcnj,TCNJ,,,,minted,2002,2026,3
+NCAA:temple,Temple,,,,minted,2003,2014,1
+NCAA:texas-a-and-m-international,Tex. A&M Int'l,,,,minted,2009,2026,2
+NCAA:texas-a-and-m-kingsville,Tex. A&M-Kingsville,,,,minted,2003,2026,2
+NCAA:texas-dallas,Texas-Dallas,,,,minted,2003,2024,3
+NCAA:texas-lutheran,Texas Lutheran,,,,minted,2002,2026,2|3
+NCAA:thiel,Thiel,,,,minted,2003,2026,3
+NCAA:thomas-me,Thomas (ME),,,,minted,2007,2026,3
+NCAA:thomas-more,Thomas More,,,,minted,2002,2026,2|3
+NCAA:tiffin,Tiffin,,,,minted,2003,2026,2
+NCAA:transylvania,Transylvania,,,,minted,2006,2026,3
+NCAA:trevecca-nazarene,Trevecca Nazarene,,,,minted,2015,2026,2
+NCAA:trine,Trine,,,,minted,2008,2026,3
+NCAA:trinity-ct,Trinity (CT),,,,minted,2002,2026,3
+NCAA:trinity-tx,Trinity (TX),,,,minted,2002,2026,3
+NCAA:truman-state,Truman St.,,,,minted,2003,2026,2
+NCAA:tufts,Tufts,,,,minted,2002,2026,3
+NCAA:tusculum,Tusculum,,,,minted,2002,2026,2
+NCAA:tuskegee,Tuskegee,,,,minted,2003,2026,2
+NCAA:uah,UAH,,,,minted,2019,2026,2
+NCAA:uc-colorado-springs,UC-Colo. Springs,,,,minted,2017,2025,2
+NCAA:uccs,UCCS,,,,minted,2026,2026,2
+NCAA:uchicago,UChicago,,,,minted,2003,2026,3
+NCAA:uindy,UIndy,,,,minted,2002,2026,2
+NCAA:umass-boston,UMass Boston,,,,minted,2002,2026,3
+NCAA:umass-dartmouth,UMass Dartmouth,,,,minted,2003,2026,3
+NCAA:umsv,UMSV,,,,minted,2006,2026,3
+NCAA:unc-pembroke,UNC Pembroke,,,,minted,2003,2026,2
+NCAA:uni,UNI,,,,minted,2003,2009,1
+NCAA:union-ny,Union (NY),,,,minted,2004,2026,3
+NCAA:union-tn,Union (TN),,,,minted,2015,2026,2
+NCAA:upper-iowa,Upper Iowa,,,,minted,2002,2026,2|3
+NCAA:urbana,Urbana,,,,minted,2011,2020,2
+NCAA:ursinus,Ursinus,,,,minted,2003,2026,3
+NCAA:usc-aiken,USC Aiken,,,,minted,2002,2026,2
+NCAA:usc-beaufort,USC Beaufort,,,,minted,2026,2026,2
+NCAA:usciences,USciences,,,,minted,2005,2022,2
+NCAA:ut-permian-basin,UT Permian Basin,,,,minted,2009,2026,2
+NCAA:ut-tyler,UT Tyler,,,,minted,2008,2026,2|3
+NCAA:utica,Utica,,,,minted,2003,2026,3
+NCAA:uva-wise,UVA Wise,,,,minted,2016,2026,2
+NCAA:uw-river-falls,UW-River Falls,,,,minted,2025,2026,3
+NCAA:valdosta-state,Valdosta St.,,,,minted,2002,2026,2
+NCAA:valley-forge,Valley Forge,,,,minted,2015,2026,3
+NCAA:vanguard,Vanguard,,,,minted,2026,2026,2
+NCAA:vassar,Vassar,,,,minted,2003,2026,3
+NCAA:vermont,Vermont,,,,minted,2003,2009,1
+NCAA:virginia-state,Virginia St.,,,,minted,2002,2026,2
+NCAA:virginia-wesleyan,Va. Wesleyan,,,,minted,2003,2026,3
+NCAA:vtsu-castleton,VTSU Castleton,,,,minted,2003,2026,3
+NCAA:vtsu-lyndon,VTSU Lyndon,,,,minted,2011,2026,3
+NCAA:wabash,Wabash,,,,minted,2003,2026,3
+NCAA:walsh,Walsh,,,,minted,2014,2026,2
+NCAA:wartburg,Wartburg,,,,minted,2003,2026,3
+NCAA:washburn,Washburn,,,,minted,2002,2026,2
+NCAA:washington-adventist,Washington Adventist,,,,minted,2003,2011,2
+NCAA:washington-and-jeff,Wash. & Jeff.,,,,minted,2003,2026,3
+NCAA:washington-and-lee,Wash. & Lee,,,,minted,2002,2026,3
+NCAA:washington-col,Washington Col.,,,,minted,2003,2026,3
+NCAA:washu,WashU,,,,minted,2003,2026,3
+NCAA:wayne-state-mi,Wayne St. (MI),,,,minted,2003,2026,2
+NCAA:wayne-state-ne,Wayne St. (NE),,,,minted,2003,2026,2
+NCAA:waynesburg,Waynesburg,,,,minted,2003,2026,3
+NCAA:webster,Webster,,,,minted,2002,2026,3
+NCAA:wells,Wells,,,,minted,2017,2024,3
+NCAA:wentworth,Wentworth,,,,minted,2003,2026,3
+NCAA:wesley,Wesley,,,,minted,2004,2021,3
+NCAA:wesleyan-ct,Wesleyan (CT),,,,minted,2003,2026,3
+NCAA:west-alabama,West Ala.,,,,minted,2003,2026,2
+NCAA:west-chester,West Chester,,,,minted,2003,2026,2
+NCAA:west-florida,West Florida,,,,minted,2002,2026,2
+NCAA:west-liberty,West Liberty,,,,minted,2003,2026,2
+NCAA:west-texas-a-and-m,West Tex. A&M,,,,minted,2003,2026,2
+NCAA:west-virginia-state,West Virginia St.,,,,minted,2002,2026,2
+NCAA:west-virginia-technological,West Va. Tech,,,,minted,2005,2005,2
+NCAA:west-virginia-wesleyan,West Va. Wesleyan,,,,minted,2003,2026,2
+NCAA:westconn,WestConn,,,,minted,2003,2026,3
+NCAA:western-new-eng,Western New Eng.,,,,minted,2002,2026,3
+NCAA:western-oregon,Western Ore.,,,,minted,2003,2026,2
+NCAA:westfield-state,Westfield St.,,,,minted,2003,2026,3
+NCAA:westminster-missouri,Westminster (MO),,,,minted,2003,2026,3
+NCAA:westminster-pennsylvania,Westminster (PA),,,,minted,2002,2026,2|3
+NCAA:westmont,Westmont,,,,minted,2025,2026,2
+NCAA:wheaton-il,Wheaton (IL),,,,minted,2003,2026,3
+NCAA:wheaton-ma,Wheaton (MA),,,,minted,2002,2026,3
+NCAA:wheeling,Wheeling,,,,minted,2006,2026,2
+NCAA:whitman,Whitman,,,,minted,2003,2026,3
+NCAA:whittier,Whittier,,,,minted,2002,2026,3
+NCAA:whitworth,Whitworth,,,,minted,2002,2026,3
+NCAA:widener,Widener,,,,minted,2002,2026,3
+NCAA:wilkes,Wilkes,,,,minted,2003,2026,3
+NCAA:willamette,Willamette,,,,minted,2004,2026,3
+NCAA:william-jewell,William Jewell,,,,minted,2013,2026,2
+NCAA:william-peace,William Peace,,,,minted,2015,2026,3
+NCAA:williams,Williams,,,,minted,2002,2026,3
+NCAA:wilmington-de,Wilmington (DE),,,,minted,2004,2026,2
+NCAA:wilmington-oh,Wilmington (OH),,,,minted,2003,2026,3
+NCAA:wilson,Wilson,,,,minted,2019,2026,3
+NCAA:wingate,Wingate,,,,minted,2003,2026,2
+NCAA:winona-state,Winona St.,,,,minted,2003,2026,2
+NCAA:winston-salem,Winston-Salem,,,,minted,2011,2019,2
+NCAA:wisconsin-eau-claire,Wis.-Eau Claire,,,,minted,2021,2026,3
+NCAA:wisconsin-louisiana-crosse,Wis.-La Crosse,,,,minted,2003,2026,3
+NCAA:wisconsin-lutheran,Wis. Lutheran,,,,minted,2003,2026,3
+NCAA:wisconsin-oshkosh,Wis.-Oshkosh,,,,minted,2003,2026,3
+NCAA:wisconsin-parkside,Wis.-Parkside,,,,minted,2003,2026,2
+NCAA:wisconsin-platteville,Wis.-Platteville,,,,minted,2003,2026,3
+NCAA:wisconsin-stevens-point,Wis.-Stevens Point,,,,minted,2002,2026,3
+NCAA:wisconsin-stout,Wis.-Stout,,,,minted,2003,2026,3
+NCAA:wisconsin-superior,Wis.-Superior,,,,minted,2003,2026,3
+NCAA:wisconsin-whitewater,Wis.-Whitewater,,,,minted,2002,2026,3
+NCAA:wittenberg,Wittenberg,,,,minted,2002,2026,3
+NCAA:wm-paterson,Wm. Paterson,,,,minted,2003,2026,3
+NCAA:wooster,Wooster,,,,minted,2002,2026,3
+NCAA:worcester-state,Worcester St.,,,,minted,2002,2026,3
+NCAA:wpi,WPI,,,,minted,2003,2026,3
+NCAA:yeshiva,Yeshiva,,,,minted,2009,2026,3
+NCAA:york-pennsylvania,York (PA),,,,minted,2003,2026,3
+NCAA:young-harris,Young Harris,,,,minted,2015,2026,2

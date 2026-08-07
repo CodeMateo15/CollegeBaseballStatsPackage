@@ -21,6 +21,7 @@ It includes multiple statistical functions for parsing and returning college tea
    :caption: Team Stats
 
    team_stats
+   team_registry
    season_stats
 
 .. toctree::

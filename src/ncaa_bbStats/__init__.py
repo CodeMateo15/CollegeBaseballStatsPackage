@@ -45,6 +45,19 @@ from ncaa_bbStats.player_utils import (
     top_players,
 )
 
+from ncaa_bbStats.team_registry import (
+    crosswalk,
+    list_conferences,
+    list_teams,
+    resolve_team,
+    resolve_team_verbose,
+    team_aliases,
+    team_conference,
+    team_division,
+    team_info,
+    team_seasons,
+)
+
 from ncaa_bbStats.advanced_stats import (
     cfip,
     clob_pct,
@@ -97,6 +110,17 @@ __all__ = [
     "pitching_stat",
     "list_batters",
     "list_pitchers",
+    # team_registry -- canonical identity across every data source
+    "resolve_team",
+    "resolve_team_verbose",
+    "team_info",
+    "team_aliases",
+    "team_seasons",
+    "team_division",
+    "team_conference",
+    "list_teams",
+    "list_conferences",
+    "crosswalk",
     # advanced_stats -- derived by this package, see DATA_PROVENANCE.md
     "cwoba",
     "cwraa",

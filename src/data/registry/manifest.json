@@ -1,0 +1,15 @@
+{
+  "generator": "tools/build_team_registry.py",
+  "namespaces": [
+    "ncaa_short",
+    "ncaa_label",
+    "fg_acronym",
+    "fg_full",
+    "rpi",
+    "eada_institution",
+    "almanac_school"
+  ],
+  "note": "Division is a season attribute, not part of identity. See team_seasons.csv.",
+  "programs": 1023,
+  "with_ipeds_unitid": 308
+}

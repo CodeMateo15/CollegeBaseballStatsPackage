@@ -1,0 +1,50 @@
+alias,namespace,resolve_via,valid_from,valid_to,note
+LMU,eada_institution,LMU (CA),,,
+Miami University-Ohio,eada_institution,Miami (OH),,,
+Queens,eada_institution,Queens (NC),,,
+Saint Mary's,eada_institution,Saint Mary's (CA),,,
+St. John's,eada_institution,St. John's (NY),,,
+University of Miami,eada_institution,Miami (FL),,,
+LMU,fg_acronym,LMU (CA),,,
+M-OH,fg_acronym,Miami (OH),,,
+MIA,fg_acronym,Miami (FL),,,
+SJU,fg_acronym,St. John's (NY),,,
+SMC,fg_acronym,Saint Mary's (CA),,,
+Albany,rpi,UAlbany,,,"RPI spelling of NCAA ""UAlbany"""
+Alcorn State,rpi,Alcorn,,,"RPI spelling of NCAA ""Alcorn"""
+Appalachian State,rpi,App State,,,"RPI spelling of NCAA ""App State"""
+Army,rpi,Army West Point,,,"RPI spelling of NCAA ""Army West Point"""
+Cal State Bakersfield,rpi,CSU Bakersfield,,,"RPI spelling of NCAA ""CSU Bakersfield"""
+Cal State Fullerton,rpi,Cal St. Fullerton,,,"RPI spelling of NCAA ""Cal St. Fullerton"""
+Cal State Northridge,rpi,CSUN,,,"RPI spelling of NCAA ""CSUN"""
+Central Connecticut,rpi,Central Conn. St.,,,"RPI spelling of NCAA ""Central Conn. St."""
+Charleston,rpi,Col. of Charleston,,,"RPI spelling of NCAA ""Col. of Charleston"""
+Connecticut,rpi,UConn,,,"RPI spelling of NCAA ""UConn"""
+Dallas Baptist,rpi,DBU,,,"RPI spelling of NCAA ""DBU"""
+Dixie State,rpi,Utah Tech,2021,2022,Renamed Utah Tech in 2022; NCAA back-applies the current name to every season
+East Tennessee State,rpi,ETSU,,,"RPI spelling of NCAA ""ETSU"""
+FAU,rpi,Fla. Atlantic,,,"RPI spelling of NCAA ""Fla. Atlantic"""
+Fairleigh Dickinson,rpi,FDU,,,"RPI spelling of NCAA ""FDU"""
+Grambling State,rpi,Grambling,,,"RPI spelling of NCAA ""Grambling"""
+Houston Baptist,rpi,Houston Christian,2021,2022,Renamed Houston Christian in 2022; NCAA back-applies the current name
+Incarnate Word,rpi,UIW,,,"RPI spelling of NCAA ""UIW"""
+Long Island,rpi,LIU,,,"RPI spelling of NCAA ""LIU"""
+Loyola-Marymount,rpi,LMU (CA),,,RPI hyphenates; NCAA uses the acronym
+Maryland Eastern Shore,rpi,UMES,,,"RPI spelling of NCAA ""UMES"""
+Mississippi Valley State,rpi,Mississippi Val.,,,"RPI spelling of NCAA ""Mississippi Val."""
+Northern Illinois,rpi,NIU,,,"RPI spelling of NCAA ""NIU"""
+Prairie View A&M,rpi,Prairie View,,,"RPI spelling of NCAA ""Prairie View"""
+Queens,rpi,Queens (NC),,,RPI omits the state; Queens (NY) is a separate Division II program
+Saint John's,rpi,St. John's (NY),,,RPI spells out Saint; NCAA abbreviates
+Saint Mary's College,rpi,Saint Mary's (CA),,,RPI appends College; Saint Mary's (MN) is a separate program
+Saint Thomas,rpi,St. Thomas (MN),,,"RPI spelling of NCAA ""St. Thomas (MN)"""
+Sam Houston State,rpi,Sam Houston,,,"RPI spelling of NCAA ""Sam Houston"""
+South Carolina Upstate,rpi,USC Upstate,,,"RPI spelling of NCAA ""USC Upstate"""
+Southeast Missouri,rpi,Southeast Mo. St.,,,"RPI spelling of NCAA ""Southeast Mo. St."""
+Stephen F. Austin,rpi,SFA,,,"RPI spelling of NCAA ""SFA"""
+Tennessee-Martin,rpi,UT Martin,,,"RPI spelling of NCAA ""UT Martin"""
+Texas A&M-Corpus Christi,rpi,A&M-Corpus Christi,,,"RPI spelling of NCAA ""A&M-Corpus Christi"""
+UMass,rpi,Massachusetts,,,"RPI spelling of NCAA ""Massachusetts"""
+UNCG,rpi,UNC Greensboro,,,"RPI spelling of NCAA ""UNC Greensboro"""
+USC,rpi,Southern California,,,"RPI spelling of NCAA ""Southern California"""
+UTA,rpi,UT Arlington,,,"RPI spelling of NCAA ""UT Arlington"""
