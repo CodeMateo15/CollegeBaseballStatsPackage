@@ -124,8 +124,10 @@ Usage
 Data Source
 -----------
 
-``src/data/program_finance/eada_features.csv``, derived by
-``ncaa_bbStats.program_store`` from https://ope.ed.gov/athletics/. The source
+``src/data/program_finance/eada_features.csv``. Read by
+``ncaa_bbStats.program_utils``, written by ``ncaa_bbStats.program_store`` --
+see :doc:`regenerating`. Download the survey workbooks from
+https://ope.ed.gov/athletics/#/datafile/list -- the source
 workbooks are roughly 100 MB each and are not shipped.
 
 See Also

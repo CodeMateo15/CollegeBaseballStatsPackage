@@ -126,7 +126,8 @@ Usage
 Data Source
 -----------
 
-``src/data/rpi/{season}.csv``, converted by ``ncaa_bbStats.rpi_store``.
+``src/data/rpi/{season}.csv``. Read by ``ncaa_bbStats.rpi_utils``,
+written by ``ncaa_bbStats.rpi_store`` -- see :doc:`regenerating`.
 
 See Also
 --------

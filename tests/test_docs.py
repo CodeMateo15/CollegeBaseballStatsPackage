@@ -166,3 +166,63 @@ def test_version_is_consistent_across_metadata():
     assert pyproject_version == citation_version, (
         f"pyproject says {pyproject_version}, CITATION.cff says {citation_version}"
     )
+
+
+def test_season_stat_year_ranges_match_the_data():
+    """The ranges in season_stats.rst must be what the cache actually contains.
+
+    They were maintained by hand and had drifted: all 47 were stale on the end
+    year after 2026 landed, and 14 had start years that never matched the data
+    at all.
+    """
+    from ncaa_bbStats._paths import load_team_stats
+
+    first, last = {}, {}
+    for division in (1, 2, 3):
+        for season in range(2002, 2027):
+            try:
+                teams = load_team_stats(season, division)
+            except FileNotFoundError:
+                continue
+            keys = set()
+            for stats in teams.values():
+                keys |= {
+                    k for k, v in stats.items() if isinstance(v, (int, float))
+                }
+            for key in keys:
+                last[key] = max(last.get(key, 0), season)
+                first[key] = min(first.get(key, 9999), season)
+
+    documented = re.findall(
+        r"\*\*(.+?)\*\*:.*?\((\d{4}) - (\d{4})\)",
+        (DOCS / "season_stats.rst").read_text(encoding="utf-8"),
+    )
+    assert documented, "no stat entries found in season_stats.rst"
+
+    wrong = []
+    for name, doc_first, doc_last in documented:
+        if name not in first:
+            wrong.append(f"{name}: documented but absent from the cache")
+        elif (int(doc_first), int(doc_last)) != (first[name], last[name]):
+            wrong.append(
+                f"{name}: docs say {doc_first}-{doc_last}, "
+                f"data has {first[name]}-{last[name]}"
+            )
+    assert not wrong, "stale year ranges in season_stats.rst:\n  " + "\n  ".join(wrong)
+
+
+def test_documented_stats_cover_what_the_cache_ships():
+    """Every stat in the cache is documented somewhere."""
+    from ncaa_bbStats._paths import load_team_stats
+
+    keys = set()
+    for division in (1, 2, 3):
+        stats = load_team_stats(2026, division)
+        for values in stats.values():
+            keys |= {k for k, v in values.items() if isinstance(v, (int, float))}
+
+    reference = (DOCS / "season_stats.rst").read_text(encoding="utf-8")
+    undocumented = sorted(k for k in keys if f"**{k}**" not in reference)
+    assert not undocumented, (
+        f"stats shipped but not in season_stats.rst: {undocumented}"
+    )

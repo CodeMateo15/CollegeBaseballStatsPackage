@@ -83,8 +83,9 @@ Usage
 Data Source
 -----------
 
-``src/data/prospects/{season}.csv``, converted by
-``ncaa_bbStats.prospect_store``.
+``src/data/prospects/{season}.csv``. Read by
+``ncaa_bbStats.prospect_utils``, written by ``ncaa_bbStats.prospect_store`` --
+see :doc:`regenerating`.
 
 See Also
 --------

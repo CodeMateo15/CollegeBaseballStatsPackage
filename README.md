@@ -76,7 +76,7 @@ print(scouting_report("Kade Anderson", 2025))
 | MLB Draft history | 1965–2025, 69,169 picks |
 | MLB Draft detail (bonuses, slots, biography) | 2021–2026, 3,685 picks |
 | RPI, strength of schedule, quadrant records | 2021–2026, Division I |
-| Program finances (EADA) | 2021–2025, carried forward to 2026 |
+| Program finances ([EADA](https://ope.ed.gov/athletics/#/datafile/list)) | 2021–2025, carried forward to 2026 |
 | Draft prospect rankings | 2021–2026 |
 | Team registry | 1,023 programs |
 | Player registry | 27,283 players |

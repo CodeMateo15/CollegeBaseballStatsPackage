@@ -5,14 +5,16 @@ Run as a script; importing this module has no side effects.
     python -m ncaa_bbStats.program_store --eada-dir "path/to/EADA Data"
 
 Source: the Equity in Athletics Disclosure Act survey, U.S. Department of
-Education, https://ope.ed.gov/athletics/. Every co-educational institution
-receiving Title IV funding must file annually, so this is public-domain federal
-data with near-complete coverage.
+Education. Every co-educational institution receiving Title IV funding must file
+annually, so this is public-domain federal data with near-complete coverage.
 
 The workbooks are about 100 MB and 4,275 columns each. They are **not** shipped;
 this reads them from wherever you downloaded them and writes only the derived
 per-team-season features. Point ``--eada-dir`` at a directory containing
 ``EADA_<YYYY>.xlsx`` files (at any depth).
+
+Download them from https://ope.ed.gov/athletics/#/datafile/list -- take the
+combined data file for each academic year, which unpacks to ``EADA_<YYYY>.xlsx``.
 
 Year alignment: ``EADA_<YYYY>.xlsx`` covers the academic year ending in YYYY,
 which is the spring YYYY baseball season -- so it maps onto the season year with
@@ -30,6 +32,10 @@ import re
 
 from ncaa_bbStats._paths import data_path
 from ncaa_bbStats.team_registry import resolve_team, team_info
+
+#: Where to download the EADA survey workbooks. The generic /athletics/ landing
+#: page does not expose the files; this is the data-file list itself.
+EADA_DOWNLOAD_URL = "https://ope.ed.gov/athletics/#/datafile/list"
 
 REPORTING_YEARS = [2021, 2022, 2023, 2024, 2025]
 
@@ -232,7 +238,8 @@ def main(argv=None):
     if not workbooks:
         raise SystemExit(
             f"No EADA_<YYYY>.xlsx found under {args.eada_dir}.\n"
-            "Download the survey data from https://ope.ed.gov/athletics/."
+            "Download the workbooks from:\n"
+            f"    {EADA_DOWNLOAD_URL}"
         )
 
     all_rows = []

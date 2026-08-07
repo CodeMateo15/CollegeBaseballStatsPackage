@@ -142,7 +142,7 @@ Data Source
 -----------
 
 ``src/data/draft_detail/{season}.json``, fetched by
-``ncaa_bbStats.draft_detail_store`` from
+``ncaa_bbStats.draft_detail_store`` (see :doc:`regenerating`) from
 https://statsapi.mlb.com/api/v1/draft/. Payloads are trimmed to the fields the
 package reads; see :doc:`data_provenance`.
 

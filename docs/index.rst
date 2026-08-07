@@ -3,11 +3,32 @@ ncaa_bbStats documentation
 ===========================================
 
 **ncaa_bbStats** is an open-source NCAA baseball analysis package for Python.
-It includes multiple statistical functions for parsing and returning college team, player, and mlb draft stats.
+
+It covers NCAA Division I, II, and III team statistics (2002-2026), player
+statistics (2021-2025), MLB Draft history (1965-2025), draft detail with
+signing bonuses and slot values (2021-2026), RPI and schedule strength, program
+finances, and a draft-prediction model with scouting reports.
+
+Every dataset is cached in the package, so it works offline; scraping is opt-in.
+A canonical team registry reconciles the different ways each source spells
+school names, so all of it joins.
+
+.. code-block:: python
+
+   from ncaa_bbStats import team_profile, leaderboard, scouting_report
+
+   team_profile("Tennessee", 2024)          # every dataset, one call
+   leaderboard("era", stat_type="pitching", year=2025, min_ip=60)
+   print(scouting_report("Kade Anderson", 2025))
 
 .. note::
 
    This project is under active development.
+
+.. note::
+
+   Where each dataset comes from, on what terms, and its known limitations are
+   recorded in :doc:`data_provenance`.
 
 
 .. toctree::
@@ -58,4 +79,5 @@ It includes multiple statistical functions for parsing and returning college tea
    team_names_stats
    team_names_mlb
    player_names
+   regenerating
    data_provenance

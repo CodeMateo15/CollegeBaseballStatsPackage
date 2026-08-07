@@ -94,12 +94,16 @@ Data Source
 
 Team statistics are loaded from cached JSON files located in:
 
-    src/data/mlb_draft_cache/YYY.json
+    src/data/mlb_draft_cache/YYYY.json
 
 where `YYYY` is the year.
+
+For signing bonuses, slot values, school class, and player biography (2021-2026),
+see :doc:`draft_detail`.
 
 See Also
 --------
 
+- :doc:`draft_detail`
 - :doc:`team_stats`
 - :doc:`team_names_mlb`

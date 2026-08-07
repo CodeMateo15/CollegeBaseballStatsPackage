@@ -14,7 +14,7 @@ it is redistributed. If you are adding a dataset, add a row here first.
 | Team registry | `src/data/registry/*.csv` | Built from the caches above plus IPEDS unitids by `tools/build_team_registry.py` | Package's own work; IPEDS identifiers are U.S. federal public domain | 1,023 programs, 2002–2026 |
 | MLB draft detail | `src/data/draft_detail/{year}.json` | [MLB Stats API](https://statsapi.mlb.com/api/v1/draft/), fetched by `ncaa_bbStats.draft_detail_store` | Public MLB Advanced Media API; factual draft records | 2021–2026, 3,685 picks |
 | RPI / strength of schedule | `src/data/rpi/{year}.csv` | [Warren Nolan](https://www.warrennolan.com), converted by `ncaa_bbStats.rpi_store` | Third-party computation, not official NCAA; factual records | 2021–2026, Division I |
-| Program finances | `src/data/program_finance/eada_features.csv` | [EADA survey](https://ope.ed.gov/athletics/), U.S. Dept. of Education, derived by `ncaa_bbStats.program_store` | U.S. federal government work; public domain | 2021–2025, carried forward to 2026 |
+| Program finances | `src/data/program_finance/eada_features.csv` | [EADA survey](https://ope.ed.gov/athletics/#/datafile/list), U.S. Dept. of Education, derived by `ncaa_bbStats.program_store` | U.S. federal government work; public domain | 2021–2025, carried forward to 2026 |
 | Draft prospect rankings | `src/data/prospects/{year}.csv` | MLB Pipeline top-250, converted by `ncaa_bbStats.prospect_store` | Third-party rankings, attributed | 2021–2026, 250/year |
 | Player registry | `src/data/player_registry/*.csv` | Resolved from the player cache, anchored to the MLB Stats API by `tools/build_player_registry.py` | Package's own work | 27,283 players, 2021–2025 |
 | Draft models | `src/data/models/*` | Trained by `ncaa_bbStats.model_store` on the datasets above | Package's own work | Trained 2021–2024, tested 2025 |
@@ -163,6 +163,11 @@ does not publish earlier years, so this gap is permanent rather than a backlog.
 **EADA.** A work of the U.S. federal government and therefore public domain. Only
 the twelve derived features ship; the source workbooks are roughly 100 MB each
 and 4,275 columns wide, and are read from a local download.
+
+Download them from <https://ope.ed.gov/athletics/#/datafile/list> — take the
+combined data file for each academic year, which unpacks to `EADA_<YYYY>.xlsx`.
+Point `ncaa_bbStats.program_store --eada-dir` at wherever they landed. (The
+`/athletics/` landing page does not expose the files; the data-file list does.)
 
 Year alignment: `EADA_<YYYY>.xlsx` covers the academic year ending in YYYY, which
 is the spring YYYY baseball season, so it maps onto the season year with no lag.
