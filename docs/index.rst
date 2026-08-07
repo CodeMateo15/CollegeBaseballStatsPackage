@@ -23,6 +23,9 @@ It includes multiple statistical functions for parsing and returning college tea
    team_stats
    team_registry
    season_stats
+   rpi
+   program_finance
+   pythagorean
 
 .. toctree::
    :maxdepth: 2
@@ -30,6 +33,7 @@ It includes multiple statistical functions for parsing and returning college tea
 
    player_stats
    advanced_stats
+   leaderboards
    player_reference
 
 .. toctree::
@@ -37,6 +41,14 @@ It includes multiple statistical functions for parsing and returning college tea
    :caption: Draft
 
    mlb_draft
+   draft_detail
+   prospects
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Cross-Dataset
+
+   crossref
 
 .. toctree::
    :maxdepth: 1

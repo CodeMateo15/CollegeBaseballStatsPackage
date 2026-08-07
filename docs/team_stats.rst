@@ -81,23 +81,13 @@ Functions that calculate
     :param division: NCAA division number.
     :return: Average value (float) of the specified statistic.
 
-.. py:function:: get_pythagorean_expectation(team_name: str, year: int, division: int) -> float | str
+Pythagorean expectation
+~~~~~~~~~~~~~~~~~~~~~~~
 
-    Computes Pythagorean expected win percentage.
-
-    :param team_name: Name of the team.
-    :param year: Year of data.
-    :param division: NCAA division number.
-    :return: A float that represents expected win percentage.
-
-.. py:function:: compare_pythagorean_expectation(team_name: str, year: int, division: int) -> str
-
-    Computes Pythagorean expected win percentage and compares it with the actual win percentage.
-
-    :param team_name: Name of the team.
-    :param year: Year of data.
-    :param division: NCAA division number.
-    :return: A string summary with expected and actual win percentages.
+``get_pythagorean_expectation`` and ``compare_pythagorean_expectation`` estimate
+what a team's record should have been from its run differential. Both are
+documented on their own page, together with the luck ratings built on them --
+see :doc:`pythagorean`.
 
 .. py:function:: plot_team_stat_over_years(stat_name: str, team_name: str, division: int, start_year: int, end_year: int)
 

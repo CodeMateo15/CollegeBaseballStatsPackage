@@ -33,6 +33,7 @@ from ncaa_bbStats._normalize import normalize_school
 from ncaa_bbStats._paths import data_path
 
 __all__ = [
+    "as_team_id",
     "resolve_team",
     "resolve_team_verbose",
     "team_info",
@@ -163,6 +164,26 @@ def _matches(candidates, season, namespace, division):
                 continue
         out.append(entry)
     return out
+
+
+def as_team_id(team: str, *, season: Optional[int] = None) -> Optional[str]:
+    """Accept either a ``team_id`` or a name, and return a ``team_id``.
+
+    Every public function that takes a team accepts both, so callers can pass
+    the id they already have without a round trip through a name.
+
+    Args:
+        team (str): A ``team_id`` or any known spelling.
+        season (int, optional): Restrict name resolution to that season.
+
+    Returns:
+        str | None: The ``team_id``, or None if unknown.
+    """
+    if not team:
+        return None
+    if team in _teams():
+        return team
+    return resolve_team(team, season=season)
 
 
 def resolve_team_verbose(

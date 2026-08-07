@@ -306,7 +306,7 @@ def top_players(
     """Return the top N players by a statistic.
 
     Always sorts descending over the qualified population. For stats where lower
-    is better (ERA, WHIP), prefer :func:`ncaa_bbStats.leaderboard.leaderboard`,
+    is better (ERA, WHIP), prefer :func:`ncaa_bbStats.leaderboards.leaderboard`,
     which picks the direction automatically.
 
     Args:

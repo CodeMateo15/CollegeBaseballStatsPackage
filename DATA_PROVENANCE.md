@@ -16,6 +16,7 @@ it is redistributed. If you are adding a dataset, add a row here first.
 | RPI / strength of schedule | `src/data/rpi/{year}.csv` | [Warren Nolan](https://www.warrennolan.com), converted by `ncaa_bbStats.rpi_store` | Third-party computation, not official NCAA; factual records | 2021–2026, Division I |
 | Program finances | `src/data/program_finance/eada_features.csv` | [EADA survey](https://ope.ed.gov/athletics/), U.S. Dept. of Education, derived by `ncaa_bbStats.program_store` | U.S. federal government work; public domain | 2021–2025, carried forward to 2026 |
 | Draft prospect rankings | `src/data/prospects/{year}.csv` | MLB Pipeline top-250, converted by `ncaa_bbStats.prospect_store` | Third-party rankings, attributed | 2021–2026, 250/year |
+| Pythagorean exponents | `src/data/pythagorean/conference_exponents.csv` | Fitted to NCAA team-season data | Package's own work | 31 conferences; **experimental** |
 | Team / school name tables | `src/data/team_names_stats/`, `src/data/mlb_team_names/` | Derived from the caches above by `ncaa_bbStats.team_names_store` | Package's own work | — |
 
 Facts about sporting events — who played, how many hits they got — are not
@@ -183,6 +184,14 @@ it.
 **MLB Pipeline.** Pre-draft prospect rankings, included as a benchmark. Third-party
 editorial rankings, attributed. High-school prospects have no college program to
 resolve to and are flagged rather than forced onto one.
+
+**Conference Pythagorean exponents.** Fitted to NCAA team-season data, and
+shipped as an experiment rather than as a default. Fitting moves the exponent
+between 1.45 and 2.08, but **none of the 31 conference fits differs from the
+standard 1.83 at p < 0.05** — the p-values run from 0.17 to 0.98. The table ships
+so the result is inspectable and so nobody has to re-derive it to reach the same
+conclusion; `conference_calibrated=True` is opt-in everywhere, and the
+`significant` column reads `no` for every row.
 
 ## Player identity
 

@@ -3,6 +3,11 @@ import json
 
 from ncaa_bbStats._paths import data_path, load_team_stats
 
+#: Standard baseball Pythagorean exponent. Fitting it per conference on NCAA
+#: data moves it between 1.45 and 2.08, but not one of the 31 conference fits
+#: differs from this value at p < 0.05 -- see ncaa_bbStats.pythagorean.
+PYTHAGOREAN_EXPONENT = 1.83
+
 def get_team_stat(stat_name: str, team_name: str, year: int, division: int) -> float | int | None:
     """
     Returns a specific stat for a team in a given year and division.
@@ -126,7 +131,7 @@ def compare_pythagorean_expectation(team_name: str, year: int, division: int) ->
     Returns:
         A string summary with expected and actual win percentages.
     """
-    exponent = 1.83
+    exponent = PYTHAGOREAN_EXPONENT
     R = get_team_stat("R (Batting)", team_name, year, division)
     RA = get_team_stat("R (Pitching)", team_name, year, division)
     W = get_team_stat("W", team_name, year, division)
@@ -149,19 +154,47 @@ def compare_pythagorean_expectation(team_name: str, year: int, division: int) ->
         return f"Could not compute Pythagorean for '{team_name}': {str(e)}"
 
 
-def get_pythagorean_expectation(team_name: str, year: int, division: int) -> float | str:
+def get_pythagorean_expectation(
+    team_name: str,
+    year: int,
+    division: int,
+    exponent: float | None = None,
+    conference_calibrated: bool = False,
+) -> float | str:
     """
     Computes Pythagorean expected win percentage.
+
+    The Pythagorean expectation estimates what a team's record "should" have
+    been from the runs it scored and allowed. A team well above its expectation
+    won more close games than its run differential implies, which historically
+    does not repeat.
 
     Args:
         team_name: Team name or partial string (ex. "Northeastern").
         year: NCAA season year.
         division: NCAA division (1, 2, or 3).
+        exponent: Override the exponent. Defaults to 1.83, the standard
+            baseball value.
+        conference_calibrated: Use a conference-specific exponent fitted to
+            NCAA data, if one exists for that team's conference. **Experimental.**
+            None of the 31 fitted exponents differs from 1.83 at p < 0.05, so
+            this is very unlikely to be an improvement. Ignored if `exponent`
+            is given.
 
     Returns:
         A float that represents expected win percentage.
     """
-    exponent = 1.83
+    if exponent is None:
+        exponent = PYTHAGOREAN_EXPONENT
+        if conference_calibrated:
+            from ncaa_bbStats.pythagorean import pythagorean_exponent
+            from ncaa_bbStats.team_registry import resolve_team, team_conference
+
+            team_id = resolve_team(team_name)
+            conference = team_conference(team_id, year) if team_id else None
+            if conference:
+                exponent = pythagorean_exponent(conference)
+
     R = get_team_stat("R (Batting)", team_name, year, division)
     RA = get_team_stat("R (Pitching)", team_name, year, division)
 

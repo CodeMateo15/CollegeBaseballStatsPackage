@@ -79,6 +79,36 @@ _LAZY_ATTRS = {
     "parse_mlb_draft": "ncaa_bbStats.draft_stats",
 }
 
+# Modules with no optional dependencies, re-exported eagerly below.
+from ncaa_bbStats.leaderboards import (  # noqa: E402
+    leaderboard, qualification_rules, stat_direction,
+)
+from ncaa_bbStats.rpi_utils import (  # noqa: E402
+    best_wins, home_road_neutral, nonconference_profile, quadrant_record,
+    rpi, rpi_over_years, rpi_rank, rpi_record, rpi_table, strength_of_schedule,
+)
+from ncaa_bbStats.draft_detail_utils import (  # noqa: E402
+    biggest_bonuses, bonus_vs_slot, conference_draft_counts, draft_board,
+    draft_class, draft_demographics, draft_history, draft_pick, overslot_picks,
+    signing_bonus, slot_value, state_pipeline,
+)
+from ncaa_bbStats.program_utils import (  # noqa: E402
+    budget_percentile, coaching_staff_size, conference_spending,
+    finance_vs_rpi, program_finance, richest_programs, roster_size,
+)
+from ncaa_bbStats.prospect_utils import (  # noqa: E402
+    biggest_draft_fallers, biggest_draft_risers, prospect_board,
+    prospect_rank, prospect_vs_actual,
+)
+from ncaa_bbStats.pythagorean import (  # noqa: E402
+    conference_exponents, luck_rating, luckiest_teams, pythagorean_exponent,
+    unluckiest_teams,
+)
+from ncaa_bbStats.crossref import (  # noqa: E402
+    compare_teams, conference_report, dollars_per_draft_pick, draft_yield,
+    pipeline, player_profile, team_profile,
+)
+
 __all__ = [
     # utils -- team stats
     "get_team_stat",
@@ -132,6 +162,62 @@ __all__ = [
     "clob_pct",
     "league_constants",
     "seasons_with_constants",
+    # leaderboard
+    "leaderboard",
+    "stat_direction",
+    "qualification_rules",
+    # rpi_utils -- Division I, 2021-2026
+    "rpi",
+    "rpi_rank",
+    "rpi_record",
+    "rpi_table",
+    "strength_of_schedule",
+    "quadrant_record",
+    "home_road_neutral",
+    "nonconference_profile",
+    "rpi_over_years",
+    "best_wins",
+    # draft_detail_utils -- 2021-2026
+    "draft_pick",
+    "draft_class",
+    "draft_history",
+    "draft_board",
+    "slot_value",
+    "signing_bonus",
+    "bonus_vs_slot",
+    "overslot_picks",
+    "biggest_bonuses",
+    "draft_demographics",
+    "conference_draft_counts",
+    "state_pipeline",
+    # program_utils -- EADA, 2021-2026
+    "program_finance",
+    "budget_percentile",
+    "roster_size",
+    "coaching_staff_size",
+    "richest_programs",
+    "conference_spending",
+    "finance_vs_rpi",
+    # prospect_utils -- 2021-2026
+    "prospect_rank",
+    "prospect_board",
+    "prospect_vs_actual",
+    "biggest_draft_risers",
+    "biggest_draft_fallers",
+    # pythagorean
+    "pythagorean_exponent",
+    "conference_exponents",
+    "luck_rating",
+    "luckiest_teams",
+    "unluckiest_teams",
+    # crossref -- questions that need several datasets at once
+    "team_profile",
+    "player_profile",
+    "draft_yield",
+    "dollars_per_draft_pick",
+    "conference_report",
+    "pipeline",
+    "compare_teams",
     # draft_stats (lazy)
     "parse_mlb_draft",
 ]
