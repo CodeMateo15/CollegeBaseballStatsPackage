@@ -192,6 +192,8 @@ it.
 editorial rankings, attributed. High-school prospects have no college program to
 resolve to and are flagged rather than forced onto one.
 
+View them from here: <https://www.mlb.com/milb/prospects/draft/>
+
 **Conference Pythagorean exponents.** Fitted to NCAA team-season data, and
 shipped as an experiment rather than as a default. Fitting moves the exponent
 between 1.45 and 2.08, but **none of the 31 conference fits differs from the
