@@ -1,6 +1,7 @@
 import os
 import json
-import matplotlib.pyplot as plt
+
+from ncaa_bbStats._paths import data_path, load_team_stats
 
 def get_team_stat(stat_name: str, team_name: str, year: int, division: int) -> float | int | None:
     """
@@ -176,8 +177,7 @@ def get_pythagorean_expectation(team_name: str, year: int, division: int) -> flo
         return f"Could not compute Pythagorean for '{team_name}': {str(e)}"
 
 
-MLB_DRAFT_DIR = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "..", "data", "mlb_draft_cache"))
+MLB_DRAFT_DIR = data_path("mlb_draft_cache")
 
 def load_draft_data(year=None):
     """
@@ -269,17 +269,17 @@ def plot_team_stat_over_years(stat_name: str, team_name: str, division: int, sta
     Returns:
         None. Displays a matplotlib plot if data is found, otherwise prints a message.
     """
+    # Imported here rather than at module scope so `import ncaa_bbStats` does not
+    # pay for matplotlib's startup cost when no plotting is requested.
+    import matplotlib.pyplot as plt
+
     years = []
     stat_values = []
-    base_dir = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "..", "data", "team_stats_cache", f"div{division}")
-    )
     for year in range(start_year, end_year + 1):
-        file_path = os.path.join(base_dir, f"{year}.json")
-        if not os.path.isfile(file_path):
+        try:
+            stats = load_team_stats(year, division)
+        except FileNotFoundError:
             continue
-        with open(file_path, "r") as f:
-            stats = json.load(f)
         for team, team_stats in stats.items():
             if team_name.lower() in team.lower():
                 value = team_stats.get(stat_name)
@@ -306,18 +306,6 @@ def list_all_teams(year: int, division: int) -> list[str]:
         division (int): NCAA division number (1, 2, or 3).
 
     Returns:
-        List of team names (str).
+        List of team names (str), formatted as "Team Name (League)".
     """
-    file_path = os.path.join(
-        os.path.dirname(__file__),
-        "..", "data", "team_stats_cache", f"div{division}", f"{year}.json"
-    )
-    file_path = os.path.abspath(file_path)
-
-    if not os.path.isfile(file_path):
-        raise FileNotFoundError(f"Stats for Division {division} in {year} not found.")
-
-    with open(file_path, "r") as f:
-        stats = json.load(f)
-
-    return list(stats.keys())
+    return list(load_team_stats(year, division).keys())

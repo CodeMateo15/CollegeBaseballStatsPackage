@@ -1,8 +1,26 @@
+# Packaged data. tests/test_packaging.py asserts every pattern here matches at
+# least one file and that each directory survives into a built wheel -- the
+# div2 line below previously read "div2*.json" (no space), so Division II team
+# stats were silently absent from every release.
+recursive-include src/data/team_stats_cache/div1 *.json
+recursive-include src/data/team_stats_cache/div2 *.json
+recursive-include src/data/team_stats_cache/div3 *.json
+recursive-include src/data/player_stats_cache *.csv
 recursive-include src/data/mlb_draft_cache *.json
 recursive-include src/data/mlb_team_names *.csv
 recursive-include src/data/team_names_stats *.csv
-recursive-include src/data/team_stats_cache/div1 *.json
-recursive-include src/data/team_stats_cache/div2*.json
-recursive-include src/data/team_stats_cache/div3 *.json
-recursive-include docs/_static *
+
 include LICENSE
+include README.md
+include CITATION.cff
+include DATA_PROVENANCE.md
+
+# Source distribution only -- docs assets are 2 MB of download copies that have
+# no reason to sit inside site-packages.
+recursive-include docs *.rst *.py *.txt
+recursive-include docs/_static *
+prune docs/_build
+
+# Never ship the ad-hoc data-munging scripts that live beside the caches.
+recursive-exclude src/data *.py
+global-exclude .DS_Store *.py[cod] __pycache__/*

@@ -1,3 +1,30 @@
 experimentalStuff
 .pypirc
 ~:.pypirc
+
+# Non-redistributable inputs used to regenerate the public data. See
+# DATA_PROVENANCE.md and tools/README.md. Nothing under private/ is ever
+# committed or packaged.
+private/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/

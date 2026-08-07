@@ -11,14 +11,36 @@ It includes multiple statistical functions for parsing and returning college tea
 
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Getting Started
+
    install
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Team Stats
+
    team_stats
-   mlb_draft
-   player_stats
    season_stats
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Player Stats
+
+   player_stats
    player_reference
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Draft
+
+   mlb_draft
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Reference
+
    team_names_stats
    team_names_mlb
    player_names
-   :maxdepth: 100
-   :caption: Contents:
+   data_provenance

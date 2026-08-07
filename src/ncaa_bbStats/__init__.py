@@ -1,22 +1,101 @@
-from ncaa_bbStats.utils import (get_team_stat, display_specific_team_stat, display_team_stats,
-                                    get_pythagorean_expectation, get_drafted_players_mlb,
-                                    get_drafted_players_all_years_mlb, get_drafted_players_college,
-                                    get_drafted_players_all_years_college, print_draft_picks_mlb,
-                                    print_draft_picks_college, plot_team_stat_over_years,
-                                    compare_pythagorean_expectation, list_all_teams)
+"""Retrieval and analysis of NCAA college baseball statistics.
 
-from ncaa_bbStats.average import average_all_team_stats, average_team_stat_str, average_team_stat_float
+Team stats (Divisions I-III, 2002-2026), player stats (2021-2025), and MLB draft
+history (1965-2025). See https://collegebaseballstatspackage.readthedocs.io.
 
-from ncaa_bbStats.draft_stats import parse_mlb_draft
+Names are re-exported flat, so ``from ncaa_bbStats import get_team_stat`` works.
+Submodules are also importable directly (``ncaa_bbStats.player_utils``) for
+callers who prefer a namespace.
+"""
+
+import importlib
+
+from ncaa_bbStats.utils import (
+    compare_pythagorean_expectation,
+    display_specific_team_stat,
+    display_team_stats,
+    get_drafted_players_all_years_college,
+    get_drafted_players_all_years_mlb,
+    get_drafted_players_college,
+    get_drafted_players_mlb,
+    get_pythagorean_expectation,
+    get_team_stat,
+    list_all_teams,
+    plot_team_stat_over_years,
+    print_draft_picks_college,
+    print_draft_picks_mlb,
+)
+
+from ncaa_bbStats.average import (
+    average_all_team_stats,
+    average_team_stat_float,
+    average_team_stat_str,
+)
 
 from ncaa_bbStats.player_utils import (
-    list_available_years,
-    list_players,
-    player_seasons,
-    get_player_rows,
-    top_players,
     batting_stat,
-    pitching_stat,
+    get_player_rows,
+    list_available_years,
     list_batters,
     list_pitchers,
+    list_players,
+    pitching_stat,
+    player_seasons,
+    top_players,
 )
+
+# Names whose defining module imports an optional dependency at module scope.
+# Importing them eagerly makes `import ncaa_bbStats` fail on a clean install
+# when that extra is absent -- draft_stats imports requests and bs4, which are
+# only pulled in by the [scrape] extra. PEP 562 defers the cost to first use.
+_LAZY_ATTRS = {
+    "parse_mlb_draft": "ncaa_bbStats.draft_stats",
+}
+
+__all__ = [
+    # utils -- team stats
+    "get_team_stat",
+    "display_specific_team_stat",
+    "display_team_stats",
+    "list_all_teams",
+    "plot_team_stat_over_years",
+    "get_pythagorean_expectation",
+    "compare_pythagorean_expectation",
+    # utils -- draft
+    "get_drafted_players_mlb",
+    "get_drafted_players_all_years_mlb",
+    "get_drafted_players_college",
+    "get_drafted_players_all_years_college",
+    "print_draft_picks_mlb",
+    "print_draft_picks_college",
+    # average
+    "average_all_team_stats",
+    "average_team_stat_str",
+    "average_team_stat_float",
+    # player_utils
+    "list_available_years",
+    "list_players",
+    "player_seasons",
+    "get_player_rows",
+    "top_players",
+    "batting_stat",
+    "pitching_stat",
+    "list_batters",
+    "list_pitchers",
+    # draft_stats (lazy)
+    "parse_mlb_draft",
+]
+
+
+def __getattr__(name):
+    """Resolve lazily-loaded public names on first access (PEP 562)."""
+    module_name = _LAZY_ATTRS.get(name)
+    if module_name is None:
+        raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
+    value = getattr(importlib.import_module(module_name), name)
+    globals()[name] = value  # cache so __getattr__ runs once per name
+    return value
+
+
+def __dir__():
+    return sorted(set(globals()) | set(__all__))

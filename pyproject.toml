@@ -4,25 +4,46 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ncaa_bbStats"
-version = "1.1.0"
+version = "1.2.0"
 description = "A package to analyze college baseball stats by year and division"
 authors = [
     { name="Mateo Biggs", email="mateojohn2024@gmail.com" }
 ]
 readme = "README.md"
 license = {text = "MIT"}
-requires-python = ">=3.8"
+# 3.10 is the real floor: utils.py and player_utils.py use PEP 604 unions
+# (`float | int | None`) in annotations that are evaluated at def time, which
+# raises TypeError on 3.8 and 3.9. The package declared >=3.8 and did not work
+# there.
+requires-python = ">=3.10"
 dependencies = [
     "matplotlib",
     "numpy",
     "pandas>=1.3",
 ]
 
+[project.optional-dependencies]
+# Needed only to re-scrape the source sites; the shipped caches cover normal use.
+scrape = ["requests", "beautifulsoup4", "curl_cffi"]
+# Draft-model inference.
+model = ["xgboost>=2.0"]
+# Model inference plus SHAP-based explanations.
+explain = ["xgboost>=2.0", "shap>=0.44"]
+all = ["requests", "beautifulsoup4", "curl_cffi", "xgboost>=2.0", "shap>=0.44"]
+dev = ["pytest>=7.0", "build"]
+
 [project.urls]
 GitHub = "https://github.com/CodeMateo15/CollegeBaseballStatsPackage"
 Documentation = "https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html"
 
+[tool.setuptools]
+package-dir = {"" = "src"}
+# Data files are selected by MANIFEST.in; this is what carries them from the
+# sdist into the wheel. tests/test_packaging.py asserts the result.
+include-package-data = true
 
+[tool.setuptools.packages.find]
+where = ["src"]
 
-[project.scripts]
-ncaa_bb = "ncaa_bbStats.main:main"
+[tool.pytest.ini_options]
+testpaths = ["tests"]

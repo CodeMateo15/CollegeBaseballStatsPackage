@@ -1,5 +1,5 @@
 Team Names for Team Stats
-========================
+=========================
 
 This file lists all unique team names from NCAA Division I, II, and III baseball stats,
 collected from the years 2002 through 2025. Used for Team Stats Module

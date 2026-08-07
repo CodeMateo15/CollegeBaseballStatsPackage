@@ -147,7 +147,7 @@ Batting Stats List
   Weighted Runs Created scaled to league and park (100 = average).
 
 Pitching Stats List
-------------------
+-------------------
 
 - **w**: Wins
 

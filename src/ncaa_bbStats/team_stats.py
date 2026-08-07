@@ -1,26 +1,20 @@
-import requests
+# stats.ncaa.org sits behind Akamai Bot Manager, which blocks plain HTTP/1.1 clients
+# (e.g. requests) with a 403 regardless of headers. curl_cffi negotiates HTTP/2 and
+# impersonates a real Chrome TLS fingerprint + browser headers, which passes the check.
+from curl_cffi import requests as cffi_requests
 from bs4 import BeautifulSoup
 import time
 import numpy as np
 
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-                  'Chrome/125.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.5',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'Connection': 'keep-alive',
-    'Referer': 'https://stats.ncaa.org/',
-    'DNT': '1'
-}
+from ncaa_bbStats._normalize import split_team_league
 
 def fetch_ncaa_table(url, parse_row_fn):
-    session = requests.Session()
-    max_retries = 1
+    session = cffi_requests.Session(impersonate="chrome")
+    max_retries = 3
 
     for _ in range(max_retries):
         try:
-            response = session.get(url, headers=headers, timeout=10)
+            response = session.get(url, timeout=15)
             response.raise_for_status()
             time.sleep(1)
 
@@ -46,7 +40,7 @@ def fetch_ncaa_table(url, parse_row_fn):
             print(f"Finished fetching {parse_row_fn.__name__}")
             return results
 
-        except requests.exceptions.RequestException as e:
+        except Exception as e:
             print(f"Attempt failed: {e}")
             time.sleep(5)
 
@@ -949,10 +943,12 @@ def parse_walks_allowed_per_nine_innings(cols):
     )
 
 def extract_team_league(team_league_str):
-    if '(' in team_league_str and ')' in team_league_str:
-        team, league = team_league_str.rsplit('(', 1)
-        return team.strip(), league.strip(')')
-    return team_league_str.strip(), ''
+    """Split "Team Name (League)" into (team, league).
+
+    Delegates to ncaa_bbStats._normalize.split_team_league so the scraper and
+    the name-extraction store agree on where a team name ends.
+    """
+    return split_team_league(team_league_str)
 
 def combine_team_stats(*stats_dicts):
     combined = {}
@@ -1072,11 +1068,12 @@ RANKING_PERIODS = {
     2022: {1: 90.0, 2: 78.0, 3: 103.0},
     2023: {1: 94.0, 2: 76.0, 3: 104.0},
     2024: {1: 108.0, 2: 79.0, 3: 105.0},
-    2025: {1: 104.0, 2: 79.0, 3: 101.0}
+    2025: {1: 104.0, 2: 79.0, 3: 101.0},
+    2026: {1: 111.0, 2: 119.0, 3: 105.0}
 }
 
 # Step 2: URL builder
-def build_ncaa_url(stat_seq, year=2025, division=1):
+def build_ncaa_url(stat_seq, year=2026, division=1):
     try:
         ranking_period = RANKING_PERIODS[year][division]
     except KeyError:
@@ -1091,7 +1088,7 @@ def build_ncaa_url(stat_seq, year=2025, division=1):
 
 # Step 3: Factory function to generate stat fetchers
 def make_stat_func(stat_seq, parser, valid_years=None):
-    def stat_func(year=2025, division=1):
+    def stat_func(year=2026, division=1):
         if valid_years is not None and year not in valid_years:
             print(f"Skipping year {year} for stat_seq {stat_seq} – not a valid year.")
             return None
@@ -1102,59 +1099,59 @@ def make_stat_func(stat_seq, parser, valid_years=None):
 
 # Step 4: Refactored functions using the factory
 base_on_balls = make_stat_func(496.0, parse_base_on_balls_row,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 batting_average = make_stat_func(210.0, parse_batting_average,
-                                 valid_years=list(range(2002, 2026)))
+                                 valid_years=list(range(2002, 2027)))
 double_plays_per_game = make_stat_func(328.0, parse_double_plays_per_game,
-                                 valid_years=list(range(2003, 2026)))
+                                 valid_years=list(range(2003, 2027)))
 double_plays = make_stat_func(501.0, parse_double_plays,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 doubles = make_stat_func(489.0, parse_doubles,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 doubles_per_game = make_stat_func(324.0, parse_doubles_per_game,
-                                 valid_years=list(range(2002, 2026)))
+                                 valid_years=list(range(2002, 2027)))
 earned_run_average = make_stat_func(211.0, parse_earned_run_average,
-                                 valid_years=list(range(2002, 2026)))
+                                 valid_years=list(range(2002, 2027)))
 fielding_percentage = make_stat_func(212.0, parse_fielding_percentage,
-                                 valid_years=list(range(2002, 2026)))
-hit_batters = make_stat_func(593.0, parse_hit_batters, valid_years=list(range(2013, 2026)))
+                                 valid_years=list(range(2002, 2027)))
+hit_batters = make_stat_func(593.0, parse_hit_batters, valid_years=list(range(2013, 2027)))
 hit_by_pitch = make_stat_func(500.0, parse_hit_by_pitch,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 hits = make_stat_func(484.0, parse_hits,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 hits_allowed_per_nine_innings = make_stat_func(506.0, parse_hits_allowed_per_nine_innings,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 home_runs = make_stat_func(513.0, parse_home_runs,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 home_runs_per_game = make_stat_func(323.0, parse_home_runs_per_game,
-                                 valid_years=list(range(2002, 2026)))
+                                 valid_years=list(range(2002, 2027)))
 on_base_percentage = make_stat_func(589.0, parse_on_base_percentage,
-                                 valid_years=list(range(2012, 2026)))
-runs = make_stat_func(486.0, parse_runs, valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2012, 2027)))
+runs = make_stat_func(486.0, parse_runs, valid_years=list(range(2008, 2027)))
 sacrifice_bunts = make_stat_func(498.0, parse_sacrifice_bunts,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 sacrifice_flies = make_stat_func(503.0, parse_sacrifice_flies,
-                                 valid_years=list(range(2008, 2026)))
-scoring = make_stat_func(213.0, parse_scoring, valid_years=list(range(2002, 2026)))
-shutouts = make_stat_func(691.0, parse_shutouts, valid_years=list(range(2013, 2026)))
+                                 valid_years=list(range(2008, 2027)))
+scoring = make_stat_func(213.0, parse_scoring, valid_years=list(range(2002, 2027)))
+shutouts = make_stat_func(691.0, parse_shutouts, valid_years=list(range(2013, 2027)))
 slugging_percentage = make_stat_func(327.0, parse_slugging_percentage,
-                                 valid_years=list(range(2003, 2026)))
+                                 valid_years=list(range(2003, 2027)))
 stolen_bases = make_stat_func(493.0, parse_stolen_bases,
-                              valid_years=list(range(2002, 2026)))
+                              valid_years=list(range(2002, 2027)))
 stolen_bases_per_game = make_stat_func(326.0, parse_stolen_bases_per_game,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 strikeout_to_walk_ratio = make_stat_func(591.0, parse_strikeout_to_walk_ratio,
-                                 valid_years=list(range(2012, 2026)))
+                                 valid_years=list(range(2012, 2027)))
 strikeouts_per_nine_innings = make_stat_func(425.0, parse_strikeouts_per_nine_innings,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 triple_plays = make_stat_func(598.0, parse_triple_plays,
-                              valid_years=list(range(2013, 2026)))
+                              valid_years=list(range(2013, 2027)))
 triples = make_stat_func(491.0, parse_triples,
-                                 valid_years=list(range(2008, 2026)))
+                                 valid_years=list(range(2008, 2027)))
 triples_per_game = make_stat_func(325.0, parse_triples_per_game,
-                                 valid_years=list(range(2002, 2026)))
-whip = make_stat_func(597.0, parse_whip, valid_years=list(range(2012, 2026)))
+                                 valid_years=list(range(2002, 2027)))
+whip = make_stat_func(597.0, parse_whip, valid_years=list(range(2012, 2027)))
 winning_percentage = make_stat_func(319.0, parse_winning_percentage,
-                                 valid_years=list(range(2011, 2026)))
+                                 valid_years=list(range(2011, 2027)))
 walks_allowed_per_nine_innings = make_stat_func(509.0, parse_walks_allowed_per_nine_innings,
-                                 valid_years=list(range(2011, 2026)))
+                                 valid_years=list(range(2011, 2027)))
