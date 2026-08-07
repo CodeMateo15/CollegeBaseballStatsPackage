@@ -12,6 +12,10 @@ it is redistributed. If you are adding a dataset, add a row here first.
 | Player statistics | `src/data/player_stats_cache/{batting,pitching}/*.csv` | See **FanGraphs** below | Counting statistics only; see below | 2021–2025, Division I |
 | League constants | `src/data/league_constants/*.csv` | Regressed from `team_stats_cache` by `tools/build_league_constants.py` | Package's own work | 2008–2026 (D-III from 2009) |
 | Team registry | `src/data/registry/*.csv` | Built from the caches above plus IPEDS unitids by `tools/build_team_registry.py` | Package's own work; IPEDS identifiers are U.S. federal public domain | 1,023 programs, 2002–2026 |
+| MLB draft detail | `src/data/draft_detail/{year}.json` | [MLB Stats API](https://statsapi.mlb.com/api/v1/draft/), fetched by `ncaa_bbStats.draft_detail_store` | Public MLB Advanced Media API; factual draft records | 2021–2026, 3,685 picks |
+| RPI / strength of schedule | `src/data/rpi/{year}.csv` | [Warren Nolan](https://www.warrennolan.com), converted by `ncaa_bbStats.rpi_store` | Third-party computation, not official NCAA; factual records | 2021–2026, Division I |
+| Program finances | `src/data/program_finance/eada_features.csv` | [EADA survey](https://ope.ed.gov/athletics/), U.S. Dept. of Education, derived by `ncaa_bbStats.program_store` | U.S. federal government work; public domain | 2021–2025, carried forward to 2026 |
+| Draft prospect rankings | `src/data/prospects/{year}.csv` | MLB Pipeline top-250, converted by `ncaa_bbStats.prospect_store` | Third-party rankings, attributed | 2021–2026, 250/year |
 | Team / school name tables | `src/data/team_names_stats/`, `src/data/mlb_team_names/` | Derived from the caches above by `ncaa_bbStats.team_names_store` | Package's own work | — |
 
 Facts about sporting events — who played, how many hits they got — are not
@@ -137,6 +141,48 @@ park adjustment, which is discussed below.
 - **`cwsb` correlates least well** (r = 0.90) of the run-value metrics, because
   it is a small-magnitude quantity — a standard deviation of about one run — so
   modest absolute disagreements read as large relative ones.
+
+## Notes on the ported datasets
+
+**MLB Stats API.** Payloads are trimmed to the fields the package reads. The
+`blurb` field — MLB Pipeline's editorial scouting prose, and the only field here
+with a real authorship claim attached — is deliberately not stored; the
+`scouting_report_url` is kept, so the material remains reachable at the source.
+`headshotLink` is dropped as reconstructible from the player id. Responses carry
+MLB Advanced Media's copyright notice, which applies to their presentation of
+these records, not to the facts of who was drafted where.
+
+**Warren Nolan RPI.** RPI, strength of schedule, and quadrant records are Warren
+Nolan's computation from public game results, not official NCAA figures. Do not
+cite them as NCAA statistics. Coverage is Division I only, from 2021 — the site
+does not publish earlier years, so this gap is permanent rather than a backlog.
+
+**EADA.** A work of the U.S. federal government and therefore public domain. Only
+the twelve derived features ship; the source workbooks are roughly 100 MB each
+and 4,275 columns wide, and are read from a local download.
+
+Year alignment: `EADA_<YYYY>.xlsx` covers the academic year ending in YYYY, which
+is the spring YYYY baseball season, so it maps onto the season year with no lag.
+Institutions file the 2025-26 survey in October 2026, so the 2026 season carries
+2025 forward — every such row is flagged `carried_forward`, and
+`program_finance()` reports it, because a carried-forward figure quietly treated
+as current is how wrong conclusions get published.
+
+Percentile features are ranked within a reporting year rather than expressed in
+raw dollars: budgets inflate a few percent annually, so raw figures would make
+the carried-forward season look systematically poorer. Rosters outside 15–75
+players are treated as unreported — a few institutions file a system-wide row
+summing every branch campus, which shows up as one program carrying 453 baseball
+players.
+
+Coverage is 99% of Division I and about 69% of Divisions II and III. The gap is
+not missing survey data: those programs do not yet have IPEDS unitids in the
+registry, so the join falls back to name matching. Backfilling them would close
+it.
+
+**MLB Pipeline.** Pre-draft prospect rankings, included as a benchmark. Third-party
+editorial rankings, attributed. High-school prospects have no college program to
+resolve to and are flagged rather than forced onto one.
 
 ## Player identity
 

@@ -1,0 +1,251 @@
+year,rank,name,position,school,team_id,is_college,age,bats,throws,current_level
+2021,1,Marcelo Mayer,INF,Eastlake (CA),,False,23,L,R,MLB
+2021,2,Jack Leiter,RHP,Vanderbilt,IPEDS:221999,True,26,R,R,MLB
+2021,3,Jordan Lawlar,INF,Jesuit Prep (TX),,False,23,R,R,MLB
+2021,4,Kahlil Watson,OF,Wake Forest (NC),,False,23,L,R,AAA
+2021,5,Henry Davis,C,Louisville,IPEDS:157289,True,26,R,R,MLB
+2021,6,Kumar Rocker,RHP,Vanderbilt,IPEDS:221999,True,26,R,R,MLB
+2021,7,Jackson Jobe,RHP,Heritage Hall (OK),,False,23,R,R,MLB
+2021,8,Brady House,3B,Winder-Barrow (GA),,False,22,R,R,MLB
+2021,9,Ty Madden,RHP,Texas,IPEDS:228778,True,26,R,R,MLB
+2021,10,Colton Cowser,OF,Sam Houston,IPEDS:227881,True,26,L,R,MLB
+2021,11,Sal Frelick,OF,Boston College,IPEDS:164924,True,26,L,R,MLB
+2021,12,Matt McLain,SS/2B,UCLA,IPEDS:110662,True,26,R,R,MLB
+2021,13,Harry Ford,C,North Cobb (GA),,False,23,R,R,AAA
+2021,14,Sam Bachman,RHP,Miami (OH),IPEDS:204024,False,26,R,R,MLB
+2021,15,Benny Montgomery,OF,Red Land (PA),,False,23,R,R,AA
+2021,16,Jordan Wicks,LHP,Kansas State,IPEDS:155399,True,26,L,L,AAA
+2021,17,Anthony Solometo,LHP,Bishop Eustace (NJ),,False,23,L,L,AA
+2021,18,Andrew Painter,RHP,Calvary Christian (FL),,False,23,R,R,MLB
+2021,19,Joe Mack,C,Williamsville East (NY),,False,23,L,R,MLB
+2021,20,Will Taylor,OF,Clemson,IPEDS:217882,True,23,R,R,AA
+2021,21,Bubba Chandler,RHP,North Oconee (GA),,False,23,S,R,MLB
+2021,22,Gunnar Hoglund,RHP,Mississippi,IPEDS:176017,True,26,L,R,MLB
+2021,23,Jud Fabian,OF,Florida,IPEDS:134130,True,25,R,L,AAA
+2021,24,Joshua Báez,OF,Dexter Southfield (MA),,False,22,R,R,AAA
+2021,25,Colson Montgomery,SS/3B,Southridge (IN),,False,24,L,R,MLB
+2021,26,Ryan Cusick,RHP,Wake Forest,IPEDS:199847,True,26,R,R,AAA
+2021,27,Chase Petty,RHP,Mainland Regional (NJ),,False,23,R,R,AAA
+2021,28,Michael McGreevy,RHP,UC Santa Barbara,IPEDS:110705,True,25,L,R,MLB
+2021,29,Peyton Stovall,2B,Arkansas,IPEDS:106397,True,23,L,R,A+
+2021,30,Izaac Pacheco,3B/1B,Friendswood (TX),,False,23,L,R,AA
+2021,31,Gavin Williams,RHP,East Carolina,IPEDS:198464,True,26,L,R,MLB
+2021,32,Will Bednar,RHP,Mississippi State,IPEDS:176080,True,25,R,R,AA
+2021,33,Jay Allen II,OF,John Carroll Catholic (FL),,False,23,R,R,AA
+2021,34,Wes Kath,3B,Desert Mountain (AZ),,False,23,L,R,A+
+2021,35,Ethan Wilson,OF,South Alabama,IPEDS:102094,True,26,L,L,AAA
+2021,36,Jaden Hill,RHP,Louisiana State,IPEDS:159391,True,26,R,R,MLB
+2021,37,Tyler Whitaker,OF/SS/3B,Bishop Gorman (NV),,False,23,R,R,AA
+2021,38,Max Muncy,SS,Thousand Oaks (CA),,False,23,R,R,MLB
+2021,39,Frank Mozzicato,LHP,East Catholic (CT),,False,22,L,L,AA
+2021,40,Mat Nelson,C,Florida State,IPEDS:134097,True,27,R,R,AA
+2021,41,Carson Williams,SS,Torrey Pines (CA),,False,22,R,R,AAA
+2021,42,Adrian Del Castillo,C,Miami,IPEDS:135726,True,26,L,R,MLB
+2021,43,Gage Jump,LHP,Louisiana State,IPEDS:159391,True,23,L,L,AAA
+2021,44,James Wood,OF,IMG Academy (FL),,False,23,L,R,MLB
+2021,45,Tommy Mace,RHP,Florida,IPEDS:134130,True,27,R,R,AAA
+2021,46,Ben Kudrna,RHP,Blue Valley Southwest (KS),,False,23,R,R,AAA
+2021,47,Chase Burns,RHP,Wake Forest,IPEDS:199847,True,23,R,R,MLB
+2021,48,Josh Hartle,LHP,Wake Forest,IPEDS:199847,True,23,L,L,AA
+2021,49,Maddux Bruns,LHP,UMS-Wright (AL),,False,23,L,L,AA
+2021,50,Matt Mikulski,LHP,Fordham,IPEDS:191241,True,27,L,L,A+
+2021,51,Andrew Abbott,LHP,Virginia,IPEDS:234076,True,26,L,L,MLB
+2021,52,Christian Franklin,OF,Arkansas,IPEDS:106397,True,26,R,R,AAA
+2021,53,Jackson Baumeister,RHP,Florida State,IPEDS:134097,True,23,R,R,AA
+2021,54,Spencer Schwellenbach,RHP,Nebraska,IPEDS:181464,True,25,R,R,MLB
+2021,55,Trey Sweeney,SS,Eastern Illinois,IPEDS:144892,True,26,L,R,MLB
+2021,56,Doug Nikhazy,LHP,Mississippi,IPEDS:176017,True,26,L,L,AAA
+2021,57,Tyler Black,1B,Wright State,IPEDS:206604,True,25,L,R,MLB
+2021,58,Connor Norby,2B/OF,East Carolina,IPEDS:198464,True,25,R,R,MLB
+2021,59,Cody Morissette,2B,Boston College,IPEDS:164924,True,26,L,R,AAA
+2021,60,Thatcher Hurd,RHP,Louisiana State,IPEDS:159391,True,23,R,R,ROK
+2021,61,Tommy Di Landri,OF,Southern California,IPEDS:123961,True,23,R,R,
+2021,62,Noah Miller,SS,Ozaukee (WI),,False,23,S,R,AAA
+2021,63,Cody Schrier,SS,UCLA,IPEDS:110662,True,23,R,R,A+
+2021,64,Alex Mooney,INF,Duke,IPEDS:198419,True,23,R,R,AA
+2021,65,Alex Binelas,3B/1B,Louisville,IPEDS:157289,True,25,L,R,AA
+2021,66,Braden Montgomery,OF,Texas A&M,IPEDS:228723,True,23,S,R,AAA
+2021,67,Ky Bush,LHP,Saint Mary's,IPEDS:123554,True,26,L,L,MLB
+2021,68,Peyton Wilson,2B,Alabama,IPEDS:100751,True,26,S,R,AAA
+2021,69,Jose Torres,SS/2B,North Carolina State,IPEDS:199193,True,26,R,R,AA
+2021,70,Ryan Bliss,2B/SS,Auburn,IPEDS:100858,True,26,R,R,AAA
+2021,71,Davis Diaz,SS/C,Vanderbilt,IPEDS:221999,True,23,R,R,AA
+2021,72,Lonnie White Jr.,OF,Malvern Prep (PA),,False,23,R,R,AA
+2021,73,Eric Hammond,RHP,Georgia,IPEDS:139959,True,23,R,R,A
+2021,74,Dylan Smith,RHP,Alabama,IPEDS:100751,True,25,R,R,AAA
+2021,75,Sean Burke,RHP,Maryland,IPEDS:163286,True,26,R,R,MLB
+2021,76,Aaron Zavala,OF,Oregon,IPEDS:209551,True,25,L,R,AAA
+2021,77,Brody Brecht,RHP,Iowa,IPEDS:153658,True,23,R,R,A+
+2021,78,James Triantos,2B/OF,Madison (VA),,False,23,R,R,AAA
+2021,79,Jackson Merrill,SS/OF,Severna Park (MD),,False,23,L,R,MLB
+2021,80,Daylen Lile,OF,Trinity (KY),,False,23,L,R,MLB
+2021,81,Kyle Manzardo,1B,Washington State,IPEDS:236939,True,25,L,R,MLB
+2021,82,Carter Jensen,C,Park Hill (MO),,False,22,L,R,MLB
+2021,83,Edwin Arroyo,SS,Arecibo Baseball Academy (PR),,False,22,S,R,AAA
+2021,84,Cooper Kinney,2B/3B,Baylor (TN),,False,23,L,R,AAA
+2021,85,Joe Rock,LHP,Ohio,IPEDS:204857,True,25,L,L,AAA
+2021,86,Zack Gelof,2B,Virginia,IPEDS:234076,True,26,R,R,MLB
+2021,87,Hunter Goodman,1B/OF/C,Memphis,IPEDS:220862,True,26,R,R,MLB
+2021,88,Robert Gasser,LHP,Houston,IPEDS:225511,True,26,L,L,AAA
+2021,89,Jonathan Cannon,RHP,Georgia,IPEDS:139959,True,25,R,R,AAA
+2021,90,Landon Marceaux,RHP,Louisiana State,IPEDS:159391,True,26,R,R,A
+2021,91,Bryce Miller,RHP,Texas A&M,IPEDS:228723,True,27,R,R,MLB
+2021,92,Cameron Cauley,SS/OF/2B,Barbers Hill (TX),,False,23,R,R,AAA
+2021,93,Michael Robertson,OF,Liberty,IPEDS:232557,True,23,L,R,
+2021,94,Braylon Bishop,OF,Arkansas (AR),,False,23,L,L,A
+2021,95,Malakhi Knight,OF,Washington,IPEDS:236948,True,23,R,R,
+2021,96,Dom Hamel,RHP,Dallas Baptist,IPEDS:224226,True,27,R,R,AAA
+2021,97,Isaiah Thomas,OF,Lewis-Clark State,,False,26,R,R,
+2021,98,Denzel Clarke,OF,Cal State Northridge,IPEDS:110608,True,26,R,R,MLB
+2021,99,Brendan Beck,RHP,Stanford,IPEDS:243744,True,27,R,R,AAA
+2021,100,Steve Hajjar,LHP,Michigan,IPEDS:170976,True,25,R,L,AAA
+2021,101,Luca Tresh,C,North Carolina State,IPEDS:199193,True,26,R,R,AAA
+2021,102,Russell Smith,LHP,Texas Christian,IPEDS:228875,True,27,L,L,ROK
+2021,103,McCade Brown,RHP,Indiana,IPEDS:151351,True,25,R,R,MLB
+2021,104,Robby Martin Jr.,OF,Florida State,IPEDS:134097,True,26,L,R,A+
+2021,105,Ryan Holgate,OF,Arizona,IPEDS:104179,True,25,L,L,ROK
+2021,106,Roc Riggio,2B,Oklahoma State,IPEDS:207388,True,23,L,R,AA
+2021,107,Tommy White,3B/1B,Louisiana State,IPEDS:159391,True,23,R,R,AAA
+2021,108,Peter Heubeck,RHP,Gilman (MD),,False,23,R,R,ROK
+2021,109,Michael Morales,RHP,East Pennsboro (PA),,False,23,R,R,AA
+2021,110,Caedmon Parker,RHP,Texas Christian,IPEDS:228875,True,22,R,R,A
+2021,111,Mike Vasil,RHP,Virginia,IPEDS:234076,True,26,L,R,MLB
+2021,112,Tyler McDonough,OF/2B,North Carolina State,IPEDS:199193,True,27,S,R,AA
+2021,113,Christian MacLeod,LHP,Mississippi State,IPEDS:176080,True,26,L,L,AAA
+2021,114,Will Koger,RHP,Arizona State,IPEDS:104151,True,23,L,R,A
+2021,115,Coleman Willis,RHP,Georgia Gwinnett,,False,23,L,R,
+2021,116,Philip Abner,LHP,Florida,IPEDS:134130,True,24,L,L,AAA
+2021,117,Hagen Smith,LHP,Arkansas,IPEDS:106397,True,22,L,L,AAA
+2021,118,Irv Carter,RHP,Calvary Christian (FL),,False,23,R,R,AA
+2021,119,Justice Thompson,OF,North Carolina,IPEDS:199120,True,25,R,R,AA
+2021,120,Pierce Coppola,LHP,Florida,IPEDS:134130,True,23,L,L,A
+2021,121,Jacob Steinmetz,RHP,Hebrew Academy of the Five Towns & Rockaway (NY),,False,22,R,R,A+
+2021,122,Mason Albright,LHP,IMG Academy (FL),,False,23,L,L,AAA
+2021,123,Calvin Ziegler,RHP,TNXL Academy (FL),,False,23,R,R,A+
+2021,124,Ian Moller,C,Wahlert (IA),,False,23,R,R,AA
+2021,125,Ricky Tiedemann,LHP,Golden West JC,,False,23,L,L,AAA
+2021,126,Eric Silva,RHP,JSerra (CA),,False,23,R,R,AA
+2021,127,Chayce McDermott,RHP,Ball State,IPEDS:150136,True,27,L,R,AAA
+2021,128,Carter Holton,LHP,Vanderbilt,IPEDS:221999,True,23,L,L,A
+2021,129,Eddie Saldivar,2B,Fresno State,IPEDS:110556,True,23,L,R,
+2021,130,Alec Willis,RHP,Regis Jesuit (CO),,False,23,R,R,ROK
+2021,131,Brock Selvidge,LHP,Hamilton (AZ),,False,23,R,L,AA
+2021,132,Troy Melton,RHP,San Diego State,IPEDS:122409,True,25,R,R,A
+2021,133,Jordan McCants,2B/SS,Pensacola Catholic (FL),,False,23,L,R,A
+2021,134,John Rhodes,OF,Kentucky,IPEDS:157085,True,25,R,R,AA
+2021,135,Niko Kavadas,1B,Notre Dame,IPEDS:152080,True,27,L,R,AAA
+2021,136,Tanner Allen,OF,Mississippi State,IPEDS:176080,True,27,L,R,AA
+2021,137,Austin Love,RHP,North Carolina,IPEDS:199120,True,27,R,R,AA
+2021,138,Grant Holman,RHP,California,IPEDS:110635,True,25,R,R,AAA
+2021,139,Thomas Farr,RHP,South Carolina,IPEDS:218663,True,27,R,R,AA
+2021,140,Shane Panzini,RHP,Red Bank Catholic (NJ),,False,24,R,R,AAA
+2021,141,Nathan Hickey,C,Florida,IPEDS:134130,True,26,L,R,AAA
+2021,142,Nick McLain,OF,Arizona State,IPEDS:104151,True,23,S,L,ROK
+2021,143,Andrew Walling,LHP,Mississippi State,IPEDS:176080,True,26,L,L,AAA
+2021,144,Max Ferguson,SS/2B,Tennessee,IPEDS:221759,True,26,L,R,AA
+2021,145,JT Schwartz,1B,UCLA,IPEDS:110662,True,26,L,R,AA
+2021,146,Jonathan Vastine,SS,Vanderbilt,IPEDS:221999,True,23,L,R,A+
+2021,147,Payton Green,SS,Georgia Tech,IPEDS:139755,True,23,R,R,AA
+2021,148,Reed Trimble,OF,Southern Mississippi,IPEDS:176372,True,25,S,R,A+
+2021,149,Richard Fitts,RHP,Auburn,IPEDS:100858,True,26,R,R,AAA
+2021,150,Michael Braswell III,SS,Louisiana State,IPEDS:159391,True,23,R,R,ROK
+2021,151,Luke Albright,RHP,Kent State,IPEDS:203517,True,26,R,R,MLB
+2021,152,Dylan Ross,RHP,Georgia,IPEDS:139959,True,25,R,R,AAA
+2021,153,Seth Lonsway,LHP,Ohio State,IPEDS:204796,True,27,L,L,AAA
+2021,154,Mason Black,RHP,Lehigh,IPEDS:213543,True,26,R,R,AAA
+2021,155,Ryan Webb,LHP,Georgia,IPEDS:139959,True,27,L,L,AAA
+2021,156,Jack Leftwich,RHP,Florida,IPEDS:134130,True,27,R,R,AAA
+2021,157,Chase Silseth,RHP,Arizona,IPEDS:104179,True,25,R,R,MLB
+2021,158,Bryce McGowan,RHP,Charlotte,IPEDS:199139,True,26,R,R,ROK
+2021,159,Branden Boissiere,1B,Arizona,IPEDS:104179,True,26,L,L,AA
+2021,160,Parker Chavers,OF,Coastal Carolina,IPEDS:218724,True,27,L,R,AAA
+2021,161,Mason Miller,RHP,Gardner-Webb,IPEDS:198561,True,27,R,R,MLB
+2021,162,Tanner Bibee,RHP,Cal State Fullerton,IPEDS:110565,True,27,R,R,MLB
+2021,163,Karl Hartman,RHP,Rockledge (FL),,False,23,R,R,ROK
+2021,164,Drake Varnado,SS,Lamar,IPEDS:226091,True,23,R,R,
+2021,165,Alex Ulloa,SS,Wichita State,IPEDS:156125,True,23,R,R,
+2021,166,Kevin Abel,RHP,Oregon State,IPEDS:209542,True,27,R,R,AA
+2021,167,Cale Lansville,RHP,San Jacinto JC,,False,23,R,R,A
+2021,168,Max Debiec,RHP,Michigan,IPEDS:170976,True,23,R,R,
+2021,169,Ben Casparius,RHP,Connecticut,IPEDS:129020,True,27,R,R,MLB
+2021,170,Cal Conley,SS,Texas Tech,IPEDS:229115,True,26,S,R,AA
+2021,171,Cooper Bowman,2B/OF,Louisville,IPEDS:157289,True,26,R,R,AAA
+2021,172,Luke Holman,RHP,Louisiana State,IPEDS:159391,True,23,R,R,A
+2021,173,Logan Cerny,OF,Troy,IPEDS:102368,True,26,R,R,AA
+2021,174,Camden Hayslip,OF,Alabama-Birmingham,IPEDS:100663,True,23,L,L,
+2021,175,Jac Caglianone,1B/OF,Florida,IPEDS:134130,True,23,L,L,MLB
+2021,176,Dom Keegan,C,Vanderbilt,IPEDS:221999,True,25,R,R,AAA
+2021,177,Dylan Dodd,LHP,Southeast Missouri State,IPEDS:179557,True,27,L,L,AAA
+2021,178,Christian McGowan,RHP,Eastern Oklahoma State JC,,False,26,R,R,AA
+2021,179,Drew Gray,LHP,IMG Academy (FL),,False,23,L,L,A+
+2021,180,Josh Stewart,RHP,Texas A&M,IPEDS:228723,True,23,R,R,
+2021,181,Matt Ager,RHP,UC Santa Barbara,IPEDS:110705,True,22,R,R,A+
+2021,182,Braden Olthoff,RHP,Tulane,IPEDS:160755,True,27,R,R,A+
+2021,183,Jesse Bergin,RHP,UCLA,IPEDS:110662,True,26,R,R,ROK
+2021,184,Drew Swift,SS,Arizona State,IPEDS:104151,True,27,R,R,AAA
+2021,185,Rene Lastres,C,Florida International,IPEDS:133951,True,22,R,R,
+2021,186,Blaise Priester,C,Louisiana State,IPEDS:159391,True,23,R,R,
+2021,187,Julian Bosnic,LHP,South Carolina,IPEDS:218663,True,26,L,L,A+
+2021,188,Noah Cardenas,C,UCLA,IPEDS:110662,True,26,R,R,AAA
+2021,189,Dustin Saenz,LHP,Texas A&M,IPEDS:228723,True,26,L,L,AA
+2021,190,Dru Baker,OF,Texas Tech,IPEDS:229115,True,26,R,R,AAA
+2021,191,Brant Hurter,LHP,Georgia Tech,IPEDS:139755,True,27,L,L,MLB
+2021,192,Rodney Boone,LHP,UC Santa Barbara,IPEDS:110705,True,26,L,L,AA
+2021,193,Brady Allen,OF,South Carolina,IPEDS:218663,True,26,R,L,AA
+2021,194,Tyler Hardman,3B,Oklahoma,IPEDS:207500,True,27,R,R,AA
+2021,195,Brandon Clarke,LHP,State College of Florida,,False,23,L,L,AA
+2021,196,Ryan Spikes,2B,Parkview (GA),,False,23,R,R,AA
+2021,197,Levi David,RHP,Northwestern State,IPEDS:160038,True,26,R,R,ROK
+2021,198,Jake Fox,OF/2B,Lakeland Christian (FL),,False,23,L,R,AA
+2021,199,Seth Stephenson,SS,Tennessee,IPEDS:221759,True,25,R,R,AA
+2021,200,Tyree Reed,OF,Jackson State,IPEDS:175856,True,23,L,L,
+2021,201,Jordan Marks,RHP,South Carolina-Upstate,IPEDS:218742,True,27,L,R,AA
+2021,202,Jose Pena Jr.,RHP,Tampa Prep (FL),,False,22,R,R,A+
+2021,203,Chris Cortez,RHP,Texas A&M,IPEDS:228723,True,23,R,R,AA
+2021,204,Gordon Graceffo,RHP,Villanova,IPEDS:216597,True,26,R,R,MLB
+2021,205,Brandon Neely,RHP,Florida,IPEDS:134130,True,22,R,R,A+
+2021,206,AJ Smith-Shawver,RHP,Colleyville Heritage (TX),,False,23,R,R,MLB
+2021,207,Ryan Prager,LHP,Texas A&M,IPEDS:228723,True,23,L,L,A
+2021,208,Christian Encarnacion-Strand,1B/3B,Oklahoma State,IPEDS:207388,True,26,R,R,AAA
+2021,209,Jake Rucker,3B/1B,Tennessee,IPEDS:221759,True,26,R,R,AA
+2021,210,Chad Dallas,RHP,Tennessee,IPEDS:221759,True,25,R,R,AAA
+2021,211,Tanner Kohlhepp,RHP,Notre Dame,IPEDS:152080,True,26,L,R,AA
+2021,212,Sean Sullivan,RHP,California,IPEDS:110635,True,25,R,R,AAA
+2021,213,Bransen Kuehl,RHP,Utah,IPEDS:230764,True,23,R,R,
+2021,214,Mitch Bratt,LHP,Georgia Premier (GA),,False,22,L,L,AAA
+2021,215,Nick Maldonado,RHP,Vanderbilt,IPEDS:221999,True,25,R,R,A+
+2021,216,Trenton Denholm,RHP,UC Irvine,IPEDS:110653,True,26,R,R,AAA
+2021,217,Mack Anglin,RHP,Clemson,IPEDS:217882,True,25,R,R,A
+2021,218,Logan Workman,RHP,Lee,NCAA:lee,True,27,R,R,AAA
+2021,219,Luke Murphy,RHP,Vanderbilt,IPEDS:221999,True,26,R,R,AA
+2021,220,Patrick Wicklander,LHP,Arkansas,IPEDS:106397,True,26,R,L,
+2021,221,Jalen Battles,SS,Arkansas,IPEDS:106397,True,26,R,R,AAA
+2021,222,Patrick Winkel,C,Connecticut,IPEDS:129020,True,26,L,R,AA
+2021,223,Dayton Dooney,2B,Central Arizona JC,,False,26,R,R,A
+2021,224,Devin Futrell,LHP,Vanderbilt,IPEDS:221999,True,23,L,L,A+
+2021,225,Glenn Albanese Jr.,RHP,Louisville,IPEDS:157289,True,27,R,R,A+
+2021,226,Chad Patrick,RHP,Purdue Northwest,NCAA:purdue-northwest,True,27,R,R,MLB
+2021,227,Sean Mullen,RHP,UCLA,IPEDS:110662,True,26,R,R,A+
+2021,228,Christian Scott,RHP,Florida,IPEDS:134130,True,26,R,R,MLB
+2021,229,Will Frisch,RHP,Oregon State,IPEDS:209542,True,25,R,R,A
+2021,230,Ryan Higgins,3B,Fresno State,IPEDS:110556,True,26,R,R,AA
+2021,231,Tyler Miller,1B,Auburn,IPEDS:100858,True,26,L,R,AA
+2021,232,Daniel Brooks,RHP,College of Charleston,IPEDS:217819,True,23,R,R,ROK
+2021,233,Carter Mathison,OF,Indiana,IPEDS:151351,True,23,L,L,A+
+2021,234,Logan Henderson,RHP,McLennan CC,,False,24,R,R,MLB
+2021,235,CJ Rodriguez,C,Vanderbilt,IPEDS:221999,True,25,R,R,AAA
+2021,236,Drew Christo,RHP,Nebraska,IPEDS:181464,True,23,L,R,A+
+2021,237,Trenton Wallace,LHP,Iowa,IPEDS:153658,True,27,L,L,AAA
+2021,238,Hunter Parks,RHP,Florence-Darlington Tech JC,,False,25,R,R,AA
+2021,239,Cullen Kafka,RHP,Oregon,IPEDS:209551,True,27,R,R,A+
+2021,240,Jake Pfennigs,RHP,Oregon State,IPEDS:209542,True,26,R,R,A+
+2021,241,Nick Biddison,2B,Virginia Tech,IPEDS:233921,True,25,R,R,A+
+2021,242,Janzen Keisel,RHP,Oklahoma State,IPEDS:207388,True,23,R,R,ROK
+2021,243,Franco Aleman,RHP,Florida,IPEDS:134130,True,25,R,R,MLB
+2021,244,Gavin Conticello,OF,Stoneman Douglas (FL),,False,22,L,R,AA
+2021,245,Damiano Palmegiani,3B/1B,College of Southern Nevada,,False,26,R,R,AA
+2021,246,Larson Kindreich,LHP,Biola,NCAA:biola,True,26,L,L,AA
+2021,247,Eric Cerantola,RHP,Mississippi State,IPEDS:176080,True,26,R,R,AAA
+2021,248,Nick Nastrini,RHP,UCLA,IPEDS:110662,True,26,R,R,AA
+2021,249,Chase Mason,OF,Viborg-Hurley (SD),,False,23,L,R,
+2021,250,Austin Krob,LHP,Texas Christian,IPEDS:228875,True,26,L,L,AA

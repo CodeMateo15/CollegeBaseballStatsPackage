@@ -10,7 +10,13 @@ recursive-include src/data/mlb_draft_cache *.json
 recursive-include src/data/mlb_team_names *.csv
 recursive-include src/data/team_names_stats *.csv
 recursive-include src/data/league_constants *.csv
+recursive-include src/data/registry *.csv
+recursive-include src/data/rpi *.csv
+recursive-include src/data/prospects *.csv
+recursive-include src/data/program_finance *.csv
+recursive-include src/data/draft_detail *.json
 include src/data/league_constants/manifest.json
+include src/data/registry/manifest.json
 include src/data/player_stats_cache/manifest.json
 
 include LICENSE
