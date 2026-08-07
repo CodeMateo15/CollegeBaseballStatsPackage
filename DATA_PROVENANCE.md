@@ -16,6 +16,8 @@ it is redistributed. If you are adding a dataset, add a row here first.
 | RPI / strength of schedule | `src/data/rpi/{year}.csv` | [Warren Nolan](https://www.warrennolan.com), converted by `ncaa_bbStats.rpi_store` | Third-party computation, not official NCAA; factual records | 2021–2026, Division I |
 | Program finances | `src/data/program_finance/eada_features.csv` | [EADA survey](https://ope.ed.gov/athletics/), U.S. Dept. of Education, derived by `ncaa_bbStats.program_store` | U.S. federal government work; public domain | 2021–2025, carried forward to 2026 |
 | Draft prospect rankings | `src/data/prospects/{year}.csv` | MLB Pipeline top-250, converted by `ncaa_bbStats.prospect_store` | Third-party rankings, attributed | 2021–2026, 250/year |
+| Player registry | `src/data/player_registry/*.csv` | Resolved from the player cache, anchored to the MLB Stats API by `tools/build_player_registry.py` | Package's own work | 27,283 players, 2021–2025 |
+| Draft models | `src/data/models/*` | Trained by `ncaa_bbStats.model_store` on the datasets above | Package's own work | Trained 2021–2024, tested 2025 |
 | Pythagorean exponents | `src/data/pythagorean/conference_exponents.csv` | Fitted to NCAA team-season data | Package's own work | 31 conferences; **experimental** |
 | Team / school name tables | `src/data/team_names_stats/`, `src/data/mlb_team_names/` | Derived from the caches above by `ncaa_bbStats.team_names_store` | Package's own work | — |
 

@@ -515,6 +515,10 @@ def add_advanced_columns(
         out["k%"] = out["so"] / out["tbf"].replace(0, pd.NA)
         out["bb%"] = out["bb"] / out["tbf"].replace(0, pd.NA)
         out["k-bb%"] = out["k%"] - out["bb%"]
+        # Balls in play a pitcher allowed: batters faced less the outcomes that
+        # never reach a fielder.
+        balls_in_play = out["tbf"] - out["so"] - out["hr"] - out["bb"] - out["hbp"]
+        out["babip"] = (out["h"] - out["hr"]) / balls_in_play.replace(0, pd.NA)
 
     # Row-wise, because each row needs its own season's constants.
     records = out.to_dict("records")

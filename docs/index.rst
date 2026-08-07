@@ -43,6 +43,7 @@ It includes multiple statistical functions for parsing and returning college tea
    mlb_draft
    draft_detail
    prospects
+   scouting
 
 .. toctree::
    :maxdepth: 2

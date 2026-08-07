@@ -74,14 +74,10 @@ Functions
     :param end: Last draft year.
     :return: Picks ordered by year then selection.
 
-.. py:function:: draft_board(season: int, *, n: int | None = None, college_only: bool = False) -> list[dict]
-
-    The draft in selection order.
-
-    :param season: Draft year (2021-2026).
-    :param n: Return only the first N picks.
-    :param college_only: Exclude high-school selections.
-    :return: Picks in order.
+``draft_board`` in this module returns the actual draft in selection order.
+Note that ``ncaa_bbStats.draft_board`` resolves to the *model's* board — the
+ranking by predicted draft probability documented in :doc:`scouting`. Reach this
+one as ``ncaa_bbStats.draft_detail_utils.draft_board``.
 
 .. py:function:: biggest_bonuses(season: int, *, n: int = 25) -> list[dict]
 

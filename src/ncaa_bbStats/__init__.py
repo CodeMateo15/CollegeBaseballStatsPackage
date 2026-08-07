@@ -77,6 +77,15 @@ from ncaa_bbStats.advanced_stats import (
 # only pulled in by the [scrape] extra. PEP 562 defers the cost to first use.
 _LAZY_ATTRS = {
     "parse_mlb_draft": "ncaa_bbStats.draft_stats",
+    # scouting imports XGBoost on first prediction; keep it off the import path.
+    "predict_draft_probability": "ncaa_bbStats.scouting",
+    "predict_draft_order": "ncaa_bbStats.scouting",
+    "draft_board": "ncaa_bbStats.scouting",
+    "scouting_report": "ncaa_bbStats.scouting",
+    "explain_prediction": "ncaa_bbStats.scouting",
+    "predict_from_stats": "ncaa_bbStats.scouting",
+    "is_draft_eligible": "ncaa_bbStats.scouting",
+    "model_card": "ncaa_bbStats.scouting",
 }
 
 # Modules with no optional dependencies, re-exported eagerly below.
@@ -88,7 +97,7 @@ from ncaa_bbStats.rpi_utils import (  # noqa: E402
     rpi, rpi_over_years, rpi_rank, rpi_record, rpi_table, strength_of_schedule,
 )
 from ncaa_bbStats.draft_detail_utils import (  # noqa: E402
-    biggest_bonuses, bonus_vs_slot, conference_draft_counts, draft_board,
+    biggest_bonuses, bonus_vs_slot, conference_draft_counts,
     draft_class, draft_demographics, draft_history, draft_pick, overslot_picks,
     signing_bonus, slot_value, state_pipeline,
 )
@@ -181,7 +190,6 @@ __all__ = [
     "draft_pick",
     "draft_class",
     "draft_history",
-    "draft_board",
     "slot_value",
     "signing_bonus",
     "bonus_vs_slot",
@@ -220,6 +228,15 @@ __all__ = [
     "compare_teams",
     # draft_stats (lazy)
     "parse_mlb_draft",
+    # scouting (lazy; needs the model extra)
+    "predict_draft_probability",
+    "predict_draft_order",
+    "draft_board",
+    "scouting_report",
+    "explain_prediction",
+    "predict_from_stats",
+    "is_draft_eligible",
+    "model_card",
 ]
 
 
