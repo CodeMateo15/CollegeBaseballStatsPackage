@@ -34,8 +34,14 @@ from ncaa_bbStats._normalize import split_team_league
 from ncaa_bbStats._paths import data_path, load_team_stats
 from ncaa_bbStats.team_registry import as_team_id, resolve_team
 
-TRAIN_YEARS = [2021, 2022, 2023, 2024]
-TEST_YEAR = 2025
+# The held-out season is the most recent one the caches cover, so the reported
+# metrics describe the class the board is actually showing, and every earlier
+# season is available for training. Holding out 2025 while scoring 2026 cost
+# 0.012 PR-AUC on 2026 -- several times seed noise -- because it withheld a
+# whole season from a model whose purpose is projecting the newest class.
+# Move both when a new season lands.
+TRAIN_YEARS = [2021, 2022, 2023, 2024, 2025]
+TEST_YEAR = 2026
 
 # Draft eligibility. A player is eligible having completed three college
 # seasons, or on turning 21 near the draft.
@@ -52,7 +58,40 @@ STAGE2_PARAMS = dict(
     random_state=0,
 )
 
-MODEL_VERSION = "s1s2-2026.1"
+# V7-public: the same three-stage design as the V7 model in the research paper,
+# refitted on redistributable inputs. It is a separate lineage, not a revision
+# of V7, and the paper's reported metrics do not describe it. See LINEAGE.
+MODEL_VERSION = "v7-public-2026.1"
+
+# What differs from the published V7, so a number from one is never quoted for
+# the other. Surfaced through model_card().
+LINEAGE = {
+    "derived_from": "V7 (Biggs & Gerber 2026), three-stage XGBoost",
+    "relationship": "separate lineage, not a patched V7",
+    "differences": [
+        "Features: the nine vendor-proprietary metrics V7 used (wRC+, wOBA, "
+        "wRAA, wRC, wSB, Spd, FIP, E-F, LOB%) are replaced by the "
+        "package-derived college-calibrated equivalents, so every input is "
+        "redistributable.",
+        "Stages: two are shipped. V7 also fitted signing-bonus and slot-value "
+        "regressors; the bonus/slot ratio scored a rank correlation of 0.003 "
+        "on held-out data here, so it is not shipped.",
+        "Labels: draft records are matched to careers independently here, from "
+        "the public draft feed, rather than reusing V7's matching. The two "
+        "disagree on how many college players were drafted (2,466 here against "
+        "1,953 in V7's matrix), so the training target is not the same target.",
+        "Population: every player-season the public caches cover, 61,279 of "
+        "them, against 20,220 in V7's matrix. This model is fitted on a much "
+        "larger and less screened population, which is the single biggest "
+        "reason the two boards differ.",
+        "Hyperparameters and split are this package's, not V7's, so a "
+        "V7-to-V7-public comparison reflects features, labels and settings "
+        "together rather than any one of them.",
+        "Seasons 2021-2026, with 2026 held out of training, so the 2026 "
+        "board is an out-of-sample projection and the reported metrics "
+        "describe that same class.",
+    ],
+}
 
 
 def _require_xgboost():
@@ -72,13 +111,26 @@ def _player_frame(stat_type, suffix):
     from ncaa_bbStats.player_utils import load_player_frame
 
     df = load_player_frame(stat_type, "noMin")
-    keys = ["name", "team", "year"]
-    stats = [c for c in df.columns if c not in keys + ["player_key", "team name",
-                                                       "division", "age",
-                                                       "qualified"]]
+    keys = ["player_id", "name", "team", "year"]
+    stats = [c for c in df.columns if c not in keys + ["team name", "division",
+                                                       "age", "qualified"]]
     out = df[keys + ["age"] + stats].copy()
     out = out.rename(columns={c: f"{c}{suffix}" for c in stats})
     return out
+
+
+def _entity_id_map():
+    """Cache player id -> registry career id.
+
+    They differ only for the 76 careers where the vendor issued a second id
+    mid-career; `member_ids` records every id a career covers.
+    """
+    registry = pd.read_csv(data_path("player_registry", "player_registry.csv"))
+    mapping = {}
+    for entity_id, members in zip(registry["player_id"], registry["member_ids"]):
+        for member in str(members).split("|"):
+            mapping[member] = entity_id
+    return mapping
 
 
 def _team_frame():
@@ -173,24 +225,26 @@ def build_matrix() -> pd.DataFrame:
     batting = _player_frame("batting", "_bat")
     pitching = _player_frame("pitching", "_pitch")
 
-    df = batting.merge(pitching, on=["name", "team", "year"], how="outer",
+    # Keyed on the player id, not the name: two players named Cole Conn were
+    # team-mates at UIC in 2022 and 2023, and a name join merges their seasons.
+    df = batting.merge(pitching, on=["player_id", "year"], how="outer",
                        suffixes=("", "_p"))
-    df["age"] = df["age"].fillna(df.get("age_p"))
+    for column in ("name", "team", "age"):
+        df[column] = df[column].fillna(df.get(f"{column}_p"))
     df = df.drop(columns=[c for c in df.columns if c.endswith("_p")])
 
-    # Attach career identity.
+    # Attach career identity, on the career id and season. The previous join was
+    # on (year, team) alone, which is one row per team-season on the left and
+    # every player on that team on the right -- so birth year, height, weight,
+    # position, bats and throws came from an arbitrary team-mate.
+    df["player_id"] = df["player_id"].map(_entity_id_map()).fillna(df["player_id"])
     seasons = _registry_frame()
     df = df.merge(
-        seasons[["player_id", "year", "team", "primary_role", "birth_year_est",
+        seasons[["player_id", "year", "primary_role", "birth_year_est",
                  "school_class", "height", "weight", "position", "bats",
-                 "throws"]],
-        on=["year", "team"], how="left", suffixes=("", "_reg"),
-    ).drop_duplicates(["name", "team", "year"])
-
-    # Re-key on name as well, since (year, team) alone is not unique.
-    registry = pd.read_csv(data_path("player_registry", "player_registry.csv"))
-    name_to_id = dict(zip(registry["name"].str.lower(), registry["player_id"]))
-    df["player_id"] = df["name"].str.lower().map(name_to_id)
+                 "throws"]].drop_duplicates(["player_id", "year"]),
+        on=["player_id", "year"], how="left", suffixes=("", "_reg"),
+    )
 
     df["role"] = df["primary_role"].map(F.ROLE_MAP)
 
@@ -328,6 +382,8 @@ def train(matrix: pd.DataFrame, out_dir: str, *, test_year: int = TEST_YEAR):
 
     manifest = {
         "model_version": MODEL_VERSION,
+        "lineage": LINEAGE,
+        "scored_years": sorted(int(y) for y in matrix["year"].unique()),
         "trained_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "xgboost_version": xgb.__version__,
         "train_years": sorted(int(y) for y in train_rows["year"].unique()),

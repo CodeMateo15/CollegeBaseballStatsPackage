@@ -23,7 +23,7 @@
         "wsb"
       ],
       "columns_kept": [
-        "player_key",
+        "player_id",
         "name",
         "team",
         "team name",
@@ -49,18 +49,19 @@
         "cs",
         "qualified"
       ],
-      "qualified_rows": 11531,
-      "rows": 26826,
+      "qualified_rows": 13910,
+      "rows": 32156,
       "seasons": [
         2021,
         2022,
         2023,
         2024,
-        2025
+        2025,
+        2026
       ],
       "source_sha256": {
-        "batting_noMin.csv": "9fc3ef930d73fb824026e8efc1a6aa29af0028bbfccf2e5f805ab69c4010e3a0",
-        "batting_qualified.csv": "ff0ee7d29f931d8a460276d5b9b1f822c9b0d4422b6d5ce004000d779861cfd1"
+        "batting_noMin.csv": "395c23545077e785a86a02d24d89e95ed552c23dcadae7aa4549dd9482c7f0f2",
+        "batting_qualified.csv": "a0ccea58bcc5f6b4014518c6e296a0e0065f5508452479f82515c148a5faadd9"
       },
       "stat_type": "batting",
       "unexpected_drops": []
@@ -86,7 +87,7 @@
         "whip"
       ],
       "columns_kept": [
-        "player_key",
+        "player_id",
         "name",
         "team",
         "team name",
@@ -113,18 +114,19 @@
         "so",
         "qualified"
       ],
-      "qualified_rows": 5642,
-      "rows": 25964,
+      "qualified_rows": 6760,
+      "rows": 31368,
       "seasons": [
         2021,
         2022,
         2023,
         2024,
-        2025
+        2025,
+        2026
       ],
       "source_sha256": {
-        "pitching_noMin.csv": "d15b8adef66fe58a6f9f7af16d8639db78e3abd00fddda8bd87b7897eaec8b77",
-        "pitching_qualified.csv": "5968f21194f112bb6e4bdf64999879e9f731af3834ccb33848e6e72fd2d24043"
+        "pitching_noMin.csv": "19497750d55ce537bfcc22dc29111733ea17d612988ffb5ef227dd646c59185c",
+        "pitching_qualified.csv": "9588ec0b376cea862d59c743b1fef77d4d34eca0f7668f0c092148a7d29b0f26"
       },
       "stat_type": "pitching",
       "unexpected_drops": []

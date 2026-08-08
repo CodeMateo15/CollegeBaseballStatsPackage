@@ -48,10 +48,12 @@ import json
 import os
 import sys
 from collections import defaultdict
+from functools import lru_cache
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "src"))
 
 from ncaa_bbStats._normalize import normalize_school  # noqa: E402
+from ncaa_bbStats.team_registry import resolve_team  # noqa: E402
 from ncaa_bbStats._paths import data_path  # noqa: E402
 
 MAX_CAREER_SPAN = 6
@@ -68,44 +70,72 @@ def normalize_name(name: str) -> str:
 
 
 class Union:
-    """Minimal union-find over hashable keys."""
+    """Minimal union-find over hashable keys.
+
+    Membership is maintained incrementally. Rebuilding it by scanning every key
+    on each query made the merge loop quadratic in the size of the whole cache,
+    which is minutes rather than seconds once the season count passes ~50k.
+    """
 
     def __init__(self):
         self.parent = {}
+        self.member = {}
 
     def find(self, key):
-        self.parent.setdefault(key, key)
+        if key not in self.parent:
+            self.parent[key] = key
+            self.member[key] = [key]
         while self.parent[key] != key:
             self.parent[key] = self.parent[self.parent[key]]
             key = self.parent[key]
         return key
 
+    def members(self, key):
+        """The keys currently merged with `key`."""
+        return self.member[self.find(key)]
+
     def union(self, a, b):
         ra, rb = self.find(a), self.find(b)
-        if ra != rb:
-            self.parent[rb] = ra
+        if ra == rb:
+            return
+        # Attach the smaller group to the larger so the copy stays cheap.
+        if len(self.member[ra]) < len(self.member[rb]):
+            ra, rb = rb, ra
+        self.parent[rb] = ra
+        self.member[ra].extend(self.member.pop(rb))
 
     def groups(self):
-        out = defaultdict(list)
-        for key in self.parent:
-            out[self.find(key)].append(key)
-        return out
+        return {root: list(keys) for root, keys in self.member.items()}
 
 
 def load_season_units():
-    """Every player-season across both caches, as unit records."""
+    """Every player-season across both caches, as unit records.
+
+    Keyed on the cache's ``player_id`` and year. That id comes from the vendor's
+    player key, so a season belongs to exactly one player by construction. The
+    previous key -- normalized name, team, year -- silently merged the two
+    players named Cole Conn at UIC into a single 2022 unit before resolution
+    even began.
+    """
     units = {}
     for stat_type in ("batting", "pitching"):
         path = data_path("player_stats_cache", stat_type, f"{stat_type}.csv")
         if not os.path.isfile(path):
             continue
         with open(path, newline="", encoding="utf-8") as f:
-            for row in csv.DictReader(f):
+            reader = csv.DictReader(f)
+            if "player_id" not in (reader.fieldnames or []):
+                raise SystemExit(
+                    f"{path} has no player_id column. Rerun "
+                    "tools/migrate_fg_to_public.py first."
+                )
+            for row in reader:
                 name = row["name"].strip()
-                key = (normalize_name(name), row["team"].strip(), int(row["year"]))
+                key = (row["player_id"].strip(), int(row["year"]))
                 unit = units.setdefault(key, {
-                    "name_norm": key[0], "name": name, "team": key[1],
-                    "year": key[2], "age": None, "stat_types": set(),
+                    "pid": key[0], "name_norm": normalize_name(name), "name": name,
+                    "team": row["team"].strip(), "year": key[1],
+                    "age": None, "stat_types": set(),
                     "team_name": row.get("team name", ""),
                     "division": int(row.get("division") or 1),
                 })
@@ -166,6 +196,14 @@ def resolve(units, anchor_by_name, permissive=False):
     for key, unit in units.items():
         by_name[unit["name_norm"]].append(key)
 
+    # Seasons sharing a player id are the same career by construction: the id
+    # comes from the vendor's player key, not from a name. Join them outright,
+    # before any heuristic runs.
+    first_unit_of_pid = {}
+    for key, unit in units.items():
+        anchor_key = first_unit_of_pid.setdefault(unit["pid"], key)
+        union.union(anchor_key, key)
+
     def compatible(a, b):
         ua, ub = units[a], units[b]
         if ua["year"] == ub["year"] and ua["team"] != ub["team"]:
@@ -178,12 +216,23 @@ def resolve(units, anchor_by_name, permissive=False):
     def try_union(a, b):
         if not compatible(a, b):
             return
-        # C3: check the merged span before committing.
-        members = union.groups()
-        merged = members[union.find(a)] + members[union.find(b)]
+        if union.find(a) == union.find(b):
+            return
+        merged = union.members(a) + union.members(b)
+
         years = [units[k]["year"] for k in merged]
         if max(years) - min(years) > MAX_CAREER_SPAN:
-            return
+            return  # C3
+
+        # C4: two player ids that appear in the same season are two people. This
+        # is what keeps the two Cole Conns at UIC apart -- same name, same team,
+        # overlapping years, which R3 would otherwise merge.
+        seen = {}
+        for k in merged:
+            unit = units[k]
+            if seen.setdefault(unit["year"], unit["pid"]) != unit["pid"]:
+                return
+
         union.union(a, b)
 
     for name_norm, keys in by_name.items():
@@ -217,12 +266,15 @@ def resolve(units, anchor_by_name, permissive=False):
 
 
 def mint_id(units_for_entity, units):
-    """Deterministic seed id from the entity's debut season."""
+    """The entity's id: the player id of its debut season.
+
+    Most careers carry one player id throughout, so the registry id and the
+    cache id are the same value. Where a career spans several ids -- the vendor
+    occasionally issues a new one after a transfer -- the debut id wins and the
+    rest are recorded in player_id_aliases.csv.
+    """
     debut = min(units_for_entity, key=lambda k: (units[k]["year"], units[k]["team"]))
-    unit = units[debut]
-    canonical = f"{unit['name_norm']}|{unit['year']}|{unit['team']}"
-    digest = hashlib.blake2b(canonical.encode("utf-8"), digest_size=6).hexdigest()
-    return f"cbp{digest}"
+    return units[debut]["pid"]
 
 
 def build(permissive=False):
@@ -243,10 +295,12 @@ def build(permissive=False):
         members = [units[k] for k in keys]
         years = sorted({m["year"] for m in members})
         teams = sorted({m["team"] for m in members})
+        member_ids = sorted({m["pid"] for m in members})
 
         player_id = mint_id(keys, units)
-        # Collisions are vanishingly unlikely but must never silently merge two
-        # people, so disambiguate rather than trust the hash.
+        # Two entities cannot share a debut player id, so this should never
+        # fire. Kept because silently merging two people is the one outcome
+        # this file exists to prevent.
         suffix = 0
         while player_id in used_ids:
             suffix += 1
@@ -254,16 +308,14 @@ def build(permissive=False):
         used_ids.add(player_id)
 
         implied = [birth_year(m) for m in members if birth_year(m) is not None]
-        anchor = None
         candidates = anchor_by_name.get(members[0]["name_norm"], [])
         # Only accept an anchor whose draft year sits at or just after the
         # player's last college season. The college season ends before the July
         # draft, so a drafted player's final season is the draft year or the one
         # before it.
-        for candidate in candidates:
-            if candidate["draft_year"] in (max(years), max(years) + 1):
-                anchor = candidate
-                break
+        candidates = [c for c in candidates
+                      if c["draft_year"] in (max(years), max(years) + 1)]
+        anchor = _pick_anchor(candidates, teams)
 
         if anchor and anchor.get("birth_date"):
             birth_est, source = int(anchor["birth_date"][:4]), "mlbam_birth_date"
@@ -289,6 +341,10 @@ def build(permissive=False):
             "last_year": max(years),
             "n_seasons": len(years),
             "teams": "|".join(teams),
+            # Every cache player_id this career covers, so a season row can be
+            # resolved to its entity. Equals player_id for all but the careers
+            # where the vendor issued a second id mid-career.
+            "member_ids": "|".join(member_ids),
             "primary_role": role,
             "ambiguous": _is_ambiguous(members),
             "birth_year_est": birth_est,
@@ -322,6 +378,48 @@ def build(permissive=False):
     entities.sort(key=lambda e: (e["name_norm"], e["first_year"]))
     seasons.sort(key=lambda s: (s["player_id"], s["year"]))
     return entities, seasons, units, anchor_by_name
+
+
+def _pick_anchor(candidates, teams):
+    """Choose the draft record belonging to this career, or none.
+
+    Matching on name alone attaches a draft pick to every player who shares
+    that name: Carter Beck batted for Indiana State and a different Carter Beck
+    pitched for Akron, and both were recorded as pick 26 with the same MLBAM
+    id. That is a fabricated positive in the Stage 1 training target, so where
+    the school cannot settle it, nothing is anchored -- a missing label is
+    recoverable, an invented one is not.
+    """
+    if not candidates:
+        return None
+    if len(candidates) == 1 and len(teams) == 1:
+        # Sole candidate for a single-team career: still require the school to
+        # agree if both sides resolve, so a lone same-name draftee elsewhere
+        # cannot claim this career.
+        if _school_matches(candidates[0], teams):
+            return candidates[0]
+        return None if _resolvable(candidates[0], teams) else candidates[0]
+
+    matched = [c for c in candidates if _school_matches(c, teams)]
+    return matched[0] if len(matched) == 1 else None
+
+
+@lru_cache(maxsize=4096)
+def _team_id(name):
+    return resolve_team(name)
+
+
+def _resolvable(candidate, teams):
+    """True when both sides resolve to a team id, so a mismatch is meaningful."""
+    return bool(_team_id(candidate.get("school") or "")) and any(
+        _team_id(team) for team in teams)
+
+
+def _school_matches(candidate, teams):
+    school_id = _team_id(candidate.get("school") or "")
+    if not school_id:
+        return False
+    return any(_team_id(team) == school_id for team in teams)
 
 
 def _is_ambiguous(members):

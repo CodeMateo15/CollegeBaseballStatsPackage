@@ -67,6 +67,21 @@ def _load_constants(kind: ConstantKind) -> pd.DataFrame:
     return df[df["year"] > 0].reset_index(drop=True)
 
 
+@lru_cache(maxsize=256)
+def _lookup_constants(year: int, division: int, kind: ConstantKind) -> Optional[dict]:
+    """Find one constants row. Cached: only a few dozen keys ever exist.
+
+    ``add_advanced_columns`` calls this once per row per metric -- six times for
+    every batting row -- so an uncached filter over the constants table costs
+    more than everything else in the package put together.
+    """
+    df = _load_constants(kind)
+    match = df[(df["year"] == year) & (df["division"] == division)]
+    if match.empty:
+        return None
+    return match.iloc[0].to_dict()
+
+
 def league_constants(
     year: int, division: int = 1, kind: ConstantKind = "batting"
 ) -> Optional[dict]:
@@ -82,11 +97,14 @@ def league_constants(
     Returns:
         dict | None: The constants row, or None if that season has none.
     """
-    df = _load_constants(kind)
-    match = df[(df["year"] == year) & (df["division"] == division)]
-    if match.empty:
+    try:
+        # int() also rejects NaN, which is how a missing year arrives here.
+        year_key, division_key = int(year), int(division)
+    except (TypeError, ValueError):
         return None
-    return match.iloc[0].to_dict()
+    row = _lookup_constants(year_key, division_key, kind)
+    # Copy, so a caller that edits the returned dict cannot poison the cache.
+    return None if row is None else dict(row)
 
 
 def seasons_with_constants(division: int = 1, kind: ConstantKind = "batting") -> list:

@@ -108,7 +108,7 @@ def _career_frame(df: pd.DataFrame, stat_type: StatType) -> pd.DataFrame:
     """Aggregate seasons into career totals, re-deriving the rates."""
     counting = [
         c for c in df.columns
-        if c not in {"player_key", "name", "team", "team name", "division",
+        if c not in {"player_id", "name", "team", "team name", "division",
                      "year", "age", "qualified"}
         and pd.api.types.is_numeric_dtype(df[c])
     ]

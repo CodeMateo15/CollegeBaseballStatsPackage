@@ -201,3 +201,36 @@ def test_league_constants_regenerate_identically(tmp_path):
             f"{name} differs from a fresh build. Rerun "
             "tools/build_league_constants.py and commit the result."
         )
+
+
+def test_league_constants_is_cached():
+    """`add_advanced_columns` calls this once per row per metric.
+
+    Uncached, the boolean filter it performs dominated package load time --
+    ~294k calls resolving to 10 distinct keys, which cost 21s to build the
+    batting frame and 0.4s once cached. A web app pays that on every cold
+    start, so the cache is load-bearing rather than an optimisation.
+    """
+    adv._lookup_constants.cache_clear()
+    before = adv._lookup_constants.cache_info()
+    for _ in range(50):
+        adv.league_constants(2025, 1, "batting")
+    after = adv._lookup_constants.cache_info()
+
+    assert after.misses - before.misses == 1, "each key should be looked up once"
+    assert after.hits - before.hits == 49
+
+
+def test_league_constants_result_is_not_shared():
+    """A caller mutating the returned dict must not corrupt the cache."""
+    first = adv.league_constants(2025, 1, "batting")
+    original = first["w_hr"]
+    first["w_hr"] = 999.0
+
+    assert adv.league_constants(2025, 1, "batting")["w_hr"] == original
+
+
+@pytest.mark.parametrize("year", [None, float("nan"), "not-a-year"])
+def test_league_constants_rejects_unusable_years(year):
+    """A missing year reaches this function from rows with no season."""
+    assert adv.league_constants(year, 1, "batting") is None

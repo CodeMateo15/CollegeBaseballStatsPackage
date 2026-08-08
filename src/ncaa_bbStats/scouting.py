@@ -632,14 +632,21 @@ def model_card(stage: Optional[int] = None) -> dict:
         "No third stage. A bonus/slot ratio model scored a rank correlation of "
         "0.003 on held-out data and is not shipped; slot values are published "
         "facts, available via draft_detail_utils.slot_value().",
-        "Trained on 2021-2024 and tested on 2025, a single held-out season. "
-        "These are not cross-validated estimates.",
+        "Trained on 2021-2025 and tested on 2026, a single held-out season. "
+        "These are not cross-validated estimates, and one season is a small "
+        "sample: 2026 scores lower than 2025 did, which is a property of the "
+        "class as much as of the model.",
     ]
     manifest["reference_implementation"] = {
-        "note": "The research implementation this was ported from used "
-                "proprietary third-party metrics as features. Its numbers are "
-                "listed for comparison only; they are NOT this package's "
-                "performance, and its test year was 2026 rather than 2025.",
+        "name": "V7 (Biggs & Gerber 2026)",
+        "note": "V7 is the published research model this one derives from. It "
+                "used proprietary third-party metrics as features, a different "
+                "label set and population, its own hyperparameters, and a 2026 "
+                "test year. The numbers below are for orientation only. They "
+                "are NOT this model's performance, and because features, "
+                "labels, population and settings all differ, the gap between "
+                "the two cannot be attributed to any one of them. See "
+                "model_card()['lineage'].",
         "stage1_pr_auc": 0.725,
         "stage1_roc_auc": 0.949,
         "stage2_spearman": 0.653,

@@ -264,11 +264,30 @@ def test_model_card_states_the_limitations():
 
 @requires_models
 def test_model_card_does_not_claim_the_reference_numbers():
-    """The ported implementation's numbers are not this package's numbers."""
+    """V7's published numbers are not this model's numbers."""
     card = scouting.model_card()
     reference = card["reference_implementation"]
-    assert "NOT this package" in reference["note"]
+    assert "NOT this model" in reference["note"]
     assert reference["stage1_pr_auc"] != card["stage1"]["metrics"]["pr_auc"]
+    assert reference["stage2_spearman"] != card["stage2"]["metrics"]["spearman"]
+
+
+@requires_models
+def test_model_card_declares_its_lineage():
+    """A separate lineage has to say so, and say what differs.
+
+    The failure this prevents is a quiet one: a model named after V7, serving
+    numbers V7's paper does not describe, with nothing on the card that would
+    let a reader tell the two apart.
+    """
+    card = scouting.model_card()
+    lineage = card["lineage"]
+    assert "not a patched" in lineage["relationship"]
+    assert len(lineage["differences"]) >= 5
+
+    text = " ".join(lineage["differences"]).lower()
+    for topic in ("features", "labels", "hyperparameters"):
+        assert topic in text, f"lineage does not mention {topic}"
 
 
 @requires_models

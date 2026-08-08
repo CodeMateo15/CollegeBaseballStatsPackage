@@ -47,7 +47,13 @@ PRIVATE_DIR = os.path.join(
 )
 
 # Identity columns kept, in output order.
-IDENTITY = ["player_key", "name", "team", "team name", "division", "year", "age"]
+IDENTITY = ["player_id", "name", "team", "team name", "division", "year", "age"]
+
+# Salt for the player id. The id is derived from the vendor's player key so that
+# identity is exact rather than inferred from names, but it is salted so the
+# published value is not a bare hash of that key and cannot be dictionary-
+# attacked back into it. Changing this renumbers every player; don't.
+PLAYER_ID_SALT = b"ncaa_bbStats/player_id/v1"
 
 # Counting statistics kept -- records of what happened on the field.
 COUNTING = {
@@ -82,6 +88,18 @@ VENDOR_IDS = ["playerid", "mlbamid", "nameascii"]
 PLAYER_DIVISION = 1
 
 
+def player_id(vendor_id):
+    """Package-owned career id for one vendor player key.
+
+    Salted so the published value is not a bare hash of the vendor's internal
+    key. Deterministic, so regenerating the caches does not renumber anyone.
+    """
+    digest = hashlib.blake2b(
+        str(vendor_id).strip().encode("utf-8"), key=PLAYER_ID_SALT, digest_size=6
+    ).hexdigest()
+    return f"cbp{digest}"
+
+
 def sha256(path):
     h = hashlib.sha256()
     with open(path, "rb") as f:
@@ -104,12 +122,44 @@ def load(stat_type, qualifier):
     return df
 
 
+def team_names():
+    """Acronym -> canonical NCAA team name, from the packaged team registry.
+
+    The vendor's own ``team name`` column is not trustworthy: it disagrees with
+    itself across the batting and pitching exports for 13 acronyms, covering
+    ~1,000 rows. TAR is Tarleton State in one file and North Carolina in the
+    other; CAM is Campbell in one and Cambridge in the other. In all 13 the
+    registry agrees with the batting file, so the pitching values are the wrong
+    ones. The 2026 export drops the column entirely.
+
+    ``canonical_name`` is the registry's NCAA display label ("Missouri St.",
+    "Saint Mary's (CA)") rather than the IPEDS legal name ("Missouri State
+    University-Springfield"). It is the form a team picker wants, and it is
+    unambiguous: one name per acronym, asserted below.
+    """
+    teams = pd.read_csv(data_path("registry", "teams.csv"))
+    aliases = pd.read_csv(data_path("registry", "team_aliases.csv"))
+    fg = aliases[aliases["namespace"] == "fg_acronym"].merge(teams, on="team_id")
+
+    conflicts = fg.groupby("alias")["canonical_name"].nunique()
+    conflicting = sorted(conflicts[conflicts > 1].index)
+    if conflicting:
+        raise SystemExit(
+            f"registry maps these acronyms to multiple teams: {conflicting}"
+        )
+    return dict(zip(fg["alias"], fg["canonical_name"]))
+
+
 def build(stat_type):
     """Return (public_dataframe, report_dict) for one stat type."""
     no_min = load(stat_type, "noMin")
     qualified = load(stat_type, "qualified")
 
-    key_cols = ["name", "team", "year"]
+    # Keyed on the vendor player id, not the name. The same player is written
+    # "Cam Kozeal" in one export and "Camden Kozeal" in the other, and 16 rows
+    # of the 2026 season differ that way -- by name they look like players who
+    # qualified without appearing in the no-minimum population at all.
+    key_cols = ["playerid", "year"]
     qualified_keys = set(map(tuple, qualified[key_cols].values))
     no_min_keys = set(map(tuple, no_min[key_cols].values))
     if not qualified_keys <= no_min_keys:
@@ -123,17 +173,31 @@ def build(stat_type):
     out["qualified"] = [tuple(k) in qualified_keys for k in out[key_cols].values]
     out["division"] = PLAYER_DIVISION
 
-    # A stable within-file key so a season row can be referenced before the
-    # player registry exists. Replaced by player_id once that is built.
-    out["player_key"] = (
-        out["name"].astype(str).str.strip().str.lower()
-        + "|" + out["team"].astype(str).str.strip()
-        + "|" + out["year"].astype(str)
-    )
+    names = team_names()
+    unknown = sorted(set(out["team"].astype(str)) - set(names))
+    if unknown:
+        raise SystemExit(
+            f"{stat_type}: acronyms absent from the team registry: {unknown}. "
+            "Add them to src/data/registry/team_aliases.csv first."
+        )
+    out["team name"] = out["team"].astype(str).map(names)
+
+    # A stable career identifier, derived from the vendor's player key so that a
+    # career is resolved exactly rather than inferred from names. The previous
+    # name|team|year key could not tell the two players named Cole Conn at UIC
+    # apart, and could not join "Cam Kozeal" to "Camden Kozeal".
+    out["player_id"] = [player_id(pid) for pid in out["playerid"].astype(str)]
 
     keep = [c for c in IDENTITY + COUNTING[stat_type] + ["qualified"] if c in out.columns]
     dropped = sorted(set(out.columns) - set(keep))
     public = out[keep].sort_values(["year", "team", "name"]).reset_index(drop=True)
+
+    collisions = public.groupby(["player_id", "year"]).size()
+    if (collisions > 1).any():
+        raise SystemExit(
+            f"{stat_type}: a player id repeats within a season: "
+            f"{collisions[collisions > 1].index.tolist()[:5]}"
+        )
 
     expected_drops = set(
         RECOMPUTABLE[stat_type] + PROPRIETARY[stat_type] + VENDOR_IDS

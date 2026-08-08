@@ -58,12 +58,34 @@ dependency entirely. `ncaa_bbStats.team_stats` already handles that site's bot
 protection. Until that lands, this section is the accurate description of where
 these numbers came from.
 
+**Team names are not FanGraphs'.** The `team name` column is filled from
+`src/data/registry/teams.csv` (`canonical_name`), not from the vendor export.
+The vendor's own column could not be used: it disagrees with itself across the
+batting and pitching files for 13 acronyms covering roughly a thousand rows —
+`TAR` is Tarleton State in one and North Carolina in the other, `CAM` is
+Campbell in one and Cambridge in the other — and the 2026 export omits the
+column entirely. The registry agrees with the batting file in all 13 cases, so
+the pitching values were the wrong ones. Values are the NCAA display label
+("Missouri St.", "Saint Mary's (CA)") rather than the IPEDS legal name.
+
+**The qualified flag is keyed on the vendor player id**, not on name. The same
+player is written `Cam Kozeal` in one export and `Camden Kozeal` in the other;
+16 rows of the 2026 season differ that way, and by name they look like players
+who qualified without appearing in the no-minimum population at all. Keying on
+name also conflated the two distinct players named Cole Conn at UIC, marking a
+73-plate-appearance season as qualified in 2022 and 2023. Both are fixed in
+1.3.0; `qualified` changes for those two rows relative to 1.2.0.
+
 **Version history.** Releases 1.0.x and 1.1.0 did not include
 `src/data/player_stats_cache` — `MANIFEST.in` never listed it — so no published
 wheel or source distribution contains FanGraphs data. The files were, however,
 committed to the public git repository, and remain reachable in history at
 commits `c418135`, `8c3d55b`, `7afa3b1`, and `a4320ec`. History has not been
 rewritten.
+
+Version 1.3.0 adds the 2026 season (5,330 batting and 5,404 pitching rows, 308
+Division I teams), ingested by `tools/add_fg_season.py`. Coverage is now
+2021–2026.
 
 ## Package-original metrics
 

@@ -4,10 +4,30 @@
     "seasons": 3,
     "unknown_treated_as_eligible": false
   },
-  "model_version": "s1s2-2026.1",
+  "lineage": {
+    "derived_from": "V7 (Biggs & Gerber 2026), three-stage XGBoost",
+    "differences": [
+      "Features: the nine vendor-proprietary metrics V7 used (wRC+, wOBA, wRAA, wRC, wSB, Spd, FIP, E-F, LOB%) are replaced by the package-derived college-calibrated equivalents, so every input is redistributable.",
+      "Stages: two are shipped. V7 also fitted signing-bonus and slot-value regressors; the bonus/slot ratio scored a rank correlation of 0.003 on held-out data here, so it is not shipped.",
+      "Labels: draft records are matched to careers independently here, from the public draft feed, rather than reusing V7's matching. The two disagree on how many college players were drafted (2,466 here against 1,953 in V7's matrix), so the training target is not the same target.",
+      "Population: every player-season the public caches cover, 61,279 of them, against 20,220 in V7's matrix. This model is fitted on a much larger and less screened population, which is the single biggest reason the two boards differ.",
+      "Hyperparameters and split are this package's, not V7's, so a V7-to-V7-public comparison reflects features, labels and settings together rather than any one of them.",
+      "Seasons 2021-2026, with 2026 held out of training, so the 2026 board is an out-of-sample projection and the reported metrics describe that same class."
+    ],
+    "relationship": "separate lineage, not a patched V7"
+  },
+  "model_version": "v7-public-2026.1",
   "notes": [
     "Trained on public NCAA counting statistics and package-derived run-value metrics. No third-party proprietary metric is used.",
     "Stage 1 precision depends on the base rate of the population it is applied to; see the model card."
+  ],
+  "scored_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
   ],
   "stage1": {
     "features": [
@@ -160,11 +180,11 @@
       "ab_share_bat"
     ],
     "metrics": {
-      "base_rate": 0.0661,
-      "n_test": 6478,
-      "n_train": 18700,
-      "pr_auc": 0.7077,
-      "roc_auc": 0.9623
+      "base_rate": 0.0776,
+      "n_test": 5695,
+      "n_train": 19629,
+      "pr_auc": 0.703,
+      "roc_auc": 0.9567
     },
     "params": {
       "colsample_bytree": 0.8,
@@ -331,11 +351,11 @@
       "api_throws"
     ],
     "metrics": {
-      "mae": 76.16,
-      "n_test": 428,
-      "n_train": 1605,
-      "p_value": 1.4936201135256453e-51,
-      "spearman": 0.6442
+      "mae": 78.12,
+      "n_test": 442,
+      "n_train": 2024,
+      "p_value": 7.599972344174245e-54,
+      "spearman": 0.6473
     },
     "params": {
       "colsample_bytree": 0.7,
@@ -353,13 +373,14 @@
     "reason": "A bonus/slot ratio model was attempted and scored a rank correlation of 0.003 on held-out data -- indistinguishable from noise. Slot values are published facts and are available via draft_detail_utils.slot_value().",
     "shipped": false
   },
-  "test_year": 2025,
+  "test_year": 2026,
   "train_years": [
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
-  "trained_at": "2026-08-07T19:34:31+00:00",
+  "trained_at": "2026-08-08T08:51:38+00:00",
   "xgboost_version": "3.1.1"
 }
