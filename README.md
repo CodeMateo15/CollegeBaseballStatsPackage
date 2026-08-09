@@ -163,15 +163,16 @@ aggregation that rebuilds rates from summed components.
 `draft_board`, `explain_prediction`, `predict_from_stats`, `is_draft_eligible`,
 `model_card`
 
-Two models: whether a player-season leads to being drafted (PR-AUC 0.708,
-ROC-AUC 0.962 on a held-out 2025) and where a drafted player falls in their
-class (Spearman 0.644). Explanations come from SHAP where installed, with a
-gain-based fallback that says which it used.
+Two models: whether a player-season leads to being drafted (PR-AUC 0.703,
+ROC-AUC 0.957 on a held-out 2026) and where a drafted player falls in their
+class (Spearman 0.647). The held-out season is always the most recent one with
+complete draft labels, so it moves forward each release. Explanations come from
+SHAP where installed, with a gain-based fallback that says which it used.
 
 Read `model_card()` before quoting any of it — it carries the limitations,
 including that Stage 1 precision depends on the base rate you apply it to, that
 eligibility is inferred rather than looked up, and that order predictions have a
-mean absolute error of 76 places, so they separate tiers rather than picks.
+mean absolute error of 78 places, so they separate tiers rather than picks.
 
 ```python
 from ncaa_bbStats import predict_from_stats

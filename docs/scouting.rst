@@ -109,7 +109,7 @@ Functions
                    "auto" to prefer SHAP when installed.
     :return: ``method``, ``draft_probability``, ``strengths``, ``concerns``.
 
-.. py:function:: predict_from_stats(role: ["batter", "pitcher", "two_way"], age: float, stats: dict, *, team: str | None = None, season: int = 2025, name: str = "Custom player") -> dict
+.. py:function:: predict_from_stats(role: ["batter", "pitcher", "two_way"], age: float, stats: dict, *, team: str | None = None, season: int | None = None, name: str = "Custom player") -> dict
 
     Score a stat line that is not in the data.
 
@@ -123,7 +123,8 @@ Functions
     :param age: Player age during the season.
     :param stats: Any subset of feature names, e.g. ``{"era_pitch": 2.4, "so_pitch": 130}``.
     :param team: Any spelling of a team name, for context.
-    :param season: Season for team context and league constants.
+    :param season: Season for team context and league constants. Defaults to
+                   the most recent in the data.
     :param name: Label used in the report.
     :return: ``draft_probability``, ``draft_grade``, ``predicted_order``,
              ``imputed_features``, ``confidence``, ``report``.
@@ -151,31 +152,38 @@ Functions
 Performance
 -----------
 
-Trained on 2021-2024, tested on the held-out 2025 season. 25,178 draft-eligible
-player-seasons; 6.6% of the held-out season was drafted.
+Trained on 2021-2025, tested on the held-out 2026 season. 25,324 draft-eligible
+player-seasons; 7.8% of the held-out season was drafted.
 
 ============  ==========  =========================================
 Stage         Metric      Value
 ============  ==========  =========================================
-1 (drafted)   PR-AUC      0.708   (random baseline 0.066)
-1 (drafted)   ROC-AUC     0.962
-2 (order)     Spearman    0.644
-2 (order)     MAE         76 places
+1 (drafted)   PR-AUC      0.703   (random baseline 0.078)
+1 (drafted)   ROC-AUC     0.957
+2 (order)     Spearman    0.647
+2 (order)     MAE         78 places
 ============  ==========  =========================================
 
-For context, the research implementation this was ported from used proprietary
-third-party metrics as features and reported PR-AUC 0.725, ROC-AUC 0.949, and
-Spearman 0.653 — on a different held-out season. Those are **not this package's
-numbers**; they are listed in :func:`model_card` for comparison. The close match
-is the point: replacing the proprietary metrics with package-derived equivalents
-cost essentially nothing, because both are linear functions of the same counting
-statistics, which are themselves features.
+.. note::
+
+   The held-out season is the most recent one with complete draft labels, so it
+   moves forward with each release. Version 1.2.0 tested on 2025 and scored
+   marginally higher (PR-AUC 0.708, ROC-AUC 0.962, Spearman 0.644). That is a
+   property of the sample rather than a regression: 2026 is a harder season for
+   the model, and the two numbers are not comparable to each other.
+
+For orientation, the research model this one derives from — V7, Biggs & Gerber
+(2026) — reported PR-AUC 0.725, ROC-AUC 0.949, and Spearman 0.653 on the same
+2026 test year. Those are **not this package's numbers**. V7 used proprietary
+third-party metrics as features, along with a different label set, population,
+and hyperparameters, so the gap between the two cannot be attributed to any one
+of those. :func:`model_card` carries the full comparison and the lineage.
 
 Limitations
 -----------
 
 - **Stage 1 precision depends on the base rate** of the population you apply it
-  to. Roughly 7% of eligible players were drafted in the held-out season.
+  to. About 7.8% of eligible players were drafted in the held-out season.
   Applied to a pre-screened shortlist precision is higher; applied to every
   player in the country, lower.
 - **Eligibility is inferred**, from seasons completed and from age — and age is
@@ -184,8 +192,8 @@ Limitations
 - **The order model is trained only on drafted players.** Below a 25% draft
   probability it is extrapolating, and the output is suppressed rather than
   printed.
-- **One held-out season**, not a cross-validated estimate.
-- **Order predictions are noisy.** A mean absolute error of 76 places means this
+- **One held-out season** (2026), not a cross-validated estimate.
+- **Order predictions are noisy.** A mean absolute error of 78 places means this
   separates tiers, not picks.
 
 Usage

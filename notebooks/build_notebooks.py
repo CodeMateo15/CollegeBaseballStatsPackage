@@ -947,7 +947,7 @@ for row in fallback["strengths"]:
 shows where the model agreed with the draft and where it did not.
 """),
     code("""
-board = draft_board(2025, n=15)
+board = draft_board(2026, n=15)   # 2026 is the model's held-out season
 print(f"  {'#':>3} {'player':24s} {'team':6s} {'P(draft)':>9s} {'grade':>6s} "
       f"{'proj':>6s} {'actual':>7s}")
 for row in board:
@@ -959,13 +959,13 @@ for row in board:
 """),
     code("""
 # How much of the top of the board was actually drafted?
-top50 = draft_board(2025, n=50)
+top50 = draft_board(2026, n=50)
 hit = sum(1 for row in top50 if row["actual_pick"])
 print(f"{hit} of the top 50 were drafted ({hit / 50:.0%})")
 
 # Draft position is suppressed below 25%: the order model is trained only on
 # drafted players, so applying it lower down would be extrapolation.
-low = [r for r in draft_board(2025, n=2000) if r["draft_probability"] < 0.25]
+low = [r for r in draft_board(2026, n=2000) if r["draft_probability"] < 0.25]
 print(f"\\n{len(low)} players below the 25% threshold; "
       f"all have predicted_order suppressed: "
       f"{all(r['predicted_order'] is None for r in low)}")
@@ -981,7 +981,7 @@ result = predict_from_stats(
     "pitcher", age=21,
     stats={"era": 2.40, "so": 130, "bb": 25, "ip": 95.0,
            "h": 68, "hr": 5, "g": 16, "gs": 16, "tbf": 370},
-    team="LSU", season=2025, name="Prospect A",
+    team="LSU", name="Prospect A",   # season defaults to the most recent
 )
 print(result["report"])
 """),
@@ -996,7 +996,7 @@ print("predicted order:", result["predicted_order"])
 weak = predict_from_stats(
     "batter", age=19,
     stats={"avg": 0.240, "hr": 1, "pa": 90, "ab": 80},
-    season=2025, name="Prospect B",
+    name="Prospect B",   # no team either: context falls back to the league median
 )
 print(weak["report"])
 """),
@@ -1004,10 +1004,10 @@ print(weak["report"])
 # The model responds to the input: same role and age, different production
 strong = predict_from_stats("pitcher", 21,
     {"era": 1.80, "so": 150, "bb": 15, "ip": 100.0, "h": 60, "hr": 3,
-     "g": 16, "gs": 16}, team="LSU", season=2025)
+     "g": 16, "gs": 16}, team="LSU")
 poor = predict_from_stats("pitcher", 21,
     {"era": 7.50, "so": 12, "bb": 20, "ip": 18.0, "h": 30, "hr": 6,
-     "g": 9, "gs": 1}, team="LSU", season=2025)
+     "g": 9, "gs": 1}, team="LSU")
 
 print(f"  strong line: {strong['draft_probability']:.1%}  "
       f"grade {strong['draft_grade']}")
@@ -1088,6 +1088,29 @@ def build(notebook_dir, execute=True):
     return written
 
 
+def check_environment():
+    """Refuse to run against a copy of the package other than this repo.
+
+    A stale non-editable install in site-packages shadows the working tree, and
+    the notebooks then execute against whatever data that copy carries -- which
+    looks like a successful run and silently bakes the wrong outputs in. Caught
+    exactly that: an old 1.2.0 install produced notebooks showing a model
+    trained on 2021-2024.
+    """
+    import ncaa_bbStats
+
+    imported = os.path.realpath(os.path.dirname(ncaa_bbStats.__file__))
+    expected = os.path.realpath(os.path.join(HERE, "..", "src", "ncaa_bbStats"))
+    if imported != expected:
+        raise SystemExit(
+            f"ncaa_bbStats resolves to\n    {imported}\n"
+            f"but this repo is at\n    {expected}\n\n"
+            "Reinstall it as editable so the notebooks run against the working "
+            "tree:\n    pip install -e .\n"
+        )
+    print(f"importing ncaa_bbStats from {imported}")
+
+
 def check_coverage():
     """Every public name must appear in some notebook."""
     import ncaa_bbStats
@@ -1109,6 +1132,7 @@ def main(argv=None):
                         help="Write the notebooks without running them.")
     args = parser.parse_args(argv)
 
+    check_environment()
     covered = check_coverage()
     build(HERE, execute=not args.no_exec)
     return 0 if covered else 1

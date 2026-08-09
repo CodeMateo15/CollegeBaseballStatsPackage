@@ -434,7 +434,7 @@ def predict_from_stats(
     stats: dict,
     *,
     team: Optional[str] = None,
-    season: int = 2025,
+    season: Optional[int] = None,
     name: str = "Custom player",
 ) -> dict:
     """Score a stat line that is not in the data.
@@ -449,7 +449,10 @@ def predict_from_stats(
         stats (dict): Any subset of the feature names, e.g.
             ``{"era_pitch": 2.80, "so_pitch": 120, "ip_pitch": 95.0}``.
         team (str, optional): Any spelling of a team name, for context.
-        season (int): Season to take team context and league constants from.
+        season (int, optional): Season to take team context and league constants
+            from. Defaults to the most recent season in the data, so it follows
+            the cache forward instead of pinning to whichever year was current
+            when this was written.
         name (str): Label used in the returned report.
 
     Returns:
@@ -457,6 +460,10 @@ def predict_from_stats(
         (None when suppressed), ``imputed_features``, ``confidence``, and
         ``report``.
     """
+    matrix = _matrix()
+    if season is None:
+        season = int(matrix["year"].max())
+
     features = F.model_features(2)
     row = pd.Series(index=features, dtype="float64")
     row["age"] = age
@@ -474,7 +481,6 @@ def predict_from_stats(
             row[f"{key}_pitch"] = value
             supplied.add(f"{key}_pitch")
 
-    matrix = _matrix()
     team_columns = [f for f in features if f.endswith("_team")]
     context = None
     if team is not None:
