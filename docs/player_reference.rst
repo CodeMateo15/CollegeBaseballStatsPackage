@@ -7,7 +7,17 @@ This page lists all available player statistics, their abbreviations (as used in
 
    qualified vs noMin
 
-   qualified means a batter needs 3.1 plate appearances per game and a pitcher needs 1 inning pitched per game. 56 regular-season games, so batters need 174 plate appearances and pitchers need 56 innings pitched.
+   qualified means a batter reached 2 plate appearances per team game and a
+   pitcher 0.7 innings per team game. Over a full 56-game season that is about
+   112 plate appearances or 39 innings, but the bar moves with the team's own
+   schedule -- a team that played 52 games sets a lower one, and the shortened
+   2021 season lower still.
+
+   These are below the Major League conventions (3.1 PA/G, 1 IP/G) because
+   college seasons are shorter and pitching staffs deeper; the MLB cuts would
+   leave very few qualifiers. Call ``qualification_rules()`` for the configured
+   minimum together with the smallest qualifying total actually present in the
+   data.
 
    noMin means there's no filter for amount of plate appearances or innings pitched.
 

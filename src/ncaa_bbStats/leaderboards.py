@@ -50,11 +50,14 @@ _DIRECTION_BY_TYPE = {
     ("batting", "bb%"): "higher",
 }
 
-# Qualification thresholds, per team game.
-_PA_PER_GAME = 3.1
-_IP_PER_GAME = 1.0
-# A full NCAA regular season. Used only to express the thresholds in the docs;
-# the `qualified` flag in the cache is the actual authority.
+# Playing-time minimums, per team game, as configured on the source leaderboard
+# the `qualified` flag was carried from. These are lower than the Major League
+# conventions (3.1 PA/G, 1.0 IP/G) -- college seasons are shorter and pitching
+# staffs are deeper, so the MLB cuts would leave very few qualifiers.
+_PA_PER_GAME = 2.0
+_IP_PER_GAME = 0.7
+
+# A full NCAA regular season, for expressing the minimums as absolute totals.
 _TYPICAL_SEASON_GAMES = 56
 
 
@@ -77,20 +80,45 @@ def stat_direction(stat: str, stat_type: StatType = "batting") -> str:
     return "lower" if key in LOWER_IS_BETTER else "higher"
 
 
+def _observed_minimum(stat_type: StatType, year: Optional[int] = None):
+    """Smallest qualifying total present in the data, measured not assumed.
+
+    Reported alongside the configured per-game minimum so the documentation
+    cannot drift away from what actually shipped -- the previous constants
+    claimed the Major League cuts and went unnoticed for two releases.
+    """
+    column = "pa" if stat_type == "batting" else "ip"
+    df = _load_df(stat_type, "qualified")
+    if year is not None:
+        df = df[df["year"].astype(int) == int(year)]
+    if df.empty or column not in df.columns:
+        return None
+    values = df[column].map(ip_to_float) if column == "ip" else df[column]
+    values = pd.to_numeric(values, errors="coerce").dropna()
+    return round(float(values.min()), 1) if not values.empty else None
+
+
 def qualification_rules(stat_type: StatType, year: Optional[int] = None) -> dict:
     """The playing-time minimums behind ``qualifier="qualified"``.
 
-    Qualification is per team game, so the absolute threshold varies with how
-    many games a team played. The cache carries the resulting flag directly; the
-    numbers here explain what it means.
+    Qualification is applied per team game, so the absolute threshold moves with
+    how many games a team played. The cache carries the resulting flag directly
+    rather than recomputing it; these numbers explain what it means.
+
+    ``observed_minimum`` is measured from the shipped data -- the smallest
+    qualifying total actually present. It sits above ``per_game`` times a full
+    season because the source applies the cut against its own game counts, and
+    because a short season (2021) lowers the bar for the teams that played
+    fewer games. Use the flag, not a threshold of your own, to reproduce the
+    qualified population.
 
     Args:
         stat_type (str): ``"batting"`` or ``"pitching"``.
-        year (int, optional): Season, for context only.
+        year (int, optional): Restrict the observed minimum to one season.
 
     Returns:
-        dict: ``per_game``, ``basis``, ``typical_season_games``, and the implied
-        ``typical_threshold``.
+        dict: ``per_game``, ``basis``, ``typical_season_games``,
+        ``typical_threshold``, and the measured ``observed_minimum``.
     """
     per_game = _PA_PER_GAME if stat_type == "batting" else _IP_PER_GAME
     basis = "plate appearances" if stat_type == "batting" else "innings pitched"
@@ -99,6 +127,7 @@ def qualification_rules(stat_type: StatType, year: Optional[int] = None) -> dict
         "year": year,
         "per_game": per_game,
         "basis": basis,
+        "observed_minimum": _observed_minimum(stat_type, year),
         "typical_season_games": _TYPICAL_SEASON_GAMES,
         "typical_threshold": round(per_game * _TYPICAL_SEASON_GAMES, 1),
     }

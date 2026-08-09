@@ -56,12 +56,17 @@ Functions
 
 .. py:function:: qualification_rules(stat_type: ["batting", "pitching"], year: int | None = None) -> dict
 
-    The playing-time minimums behind ``qualifier="qualified"``. Qualification is
-    per team game, so the absolute threshold varies with games played.
+    The playing-time minimums behind ``qualifier="qualified"`` -- 2 plate
+    appearances or 0.7 innings per team game. Applied per team game, so the
+    absolute bar moves with the schedule.
+
+    ``observed_minimum`` is measured from the shipped data rather than assumed,
+    so the documented rule and the actual population cannot drift apart.
 
     :param stat_type: "batting" or "pitching".
-    :param year: Season, for context only.
-    :return: ``per_game``, ``basis``, ``typical_season_games``, ``typical_threshold``.
+    :param year: Restrict the observed minimum to one season.
+    :return: ``per_game``, ``basis``, ``observed_minimum``,
+             ``typical_season_games``, ``typical_threshold``.
 
 Career leaderboards
 -------------------

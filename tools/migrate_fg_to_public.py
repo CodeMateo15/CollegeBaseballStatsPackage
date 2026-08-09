@@ -23,8 +23,8 @@ Three things change:
    public values through code expecting the old ones.
 
 3. **The qualified/noMin split collapses into one file per stat type** with a
-   ``qualified`` boolean. Qualification is per team game (1 IP/G pitching,
-   3.1 PA/G batting), so no single threshold reproduces it -- the membership is
+   ``qualified`` boolean. Qualification is per team game (0.7 IP/G pitching,
+   2 PA/G batting), so no single threshold reproduces it -- the membership is
    carried over from the source. Two parallel files is what allowed commit
    a4320ec to overwrite ``pitching_qualified.csv`` with the no-minimum data and
    leave ``top_players("pitching", ...)`` silently wrong for five months.

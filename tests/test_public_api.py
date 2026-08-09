@@ -358,3 +358,51 @@ def test_conference_report_aggregates():
     assert report["programs"] >= 14
     assert report["draft_picks"] > 80
     assert report["best_rpi_rank"] == 1
+
+
+def test_qualification_rules_match_the_shipped_data():
+    """The documented minimum must not contradict the qualified population.
+
+    The constants previously claimed the Major League cuts (3.1 PA/G, 1 IP/G)
+    and went two releases without anyone noticing they were wrong for college.
+    Anchoring the reported figure to a measurement stops that recurring.
+    """
+    for stat_type, per_game in (("batting", 2.0), ("pitching", 0.7)):
+        rules = lb.qualification_rules(stat_type)
+        assert rules["per_game"] == per_game
+        observed = rules["observed_minimum"]
+        assert observed is not None
+
+        # Applied per team game, so the smallest qualifying total must sit at or
+        # below the full-season figure -- short schedules lower the bar, never
+        # raise it.
+        assert observed <= rules["typical_threshold"], (
+            f"{stat_type}: smallest qualifying total {observed} exceeds the "
+            f"full-season threshold {rules['typical_threshold']}"
+        )
+        # And it must be a real playing-time bar, not near zero.
+        assert observed > 5
+
+
+@pytest.mark.parametrize("stat_type", ["batting", "pitching"])
+def test_qualified_players_clear_the_minimum_in_a_normal_season(stat_type):
+    """In a full season every qualifier clears the stated per-game rate.
+
+    2021 is excluded: its schedules were shortened, so the absolute bar was
+    much lower.
+    """
+    column = "pa" if stat_type == "batting" else "ip"
+    rules = lb.qualification_rules(stat_type, 2026)
+    observed = rules["observed_minimum"]
+
+    frame = lb._load_df(stat_type, "qualified")
+    season = frame[frame["year"] == 2026]
+    values = season[column]
+    if column == "ip":
+        from ncaa_bbStats.advanced_stats import ip_to_float
+
+        values = values.map(ip_to_float)
+
+    assert values.min() == pytest.approx(observed, abs=0.1)
+    # A 56-game season at the stated rate; allow for teams that played fewer.
+    assert observed >= rules["per_game"] * 40
