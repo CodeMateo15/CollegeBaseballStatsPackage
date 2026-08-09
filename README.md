@@ -2,12 +2,17 @@
 
 **ncaa_bbStats** is an open-source Python package for retrieving, parsing, and
 analyzing college baseball data: NCAA Division I, II, and III team statistics
-(2002–2026), player statistics (2021–2025), MLB Draft history (1965–2025),
+(2002–2026), player statistics (2021–2026), MLB Draft history (1965–2025),
 draft detail with signing bonuses (2021–2026), RPI and schedule strength,
 program finances, and a draft-prediction model with scouting reports.
 
 Built for analysts, developers, and fans. Everything is cached locally, so it
 works offline; scraping is opt-in.
+
+The draft model in this package powers a public site where you can browse a
+board, look up a player, or score a stat line of your own:
+**https://codemateo15-ncaa-draft-app.share.connect.posit.cloud/**
+([source](https://github.com/CodeMateo15/ncaa-draft-app))
 
 > **Note**
 > This project is under active development.
@@ -72,7 +77,7 @@ print(scouting_report("Kade Anderson", 2025))
 | Dataset | Coverage |
 | --- | --- |
 | NCAA team statistics | 2002–2026, Divisions I–III |
-| Player statistics | 2021–2025, Division I |
+| Player statistics | 2021–2026, Division I |
 | MLB Draft history | 1965–2025, 69,169 picks |
 | MLB Draft detail (bonuses, slots, biography) | 2021–2026, 3,685 picks |
 | RPI, strength of schedule, quadrant records | 2021–2026, Division I |
