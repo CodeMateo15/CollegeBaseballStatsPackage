@@ -29,7 +29,25 @@ import time
 from ncaa_bbStats._paths import data_path
 
 STATSAPI_DRAFT_URL = "https://statsapi.mlb.com/api/v1/draft/{year}"
-USER_AGENT = "ncaa_bbStats/1.2 (+https://github.com/CodeMateo15/CollegeBaseballStatsPackage)"
+REPOSITORY_URL = "https://github.com/CodeMateo15/ncaa_bbStats"
+
+
+def _user_agent() -> str:
+    """Identify this client to the API, with the real installed version.
+
+    Read from package metadata rather than hardcoded: the literal here said 1.2
+    while the package was on 1.3.0, which is exactly the kind of thing nobody
+    notices in a header.
+    """
+    try:
+        from importlib.metadata import version
+
+        return f"ncaa_bbStats/{version('ncaa_bbStats')} (+{REPOSITORY_URL})"
+    except Exception:
+        return f"ncaa_bbStats (+{REPOSITORY_URL})"
+
+
+USER_AGENT = _user_agent()
 
 DEFAULT_YEARS = list(range(2021, 2027))
 

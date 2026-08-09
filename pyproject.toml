@@ -33,7 +33,7 @@ all = ["requests", "beautifulsoup4", "curl_cffi", "xgboost>=2.0", "shap>=0.44"]
 dev = ["pytest>=7.0", "build"]
 
 [project.urls]
-GitHub = "https://github.com/CodeMateo15/CollegeBaseballStatsPackage"
+GitHub = "https://github.com/CodeMateo15/ncaa_bbStats"
 Documentation = "https://collegebaseballstatspackage.readthedocs.io/en/latest/index.html"
 
 [tool.setuptools]

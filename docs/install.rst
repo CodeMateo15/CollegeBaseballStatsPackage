@@ -43,7 +43,7 @@ outputs saved so they read without executing anything:
 
 .. code-block:: console
 
-   git clone https://github.com/CodeMateo15/CollegeBaseballStatsPackage
+   git clone https://github.com/CodeMateo15/ncaa_bbStats
    pip install -e ".[all]" jupyter
    jupyter lab notebooks/
 

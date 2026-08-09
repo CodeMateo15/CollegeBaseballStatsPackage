@@ -219,9 +219,12 @@ def leaderboard(
             team_id = resolve_team(row["team"])
             if team_id and team_conference(team_id, int(row["year"])) == conference:
                 keep.add((row["team"], int(row["year"])))
-        mask &= [
-            (t, int(y)) in keep for t, y in zip(df["team"], df["year"])
-        ]
+        # Wrapped in a Series rather than left as a list: `Series &= list` is
+        # deprecated in pandas and raises a FutureWarning on every call.
+        mask &= pd.Series(
+            [(t, int(y)) in keep for t, y in zip(df["team"], df["year"])],
+            index=df.index,
+        )
 
     if min_pa is not None and "pa" in df.columns:
         mask &= pd.to_numeric(df["pa"], errors="coerce").fillna(0) >= min_pa

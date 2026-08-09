@@ -1,4 +1,4 @@
-# ncaa_bbStats (AKA CollegeBaseballStatsPackage)
+# ncaa_bbStats
 
 **ncaa_bbStats** is an open-source Python package for retrieving, parsing, and
 analyzing college baseball data: NCAA Division I, II, and III team statistics
@@ -231,11 +231,11 @@ python -m pytest tests/ -q
 - Team game results with win-loss tracking
 - Park factors, which currently limit `cwrc_plus`
 
-Found a bug or want a feature? Open an [issue](https://github.com/CodeMateo15/CollegeBaseballStatsPackage/issues).
+Found a bug or want a feature? Open an [issue](https://github.com/CodeMateo15/ncaa_bbStats/issues).
 
 ## Support
 Star this repo and share to help support!
-[![GitHub stars](https://img.shields.io/github/stars/CodeMateo15/CollegeBaseballStatsPackage.svg?style=social&label=Star)](https://github.com/CodeMateo15/CollegeBaseballStatsPackage)
+[![GitHub stars](https://img.shields.io/github/stars/CodeMateo15/ncaa_bbStats.svg?style=social&label=Star)](https://github.com/CodeMateo15/ncaa_bbStats)
 
 ## Contact
 Mateo Biggs, mateojohn2024@gmail.com
