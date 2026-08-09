@@ -12,7 +12,10 @@ works offline; scraping is opt-in.
 The draft model in this package powers a public site where you can browse a
 board, look up a player, or score a stat line of your own:
 **https://codemateo15-ncaa-draft-app.share.connect.posit.cloud/**
-([source](https://github.com/CodeMateo15/ncaa-draft-app))
+
+That site lives in a [separate repository](https://github.com/CodeMateo15/ncaa-draft-app),
+which is a distinct project and **is not covered by this package's MIT licence** —
+it carries no licence, so all rights are reserved. This package is MIT; the app is not.
 
 > **Note**
 > This project is under active development.
