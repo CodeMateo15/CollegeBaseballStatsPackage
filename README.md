@@ -2,7 +2,6 @@
 
 [![DOI:10.5281/zenodo.17283115](http://img.shields.io/badge/DOI-10.1101/zenodo.17283115-3B97DB.svg)](https://doi.org/10.5281/zenodo.17283115)
 
-https://doi.org/10.5281/zenodo.17283115
 **ncaa_bbStats** is an open-source Python package for retrieving, parsing, and
 analyzing college baseball data: NCAA Division I, II, and III team statistics
 (2002–2026), player statistics (2021–2026), MLB Draft history (1965–2025),
