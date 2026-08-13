@@ -18,6 +18,8 @@ import json
 import pathlib
 import sys
 
+import pandas as pd
+
 import pytest
 
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -96,6 +98,53 @@ def test_qualified_is_a_strict_subset(stat_type):
     everyone = set(list_players(stat_type, "noMin"))
     qualified = set(list_players(stat_type, "qualified"))
     assert qualified < everyone, "qualified must be a proper subset of noMin"
+
+
+# Both player caches. "fangraphs" carries counting statistics whose provenance is
+# a third-party export; "ncaa" carries the same facts sourced from NCAA directly.
+# Neither may ship a proprietary derived metric or a vendor identifier.
+CACHE_DIRS = ["player_stats_cache", "player_stats_cache_ncaa"]
+
+
+@pytest.mark.parametrize("cache_dir", CACHE_DIRS)
+@pytest.mark.parametrize("stat_type", ["batting", "pitching"])
+def test_ncaa_cache_ships_no_proprietary_columns(cache_dir, stat_type):
+    """Same contract as the FanGraphs-derived cache, applied to every cache."""
+    forbidden = {
+        "playerid", "mlbamid", "nameascii",
+        "woba", "wrc", "wrc+", "wraa", "wsb", "spd", "fip", "e-f", "lob%",
+    }
+    path = pathlib.Path(data_path(cache_dir, stat_type, f"{stat_type}.csv"))
+    if not path.is_file():
+        pytest.skip(f"{cache_dir} is not present")
+    with path.open(newline="", encoding="utf-8") as f:
+        header = {c.strip().lower() for c in next(csv.reader(f))}
+    found = header & forbidden
+    assert not found, f"{path.name} ships proprietary columns: {sorted(found)}"
+
+
+@pytest.mark.parametrize("stat_type", ["batting", "pitching"])
+def test_ncaa_cache_has_no_third_party_provenance(stat_type):
+    """The NCAA cache must carry a cross-season key and an empty age column.
+
+    `age` being empty is the whole reason this cache is not the default: it is a
+    model feature, so a silent swap would train on an all-null column. Asserting
+    it here means the day someone finds a public date-of-birth source, this test
+    fails and forces the default to be reconsidered deliberately.
+    """
+    path = pathlib.Path(data_path("player_stats_cache_ncaa", stat_type,
+                                  f"{stat_type}.csv"))
+    if not path.is_file():
+        pytest.skip("the NCAA cache is not present")
+    df = pd.read_csv(path, low_memory=False)
+    assert "person_id" in df.columns, "the NCAA cache must carry person_id"
+    assert "class" in df.columns, "the NCAA cache must carry class"
+    assert df["age"].isna().all(), (
+        "age is unexpectedly populated in the NCAA cache -- if a public "
+        "date-of-birth source now exists, reconsider DEFAULT_SOURCE in "
+        "player_utils.py rather than just relaxing this test")
+    assert sorted(df["year"].unique()) == [2021, 2022, 2023, 2024, 2025], (
+        "coverage changed; the upstream mirrors stopped updating mid-2026")
 
 
 @pytest.mark.parametrize("stat_type", ["batting", "pitching"])

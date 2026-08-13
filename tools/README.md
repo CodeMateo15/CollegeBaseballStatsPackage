@@ -9,6 +9,7 @@ Run from the repository root.
 | --- | --- | --- | --- |
 | `build_league_constants.py` | `src/data/team_stats_cache/` | `src/data/league_constants/` | **Yes.** Pure function of public NCAA data; `tests/test_advanced_stats.py` asserts a fresh build is byte-identical. |
 | `migrate_fg_to_public.py` | `private/fg/` | `src/data/player_stats_cache/` | No — needs the private inputs. Input hashes are recorded in the output manifest. |
+| `import_ncaa_public.py` | `~/ncaaBaseballDraft-Predictor/CSV+Code Files/ncaa_public/` (`--source-dir` to override) | `src/data/player_stats_cache_ncaa/` | **Yes**, given the source files — they come from public NCAA mirrors pinned to a commit, and both commits plus per-file hashes are recorded in the output manifest. |
 
 ## `private/`
 

@@ -229,9 +229,14 @@ python -m pytest tests/ -q
 
 ## Planned
 
-- Player statistics re-sourced directly from stats.ncaa.org, which would remove
-  the last third-party dependency in the data — see
-  [DATA_PROVENANCE.md](DATA_PROVENANCE.md)
+- Player statistics re-sourced from NCAA's own published data — **partly done.**
+  `src/data/player_stats_cache_ncaa/` covers 2021–2025 with no third-party export
+  anywhere in the chain, and reproduces the default cache at r ≥ 0.998 on every
+  column including this package's derived metrics. Read it with
+  `load_player_frame(..., source="ncaa")`. It is not the default yet because NCAA
+  publishes no date of birth (so `age` is empty) and the upstream mirrors stopped
+  updating mid-2026. Promoting it needs a retrain, a registry rebuild, and another
+  route to 2026 — see [DATA_PROVENANCE.md](DATA_PROVENANCE.md)
 - IPEDS identifiers backfilled for Division II and III programs
 - Team game results with win-loss tracking
 - Park factors, which currently limit `cwrc_plus`

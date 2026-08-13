@@ -9,7 +9,8 @@ it is redistributed. If you are adding a dataset, add a row here first.
 | --- | --- | --- | --- | --- |
 | NCAA team statistics | `src/data/team_stats_cache/div{1,2,3}/{year}.json` | [stats.ncaa.org](https://stats.ncaa.org) national rankings tables, scraped by `ncaa_bbStats.team_stats` | Official NCAA statistics; factual game records | 2002–2026, Divisions I–III |
 | MLB draft history | `src/data/mlb_draft_cache/*.json` | [Baseball Almanac](https://www.baseball-almanac.com), scraped by `ncaa_bbStats.draft_stats` | Factual draft records | 1965–2025, 69,169 picks |
-| Player statistics | `src/data/player_stats_cache/{batting,pitching}/*.csv` | See **FanGraphs** below | Counting statistics only; see below | 2021–2025, Division I |
+| Player statistics | `src/data/player_stats_cache/{batting,pitching}/*.csv` | See **FanGraphs** below | Counting statistics only; see below | 2021–2026, Division I |
+| Player statistics, NCAA-sourced | `src/data/player_stats_cache_ncaa/{batting,pitching}/*.csv` | See **NCAA player statistics** below | Counting statistics only, with no third-party export anywhere in the chain | 2021–2025, Division I |
 | League constants | `src/data/league_constants/*.csv` | Regressed from `team_stats_cache` by `tools/build_league_constants.py` | Package's own work | 2008–2026 (D-III from 2009) |
 | Team registry | `src/data/registry/*.csv` | Built from the caches above plus IPEDS unitids by `tools/build_team_registry.py` | Package's own work; IPEDS identifiers are U.S. federal public domain | 1,023 programs, 2002–2026 |
 | MLB draft detail | `src/data/draft_detail/{year}.json` | [MLB Stats API](https://statsapi.mlb.com/api/v1/draft/), fetched by `ncaa_bbStats.draft_detail_store` | Public MLB Advanced Media API; factual draft records | 2021–2026, 3,685 picks |
@@ -26,6 +27,92 @@ themselves copyrightable in the United States (*Feist Publications v. Rural
 Telephone Service*, 499 U.S. 340 (1991)). What is protectable is a compiler's
 original selection, arrangement, and derived analytics. That distinction is what
 draws the line below.
+
+## NCAA player statistics
+
+`src/data/player_stats_cache_ncaa/` is the re-sourcing the **FanGraphs** section
+below has listed as planned since 1.2.0, and it has now landed for 2021–2025.
+Nothing in it passed through a FanGraphs export at any point.
+
+**Where it came from.** NCAA's own published season statistics, obtained from two
+public mirror repositories rather than by scraping `stats.ncaa.org` directly — the
+site blocks the request at the network layer, and the mirrors already hold the same
+pages parsed. Both are pinned to an exact commit, because a GitHub branch is
+mutable and a citation to one is not reproducible:
+
+| Mirror | Commit | Supplies |
+| --- | --- | --- |
+| [`armstjc/ncaa_baseball_data`](https://github.com/armstjc/ncaa_baseball_data) | `db15ad2302193a1e805452bc52e69c6af56e1df7` | season statistics 2022–2025, rosters 2021–2025 |
+| [`armstjc/NCAA_Baseball_repository`](https://github.com/armstjc/NCAA_Baseball_repository) | `fc754475a065642fade082205c8d8734a11fab42` | 2021, and the 2022 programs the first mirror lacks |
+
+Both are © their author and published without an explicit data licence; the
+underlying statistics are NCAA's factual game records, which is the basis for
+redistribution here (see the *Feist* note above). Per-file sha256 hashes and row
+counts are in `src/data/player_stats_cache_ncaa/manifest.json`.
+
+The reconstruction — team mapping, per-year source selection, the derived rate and
+run-value columns, and the validation below — was done by
+[`ncaaBaseballDraft-Predictor/CSV+Code Files/ncaa_scraper`](https://github.com/CodeMateo15/ncaaBaseballDraft-Predictor)
+and imported by `tools/import_ncaa_public.py`.
+
+**How closely it reproduces the file it replaces.** Matched on name, team and
+season against the FanGraphs-sourced cache over 2021–2025 — 25,553 batting and
+24,941 pitching player-seasons, 95–96% of that cache — and compared *after* this
+package's own `advanced_stats` recomputed the derived columns from each:
+
+| Column | Pearson r | Identical |
+| --- | --- | --- |
+| `hr` | 0.99971 | 99.83% |
+| `bb` | 0.99959 | 99.26% |
+| `h` | 0.99956 | 98.16% |
+| `ab` | 0.99949 | 97.27% |
+| `so` (batting) | 0.99939 | 98.73% |
+| `so` (pitching) | 0.99977 | 99.13% |
+| `ip_true` | 0.99969 | 98.69% |
+| `er` | 0.99922 | 98.41% |
+| `cwrc+` | 0.99856 | 96.46% |
+| `cwoba` | 0.99852 | 96.46% |
+| `cfip` | 0.99881 | 98.34% |
+| `era` | 0.99873 | 97.73% |
+
+The residual is not a defect in either file: NCAA revises box scores after a
+vendor takes an export, so the two disagree by a hit or an out on a small
+percentage of rows. Nothing is systematically offset.
+
+**Why this is not the default source.** `player_utils.DEFAULT_SOURCE` is still
+`"fangraphs"`, for two reasons that no amount of care removes:
+
+- **`age` is empty.** NCAA publishes class year, never a date of birth, and no
+  public date-of-birth source for college players exists. `age` is a model feature
+  (`features.BIO_FEATURES`), so making this the default without retraining would
+  silently feed the models an all-null column. The cache carries a `class` column
+  instead — which is the criterion draft eligibility actually turns on, and is
+  populated for 99.9% of rows against `age`'s 47.5% over the same seasons. So the
+  substitution is not the downgrade it first appears to be; the column being
+  replaced was itself missing for more than half the population.
+- **2026 is missing.** The `ncaa_baseball_data` mirror's final commit is dated
+  2026-04-12 and is titled *"That's all folks"*; its 2026 season files were last
+  written on 2026-04-09, mid-season, and hold roughly 60% of a season. Building
+  from them understates at-bats by ~48 per player. The FanGraphs-sourced cache
+  covers 2021–2026, and the draft app defaults to 2026.
+
+Use it with `load_player_frame(stat_type, qualifier, source="ncaa")`. Switching the
+default requires retraining (`python -m ncaa_bbStats.model_store`), rebuilding the
+player registry, and reconciling the app's season list — the old cache is left in
+place precisely so that can happen deliberately rather than by accident.
+
+**Two other differences worth knowing.** `player_id` here is `n_`-prefixed and
+derived from a cross-season key minted by the source pipeline, because NCAA issues
+a *new* player id every season — consecutive seasons share exactly zero ids, so
+NCAA's own id cannot group a player across years. It is a different id space from
+the other cache's ids and the two must never be joined. And `qualified` is
+reconstructed from a rate per team game (2.70 PA and 0.80 IP), fitted once against
+the vendor's own qualified leaderboards at 99.53% and 99.67% agreement, rather than
+inherited.
+
+**Known gaps.** Texas Southern's 2021 batting exists in neither mirror (its
+pitching does); 2022 covers 300 of 301 Division I programs, Stonehill being absent
+from both; and `gdp` is null for 2021, which the 2021 NCAA grid did not carry.
 
 ## FanGraphs
 
@@ -52,11 +139,18 @@ runs — are records of what happened on the field. They are NCAA's facts, and n
 compiler acquires exclusive rights in them by publishing them. They are retained.
 
 But their *provenance in this package* is still a FanGraphs export, even though
-the underlying facts are not FanGraphs'. Re-deriving them directly from
-stats.ncaa.org individual-player pages is planned, and would remove the
-dependency entirely. `ncaa_bbStats.team_stats` already handles that site's bot
-protection. Until that lands, this section is the accurate description of where
-these numbers came from.
+the underlying facts are not FanGraphs'.
+
+**That re-sourcing has now partly landed.** `src/data/player_stats_cache_ncaa/`
+holds the same statistics for 2021–2025 taken from NCAA's own published season
+data, with no FanGraphs export in the chain, reproducing this cache at r ≥ 0.998
+on every column including the package's own derived metrics — see **NCAA player
+statistics** above. It is not yet the default, because it cannot supply `age` or
+the 2026 season.
+
+So this section remains the accurate description of where the *default* numbers
+come from, and will until the models are retrained on the NCAA-sourced cache and
+2026 is obtained another way.
 
 **Team names are not FanGraphs'.** The `team name` column is filled from
 `src/data/registry/teams.csv` (`canonical_name`), not from the vendor export.

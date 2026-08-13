@@ -143,6 +143,8 @@ def test_readme_names_only_real_functions():
         "model", "explain", "scrape", "all", "dev", "tools", "team_id",
         "player_id", "cwrc", "pip", "qualified", "noMin", "carried_forward",
         "eada_year", "significant", "coverage", "confidence", "report",
+        # Column names, discussed as data rather than called as functions.
+        "age", "class",
     }
     named = set(re.findall(r"`([a-z_][a-z0-9_]*)`", readme))
     missing = sorted(

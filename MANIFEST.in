@@ -6,6 +6,7 @@ recursive-include src/data/team_stats_cache/div1 *.json
 recursive-include src/data/team_stats_cache/div2 *.json
 recursive-include src/data/team_stats_cache/div3 *.json
 recursive-include src/data/player_stats_cache *.csv
+recursive-include src/data/player_stats_cache_ncaa *.csv
 recursive-include src/data/mlb_draft_cache *.json
 recursive-include src/data/mlb_team_names *.csv
 recursive-include src/data/team_names_stats *.csv
@@ -21,6 +22,7 @@ recursive-include src/data/models *.ubj *.json *.gz
 include src/data/league_constants/manifest.json
 include src/data/registry/manifest.json
 include src/data/player_stats_cache/manifest.json
+include src/data/player_stats_cache_ncaa/manifest.json
 
 include LICENSE
 include README.md

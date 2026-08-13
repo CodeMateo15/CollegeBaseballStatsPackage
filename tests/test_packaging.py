@@ -32,6 +32,8 @@ REQUIRED_WHEEL_DATA_DIRS = [
     "data/team_stats_cache/div3",
     "data/player_stats_cache/batting",
     "data/player_stats_cache/pitching",
+    "data/player_stats_cache_ncaa/batting",
+    "data/player_stats_cache_ncaa/pitching",
     "data/mlb_draft_cache",
     "data/mlb_team_names",
     "data/team_names_stats",

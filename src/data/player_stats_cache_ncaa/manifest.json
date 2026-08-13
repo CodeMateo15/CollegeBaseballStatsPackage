@@ -1,0 +1,117 @@
+{
+  "datasets": [
+    {
+      "columns_kept": [
+        "player_id",
+        "person_id",
+        "name",
+        "team",
+        "team name",
+        "division",
+        "year",
+        "age",
+        "class",
+        "g",
+        "pa",
+        "ab",
+        "h",
+        "2b",
+        "3b",
+        "hr",
+        "r",
+        "rbi",
+        "bb",
+        "so",
+        "hbp",
+        "sf",
+        "sh",
+        "gdp",
+        "sb",
+        "cs",
+        "qualified"
+      ],
+      "qualification_rate_per_team_game": 2.7,
+      "qualified_rows": 11507,
+      "rows": 26821,
+      "rows_without_person_id": 147,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "source_file": "batting_combined_all.csv",
+      "source_sha256": "d85ad4e5582eccc5412354700065b82e2f1f2d13472965eaeeed3a4ea34a2f60",
+      "stat_type": "batting",
+      "teams": 310,
+      "unexpected_drops": []
+    },
+    {
+      "columns_kept": [
+        "player_id",
+        "person_id",
+        "name",
+        "team",
+        "team name",
+        "division",
+        "year",
+        "age",
+        "class",
+        "w",
+        "l",
+        "g",
+        "gs",
+        "cg",
+        "sho",
+        "sv",
+        "ip",
+        "tbf",
+        "h",
+        "r",
+        "er",
+        "hr",
+        "bb",
+        "hbp",
+        "wp",
+        "bk",
+        "so",
+        "qualified"
+      ],
+      "qualification_rate_per_team_game": 0.8,
+      "qualified_rows": 5651,
+      "rows": 25966,
+      "rows_without_person_id": 120,
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "source_file": "pitching_combined_all.csv",
+      "source_sha256": "e78baeb863c90d17cab9252ca47a589a1de780189749a8edad8683a178d683ab",
+      "stat_type": "pitching",
+      "teams": 310,
+      "unexpected_drops": []
+    }
+  ],
+  "generator": "tools/import_ncaa_public.py",
+  "note": "Counting statistics only, sourced from NCAA's own published season statistics with no third-party export in the chain. Rate and advanced metrics are computed on read by ncaa_bbStats.advanced_stats. `age` is empty because NCAA publishes class year, not date of birth. See DATA_PROVENANCE.md.",
+  "source": "ncaaBaseballDraft-Predictor/CSV+Code Files/ncaa_scraper",
+  "upstream": {
+    "files": 17,
+    "repositories": {
+      "legacy": {
+        "commit": "fc754475a065642fade082205c8d8734a11fab42",
+        "resolved_at": "2026-08-13T11:56:16",
+        "url": "https://github.com/armstjc/NCAA_Baseball_repository"
+      },
+      "modern": {
+        "commit": "db15ad2302193a1e805452bc52e69c6af56e1df7",
+        "resolved_at": "2026-08-13T11:56:17",
+        "url": "https://github.com/armstjc/ncaa_baseball_data"
+      }
+    }
+  }
+}
