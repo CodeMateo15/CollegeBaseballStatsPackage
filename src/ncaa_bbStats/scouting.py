@@ -33,6 +33,7 @@ __all__ = [
     "draft_board",
     "scouting_report",
     "explain_prediction",
+    "feature_contributions",
     "predict_from_stats",
     "is_draft_eligible",
     "model_card",
@@ -258,8 +259,7 @@ def explain_prediction(
     contributions, used = None, "gain"
     if method in ("auto", "shap"):
         try:
-            shap = _require("shap", "explain")
-            explainer = shap.TreeExplainer(_model(1))
+            explainer = _explainer(1)
             values = explainer.shap_values(aligned)
             if isinstance(values, list):
                 values = values[1]
@@ -326,6 +326,123 @@ def explain_prediction(
 
 def _expit(x):
     return 1.0 / (1.0 + math.exp(-x)) if -700 < x < 700 else float(x > 0)
+
+
+@lru_cache(maxsize=2)
+def _explainer(stage: int):
+    """One TreeExplainer per stage.
+
+    Building it costs an order of magnitude more than explaining a row, so it is
+    kept rather than rebuilt per call.
+    """
+    shap = _require("shap", "explain")
+    return shap.TreeExplainer(_model(stage))
+
+
+def feature_contributions(
+    name: Optional[str] = None,
+    season: Optional[int] = None,
+    *,
+    stage: Literal[1, 2] = 1,
+    features: Optional[object] = None,
+) -> Optional[dict]:
+    """Exact SHAP contributions for one prediction, in the model's own units.
+
+    Where :func:`explain_prediction` returns a readable shortlist in percentage
+    points, this returns every feature's raw contribution together with the base
+    value, so that ``base + sum(contributions) == prediction`` holds exactly.
+    That is what a waterfall chart needs; a shortlist of re-expited
+    leave-one-out impacts cannot be stacked.
+
+    Stage 1 is a binary classifier, so ``base``, the contributions and
+    ``prediction`` are all log-odds -- apply a logistic to read a probability.
+    Stage 2 is a squared-error regressor, so they are already in college draft
+    order units and no link function is involved.
+
+    Features the caller never supplied are kept, with a ``value`` of None. A
+    missing input still has a contribution: the models route missing values down
+    a learned default branch, so absence is itself a signal, and dropping those
+    entries would break the sum this function exists to guarantee.
+
+    Needs SHAP (``pip install "ncaa_bbStats[explain]"``). There is no gain-based
+    fallback: gain has no base value and does not sum to the prediction, so it
+    cannot answer this question at all.
+
+    Args:
+        name (str, optional): Player name, matched case-insensitively. Ignored
+            when ``features`` is given.
+        season (int, optional): One season. Defaults to their most recent.
+        stage (int): 1 for the drafted/not-drafted classifier, 2 for the
+            draft-order regressor.
+        features (pandas.DataFrame | pandas.Series | dict, optional): A single
+            feature row to explain instead of a stored player -- for example the
+            ``feature_row`` returned by :func:`predict_from_stats`. That row is
+            built over the Stage 2 column set, which is a superset of Stage 1's,
+            so the same row explains either stage.
+
+    Returns:
+        dict | None: ``stage``, ``units`` (``"log-odds"`` or ``"draft order"``),
+        ``base``, ``prediction``, and ``contributions`` -- one entry per model
+        feature, each with ``feature``, ``label``, ``value`` (None when the
+        input was missing) and ``contribution``, sorted by descending absolute
+        contribution. ``prediction`` is the model's raw output, which for Stage 2
+        is *before* the floor at 1 that :func:`predict_draft_order` applies.
+        None if the player is not found.
+
+    Raises:
+        MissingDependencyError: if SHAP is not installed.
+    """
+    if features is not None:
+        if isinstance(features, pd.DataFrame):
+            row = features.head(1)
+        elif isinstance(features, pd.Series):
+            row = features.to_frame().T
+        else:
+            row = pd.DataFrame([features])
+    else:
+        rows = _find_rows(name, season)
+        if rows.empty:
+            return None
+        row = rows.tail(1)
+
+    names = F.model_features(stage)
+    aligned = F.align(row, names)
+
+    explainer = _explainer(stage)
+    values = explainer.shap_values(aligned)
+    if isinstance(values, list):
+        values = values[1]
+    # float64 before anything is added up. SHAP hands back the booster's float32,
+    # and accumulating 150 of those toward a Stage 2 total near 200 loses enough
+    # precision to visibly miss the prediction the bars are supposed to reach.
+    contributions = np.asarray(values, dtype=np.float64)[0]
+    base = float(np.asarray(explainer.expected_value).ravel()[-1])
+
+    # The sum is the answer, not a check on it. Deriving the total from
+    # _predict() instead would disagree with the bars for the handful of Stage 2
+    # rows whose raw output falls below the floor that _predict applies.
+    prediction = base + float(contributions.sum())
+
+    records = []
+    for i, feature in enumerate(names):
+        value = aligned.iloc[0, i]
+        records.append({
+            "feature": feature,
+            "label": _label(feature),
+            "value": None if pd.isna(value) else round(float(value), 4),
+            # Deliberately unrounded: rounding 150 of these to four places
+            # drifts the total by enough to see on the Stage 2 axis.
+            "contribution": float(contributions[i]),
+        })
+    records.sort(key=lambda r: -abs(r["contribution"]))
+
+    return {
+        "stage": int(stage),
+        "units": "log-odds" if stage == 1 else "draft order",
+        "base": base,
+        "prediction": prediction,
+        "contributions": records,
+    }
 
 
 def scouting_report(
@@ -428,37 +545,16 @@ def scouting_report(
     return "\n".join(lines)
 
 
-def predict_from_stats(
-    role: Literal["batter", "pitcher", "two_way"],
-    age: float,
-    stats: dict,
-    *,
-    team: Optional[str] = None,
-    season: Optional[int] = None,
-    name: str = "Custom player",
-) -> dict:
-    """Score a stat line that is not in the data.
+def _stat_line_frame(role, age, stats, team, season):
+    """Build the one-row feature frame a typed-in stat line scores against.
 
-    Supply as much or as little as you have. Team context is filled from the
-    named program, or from the season median if no team is given; unspecified
-    player statistics are left missing, which the models handle natively.
-
-    Args:
-        role (str): ``"batter"``, ``"pitcher"``, or ``"two_way"``.
-        age (float): Player age during the season.
-        stats (dict): Any subset of the feature names, e.g.
-            ``{"era_pitch": 2.80, "so_pitch": 120, "ip_pitch": 95.0}``.
-        team (str, optional): Any spelling of a team name, for context.
-        season (int, optional): Season to take team context and league constants
-            from. Defaults to the most recent season in the data, so it follows
-            the cache forward instead of pinning to whichever year was current
-            when this was written.
-        name (str): Label used in the returned report.
+    Split out so that the row which produced a prediction is the same row an
+    explanation is computed from -- rebuilding it a second time is how the two
+    quietly come to disagree.
 
     Returns:
-        dict: ``draft_probability``, ``draft_grade``, ``predicted_order``
-        (None when suppressed), ``imputed_features``, ``confidence``, and
-        ``report``.
+        tuple: ``(frame, supplied, imputed, season)``. The frame carries the
+        Stage 2 column set, a superset of Stage 1's, with usage features derived.
     """
     matrix = _matrix()
     if season is None:
@@ -506,6 +602,47 @@ def predict_from_stats(
 
     frame = pd.DataFrame([row])
     F.add_usage_features(frame)
+    return frame, supplied, imputed, season
+
+
+def predict_from_stats(
+    role: Literal["batter", "pitcher", "two_way"],
+    age: float,
+    stats: dict,
+    *,
+    team: Optional[str] = None,
+    season: Optional[int] = None,
+    name: str = "Custom player",
+) -> dict:
+    """Score a stat line that is not in the data.
+
+    Supply as much or as little as you have. Team context is filled from the
+    named program, or from the season median if no team is given; unspecified
+    player statistics are left missing, which the models handle natively.
+
+    Args:
+        role (str): ``"batter"``, ``"pitcher"``, or ``"two_way"``.
+        age (float): Player age during the season.
+        stats (dict): Any subset of the feature names, e.g.
+            ``{"era_pitch": 2.80, "so_pitch": 120, "ip_pitch": 95.0}``.
+        team (str, optional): Any spelling of a team name, for context.
+        season (int, optional): Season to take team context and league constants
+            from. Defaults to the most recent season in the data, so it follows
+            the cache forward instead of pinning to whichever year was current
+            when this was written.
+        name (str): Label used in the returned report.
+
+    Returns:
+        dict: ``draft_probability``, ``draft_grade``, ``predicted_order``
+        (None when suppressed), ``imputed_features``, ``confidence``,
+        ``report``, and ``feature_row`` -- the row that was actually scored, as
+        a plain dict with None for anything left missing. Pass it to
+        :func:`feature_contributions` to explain this same prediction.
+    """
+    frame, supplied, imputed, season = _stat_line_frame(
+        role, age, stats, team, season
+    )
+    features = F.model_features(2)
 
     probability = float(_predict(1, frame)[0])
     order = float(_predict(2, frame)[0])
@@ -562,6 +699,12 @@ def predict_from_stats(
         "imputed_features": imputed,
         "confidence": confidence,
         "report": "\n".join(lines),
+        # A plain dict rather than the frame: the rest of this return value is
+        # printable and serialisable, and F.align turns None back into NaN.
+        "feature_row": {
+            column: (None if pd.isna(value) else float(value))
+            for column, value in frame.iloc[0].items()
+        },
     }
 
 

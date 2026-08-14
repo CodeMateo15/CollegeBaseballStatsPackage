@@ -180,6 +180,102 @@ def test_gain_fallback_works_without_shap():
     assert explanation["strengths"]
 
 
+# --- exact contributions -------------------------------------------------
+#
+# Every one of these is really the same assertion: the bars a caller draws have
+# to land on the number printed above them. An attribution that is 99% right is
+# a chart that does not reach its own total.
+
+@requires_models
+def test_contributions_sum_to_the_prediction():
+    pytest.importorskip("shap", reason="needs the explain extra")
+    for stage in (1, 2):
+        result = scouting.feature_contributions("Kade Anderson", 2025, stage=stage)
+        total = result["base"] + sum(
+            c["contribution"] for c in result["contributions"]
+        )
+        assert total == pytest.approx(result["prediction"], abs=1e-9)
+
+
+@requires_models
+def test_stage1_contributions_are_log_odds():
+    pytest.importorskip("shap", reason="needs the explain extra")
+    result = scouting.feature_contributions("Kade Anderson", 2025, stage=1)
+    assert result["units"] == "log-odds"
+    assert scouting._expit(result["prediction"]) == pytest.approx(
+        scouting.predict_draft_probability("Kade Anderson", 2025), abs=1e-6
+    )
+
+
+@requires_models
+def test_stage2_contributions_are_draft_order():
+    pytest.importorskip("shap", reason="needs the explain extra")
+    result = scouting.feature_contributions("Kade Anderson", 2025, stage=2)
+    assert result["units"] == "draft order"
+    # The base is the average pick the regressor starts everyone from.
+    assert 50 < result["base"] < 400
+    assert result["prediction"] == pytest.approx(
+        scouting.predict_draft_order("Kade Anderson", 2025), abs=1e-3
+    )
+
+
+@requires_models
+def test_contributions_cover_every_feature_largest_first():
+    pytest.importorskip("shap", reason="needs the explain extra")
+    for stage in (1, 2):
+        result = scouting.feature_contributions("Kade Anderson", 2025, stage=stage)
+        entries = result["contributions"]
+        assert {c["feature"] for c in entries} == set(F.model_features(stage))
+        magnitudes = [abs(c["contribution"]) for c in entries]
+        assert magnitudes == sorted(magnitudes, reverse=True)
+
+
+@requires_models
+def test_contributions_keep_features_that_were_never_supplied():
+    """A missing input is routed down a learned default branch, so it counts.
+
+    Dropping the NaN-valued entries -- which is what explain_prediction does for
+    its shortlist -- would break the sum on exactly the sparse rows that most
+    need explaining.
+    """
+    pytest.importorskip("shap", reason="needs the explain extra")
+    scored = scouting.predict_from_stats(
+        "pitcher", 21, {"era_pitch": 2.40, "so_pitch": 130}, season=2025,
+    )
+    result = scouting.feature_contributions(features=scored["feature_row"])
+    unsupplied = [c for c in result["contributions"] if c["value"] is None]
+    assert len(unsupplied) > 30, "a two-stat line should leave most fields unset"
+    assert any(c["contribution"] != 0 for c in unsupplied)
+    total = result["base"] + sum(c["contribution"] for c in result["contributions"])
+    assert total == pytest.approx(result["prediction"], abs=1e-9)
+
+
+@requires_models
+def test_a_custom_stat_line_explains_the_prediction_it_returned():
+    pytest.importorskip("shap", reason="needs the explain extra")
+    scored = scouting.predict_from_stats(
+        "pitcher", 21,
+        {"era_pitch": 2.40, "so_pitch": 130, "bb_pitch": 25, "ip_pitch": 95.0},
+        team="LSU", season=2025,
+    )
+    assert set(scored["feature_row"]) == set(F.model_features(2))
+
+    stage1 = scouting.feature_contributions(features=scored["feature_row"], stage=1)
+    assert scouting._expit(stage1["prediction"]) == pytest.approx(
+        scored["draft_probability"], abs=1e-6
+    )
+    stage2 = scouting.feature_contributions(features=scored["feature_row"], stage=2)
+    assert stage2["prediction"] == pytest.approx(
+        scored["predicted_order"], abs=1e-3
+    )
+
+
+@requires_models
+def test_contributions_for_an_unknown_player_are_none():
+    pytest.importorskip("shap", reason="needs the explain extra")
+    assert scouting.feature_contributions("Nobody At All", 2025) is None
+
+
 @requires_models
 def test_scouting_report_is_readable_and_honest():
     report = scouting.scouting_report("Kade Anderson", 2025)

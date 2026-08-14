@@ -51,7 +51,10 @@ Predictions need XGBoost; explanations optionally use SHAP::
 
 Without SHAP, :func:`explain_prediction` falls back to gain-weighted deviation
 from the median and reports ``method="gain"`` so you know which you got.
-Importing ``ncaa_bbStats`` never loads XGBoost.
+:func:`feature_contributions` has no such fallback and requires the ``explain``
+extra outright: gain has no base value and does not sum to the prediction, so it
+cannot answer the question that function asks. Importing ``ncaa_bbStats`` never
+loads XGBoost.
 
 Functions
 ---------
@@ -109,6 +112,37 @@ Functions
                    "auto" to prefer SHAP when installed.
     :return: ``method``, ``draft_probability``, ``strengths``, ``concerns``.
 
+.. py:function:: feature_contributions(name: str | None = None, season: int | None = None, *, stage: [1, 2] = 1, features: DataFrame | Series | dict | None = None) -> dict | None
+
+    Exact SHAP contributions for one prediction, in the model's own units.
+
+    Where :py:func:`explain_prediction` returns a readable shortlist in
+    percentage points, this returns every feature's raw contribution together
+    with the base value, so that ``base + sum(contributions) == prediction``
+    holds exactly — what a waterfall chart needs, and what a shortlist of
+    re-expited leave-one-out impacts cannot give you.
+
+    Stage 1 is a classifier, so everything is in log-odds; apply a logistic to
+    read a probability. Stage 2 is a regressor, so everything is already in
+    college draft order units. Features the caller never supplied are kept, with
+    a ``value`` of None — a missing input still has a contribution, because the
+    models route missing values down a learned default branch.
+
+    Requires the ``explain`` extra. Unlike :py:func:`explain_prediction` there is
+    no gain-based fallback: gain has no base value and does not sum to the
+    prediction, so it cannot answer this question.
+
+    :param name: Player name, matched case-insensitively. Ignored when
+                 ``features`` is given.
+    :param season: One season. Defaults to their most recent.
+    :param stage: 1 for the drafted/not-drafted classifier, 2 for draft order.
+    :param features: A single feature row to explain instead of a stored
+                     player — for example the ``feature_row`` returned by
+                     :py:func:`predict_from_stats`.
+    :return: ``stage``, ``units``, ``base``, ``prediction``, ``contributions``.
+             ``prediction`` is the raw model output, which for Stage 2 is before
+             the floor at 1 that :py:func:`predict_draft_order` applies.
+
 .. py:function:: predict_from_stats(role: ["batter", "pitcher", "two_way"], age: float, stats: dict, *, team: str | None = None, season: int | None = None, name: str = "Custom player") -> dict
 
     Score a stat line that is not in the data.
@@ -127,7 +161,9 @@ Functions
                    the most recent in the data.
     :param name: Label used in the report.
     :return: ``draft_probability``, ``draft_grade``, ``predicted_order``,
-             ``imputed_features``, ``confidence``, ``report``.
+             ``imputed_features``, ``confidence``, ``report``, and
+             ``feature_row`` — the row that was actually scored, ready to pass
+             to :py:func:`feature_contributions`.
 
 .. py:function:: draft_board(season: int, *, n: int = 100, min_probability: float = 0.0) -> list[dict]
 

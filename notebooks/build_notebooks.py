@@ -875,8 +875,8 @@ Needs the `model` extra (`pip install "ncaa_bbStats[model]"`); explanations use
 `explain` for SHAP, falling back to gain-based attribution otherwise.
 
 Covers: `scouting_report`, `predict_draft_probability`, `predict_draft_order`,
-`draft_board`, `explain_prediction`, `predict_from_stats`, `is_draft_eligible`,
-`model_card`
+`draft_board`, `explain_prediction`, `feature_contributions`,
+`predict_from_stats`, `is_draft_eligible`, `model_card`
 """),
     code("""
 from ncaa_bbStats import *
@@ -939,6 +939,55 @@ fallback = explain_prediction("Kade Anderson", 2025, method="gain", top_n=3)
 print("method:", fallback["method"])
 for row in fallback["strengths"]:
     print(f"  ^ {row['label']:28s} {row['impact']:+.2f}")
+"""),
+    md("""
+### Contributions that add up
+
+`explain_prediction` returns a readable shortlist, and its impacts are
+leave-one-out figures that deliberately do not sum to anything. When you need an
+attribution that *does* — to stack into a waterfall, say — use
+`feature_contributions`, which returns the base value and every feature's raw
+contribution in the model's own units, guaranteeing
+`base + sum(contributions) == prediction`.
+
+Stage 1 works in log-odds, so apply a logistic to read a probability. Stage 2 is
+already in college draft order units. Requires the `explain` extra; there is no
+gain fallback, because gain has no base value.
+"""),
+    code("""
+from math import exp
+
+stage1 = feature_contributions("Kade Anderson", 2025, stage=1)
+total = stage1["base"] + sum(c["contribution"] for c in stage1["contributions"])
+print(f"units: {stage1['units']}   features: {len(stage1['contributions'])}")
+print(f"base {stage1['base']:+.3f} -> prediction {stage1['prediction']:+.3f} "
+      f"(sum checks: {abs(total - stage1['prediction']) < 1e-9})")
+print(f"as a probability: {1 / (1 + exp(-stage1['base'])):.1%} -> "
+      f"{1 / (1 + exp(-stage1['prediction'])):.1%}\\n")
+
+for row in stage1["contributions"][:6]:
+    value = "not supplied" if row["value"] is None else f"{row['value']:.3f}"
+    print(f"  {row['label']:28s} {value:>12s}  {row['contribution']:+.3f}")
+
+stage2 = feature_contributions("Kade Anderson", 2025, stage=2)
+print(f"\\nstage 2 ({stage2['units']}): {stage2['base']:.1f} -> "
+      f"{stage2['prediction']:.1f}")
+"""),
+    code("""
+# The same function explains a stat line that was never in the data: hand it the
+# feature_row that predict_from_stats scored, so the explanation and the number
+# come from one row rather than two.
+scored = predict_from_stats(
+    "pitcher", 21,
+    {"era_pitch": 2.40, "so_pitch": 130, "bb_pitch": 25, "ip_pitch": 95.0},
+    team="LSU", season=2025,
+)
+custom = feature_contributions(features=scored["feature_row"], stage=1)
+print(f"P(drafted) {scored['draft_probability']:.1%}, "
+      f"from {len(scored['supplied_features'])} supplied statistics")
+for row in custom["contributions"][:5]:
+    value = "not supplied" if row["value"] is None else f"{row['value']:.3f}"
+    print(f"  {row['label']:28s} {value:>12s}  {row['contribution']:+.3f}")
 """),
     md("""
 ## A whole season, ranked
