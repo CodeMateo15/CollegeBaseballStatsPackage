@@ -37,6 +37,14 @@ REQUIRED_WHEEL_DATA_DIRS = [
     "data/mlb_draft_cache",
     "data/mlb_team_names",
     "data/team_names_stats",
+    # One model pair per leave-one-season-out fold. If these go missing the
+    # package still works, silently, by scoring every season with the
+    # full-data model -- which is the in-sample scoring the folds exist to
+    # prevent, and it shows up as a rank correlation near 1.
+    "data/models/folds",
+    # The public input matrix, without which the model cannot be refitted from
+    # the wheel.
+    "data/public_matrix",
 ]
 
 # Third-party modules the package may import at module scope without an extra.

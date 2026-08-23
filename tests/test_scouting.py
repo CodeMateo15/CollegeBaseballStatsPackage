@@ -10,6 +10,7 @@ import json
 import pathlib
 import sys
 
+import numpy
 import pytest
 
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -38,17 +39,37 @@ def test_feature_lists_have_no_duplicates():
         assert not duplicates, f"stage {stage} lists {duplicates} twice"
 
 
-def test_stage2_extends_stage1():
-    """Stage 2 adds biography on top of Stage 1's features, in the same order."""
-    stage1 = F.model_features(1)
-    stage2 = F.model_features(2)
-    assert stage2[: len(stage1)] == stage1
+def test_both_stages_read_the_same_features():
+    """The biography block is gone, so the two stages now agree exactly.
+
+    Those five columns were read off the draft record, so they existed only for
+    players who had already been drafted -- the very thing Stage 1 predicts.
+    Dropping them makes the leak structurally impossible rather than a rule
+    Stage 1 had to remember to follow.
+    """
+    assert F.model_features(2) == F.model_features(1)
 
 
-def test_bio_features_are_stage2_only():
-    """Biography comes from the draft record, so using it in Stage 1 leaks the label."""
-    stage1 = F.model_features(1)
-    assert not (set(F.BIO_FEATURES) & set(stage1))
+def test_no_feature_is_known_only_for_drafted_players():
+    """The label must not be reconstructible from any input."""
+    leaky = {"api_height", "api_weight", "api_position", "api_bats",
+             "api_throws", "draft_pick", "draft_round", "draft_year",
+             "drafted", "Pick", "Round"}
+    for stage in (1, 2):
+        assert not (leaky & set(F.model_features(stage)))
+
+
+def test_age_is_not_a_feature():
+    """NCAA publishes no date of birth; the public matrix has no age column."""
+    for stage in (1, 2):
+        assert "age" not in F.model_features(stage)
+        assert "age_filled" not in F.model_features(stage)
+
+
+def test_experience_replaces_age():
+    for stage in (1, 2):
+        features = set(F.model_features(stage))
+        assert {"class_ord", "seasons_elapsed", "first_class_ord"} <= features
 
 
 def test_align_produces_float_columns_in_order():
@@ -56,8 +77,8 @@ def test_align_produces_float_columns_in_order():
     import numpy as np
     import pandas as pd
 
-    frame = pd.DataFrame([{"age": 21, "extra": 5, "nullable": pd.NA}])
-    features = ["age", "nullable", "missing_entirely"]
+    frame = pd.DataFrame([{"class_ord": 3, "extra": 5, "nullable": pd.NA}])
+    features = ["class_ord", "nullable", "missing_entirely"]
     aligned = F.align(frame, features)
 
     assert list(aligned.columns) == features
@@ -88,10 +109,31 @@ def test_models_load():
 
 @requires_models
 def test_probability_is_high_for_a_top_pick():
-    """Kade Anderson went 3rd overall in 2025."""
+    """Kade Anderson went 3rd overall in 2025.
+
+    Asserted as a lift over the population base rate, not as an absolute
+    probability. The previous `> 0.8` was calibrated against a population that
+    filtered on the label and so carried a 7.4% base rate; scoring everyone
+    halves that to 4.2%, and a calibrated model's absolute probabilities fall
+    with it. A threshold pinned to one population silently becomes a test of
+    that population rather than of the model.
+    """
     probability = scouting.predict_draft_probability("Kade Anderson", 2025)
     assert probability is not None
-    assert probability > 0.8
+    base = scouting.model_card()["validation"]["pooled"]["stage1"]["base_rate"]
+    assert probability > 10 * base
+
+    # And Stage 2 should put him at the very front of his class. Ranked by
+    # *order*, not by probability: draft_board sorts on probability, which
+    # answers "will he be drafted at all" -- a question on which a 3rd overall
+    # pick and a 15th-rounder are both near-certain, so it is the wrong signal
+    # for a top pick.
+    board = [r for r in scouting.draft_board(2025, n=10 ** 6,
+                                             min_probability=0.25)
+             if r["predicted_order"] is not None]
+    board.sort(key=lambda r: r["predicted_order"])
+    rank = [r["name"] for r in board].index("Kade Anderson") + 1
+    assert rank <= 10, f"a 3rd overall pick ranked {rank} by projected order"
 
 
 @requires_models
@@ -214,9 +256,14 @@ def test_stage2_contributions_are_draft_order():
     assert result["units"] == "draft order"
     # The base is the average pick the regressor starts everyone from.
     assert 50 < result["base"] < 400
-    assert result["prediction"] == pytest.approx(
-        scouting.predict_draft_order("Kade Anderson", 2025), abs=1e-3
-    )
+
+    # `prediction` is the raw sum of the contributions, deliberately unclipped
+    # so the bars add up to the number printed beside them. predict_draft_order
+    # floors it at 1, because there is no zeroth pick. For a player the model
+    # likes enough to extrapolate past the top of the board the two therefore
+    # differ, and it is the flooring that accounts for the difference.
+    order = scouting.predict_draft_order("Kade Anderson", 2025)
+    assert order == pytest.approx(max(1.0, result["prediction"]), abs=1e-3)
 
 
 @requires_models
@@ -346,7 +393,20 @@ def test_model_card_reports_held_out_metrics():
     assert card["stage1"]["metrics"]["pr_auc"] > 0.5
     assert card["stage1"]["metrics"]["roc_auc"] > 0.85
     assert card["stage2"]["metrics"]["spearman"] > 0.4
-    assert card["test_year"] not in card["train_years"]
+
+    # Leave-one-season-out: every season is a fold, and each fold's metrics come
+    # from a model that did not train on it. There is no single test year any
+    # more, so the old "test year is not a train year" check is replaced by the
+    # stronger property that no season is scored in-sample.
+    validation = card["validation"]
+    assert validation["scheme"] == "leave-one-season-out"
+    assert set(validation["per_season"]) == {str(y) for y in validation["folds"]}
+    for season, metrics in validation["per_season"].items():
+        # A fold scoring near-perfectly would mean the season leaked into its
+        # own training set, which is the failure this design exists to prevent.
+        assert metrics["stage2"]["spearman"] < 0.85, (
+            f"{season} looks in-sample")
+        assert metrics["stage1"]["n_train"] > metrics["stage1"]["n_test"]
 
 
 @requires_models
@@ -410,3 +470,66 @@ def test_importing_the_package_does_not_load_xgboost():
         [sys.executable, "-c", program], capture_output=True, text=True
     )
     assert result.returncode == 0, result.stderr[-800:]
+
+
+# --- leave-one-season-out ------------------------------------------------
+
+@requires_models
+def test_projected_order_does_not_reveal_the_label():
+    """Every board row gets an order, drafted or not.
+
+    Stage 2 is fitted only on drafted players, so it is tempting to store its
+    out-of-fold predictions only for them. That would put the label on the
+    board: a projected order would appear for exactly the players who were
+    drafted, and be blank for everyone else.
+    """
+    matrix = scouting._matrix()
+    if "oof_predicted_order" not in matrix.columns:
+        pytest.skip("matrix predates the out-of-fold columns")
+
+    undrafted = matrix[matrix["drafted"] == 0]
+    assert len(undrafted) > 0
+    assert undrafted["oof_predicted_order"].notna().all()
+    assert matrix["oof_predicted_order"].notna().all()
+
+
+@requires_models
+def test_a_labelled_season_is_scored_by_its_own_fold():
+    """The fold model is a different model, and an unlabelled season falls back.
+
+    Compared by what the models predict rather than by object identity: each
+    distinct cache key builds its own Booster, so `is` would separate two
+    handles on the same file.
+    """
+    seasons = scouting.scored_seasons()
+    assert seasons, "no folds recorded in the manifest"
+    season = seasons[-1]
+
+    matrix = scouting._matrix()
+    rows = matrix[matrix["year"] == season].head(50)
+
+    fold = scouting._predict(1, rows, season)
+    full = scouting._predict(1, rows, None)
+    # The fold model never saw this season, so it must not agree row for row
+    # with the model that trained on it.
+    assert not numpy.allclose(fold, full)
+
+    # A season with no fold of its own falls back to the full-data model.
+    unlabelled = scouting._predict(1, rows, max(seasons) + 50)
+    assert numpy.allclose(unlabelled, full)
+
+
+@requires_models
+def test_board_matches_the_stored_out_of_fold_predictions():
+    """What the board shows is what the manifest's metrics were computed from."""
+    season = scouting.scored_seasons()[-1]
+    board = scouting.draft_board(season, n=25, min_probability=0.0)
+    matrix = scouting._matrix()
+    # Keyed on name AND team: over the full no-minimum population a name is not
+    # unique within a season, and matching on name alone silently compared two
+    # different players.
+    rows = matrix[matrix["year"] == season].set_index(["name", "team"])
+    for entry in board:
+        stored = rows.loc[(entry["name"], entry["team"]), "oof_draft_probability"]
+        stored = float(stored if not hasattr(stored, "iloc") else stored.iloc[0])
+        assert entry["draft_probability"] == pytest.approx(stored, abs=1e-3)

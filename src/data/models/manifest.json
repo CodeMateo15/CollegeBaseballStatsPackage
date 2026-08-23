@@ -1,25 +1,42 @@
 {
   "eligibility": {
-    "age": 21,
-    "seasons": 3,
-    "unknown_treated_as_eligible": false
+    "age": null,
+    "age_note": "MLB's other eligibility route is turning 21 near the draft. NCAA publishes no date of birth, so that test cannot be applied here and is not approximated.",
+    "class_ordinals": {
+      "Fr": 1,
+      "Gr": 5,
+      "Jr": 3,
+      "So": 2,
+      "Sr": 4
+    },
+    "gates_population": false,
+    "rules": {
+      "class": "class_ord >= 3, i.e. Junior or Senior. This is the primary rule and covers 31,494 player-seasons.",
+      "drafted": "was drafted out of this season -- proof after the fact, not a test",
+      "early-or-ineligible": "an underclassman in their first or second season. Some are genuinely eligible on the age-21 route and cannot be identified as such here.",
+      "tenure": "seasons_elapsed >= 2, i.e. a third season or later counted from the player's first appearance. Adds 451 rows that class standing alone misses -- sophomores and freshmen who redshirted or transferred in, and so are further through their eligibility than their class year says.",
+      "unknown": "neither class nor tenure is known"
+    }
   },
   "lineage": {
     "derived_from": "V7 (Biggs & Gerber 2026), three-stage XGBoost",
     "differences": [
-      "Features: the nine vendor-proprietary metrics V7 used (wRC+, wOBA, wRAA, wRC, wSB, Spd, FIP, E-F, LOB%) are replaced by the package-derived college-calibrated equivalents, so every input is redistributable.",
-      "Stages: two are shipped. V7 also fitted signing-bonus and slot-value regressors; the bonus/slot ratio scored a rank correlation of 0.003 on held-out data here, so it is not shipped.",
-      "Labels: draft records are matched to careers independently here, from the public draft feed, rather than reusing V7's matching. The two disagree on how many college players were drafted (2,466 here against 1,953 in V7's matrix), so the training target is not the same target.",
-      "Population: every player-season the public caches cover, 61,279 of them, against 20,220 in V7's matrix. This model is fitted on a much larger and less screened population, which is the single biggest reason the two boards differ.",
-      "Hyperparameters and split are this package's, not V7's, so a V7-to-V7-public comparison reflects features, labels and settings together rather than any one of them.",
-      "Seasons 2021-2026, with 2026 held out of training, so the 2026 board is an out-of-sample projection and the reported metrics describe that same class."
+      "Inputs: every column comes from the public combined matrix built from NCAA-published statistics. The nine vendor-proprietary metrics V7 used (wRC+, wOBA, wRAA, wRC, wSB, Spd, FIP, E-F, LOB%) are recomputed from NCAA counting statistics with college-fitted constants. They correlate with the vendor's at r = 0.93-0.999 but are not equal to them, so the model had to be refitted and not merely re-pointed.",
+      "No age. NCAA publishes no date of birth, so the age feature V7 used is replaced by class standing, seasons elapsed since a player's first appearance, and the class they arrived in. Draft eligibility is decided the same way, without the age-21 branch.",
+      "Stages: two are shipped. V7 also fitted signing-bonus and slot-value regressors; the bonus/slot ratio scored a rank correlation of 0.003 on held-out data here, so it is not shipped. The five biography columns V7's order model read off the draft record are also gone: they existed only for players already drafted, which is the label Stage 1 predicts.",
+      "Labels: draft records are matched to careers independently here, from the public draft feed, rather than reusing V7's matching.",
+      "Population: 61,270 Division I player-seasons with no playing-time minimum and no eligibility filter, against 20,220 rows in V7's matrix. V7 was fitted on a vendor's qualified leaderboards; qualification is a function of playing time, which is a function of perceived quality, so filtering on it selects on the outcome and drops roughly a quarter of real draftees. Base rates therefore differ (4.2% here) and precision figures are not comparable between the two.",
+      "Validation: leave-one-season-out across 2021-2026, where V7 held out a single season. Every figure reported here is out-of-fold, and the board served for a season is the prediction of the model that did not train on it.",
+      "Seasons 2021-2026. 2026 was scraped live from stats.ncaa.org rather than taken from the public mirror, which stopped updating mid-season in April 2026; it covers all 308 Division I team-seasons.",
+      "Hyperparameters are this package's, not V7's, so a V7-to-V8-public comparison reflects features, labels, population, split and settings together rather than any one of them."
     ],
     "relationship": "separate lineage, not a patched V7"
   },
-  "model_version": "v7-public-2026.1",
+  "model_version": "v8-public-2026.1",
   "notes": [
-    "Trained on public NCAA counting statistics and package-derived run-value metrics. No third-party proprietary metric is used.",
-    "Stage 1 precision depends on the base rate of the population it is applied to; see the model card."
+    "Trained on NCAA-published counting statistics and run-value metrics recomputed from them with college-fitted constants. No third-party proprietary metric is used, and every input is redistributable.",
+    "Stage 1 precision depends on the base rate of the population it is applied to; see the model card.",
+    "The population carries no playing-time minimum, so the base rate is low and precision figures are not comparable with a model scored over a qualified leaderboard, where the filter has already done part of the classifier's work."
   ],
   "scored_years": [
     2021,
@@ -31,7 +48,9 @@
   ],
   "stage1": {
     "features": [
-      "age",
+      "class_ord",
+      "seasons_elapsed",
+      "first_class_ord",
       "role",
       "w_pitch",
       "l_pitch",
@@ -180,11 +199,10 @@
       "ab_share_bat"
     ],
     "metrics": {
-      "base_rate": 0.0776,
-      "n_test": 5695,
-      "n_train": 19629,
-      "pr_auc": 0.703,
-      "roc_auc": 0.9567
+      "base_rate": 0.0419,
+      "n": 61270,
+      "pr_auc": 0.5998,
+      "roc_auc": 0.9594
     },
     "params": {
       "colsample_bytree": 0.8,
@@ -197,7 +215,9 @@
   },
   "stage2": {
     "features": [
-      "age",
+      "class_ord",
+      "seasons_elapsed",
+      "first_class_ord",
       "role",
       "w_pitch",
       "l_pitch",
@@ -343,19 +363,13 @@
       "ip_share_pitch",
       "pa_per_g_bat",
       "g_share_bat",
-      "ab_share_bat",
-      "api_height",
-      "api_weight",
-      "api_position",
-      "api_bats",
-      "api_throws"
+      "ab_share_bat"
     ],
     "metrics": {
-      "mae": 78.12,
-      "n_test": 442,
-      "n_train": 2024,
-      "p_value": 7.599972344174245e-54,
-      "spearman": 0.6473
+      "mae": 80.6,
+      "n": 2565,
+      "p_value": 2.459183340777209e-243,
+      "spearman": 0.5929
     },
     "params": {
       "colsample_bytree": 0.7,
@@ -373,14 +387,130 @@
     "reason": "A bonus/slot ratio model was attempted and scored a rank correlation of 0.003 on held-out data -- indistinguishable from noise. Slot values are published facts and are available via draft_detail_utils.slot_value().",
     "shipped": false
   },
-  "test_year": 2026,
-  "train_years": [
-    2021,
-    2022,
-    2023,
-    2024,
-    2025
-  ],
-  "trained_at": "2026-08-08T08:51:38+00:00",
+  "trained_at": "2026-08-23T01:36:31+00:00",
+  "validation": {
+    "folds": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "note": "Every reported figure is out-of-fold. A season is scored only by the model that did not train on it, so the numbers here and the board the site draws are the same predictions.",
+    "per_season": {
+      "2021": {
+        "stage1": {
+          "base_rate": 0.0419,
+          "n_test": 9817,
+          "n_train": 51453,
+          "pr_auc": 0.6091,
+          "roc_auc": 0.9649
+        },
+        "stage2": {
+          "mae": 85.52,
+          "n_test": 411,
+          "n_train": 2154,
+          "p_value": 2.123593056616702e-26,
+          "spearman": 0.4916
+        }
+      },
+      "2022": {
+        "stage1": {
+          "base_rate": 0.0415,
+          "n_test": 10039,
+          "n_train": 51231,
+          "pr_auc": 0.5483,
+          "roc_auc": 0.954
+        },
+        "stage2": {
+          "mae": 80.74,
+          "n_test": 417,
+          "n_train": 2148,
+          "p_value": 7.785728684682794e-39,
+          "spearman": 0.5799
+        }
+      },
+      "2023": {
+        "stage1": {
+          "base_rate": 0.0416,
+          "n_test": 10092,
+          "n_train": 51178,
+          "pr_auc": 0.6085,
+          "roc_auc": 0.9622
+        },
+        "stage2": {
+          "mae": 78.6,
+          "n_test": 420,
+          "n_train": 2145,
+          "p_value": 1.1918050796507823e-40,
+          "spearman": 0.5894
+        }
+      },
+      "2024": {
+        "stage1": {
+          "base_rate": 0.0419,
+          "n_test": 10393,
+          "n_train": 50877,
+          "pr_auc": 0.6246,
+          "roc_auc": 0.9592
+        },
+        "stage2": {
+          "mae": 77.81,
+          "n_test": 435,
+          "n_train": 2130,
+          "p_value": 6.851224758673289e-53,
+          "spearman": 0.6467
+        }
+      },
+      "2025": {
+        "stage1": {
+          "base_rate": 0.0406,
+          "n_test": 10495,
+          "n_train": 50775,
+          "pr_auc": 0.622,
+          "roc_auc": 0.9597
+        },
+        "stage2": {
+          "mae": 77.54,
+          "n_test": 426,
+          "n_train": 2139,
+          "p_value": 5.774873105488221e-46,
+          "spearman": 0.6166
+        }
+      },
+      "2026": {
+        "stage1": {
+          "base_rate": 0.0437,
+          "n_test": 10434,
+          "n_train": 50836,
+          "pr_auc": 0.6245,
+          "roc_auc": 0.9616
+        },
+        "stage2": {
+          "mae": 83.37,
+          "n_test": 456,
+          "n_train": 2109,
+          "p_value": 6.180412612704889e-50,
+          "spearman": 0.6208
+        }
+      }
+    },
+    "pooled": {
+      "stage1": {
+        "base_rate": 0.0419,
+        "n": 61270,
+        "pr_auc": 0.5998,
+        "roc_auc": 0.9594
+      },
+      "stage2": {
+        "mae": 80.6,
+        "n": 2565,
+        "p_value": 2.459183340777209e-243,
+        "spearman": 0.5929
+      }
+    },
+    "scheme": "leave-one-season-out"
+  },
   "xgboost_version": "3.1.1"
 }

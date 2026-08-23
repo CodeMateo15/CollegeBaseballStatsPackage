@@ -19,6 +19,13 @@ recursive-include src/data/draft_detail *.json
 recursive-include src/data/pythagorean *.csv
 recursive-include src/data/player_registry *.csv
 recursive-include src/data/models *.ubj *.json *.gz
+# One model pair per leave-one-season-out fold. Without this line the wheel
+# ships only the full-data pair, and scouting falls back to it for every
+# season -- which is exactly the in-sample scoring the folds exist to avoid.
+recursive-include src/data/models/folds *.ubj
+# The public input matrix, so a fit is reproducible from the wheel and every
+# input to the shipped model is redistributable.
+recursive-include src/data/public_matrix *.csv.gz
 include src/data/league_constants/manifest.json
 include src/data/registry/manifest.json
 include src/data/player_stats_cache/manifest.json

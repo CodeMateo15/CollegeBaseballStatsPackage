@@ -168,23 +168,28 @@ aggregation that rebuilds rates from summed components.
 `draft_board`, `explain_prediction`, `predict_from_stats`, `is_draft_eligible`,
 `model_card`
 
-Two models: whether a player-season leads to being drafted (PR-AUC 0.703,
-ROC-AUC 0.957 on a held-out 2026) and where a drafted player falls in their
-class (Spearman 0.647). The held-out season is always the most recent one with
-complete draft labels, so it moves forward each release. Explanations come from
-SHAP where installed, with a gain-based fallback that says which it used.
+Two models: whether a player-season leads to being drafted (PR-AUC 0.600
+against a 4.2% base rate -- a 14x lift over chance) and where a drafted player
+falls in their class (Spearman 0.593 over 2,565 drafted players). Both are validated
+leave-one-season-out across 2021-2026 -- each season is scored by a model
+fitted without it -- and
+`draft_board` serves those same out-of-fold predictions, so what the package
+reports and what it shows you are the same numbers. Explanations come from SHAP
+where installed, with a gain-based fallback that says which it used.
 
 Read `model_card()` before quoting any of it — it carries the limitations,
-including that Stage 1 precision depends on the base rate you apply it to, that
-eligibility is inferred rather than looked up, and that order predictions have a
-mean absolute error of 78 places, so they separate tiers rather than picks.
+including that Stage 1 precision depends on the base rate you apply it to (4.2%
+here, over a population with no playing-time minimum, so these figures are not
+comparable with a model scored over a qualified leaderboard), that eligibility
+is inferred rather than looked up, and that order predictions separate tiers
+rather than picks.
 
 ```python
 from ncaa_bbStats import predict_from_stats
 
 result = predict_from_stats(
-    "pitcher", age=21,
-    stats={"era": 2.40, "so": 130, "bb": 25, "ip": 95.0},
+    "pitcher", school_class="Jr",
+    stats={"era_pitch": 2.40, "so_pitch": 130, "bb_pitch": 25, "ip_pitch": 95.0},
     team="LSU", season=2025,
 )
 print(result["report"])

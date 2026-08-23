@@ -6,10 +6,16 @@ so a mismatch fails loudly at load rather than producing confident garbage from
 a silently permuted vector.
 
 No feature depends on a third-party analytics provider. Where the reference
-implementation used proprietary metrics, the package-derived equivalents from
-:mod:`ncaa_bbStats.advanced_stats` stand in -- and since both are linear
-functions of the same counting statistics, which are also features here, the
-information content is unchanged.
+implementation used proprietary metrics, college-calibrated equivalents stand in
+-- and since both are linear functions of the same counting statistics, which
+are also features here, the information content is unchanged. The ``c`` prefix
+(``cwoba_bat``, ``cfip_pitch``) marks those rebuilt metrics so a number from one
+is never mistaken for the vendor's; the public matrix ships them unprefixed and
+:func:`ncaa_bbStats.model_store.build_matrix` renames on the way in.
+
+Stage 2 once added five biography columns read off the draft record. They are
+gone: they existed only for players who had already been drafted, which is the
+label Stage 1 predicts, and the public matrix has no source for them.
 """
 
 from typing import Literal, Optional
@@ -32,7 +38,12 @@ Stage = Literal[1, 2]
 #: Batting and pitching lines. Counting statistics plus the rates and
 #: run-value metrics computed from them.
 PLAYER_FEATURES = [
-    "age", "role",
+    # Experience. NCAA publishes no date of birth, so there is no `age` here:
+    # class standing and how long a player has been around carry that signal
+    # instead. `seasons_elapsed` counts from a player's first appearance in the
+    # no-minimum panel, and `first_class_ord` records what class they arrived
+    # in, which separates a fifth-year senior from a genuine freshman.
+    "class_ord", "seasons_elapsed", "first_class_ord", "role",
     # Pitching
     "w_pitch", "l_pitch", "g_pitch", "gs_pitch", "cg_pitch", "sho_pitch",
     "sv_pitch", "ip_pitch", "tbf_pitch", "h_pitch", "r_pitch", "er_pitch",
@@ -88,12 +99,6 @@ USAGE_FEATURES = [
     "pa_per_g_bat", "g_share_bat", "ab_share_bat",
 ]
 
-#: Biography from the draft record. Stage 2 only -- these are known for drafted
-#: players, so using them in Stage 1 would leak the label.
-BIO_FEATURES = [
-    "api_height", "api_weight", "api_position", "api_bats", "api_throws",
-]
-
 ROLE_MAP = {"batter": 0, "pitcher": 1, "two_way": 2}
 
 
@@ -129,7 +134,9 @@ def model_features(
 
     Args:
         stage (int): 1 for the drafted/not-drafted classifier, 2 for the
-            draft-order regressor.
+            draft-order regressor. Both stages now read the same columns --
+            the parameter is kept because the manifest records a list per
+            stage and the loader checks each against its own model.
         include_finance (bool): Include program-finance features.
 
     Returns:
@@ -139,8 +146,6 @@ def model_features(
     if include_finance:
         features += list(FINANCE_FEATURES)
     features += list(USAGE_FEATURES)
-    if stage == 2:
-        features += list(BIO_FEATURES)
     return features
 
 
@@ -148,7 +153,8 @@ def align(df: pd.DataFrame, features: list[str]) -> pd.DataFrame:
     """Return `df` reindexed to exactly `features`, as float64.
 
     Missing columns become all-NaN, which is what the gradient-boosted models
-    expect for an absent value. Extra columns are dropped.
+    expect for an absent value. Extra columns are dropped, and infinities are
+    folded into NaN for the same reason.
 
     Every column is coerced with :func:`pandas.to_numeric`, which converts
     pandas' nullable ``NA`` to ``numpy.nan``. Without that, a column carrying
@@ -164,4 +170,10 @@ def align(df: pd.DataFrame, features: list[str]) -> pd.DataFrame:
         pandas.DataFrame: Reindexed float64 copy.
     """
     aligned = df.reindex(columns=features)
-    return aligned.apply(pd.to_numeric, errors="coerce").astype("float64")
+    numeric = aligned.apply(pd.to_numeric, errors="coerce").astype("float64")
+    # An infinity is as unusable to XGBoost as a string: it rejects the whole
+    # matrix with "Input data contains `inf`" rather than treating it as
+    # missing. They arise from rate columns whose denominator is legitimately
+    # zero -- a winless team, a pitcher who has walked nobody -- so the value
+    # is genuinely unknown and NaN is what it should have been.
+    return numeric.replace([float("inf"), float("-inf")], float("nan"))

@@ -16,12 +16,12 @@ Draft probabilities, explanations, and scouting reports.
       Draft eligible: True (basis: drafted)
       Actual: selected #3 in round 1
     ------------------------------------------------------------------
-      Take: the model sees a top-of-the-draft profile. Driven by age.
+      Take: the model sees a top-of-the-draft profile. Driven by class ord.
       Main concern: BB (Batting) (team).
 
       Top 5 strengths
         feature                            value      median    impact
-        ^ age                             20.000      22.000     5.92%
+        ^ class ord                        3.000       3.000     5.92%
         ^ so (pitching)                  180.000      22.000     5.12%
         ^ k% (pitching)                    0.374       0.189     1.04%
         ...
@@ -81,9 +81,10 @@ Functions
 
     Whether a player was draft eligible, and on what basis.
 
-    Eligibility is **inferred**, not looked up — from seasons completed and from
-    age, which is itself estimated for most players. The basis says which
-    evidence was used: ``"drafted"``, ``"class"``, ``"age"``, ``"unknown"``, or
+    Eligibility is **inferred**, not looked up — from class standing and from
+    seasons elapsed since a player first appears in the data. There is no age
+    test: NCAA publishes no date of birth. The basis says which evidence was
+    used: ``"drafted"``, ``"class"``, ``"tenure"``, ``"unknown"``, or
     ``"ineligible"``.
 
     :param name: Player name, matched case-insensitively.
@@ -143,7 +144,7 @@ Functions
              ``prediction`` is the raw model output, which for Stage 2 is before
              the floor at 1 that :py:func:`predict_draft_order` applies.
 
-.. py:function:: predict_from_stats(role: ["batter", "pitcher", "two_way"], age: float, stats: dict, *, team: str | None = None, season: int | None = None, name: str = "Custom player") -> dict
+.. py:function:: predict_from_stats(role: ["batter", "pitcher", "two_way"], school_class: str | float | None, stats: dict, *, team: str | None = None, season: int | None = None, name: str = "Custom player") -> dict
 
     Score a stat line that is not in the data.
 
@@ -154,7 +155,7 @@ Functions
     as a full season.
 
     :param role: "batter", "pitcher", or "two_way".
-    :param age: Player age during the season.
+    :param school_class: Class standing -- ``"Fr"``, ``"So"``, ``"Jr"``, ``"Sr"``, ``"Gr"``, or the ordinal 1-5. NCAA publishes no date of birth, so the model reads experience rather than age.
     :param stats: Any subset of feature names, e.g. ``{"era_pitch": 2.4, "so_pitch": 130}``.
     :param team: Any spelling of a team name, for context.
     :param season: Season for team context and league constants. Defaults to
@@ -245,7 +246,7 @@ Usage
 
     # Score a line that is not in the data
     result = predict_from_stats(
-        "pitcher", age=21,
+        "pitcher", school_class="Jr",
         stats={"era_pitch": 2.40, "so_pitch": 130, "bb_pitch": 25,
                "ip_pitch": 95.0, "h_pitch": 68, "hr_pitch": 5},
         team="LSU", season=2025, name="Prospect A",

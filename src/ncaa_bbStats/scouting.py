@@ -76,6 +76,11 @@ def _require(module_name: str, extra: str):
         ) from exc
 
 
+# The public matrix's own coding, so a typed-in class means the same thing to
+# the model as a class read off an NCAA roster.
+CLASS_ORDINAL = {"Fr": 1, "So": 2, "Jr": 3, "Sr": 4, "Gr": 5}
+
+
 @lru_cache(maxsize=1)
 def _manifest() -> dict:
     path = data_path("models", "manifest.json")
@@ -88,13 +93,35 @@ def _manifest() -> dict:
         return json.load(f)
 
 
-@lru_cache(maxsize=2)
-def _model(stage: int):
-    """Load a booster, verifying its feature contract."""
+def scored_seasons() -> tuple:
+    """The seasons that have a leave-one-season-out fold of their own."""
+    return tuple(_manifest().get("validation", {}).get("folds", ()))
+
+
+@lru_cache(maxsize=16)
+def _model(stage: int, season: Optional[int] = None):
+    """Load a booster, verifying its feature contract.
+
+    Args:
+        stage (int): 1 or 2.
+        season (int, optional): Score this season with the fold model that was
+            fitted without it. Falls back to the full-data model for a season
+            the training data does not cover.
+
+    A season the model trained on must never be scored by that model. It scored
+    a rank correlation of 0.99 against seasons it had memorised and 0.65 against
+    ones it had not, so the full-data pair is reserved for seasons with no labels
+    and for stat lines a user types in.
+    """
     xgb = _require("xgboost", "model")
     manifest = _manifest()
     key = f"stage{stage}"
-    filename = {1: "stage1_drafted.ubj", 2: "stage2_draft_order.ubj"}[stage]
+    stem = {1: "stage1_drafted", 2: "stage2_draft_order"}[stage]
+
+    if season is not None and int(season) in scored_seasons():
+        parts = ("models", "folds", f"{stem}_{int(season)}.ubj")
+    else:
+        parts = ("models", f"{stem}.ubj")
 
     expected = manifest[key]["features"]
     current = F.model_features(stage)
@@ -108,8 +135,14 @@ def _model(stage: int):
             "Retrain with `python -m ncaa_bbStats.model_store`."
         )
 
+    path = data_path(*parts)
+    if not os.path.isfile(path):
+        raise FileNotFoundError(
+            f"No stage {stage} model at {path}. "
+            "Run `python -m ncaa_bbStats.model_store`."
+        )
     booster = xgb.Booster()
-    booster.load_model(data_path("models", filename))
+    booster.load_model(path)
     return booster
 
 
@@ -133,11 +166,21 @@ def _find_rows(name: str, season: Optional[int] = None) -> pd.DataFrame:
     return rows.sort_values("year")
 
 
-def _predict(stage: int, frame: pd.DataFrame) -> np.ndarray:
+def _season_of(frame: pd.DataFrame) -> Optional[int]:
+    """The season a one-row frame belongs to, for picking its fold."""
+    if frame.empty or "year" not in frame.columns:
+        return None
+    value = frame["year"].iloc[-1]
+    return None if pd.isna(value) else int(value)
+
+
+def _predict(stage: int, frame: pd.DataFrame,
+             season: Optional[int] = None) -> np.ndarray:
+    """Score `frame`. Pass `season` so a labelled season uses its own fold."""
     xgb = _require("xgboost", "model")
     aligned = F.align(frame, F.model_features(stage))
     matrix = xgb.DMatrix(aligned, feature_names=list(aligned.columns))
-    predicted = _model(stage).predict(matrix)
+    predicted = _model(stage, season).predict(matrix)
     if stage == 2:
         # The regressor is unbounded, so a player well clear of the field
         # extrapolates past the top of the board -- the reference implementation
@@ -161,7 +204,8 @@ def predict_draft_probability(name: str, season: Optional[int] = None) -> Option
     rows = _find_rows(name, season)
     if rows.empty:
         return None
-    return float(_predict(1, rows.tail(1))[0])
+    row = rows.tail(1)
+    return float(_predict(1, row, _season_of(row))[0])
 
 
 def predict_draft_order(name: str, season: Optional[int] = None) -> Optional[float]:
@@ -179,14 +223,16 @@ def predict_draft_order(name: str, season: Optional[int] = None) -> Optional[flo
     rows = _find_rows(name, season)
     if rows.empty:
         return None
-    return float(_predict(2, rows.tail(1))[0])
+    row = rows.tail(1)
+    return float(_predict(2, row, _season_of(row))[0])
 
 
 def is_draft_eligible(name: str, season: Optional[int] = None):
     """Whether a player was draft eligible, and on what basis.
 
-    Eligibility is **inferred**, not looked up: from seasons completed and from
-    age, which is itself estimated for most players. The basis string says which
+    Eligibility is **inferred**, not looked up: from class standing and from
+    seasons elapsed since a player first appears in the data. There is no age
+    test, because NCAA publishes no date of birth. The basis string says which
     evidence was used, so a caller can decide how much to trust it.
 
     Args:
@@ -195,7 +241,8 @@ def is_draft_eligible(name: str, season: Optional[int] = None):
 
     Returns:
         tuple[bool, str] | None: ``(eligible, basis)`` where basis is one of
-        ``"drafted"``, ``"class"``, ``"age"``, ``"unknown"``, ``"ineligible"``.
+        ``"drafted"``, ``"class"``, ``"tenure"``, ``"unknown"``,
+        ``"ineligible"``.
         None if the player is not in the data.
     """
     rows = _find_rows(name, season)
@@ -253,13 +300,13 @@ def explain_prediction(
 
     features = F.model_features(1)
     aligned = F.align(row, features)
-    probability = float(_predict(1, row)[0])
+    probability = float(_predict(1, row, _season_of(row))[0])
     medians = F.align(_matrix(), features).median(numeric_only=True)
 
     contributions, used = None, "gain"
     if method in ("auto", "shap"):
         try:
-            explainer = _explainer(1)
+            explainer = _explainer(1, _season_of(row))
             values = explainer.shap_values(aligned)
             if isinstance(values, list):
                 values = values[1]
@@ -286,7 +333,7 @@ def explain_prediction(
             impact = (_expit(total) - _expit(total - contributions[i])) * 100
             records.append((feature, float(value), impact))
     else:
-        gains = _model(1).get_score(importance_type="gain")
+        gains = _model(1, _season_of(row)).get_score(importance_type="gain")
         total_gain = sum(gains.values()) or 1.0
         stds = F.align(_matrix(), features).std(numeric_only=True)
         for feature in features:
@@ -328,15 +375,16 @@ def _expit(x):
     return 1.0 / (1.0 + math.exp(-x)) if -700 < x < 700 else float(x > 0)
 
 
-@lru_cache(maxsize=2)
-def _explainer(stage: int):
-    """One TreeExplainer per stage.
+@lru_cache(maxsize=16)
+def _explainer(stage: int, season: Optional[int] = None):
+    """One TreeExplainer per stage and fold.
 
     Building it costs an order of magnitude more than explaining a row, so it is
-    kept rather than rebuilt per call.
+    kept rather than rebuilt per call. Keyed on the season as well as the stage,
+    so the bars explain the same model that produced the number they add up to.
     """
     shap = _require("shap", "explain")
-    return shap.TreeExplainer(_model(stage))
+    return shap.TreeExplainer(_model(stage, season))
 
 
 def feature_contributions(
@@ -408,7 +456,9 @@ def feature_contributions(
     names = F.model_features(stage)
     aligned = F.align(row, names)
 
-    explainer = _explainer(stage)
+    # A typed-in stat line has no season, so it is explained by the full-data
+    # model -- the same one that scored it.
+    explainer = _explainer(stage, _season_of(row) if name else None)
     values = explainer.shap_values(aligned)
     if isinstance(values, list):
         values = values[1]
@@ -464,14 +514,17 @@ def scouting_report(
 
     row = rows.iloc[-1]
     year = int(row["year"])
-    probability = float(_predict(1, rows.tail(1))[0])
+    probability = float(_predict(1, rows.tail(1), year)[0])
     grade = _grade(probability)
     explanation = explain_prediction(name, year, top_n=top_n) or {}
 
     from ncaa_bbStats.team_registry import team_info
 
     info = team_info(str(row.get("team_id") or ""), season=year) or {}
-    role = str(row.get("primary_role") or "player").replace("_", "-")
+    # The matrix stores role as the model's own code, so invert ROLE_MAP for
+    # display rather than reaching for a column that is no longer there.
+    _roles = {v: k for k, v in F.ROLE_MAP.items()}
+    role = _roles.get(row.get("role"), "player").replace("_", "-")
 
     lines = [
         "=" * 66,
@@ -487,7 +540,7 @@ def scouting_report(
         f"  Draft grade: {grade}   (modelled probability {probability:.1%})",
     ]
 
-    order = float(_predict(2, rows.tail(1))[0])
+    order = float(_predict(2, rows.tail(1), year)[0])
     if probability >= MIN_PROBABILITY_FOR_ORDER:
         lines.append(f"  Projected college draft order: ~{order:.0f}")
     else:
@@ -545,7 +598,7 @@ def scouting_report(
     return "\n".join(lines)
 
 
-def _stat_line_frame(role, age, stats, team, season):
+def _stat_line_frame(role, school_class, stats, team, season):
     """Build the one-row feature frame a typed-in stat line scores against.
 
     Split out so that the row which produced a prediction is the same row an
@@ -562,8 +615,20 @@ def _stat_line_frame(role, age, stats, team, season):
 
     features = F.model_features(2)
     row = pd.Series(index=features, dtype="float64")
-    row["age"] = age
     row["role"] = F.ROLE_MAP.get(role, 0)
+
+    # Experience, in place of the age the model no longer has. A class implies
+    # how long a player has been around -- a junior is in their third season --
+    # so `seasons_elapsed` and `first_class_ord` follow from it rather than
+    # being asked for separately. That assumes the ordinary path through
+    # college: someone who redshirted or transferred in will differ, and there
+    # is nothing in a typed-in stat line that could reveal it.
+    class_ord = CLASS_ORDINAL.get(str(school_class).strip().title()) \
+        if not isinstance(school_class, (int, float)) else float(school_class)
+    if class_ord is not None and not pd.isna(class_ord):
+        row["class_ord"] = float(class_ord)
+        row["seasons_elapsed"] = max(0.0, float(class_ord) - 1.0)
+        row["first_class_ord"] = 1.0
 
     supplied = set()
     for key, value in stats.items():
@@ -607,7 +672,7 @@ def _stat_line_frame(role, age, stats, team, season):
 
 def predict_from_stats(
     role: Literal["batter", "pitcher", "two_way"],
-    age: float,
+    school_class: "str | float | None",
     stats: dict,
     *,
     team: Optional[str] = None,
@@ -622,7 +687,11 @@ def predict_from_stats(
 
     Args:
         role (str): ``"batter"``, ``"pitcher"``, or ``"two_way"``.
-        age (float): Player age during the season.
+        school_class (str | float | None): Class standing -- ``"Fr"``, ``"So"``,
+            ``"Jr"``, ``"Sr"``, ``"Gr"``, or the ordinal 1-5. Replaces the age
+            argument this took before: NCAA publishes no date of birth, so the
+            model reads experience instead. None leaves it missing, which the
+            models handle natively.
         stats (dict): Any subset of the feature names, e.g.
             ``{"era_pitch": 2.80, "so_pitch": 120, "ip_pitch": 95.0}``.
         team (str, optional): Any spelling of a team name, for context.
@@ -640,7 +709,7 @@ def predict_from_stats(
         :func:`feature_contributions` to explain this same prediction.
     """
     frame, supplied, imputed, season = _stat_line_frame(
-        role, age, stats, team, season
+        role, school_class, stats, team, season
     )
     features = F.model_features(2)
 
@@ -648,11 +717,13 @@ def predict_from_stats(
     order = float(_predict(2, frame)[0])
     grade = _grade(probability)
 
+    _not_stats = ("role", "class_ord", "seasons_elapsed", "first_class_ord")
     player_features = [
         f for f in features
-        if f.endswith(("_bat", "_pitch")) or f in ("age", "role")
+        if f.endswith(("_bat", "_pitch")) or f in _not_stats
     ]
-    missing = [f for f in player_features if f not in supplied and f not in ("age", "role")]
+    missing = [f for f in player_features
+               if f not in supplied and f not in _not_stats]
     missing_share = len(missing) / max(1, len(player_features))
     confidence = (
         "low" if missing_share > 0.7
@@ -662,7 +733,9 @@ def predict_from_stats(
 
     lines = [
         "=" * 66,
-        f"  {name}  |  {role}, age {age:g}  |  {season} context"
+        f"  {name}  |  {role}"
+        + (f", {str(school_class).strip().title()}" if school_class is not None else "")
+        + f"  |  {season} context"
         + (f"  ({team})" if team else "  (league median)"),
         "=" * 66,
         f"  Draft grade: {grade}   (modelled probability {probability:.1%})",
@@ -726,8 +799,19 @@ def draft_board(
     if rows.empty:
         return []
 
-    probabilities = _predict(1, rows)
-    orders = _predict(2, rows)
+    # A season the model trained on is served from the out-of-fold columns the
+    # trainer wrote, not from a fresh call to the full-data model. Those are the
+    # predictions the manifest's metrics were computed from, so the board and
+    # the reported rank correlation cannot drift apart -- and scoring 2023 with
+    # a model that saw 2023 is what produced a rank correlation of 0.99.
+    stored = ("oof_draft_probability" in rows.columns
+              and rows["oof_draft_probability"].notna().any())
+    if stored:
+        probabilities = rows["oof_draft_probability"].to_numpy(dtype=float)
+        orders = rows["oof_predicted_order"].to_numpy(dtype=float)
+    else:
+        probabilities = _predict(1, rows, season)
+        orders = _predict(2, rows, season)
 
     board = []
     for (_, row), probability, order in zip(rows.iterrows(), probabilities, orders):
@@ -740,7 +824,8 @@ def draft_board(
             "draft_grade": _grade(float(probability)),
             "predicted_order": (
                 round(float(order), 1)
-                if probability >= MIN_PROBABILITY_FOR_ORDER else None
+                if probability >= MIN_PROBABILITY_FOR_ORDER
+                and not pd.isna(order) else None
             ),
             "actual_pick": (
                 int(row["draft_pick"]) if pd.notna(row.get("draft_pick")) else None
@@ -767,24 +852,40 @@ def model_card(stage: Optional[int] = None) -> dict:
         implementation's numbers for comparison.
     """
     manifest = dict(_manifest())
+    validation = manifest.get("validation", {})
+    pooled = validation.get("pooled", {})
+    base_rate = pooled.get("stage1", {}).get("base_rate")
     manifest["limitations"] = [
         "Stage 1 precision depends on the base rate of the population it is "
-        "applied to. On the held-out season roughly 7% of eligible players were "
-        "drafted; applied to a pre-screened shortlist, precision is higher, and "
-        "applied to every player in the country, lower.",
-        "Draft eligibility is inferred from seasons completed and from age, and "
-        "age is itself estimated for most players. is_draft_eligible() returns "
-        "the basis so the inference is visible.",
-        "The order model is trained only on players who were drafted. Applying "
-        "it below a 25% draft probability is extrapolation, and it is "
-        "suppressed there.",
+        f"applied to. Here {base_rate:.1%} of draft-eligible player-seasons led "
+        "to a selection, over a population with no playing-time minimum. "
+        "Applied to a pre-screened shortlist precision is higher; that is the "
+        "shortlist doing the work, not the model. Figures from a model fitted "
+        "on a qualified leaderboard are not comparable, because the filter has "
+        "already removed most of the negatives."
+        if base_rate is not None else
+        "Stage 1 precision depends on the base rate of the population it is "
+        "applied to.",
+        "Draft eligibility is inferred from class standing and seasons "
+        "elapsed. NCAA publishes no date of birth, so the age-21 branch the "
+        "previous rule carried is gone. is_draft_eligible() returns the basis "
+        "so the inference is visible.",
+        "The order model is trained only on players who were drafted, so a "
+        "projected order is a conditional answer -- where this player would go "
+        "if drafted. Applying it below a 25% draft probability is "
+        "extrapolation, and it is suppressed there.",
         "No third stage. A bonus/slot ratio model scored a rank correlation of "
         "0.003 on held-out data and is not shipped; slot values are published "
         "facts, available via draft_detail_utils.slot_value().",
-        "Trained on 2021-2025 and tested on 2026, a single held-out season. "
-        "These are not cross-validated estimates, and one season is a small "
-        "sample: 2026 scores lower than 2025 did, which is a property of the "
-        "class as much as of the model.",
+        "Every figure here is leave-one-season-out: each season was scored by "
+        "a model fitted without it, and the board this package serves for that "
+        "season is those same predictions. Nothing reported is in-sample. The "
+        "per-season spread is real and wide -- 2021 is the weakest fold because "
+        "it is left-censored, with no earlier season to measure a player's "
+        "tenure against.",
+        "2026 was scraped live from stats.ncaa.org and covers all 308 Division "
+        "I team-seasons. 2021 and 2022 still carry small gaps from their "
+        "sources (Texas Southern's 2021 batting, Stonehill in 2022).",
     ]
     manifest["reference_implementation"] = {
         "name": "V7 (Biggs & Gerber 2026)",
@@ -794,8 +895,9 @@ def model_card(stage: Optional[int] = None) -> dict:
                 "test year. The numbers below are for orientation only. They "
                 "are NOT this model's performance, and because features, "
                 "labels, population and settings all differ, the gap between "
-                "the two cannot be attributed to any one of them. See "
-                "model_card()['lineage'].",
+                "the two cannot be attributed to any one of them. V7 also "
+                "reported a single held-out season rather than "
+                "leave-one-season-out. See model_card()['lineage'].",
         "stage1_pr_auc": 0.725,
         "stage1_roc_auc": 0.949,
         "stage2_spearman": 0.653,

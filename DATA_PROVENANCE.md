@@ -18,7 +18,8 @@ it is redistributed. If you are adding a dataset, add a row here first.
 | Program finances | `src/data/program_finance/eada_features.csv` | [EADA survey](https://ope.ed.gov/athletics/#/datafile/list), U.S. Dept. of Education, derived by `ncaa_bbStats.program_store` | U.S. federal government work; public domain | 2021–2025, carried forward to 2026 |
 | Draft prospect rankings | `src/data/prospects/{year}.csv` | MLB Pipeline top-250, converted by `ncaa_bbStats.prospect_store` | Third-party rankings, attributed | 2021–2026, 250/year |
 | Player registry | `src/data/player_registry/*.csv` | Resolved from the player cache, anchored to the MLB Stats API by `tools/build_player_registry.py` | Package's own work | 27,283 players, 2021–2025 |
-| Draft models | `src/data/models/*` | Trained by `ncaa_bbStats.model_store` on the datasets above | Package's own work | Trained 2021–2024, tested 2025 |
+| Public model matrix | `src/data/public_matrix/batting_pitching_combined_with_rpi_public_v2_nomin.csv.gz` | Built by the research repo's `csv_editing_scripts/build_public_combined.py` from NCAA-published player statistics, NCAA team statistics, Warren Nolan RPI and the EADA survey | Every input redistributable; no third-party export anywhere in the chain | 2021–2026, Division I, 61,270 player-seasons, no playing-time minimum, no eligibility filter |
+| Draft models | `src/data/models/*` | Trained by `ncaa_bbStats.model_store` on the public model matrix above | Package's own work | 2021–2026, leave-one-season-out |
 | Pythagorean exponents | `src/data/pythagorean/conference_exponents.csv` | Fitted to NCAA team-season data | Package's own work | 31 conferences; **experimental** |
 | Team / school name tables | `src/data/team_names_stats/`, `src/data/mlb_team_names/` | Derived from the caches above by `ncaa_bbStats.team_names_store` | Package's own work | — |
 
@@ -27,6 +28,42 @@ themselves copyrightable in the United States (*Feist Publications v. Rural
 Telephone Service*, 499 U.S. 340 (1991)). What is protectable is a compiler's
 original selection, arrangement, and derived analytics. That distinction is what
 draws the line below.
+
+## Public model matrix
+
+`src/data/public_matrix/` holds the single file the shipped models are fitted on.
+It is the reason the model can be redistributed at all: every column in it comes
+either from NCAA's own published statistics or from a computation this project
+performs on them, so nothing in the chain is a vendor's export.
+
+Two consequences are worth stating plainly rather than leaving to be discovered.
+
+**The nine run-value metrics are not the vendor's.** `cwoba_bat`, `cwrc+_bat`,
+`cwraa_bat`, `cwrc_bat`, `cwsb_bat`, `cspd_bat`, `cfip_pitch`, `clob%_pitch` and
+`e-cf_pitch` are recomputed from NCAA counting statistics with constants fitted
+to college play. They correlate with the commercial versions at r = 0.93–0.999
+but are not equal to them. The `c` prefix marks that difference; the public
+matrix publishes them unprefixed and `model_store.build_matrix` renames on the
+way in.
+
+**There is no age column.** NCAA publishes no date of birth, so class standing
+and seasons elapsed carry the experience signal instead, and draft eligibility is
+decided without an age test.
+
+**2026 is live-scraped, not mirrored.** The public mirror stopped updating on
+2026-04-12 with its 2026 files written mid-season, understating at-bats by ~48
+per player, and `sources/bulk.py::stale_seasons` still refuses them. 2026 here
+was scraped from stats.ncaa.org directly over eight budget-limited sessions and
+covers all 308 Division I team-seasons. Always build it with
+`--source-for 2026=live` (or `=cache`).
+
+**The no-minimum cut is the one that ships.** `build_public_combined.py` also
+writes a qualified cut, and it is the smaller and tidier file, but qualification
+is a function of playing time and playing time is a function of perceived
+quality — the thing the model predicts. Filtering on it selects on the outcome
+and removes 510 of the 2,109 drafted players. Measured on the players the
+qualified cut keeps, fitting on the full population costs 0.003 PR-AUC, so there
+is nothing to buy with the filter and a quarter of the positive class to lose.
 
 ## NCAA player statistics
 
