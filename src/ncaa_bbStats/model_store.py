@@ -52,11 +52,34 @@ STAGE2_PARAMS = dict(
     random_state=0,
 )
 
-# V8-public: the same two-stage design, refitted on the public NCAA matrix. The
+# The same two-stage design as V7, refitted on the public NCAA matrix. The
 # training data changed outright -- different source, different population,
 # different experience features -- so this is a new version rather than a
 # revision of v7-public, and v7-public's numbers do not describe it.
-MODEL_VERSION = "v8-public-2026.1"
+def _package_version() -> str:
+    """The installed package version, or pyproject's if running from a checkout.
+
+    The model version *is* the package version. They were separate strings once
+    ("v8-public-2026.1" against 1.4.0) and immediately drifted: the fit changed
+    while the stamp did not, so two different models carried the same label on
+    screenshots. Deriving one from the other makes that impossible.
+    """
+    try:
+        from importlib.metadata import version
+        return version("ncaa_bbStats")
+    except Exception:
+        pass
+    try:
+        import tomllib
+        pyproject = os.path.join(os.path.dirname(__file__), "..", "..",
+                                 "pyproject.toml")
+        with open(pyproject, "rb") as f:
+            return tomllib.load(f)["project"]["version"]
+    except Exception:
+        return "unknown"
+
+
+MODEL_VERSION = _package_version()
 
 # What differs from the published V7, so a number from one is never quoted for
 # the other. Surfaced through model_card().
@@ -97,8 +120,10 @@ LINEAGE = {
         "than taken from the public mirror, which stopped updating mid-season "
         "in April 2026; it covers all 308 Division I team-seasons.",
         "Hyperparameters are this package's, not V7's, so a V7-to-V8-public "
-        "comparison reflects features, labels, population, split and settings "
-        "together rather than any one of them.",
+        "comparison reflects labels, population, split and settings rather "
+        "than any one of them. Features are no longer among the differences: "
+        "the V7 public notebooks and this package were reconciled on "
+        "2026-08-22 and now read an identical 155 columns from the same file.",
     ],
 }
 
@@ -156,8 +181,10 @@ _RENAME = {
 _RENAME.update({
     f"{stem}_eada_team": f"{stem}_team" for stem in (
         "budget_pct", "log_budget", "opex_per_player_pct",
+        "log_opex_per_player",
         "log_budget_per_player", "roster_size", "log_revenue", "net_revenue",
-        "coaching_staff_size", "dept_recruiting_pct", "log_dept_coach_salary",
+        "coaching_staff_size", "dept_recruiting_pct", "log_dept_recruiting",
+        "log_dept_coach_salary",
     )
 })
 

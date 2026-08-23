@@ -168,9 +168,9 @@ aggregation that rebuilds rates from summed components.
 `draft_board`, `explain_prediction`, `predict_from_stats`, `is_draft_eligible`,
 `model_card`
 
-Two models: whether a player-season leads to being drafted (PR-AUC 0.600
+Two models: whether a player-season leads to being drafted (PR-AUC 0.602
 against a 4.2% base rate -- a 14x lift over chance) and where a drafted player
-falls in their class (Spearman 0.593 over 2,565 drafted players). Both are validated
+falls in their class (Spearman 0.598 over 2,565 drafted players). Both are validated
 leave-one-season-out across 2021-2026 -- each season is scored by a model
 fitted without it -- and
 `draft_board` serves those same out-of-fold predictions, so what the package

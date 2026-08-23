@@ -28,11 +28,11 @@
       "Population: 61,270 Division I player-seasons with no playing-time minimum and no eligibility filter, against 20,220 rows in V7's matrix. V7 was fitted on a vendor's qualified leaderboards; qualification is a function of playing time, which is a function of perceived quality, so filtering on it selects on the outcome and drops roughly a quarter of real draftees. Base rates therefore differ (4.2% here) and precision figures are not comparable between the two.",
       "Validation: leave-one-season-out across 2021-2026, where V7 held out a single season. Every figure reported here is out-of-fold, and the board served for a season is the prediction of the model that did not train on it.",
       "Seasons 2021-2026. 2026 was scraped live from stats.ncaa.org rather than taken from the public mirror, which stopped updating mid-season in April 2026; it covers all 308 Division I team-seasons.",
-      "Hyperparameters are this package's, not V7's, so a V7-to-V8-public comparison reflects features, labels, population, split and settings together rather than any one of them."
+      "Hyperparameters are this package's, not V7's, so a V7-to-V8-public comparison reflects labels, population, split and settings rather than any one of them. Features are no longer among the differences: the V7 public notebooks and this package were reconciled on 2026-08-22 and now read an identical 155 columns from the same file."
     ],
     "relationship": "separate lineage, not a patched V7"
   },
-  "model_version": "v8-public-2026.1",
+  "model_version": "1.4.1",
   "notes": [
     "Trained on NCAA-published counting statistics and run-value metrics recomputed from them with college-fitted constants. No third-party proprietary metric is used, and every input is redistributable.",
     "Stage 1 precision depends on the base rate of the population it is applied to; see the model card.",
@@ -79,6 +79,7 @@
       "k%_pitch",
       "bb%_pitch",
       "k-bb%_pitch",
+      "avg_pitch",
       "babip_pitch",
       "cfip_pitch",
       "clob%_pitch",
@@ -166,6 +167,9 @@
       "3BPG_team",
       "WHIP_team",
       "BBPG (Pitching)_team",
+      "conf_rpi_team",
+      "conf_rank_team",
+      "conf_national_wp_team",
       "rpi_rank_team",
       "sos_rank_team",
       "conference_win_pct_team",
@@ -183,12 +187,14 @@
       "budget_pct_team",
       "log_budget_team",
       "opex_per_player_pct_team",
+      "log_opex_per_player_team",
       "log_budget_per_player_team",
       "roster_size_team",
       "log_revenue_team",
       "net_revenue_team",
       "coaching_staff_size_team",
       "dept_recruiting_pct_team",
+      "log_dept_recruiting_team",
       "log_dept_coach_salary_team",
       "ip_per_g_pitch",
       "start_share_pitch",
@@ -201,8 +207,8 @@
     "metrics": {
       "base_rate": 0.0419,
       "n": 61270,
-      "pr_auc": 0.5998,
-      "roc_auc": 0.9594
+      "pr_auc": 0.6017,
+      "roc_auc": 0.9591
     },
     "params": {
       "colsample_bytree": 0.8,
@@ -246,6 +252,7 @@
       "k%_pitch",
       "bb%_pitch",
       "k-bb%_pitch",
+      "avg_pitch",
       "babip_pitch",
       "cfip_pitch",
       "clob%_pitch",
@@ -333,6 +340,9 @@
       "3BPG_team",
       "WHIP_team",
       "BBPG (Pitching)_team",
+      "conf_rpi_team",
+      "conf_rank_team",
+      "conf_national_wp_team",
       "rpi_rank_team",
       "sos_rank_team",
       "conference_win_pct_team",
@@ -350,12 +360,14 @@
       "budget_pct_team",
       "log_budget_team",
       "opex_per_player_pct_team",
+      "log_opex_per_player_team",
       "log_budget_per_player_team",
       "roster_size_team",
       "log_revenue_team",
       "net_revenue_team",
       "coaching_staff_size_team",
       "dept_recruiting_pct_team",
+      "log_dept_recruiting_team",
       "log_dept_coach_salary_team",
       "ip_per_g_pitch",
       "start_share_pitch",
@@ -366,10 +378,10 @@
       "ab_share_bat"
     ],
     "metrics": {
-      "mae": 80.6,
+      "mae": 80.46,
       "n": 2565,
-      "p_value": 2.459183340777209e-243,
-      "spearman": 0.5929
+      "p_value": 1.1756559725350827e-248,
+      "spearman": 0.598
     },
     "params": {
       "colsample_bytree": 0.7,
@@ -387,7 +399,7 @@
     "reason": "A bonus/slot ratio model was attempted and scored a rank correlation of 0.003 on held-out data -- indistinguishable from noise. Slot values are published facts and are available via draft_detail_utils.slot_value().",
     "shipped": false
   },
-  "trained_at": "2026-08-23T01:36:31+00:00",
+  "trained_at": "2026-08-23T02:50:23+00:00",
   "validation": {
     "folds": [
       2021,
@@ -404,15 +416,15 @@
           "base_rate": 0.0419,
           "n_test": 9817,
           "n_train": 51453,
-          "pr_auc": 0.6091,
-          "roc_auc": 0.9649
+          "pr_auc": 0.6006,
+          "roc_auc": 0.9641
         },
         "stage2": {
-          "mae": 85.52,
+          "mae": 85.29,
           "n_test": 411,
           "n_train": 2154,
-          "p_value": 2.123593056616702e-26,
-          "spearman": 0.4916
+          "p_value": 3.3579262061906815e-27,
+          "spearman": 0.4985
         }
       },
       "2022": {
@@ -420,15 +432,15 @@
           "base_rate": 0.0415,
           "n_test": 10039,
           "n_train": 51231,
-          "pr_auc": 0.5483,
+          "pr_auc": 0.5625,
           "roc_auc": 0.954
         },
         "stage2": {
-          "mae": 80.74,
+          "mae": 80.8,
           "n_test": 417,
           "n_train": 2148,
-          "p_value": 7.785728684682794e-39,
-          "spearman": 0.5799
+          "p_value": 2.8847257233229766e-40,
+          "spearman": 0.5888
         }
       },
       "2023": {
@@ -436,15 +448,15 @@
           "base_rate": 0.0416,
           "n_test": 10092,
           "n_train": 51178,
-          "pr_auc": 0.6085,
-          "roc_auc": 0.9622
+          "pr_auc": 0.6119,
+          "roc_auc": 0.9621
         },
         "stage2": {
-          "mae": 78.6,
+          "mae": 78.92,
           "n_test": 420,
           "n_train": 2145,
-          "p_value": 1.1918050796507823e-40,
-          "spearman": 0.5894
+          "p_value": 5.569269888195866e-40,
+          "spearman": 0.5853
         }
       },
       "2024": {
@@ -452,15 +464,15 @@
           "base_rate": 0.0419,
           "n_test": 10393,
           "n_train": 50877,
-          "pr_auc": 0.6246,
-          "roc_auc": 0.9592
+          "pr_auc": 0.6263,
+          "roc_auc": 0.9587
         },
         "stage2": {
-          "mae": 77.81,
+          "mae": 77.05,
           "n_test": 435,
           "n_train": 2130,
-          "p_value": 6.851224758673289e-53,
-          "spearman": 0.6467
+          "p_value": 2.0861329817517517e-54,
+          "spearman": 0.6539
         }
       },
       "2025": {
@@ -468,15 +480,15 @@
           "base_rate": 0.0406,
           "n_test": 10495,
           "n_train": 50775,
-          "pr_auc": 0.622,
-          "roc_auc": 0.9597
+          "pr_auc": 0.6329,
+          "roc_auc": 0.9605
         },
         "stage2": {
-          "mae": 77.54,
+          "mae": 76.71,
           "n_test": 426,
           "n_train": 2139,
-          "p_value": 5.774873105488221e-46,
-          "spearman": 0.6166
+          "p_value": 2.1500490341886053e-48,
+          "spearman": 0.6295
         }
       },
       "2026": {
@@ -484,15 +496,15 @@
           "base_rate": 0.0437,
           "n_test": 10434,
           "n_train": 50836,
-          "pr_auc": 0.6245,
-          "roc_auc": 0.9616
+          "pr_auc": 0.6258,
+          "roc_auc": 0.9615
         },
         "stage2": {
-          "mae": 83.37,
+          "mae": 83.99,
           "n_test": 456,
           "n_train": 2109,
-          "p_value": 6.180412612704889e-50,
-          "spearman": 0.6208
+          "p_value": 9.284210388723284e-50,
+          "spearman": 0.6199
         }
       }
     },
@@ -500,14 +512,14 @@
       "stage1": {
         "base_rate": 0.0419,
         "n": 61270,
-        "pr_auc": 0.5998,
-        "roc_auc": 0.9594
+        "pr_auc": 0.6017,
+        "roc_auc": 0.9591
       },
       "stage2": {
-        "mae": 80.6,
+        "mae": 80.46,
         "n": 2565,
-        "p_value": 2.459183340777209e-243,
-        "spearman": 0.5929
+        "p_value": 1.1756559725350827e-248,
+        "spearman": 0.598
       }
     },
     "scheme": "leave-one-season-out"

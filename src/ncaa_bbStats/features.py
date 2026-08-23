@@ -49,7 +49,8 @@ PLAYER_FEATURES = [
     "sv_pitch", "ip_pitch", "tbf_pitch", "h_pitch", "r_pitch", "er_pitch",
     "hr_pitch", "bb_pitch", "hbp_pitch", "wp_pitch", "bk_pitch", "so_pitch",
     "era_pitch", "whip_pitch", "k/9_pitch", "bb/9_pitch", "hr/9_pitch",
-    "k/bb_pitch", "k%_pitch", "bb%_pitch", "k-bb%_pitch", "babip_pitch",
+    "k/bb_pitch", "k%_pitch", "bb%_pitch", "k-bb%_pitch", "avg_pitch",
+    "babip_pitch",
     "cfip_pitch", "clob%_pitch", "e-cf_pitch",
     # Batting
     "g_bat", "ab_bat", "pa_bat", "h_bat", "1b_bat", "2b_bat", "3b_bat",
@@ -75,7 +76,13 @@ TEAM_FEATURES = [
 ]
 
 #: Schedule strength and quality of opposition.
+#:
+#: The three ``conf_*`` columns describe the *conference* a team plays in
+#: rather than the team itself, which is why they sit here and not in
+#: TEAM_FEATURES. They were missing until the V7 notebook and this package were
+#: reconciled; both now read the same 142 columns from the same file.
 RPI_FEATURES = [
+    "conf_rpi_team", "conf_rank_team", "conf_national_wp_team",
     "rpi_rank_team", "sos_rank_team",
     "conference_win_pct_team", "overall_win_pct_team",
     "nonconference_win_pct_team", "nonconference_rpi_rank_team",
@@ -87,9 +94,11 @@ RPI_FEATURES = [
 #: Program resources. Optional -- see the model card for the ablation result.
 FINANCE_FEATURES = [
     "budget_pct_team", "log_budget_team", "opex_per_player_pct_team",
+    "log_opex_per_player_team",
     "log_budget_per_player_team", "roster_size_team", "log_revenue_team",
     "net_revenue_team", "coaching_staff_size_team",
-    "dept_recruiting_pct_team", "log_dept_coach_salary_team",
+    "dept_recruiting_pct_team", "log_dept_recruiting_team",
+    "log_dept_coach_salary_team",
 ]
 
 #: Playing-time shares. Without these the model has to learn the division of a
